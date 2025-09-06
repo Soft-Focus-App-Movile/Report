@@ -267,6 +267,26 @@
 <a id="111-descripción-de-la-startup"></a>
 ### **1.1.1. Descripción de la Startup**
 
+PsyWell es una startup tecnológica orientada al desarrollo de soluciones digitales que fortalecen la salud mental a través del seguimiento continuo y la intervención temprana. Esta iniciativa surge como respuesta a la necesidad urgente de brindar apoyo psicológico constante entre sesiones terapéuticas, considerando que el acceso a los servicios de salud mental en el Perú presenta serias limitaciones.
+
+Como señalan Piazza y Fiestas (2015), “sólo una de cada cinco personas que presentaron algún trastorno durante los últimos 12 meses recibió tratamiento durante ese período” (p. 338). Esta brecha de atención evidencia la necesidad de contar con herramientas complementarias que amplíen el alcance de la atención psicológica y ofrezcan acompañamiento accesible, oportuno y confiable para la población.
+
+Fundada por estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, la startup busca democratizar el acceso a herramientas digitales de bienestar emocional, conectando a profesionales de la salud mental con personas que requieren orientación, monitoreo y recursos inmediatos para gestionar sus emociones.
+
+**Servicios y producto principal**
+
+Su producto principal es Soft Focus, una plataforma digital que combina inteligencia artificial con recursos clínicos validados para ofrecer un espacio de autocuidado y un sistema de monitoreo terapéutico en tiempo real.
+
+De esta manera, Soft Focus no sólo apoya a las personas en el manejo de sus emociones, sino que también optimiza la labor de los profesionales de la salud mental al proporcionar datos confiables y herramientas para la toma de decisiones.
+
+**Visión**
+
+Ser la plataforma líder en Latinoamérica en monitoreo y prevención de la salud mental, reduciendo las brechas de acceso y brindando soporte oportuno tanto a pacientes como a profesionales.
+
+**Misión**
+
+Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fortalezcan la relación paciente–psicólogo, promuevan el autocuidado emocional y prevengan crisis mediante intervenciones oportunas y personalizadas.
+
 <a id="112-perfiles-de-integrantes-del-equipo"></a>
 ### **1.1.2. Perfiles de Integrantes del Equipo**
 
@@ -282,17 +302,148 @@
 <a id="1221-lean-ux-problem-statements"></a>
 #### **1.2.2.1. Lean UX Problem Statements**
 
+
+**Problem Statement 1:**  
+ Nuestra plataforma ha sido diseñada para ayudar a usuarios generales a gestionar su bienestar emocional y prevenir crisis a través de un acompañamiento digital continuo. A través de herramientas como registro diario de emociones, ejercicios de relajación y recomendaciones personalizadas, buscamos ofrecer apoyo inmediato y accesible en la vida cotidiana.
+
+ Hemos observado que una gran parte de la población joven en Perú presenta altos niveles de ansiedad, depresión y estrés, pero no accede a servicios de salud mental de manera frecuente debido a factores como el costo, el estigma y la falta de disponibilidad de especialistas (MINSA, 2017, como se cita en Arango Mendoza, Cayetano Ramos, Hu Vilchez, & Ríos Baca, 2022). Esto genera un vacío en la atención, dejando a las personas sin recursos efectivos para manejar sus emociones en momentos críticos.
+
+ **¿Cómo podemos mejorar el acceso al apoyo emocional diario, brindando a los usuarios una plataforma accesible y confiable que les permita registrar su estado, recibir intervenciones inmediatas y fortalecer su autocuidado emocional?**
+
+**Problem Statement 2:**  
+ Soft Focus fue creado con el objetivo de facilitar el trabajo de psicólogos y profesionales de la salud mental mediante un sistema de seguimiento continuo y comunicación digital con sus pacientes. La plataforma integra métricas emocionales, alertas de crisis y asignación de tareas terapéuticas para fortalecer el vínculo clínico fuera de la sesión presencial.
+
+ Hemos identificado que muchos psicólogos carecen de herramientas digitales para monitorear a sus pacientes entre consultas, lo que dificulta detectar crisis a tiempo, medir la adherencia terapéutica y dar seguimiento a los avances clínicos. Este vacío genera que el progreso terapéutico sea más lento y que se pierdan oportunidades de intervención temprana.
+
+ **¿Cómo podemos ayudar a los profesionales de la salud mental a monitorear de manera continua a sus pacientes, ofreciendo un dashboard digital que integre alertas, reportes clínicos y herramientas de seguimiento, fortaleciendo así la eficacia y continuidad del tratamiento?**
+
 <a id="1222-lean-ux-assumptions"></a>
 #### **1.2.2.2. Lean UX Assumptions**
 
+
+1. **Creo que mis clientes necesitan** una forma accesible y confiable de registrar su estado emocional y recibir apoyo inmediato en momentos de crisis.
+
+2. **Estas necesidades se pueden resolver con** una plataforma digital que combine calendario emocional, alertas de crisis, chat con psicólogos y biblioteca de recursos terapéuticos.
+
+3. **Mis clientes iniciales son (o serán)** jóvenes adultos entre 18 y 35 años interesados en autocuidado emocional y psicólogos clínicos que buscan dar seguimiento continuo a sus pacientes.
+
+4. **El valor \#1 que un cliente quiere de mi servicio es** sentirse acompañado y apoyado de manera constante, con recursos inmediatos que reduzcan el impacto de una crisis emocional.
+
+5. **El cliente también puede obtener estos beneficios adicionales** autoconocimiento a través de su historial emocional, prevención de recaídas, reportes clínicos automatizados y fortalecimiento de la relación terapéutica.
+
+6. **Voy a adquirir la mayoría de mis clientes a través de** campañas en redes sociales, alianzas con clínicas psicológicas, convenios con universidades y recomendaciones de boca a boca.
+
+7. **Haré dinero a través de** un modelo freemium (funciones básicas gratuitas y funciones avanzadas de pago), suscripciones premium para usuarios y planes profesionales para psicólogos.
+
+8. **Mi competencia principal en el mercado será** aplicaciones generales de bienestar (meditación, journaling, música), servicios de telepsicología limitados a consultas en línea y métodos informales como diarios personales o notas en el celular.
+
+9. **Los venceremos debido a** que ofrecemos una solución integral, accesible y diseñada específicamente para la salud mental, con foco tanto en el paciente como en el profesional, además de ser intuitiva y empática.
+
+10. **Mi mayor riesgo de producto es** que los usuarios no mantengan constancia en el uso del calendario emocional o que los psicólogos perciban la herramienta como una carga adicional en lugar de un apoyo.
+
+11. **Resolveremos esto a través de** una experiencia de usuario intuitiva, recordatorios personalizados, gamificación para fomentar la adherencia y casos de uso demostrados que evidencien el beneficio en tiempo, dinero y efectividad terapéutica.
+
+1. **¿Quién es el usuario?**  
+    Los usuarios son jóvenes adultos (18–35 años) que buscan apoyo emocional diario y psicólogos clínicos que desean mejorar el seguimiento de sus pacientes.
+
+2. **¿Dónde encaja nuestro producto en su trabajo o vida?**  
+    Soft Focus encaja en la rutina diaria de los usuarios al registrar emociones y recibir apoyo inmediato, y en el trabajo de los psicólogos al proporcionar métricas y alertas entre sesiones.
+
+3. **¿Qué problemas tiene nuestro producto que resolver?**  
+    La falta de acompañamiento emocional constante, la dificultad de acceder a psicólogos con frecuencia y la ausencia de herramientas digitales para seguimiento clínico estructurado.
+
+4. **¿Cuándo y cómo es nuestro producto usado?**  
+    Se usa a diario en el registro emocional , en momentos críticos con el botón de crisis, y durante las sesiones cuando el psicólogo revisa métricas y reportes en el dashboard.
+
+5. **¿Qué características son importantes?**  
+    Calendario emocional, alertas preventivas, botón de crisis, chat directo con psicólogos, biblioteca de recursos terapéuticos, reportes automáticos y diseño adaptado a móviles.
+
+6. **¿Cómo debe verse nuestro producto y cómo comportarse?**  
+    Debe verse empático, simple y profesional, con colores calmantes e íconos claros. Debe comportarse de forma rápida, confiable y segura, facilitando la interacción sin requerir conocimientos técnicos previos.
+
+
 <a id="1223-lean-ux-hypothesis-statements"></a>
 #### **1.2.2.3. Lean UX Hypothesis Statements**
+
+
+**Hypothesis Statement 1 :**
+
+**Creemos que** los registros diarios de emociones combinados con recomendaciones personalizadas (como películas, ejercicios de respiración, meditaciones o música calmante) ayudarán a los usuarios generales (18–35 años) a mejorar su autoconocimiento, reducir el malestar emocional y detectar patrones recurrentes en su estado de ánimo. Sabremos que estamos bien cuando los usuarios expresen en sus comentarios que se sienten más acompañados y conscientes de sus emociones, cuando al menos el 60% de los usuarios activos realicen cuatro o más registros semanales y hagan uso de las recomendaciones ofrecidas, y cuando se observe un aumento del 15% en la continuidad de uso de la aplicación semana a semana.
+
+**Hypothesis Statement 2 :**
+
+**Creemos que** un dashboard profesional con alertas de crisis, métricas emocionales y herramientas de seguimiento permitirá a los psicólogos intervenir oportunamente y mejorar la eficacia terapéutica. Sabremos que esto es cierto cuando los psicólogos reporten que las alertas han facilitado intervenciones más rápidas, cuando al menos el 40% de ellos utilicen las alertas y reportes clínicos semanalmente y cuando se evidencie una disminución del 20% en los casos de crisis no atendidas entre pacientes registrados en la plataforma.
 
 <a id="1224-lean-ux-canvas"></a>
 #### **1.2.2.4. Lean UX Canvas**
 
 <a id="13-segmentos-objetivos"></a>
 ## **1.3. Segmentos Objetivos**
+
+### **Segmento Objetivo 1:**
+
+###  **Usuarios generales (autoayuda y pacientes en terapia)**
+
+Este segmento está conformado por personas que buscan apoyo emocional y herramientas inmediatas para gestionar su salud mental en la vida cotidiana. Incluye a quienes no se encuentran actualmente en tratamiento psicológico, pero desean fortalecer su bienestar emocional, así como a pacientes que utilizan la plataforma como complemento de sus terapias.
+
+**Características demográficas:**
+
+* **Ubicación:** Principalmente en zonas urbanas del Perú, con mayor concentración en Lima Metropolitana y ciudades intermedias como Arequipa, Trujillo y Cusco.
+
+* **Edad:** Entre 18 y 35 años, dado que la literatura científica señala que el 75% de los trastornos de salud mental se manifiestan antes de los 25 años (Reid, 2013, como se cita en Arango Mendoza, Cayetano Ramos, Hu Vilchez, & Ríos Baca, 2022).
+
+* **Nivel socioeconómico:** Clase media y media-baja, con acceso a smartphones e internet. En Lima Metropolitana, el 93.2% de la población cuenta con un dispositivo móvil (INEI, 2021).
+
+**Necesidades principales:**
+
+* Manejo diario de emociones como estrés, ansiedad o tristeza.
+
+* Acceso a herramientas inmediatas durante momentos de crisis.
+
+* Registro y seguimiento de su estado emocional mediante un calendario digital.
+
+* Comunicación directa con un terapeuta, en caso de encontrarse en tratamiento.
+
+**Desafíos:**
+
+* Limitaciones económicas que restringen el acceso a consultas psicológicas frecuentes.
+
+* Persistencia del estigma social que inhibe la búsqueda de ayuda profesional.
+
+* Uso de recursos no estructurados (videos, música o aplicaciones generales) sin respaldo clínico ni supervisión profesional.
+
+### **Segmento Objetivo 2:** 
+### **Profesionales de la salud mental**
+
+ Este segmento está integrado por psicólogos clínicos y de la salud que requieren herramientas digitales para optimizar el seguimiento de sus pacientes, reducir las brechas de atención y aumentar la efectividad de sus intervenciones terapéuticas.
+
+**Características demográficas:**
+
+* **Ubicación:** Mayor concentración en Lima Metropolitana y capitales regionales, donde se encuentra la mayor oferta de profesionales.
+
+* **Edad:** Entre 28 y 50 años, con una media aproximada de 35 años.
+
+* **Nivel socioeconómico:** Profesionales independientes o asociados a clínicas privadas y consultorios de tamaño pequeño o mediano.
+
+**Necesidades principales:**
+
+* Monitoreo en tiempo real del estado emocional de sus pacientes.
+
+* Alertas inmediatas ante situaciones de crisis.
+
+* Herramientas para asignar ejercicios, recursos y tareas terapéuticas personalizadas.
+
+* Reportes clínicos claros para evaluar la evolución del paciente.
+
+**Desafíos:**
+
+* La escasez de profesionales frente a la alta demanda: en Perú existen únicamente 5.06 psicólogos y 0.76 psiquiatras por cada 100,000 habitantes (MINSA, 2017, como se cita en Arango Mendoza et al., 2022, p. 2).
+
+* Brechas significativas de acceso: en áreas urbanas alcanzan el 69%, mientras que  en zonas rurales ascienden hasta el 93.2% (MINSA, 2018a, como se cita en Arango Mendoza et al., 2022).
+
+* Sobrecarga laboral y falta de sistemas digitales adaptados al contexto peruano que faciliten el seguimiento continuo de los pacientes.
+
+
 
 <a id="capítulo-ii-requirements-elicitation--analysis"></a>
 # **Capítulo II: Requirements Elicitation & Analysis**
@@ -602,6 +753,11 @@
 
 <a id="bibliografía"></a>
 # **Bibliografía**
+
+* Arango Mendoza, E. M., Cayetano Ramos, E. P., Hu Vilchez, S. R., & Ríos Baca, C. A. (2022). Harmony, aplicativo móvil para reducir las brechas de atención en salud mental (Tesis de Maestría, Pontificia Universidad Católica del Perú).PUCP..https://tesis.pucp.edu.pe/items/d082b4ed-6fc1-40e8-b68d-a427055d1212 
+
+* Piazza, M., & Fiestas, F. (2015). Estudio transversal de uso de servicios de salud mental en cinco ciudades del Perú. Salud mental, 38(5), 337-345.https://www.scielo.org.mx/scielo.php?pid=S0185-33252015000500337&script=sci_arttext 
+
 
 <a id="anexos"></a>
 # **Anexos**

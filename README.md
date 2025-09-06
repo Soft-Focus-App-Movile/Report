@@ -365,6 +365,15 @@ Hemos identificado que muchos psicólogos carecen de herramientas digitales para
 <a id="1223-lean-ux-hypothesis-statements"></a>
 #### **1.2.2.3. Lean UX Hypothesis Statements**
 
+
+**Hypothesis Statement 1 :**
+
+**Creemos que** los registros diarios de emociones combinados con recomendaciones personalizadas (como películas, ejercicios de respiración, meditaciones o música calmante) ayudarán a los usuarios generales (18–35 años) a mejorar su autoconocimiento, reducir el malestar emocional y detectar patrones recurrentes en su estado de ánimo. Sabremos que estamos bien cuando los usuarios expresen en sus comentarios que se sienten más acompañados y conscientes de sus emociones, cuando al menos el 60% de los usuarios activos realicen cuatro o más registros semanales y hagan uso de las recomendaciones ofrecidas, y cuando se observe un aumento del 15% en la continuidad de uso de la aplicación semana a semana.
+
+**Hypothesis Statement 2 :**
+
+**Creemos que** un dashboard profesional con alertas de crisis, métricas emocionales y herramientas de seguimiento permitirá a los psicólogos intervenir oportunamente y mejorar la eficacia terapéutica. Sabremos que esto es cierto cuando los psicólogos reporten que las alertas han facilitado intervenciones más rápidas, cuando al menos el 40% de ellos utilicen las alertas y reportes clínicos semanalmente y cuando se evidencie una disminución del 20% en los casos de crisis no atendidas entre pacientes registrados en la plataforma.
+
 <a id="1224-lean-ux-canvas"></a>
 #### **1.2.2.4. Lean UX Canvas**
 

@@ -320,6 +320,48 @@ Hemos identificado que muchos psicólogos carecen de herramientas digitales para
 <a id="1222-lean-ux-assumptions"></a>
 #### **1.2.2.2. Lean UX Assumptions**
 
+
+1. **Creo que mis clientes necesitan** una forma accesible y confiable de registrar su estado emocional y recibir apoyo inmediato en momentos de crisis.
+
+2. **Estas necesidades se pueden resolver con** una plataforma digital que combine calendario emocional, alertas de crisis, chat con psicólogos y biblioteca de recursos terapéuticos.
+
+3. **Mis clientes iniciales son (o serán)** jóvenes adultos entre 18 y 35 años interesados en autocuidado emocional y psicólogos clínicos que buscan dar seguimiento continuo a sus pacientes.
+
+4. **El valor \#1 que un cliente quiere de mi servicio es** sentirse acompañado y apoyado de manera constante, con recursos inmediatos que reduzcan el impacto de una crisis emocional.
+
+5. **El cliente también puede obtener estos beneficios adicionales** autoconocimiento a través de su historial emocional, prevención de recaídas, reportes clínicos automatizados y fortalecimiento de la relación terapéutica.
+
+6. **Voy a adquirir la mayoría de mis clientes a través de** campañas en redes sociales, alianzas con clínicas psicológicas, convenios con universidades y recomendaciones de boca a boca.
+
+7. **Haré dinero a través de** un modelo freemium (funciones básicas gratuitas y funciones avanzadas de pago), suscripciones premium para usuarios y planes profesionales para psicólogos.
+
+8. **Mi competencia principal en el mercado será** aplicaciones generales de bienestar (meditación, journaling, música), servicios de telepsicología limitados a consultas en línea y métodos informales como diarios personales o notas en el celular.
+
+9. **Los venceremos debido a** que ofrecemos una solución integral, accesible y diseñada específicamente para la salud mental, con foco tanto en el paciente como en el profesional, además de ser intuitiva y empática.
+
+10. **Mi mayor riesgo de producto es** que los usuarios no mantengan constancia en el uso del calendario emocional o que los psicólogos perciban la herramienta como una carga adicional en lugar de un apoyo.
+
+11. **Resolveremos esto a través de** una experiencia de usuario intuitiva, recordatorios personalizados, gamificación para fomentar la adherencia y casos de uso demostrados que evidencien el beneficio en tiempo, dinero y efectividad terapéutica.
+
+1. **¿Quién es el usuario?**  
+    Los usuarios son jóvenes adultos (18–35 años) que buscan apoyo emocional diario y psicólogos clínicos que desean mejorar el seguimiento de sus pacientes.
+
+2. **¿Dónde encaja nuestro producto en su trabajo o vida?**  
+    Soft Focus encaja en la rutina diaria de los usuarios al registrar emociones y recibir apoyo inmediato, y en el trabajo de los psicólogos al proporcionar métricas y alertas entre sesiones.
+
+3. **¿Qué problemas tiene nuestro producto que resolver?**  
+    La falta de acompañamiento emocional constante, la dificultad de acceder a psicólogos con frecuencia y la ausencia de herramientas digitales para seguimiento clínico estructurado.
+
+4. **¿Cuándo y cómo es nuestro producto usado?**  
+    Se usa a diario en el registro emocional , en momentos críticos con el botón de crisis, y durante las sesiones cuando el psicólogo revisa métricas y reportes en el dashboard.
+
+5. **¿Qué características son importantes?**  
+    Calendario emocional, alertas preventivas, botón de crisis, chat directo con psicólogos, biblioteca de recursos terapéuticos, reportes automáticos y diseño adaptado a móviles.
+
+6. **¿Cómo debe verse nuestro producto y cómo comportarse?**  
+    Debe verse empático, simple y profesional, con colores calmantes e íconos claros. Debe comportarse de forma rápida, confiable y segura, facilitando la interacción sin requerir conocimientos técnicos previos.
+
+
 <a id="1223-lean-ux-hypothesis-statements"></a>
 #### **1.2.2.3. Lean UX Hypothesis Statements**
 

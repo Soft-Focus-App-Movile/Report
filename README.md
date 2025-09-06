@@ -49,6 +49,15 @@
 <a id="registro-de-versiones-del-informe"></a>
 # **Registro de Versiones del Informe** 
 
+| Versión | Fecha | Autor | Descripción de modificación |
+| :---- | :---- | :---- | :---- |
+| TB1 | //2025 | Gutiérrez Condo, Maylhy Olinda <br> Roca Tineo, Steven Mathew <br> Bueno Perales, Mathias Eduardo <br> Luyo Correa, Sandra Paula <br> Solis Santa Cruz, Giancarlo Rafael | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de Soft Focus. |
+| TP | //2025 |  |  |
+| TB2 | //2025 |  |  |
+| TF  | //2025 |  |  |
+
+<hr>
+
 #
 
 # 
@@ -74,6 +83,8 @@
 <ul><a href="#tabla-de-contenidos">Tabla de Contenidos</a></ul>
 
 <ul><a href="#student-outcome">Student Outcome</a></ul>
+
+<ul><a href="#objetivos-smart">Objetivos SMART</a></ul>
 
 <a href="#capítulo-i-presentación">Capítulo I: Presentación</a>
 
@@ -257,6 +268,9 @@
 
 <a id="student-outcome"></a>
 # **Student Outcome**
+
+<a id="objetivos-smart"></a>
+# **Objetivos SMART**
 
 <a id="capítulo-i-presentación"></a>
 # **Capítulo I: Presentación**

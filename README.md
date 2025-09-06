@@ -302,6 +302,21 @@ Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fort
 <a id="1221-lean-ux-problem-statements"></a>
 #### **1.2.2.1. Lean UX Problem Statements**
 
+
+**Problem Statement 1:**  
+ Nuestra plataforma ha sido diseñada para ayudar a usuarios generales a gestionar su bienestar emocional y prevenir crisis a través de un acompañamiento digital continuo. A través de herramientas como registro diario de emociones, ejercicios de relajación y recomendaciones personalizadas, buscamos ofrecer apoyo inmediato y accesible en la vida cotidiana.
+
+Hemos observado que una gran parte de la población joven en Perú presenta altos niveles de ansiedad, depresión y estrés, pero no accede a servicios de salud mental de manera frecuente debido a factores como el costo, el estigma y la falta de disponibilidad de especialistas (MINSA, 2017, como se cita en Arango Mendoza, Cayetano Ramos, Hu Vilchez, & Ríos Baca, 2022). Esto genera un vacío en la atención, dejando a las personas sin recursos efectivos para manejar sus emociones en momentos críticos.
+
+**¿Cómo podemos mejorar el acceso al apoyo emocional diario, brindando a los usuarios una plataforma accesible y confiable que les permita registrar su estado, recibir intervenciones inmediatas y fortalecer su autocuidado emocional?**
+
+**Problem Statement 2:**  
+ Soft Focus fue creado con el objetivo de facilitar el trabajo de psicólogos y profesionales de la salud mental mediante un sistema de seguimiento continuo y comunicación digital con sus pacientes. La plataforma integra métricas emocionales, alertas de crisis y asignación de tareas terapéuticas para fortalecer el vínculo clínico fuera de la sesión presencial.
+
+Hemos identificado que muchos psicólogos carecen de herramientas digitales para monitorear a sus pacientes entre consultas, lo que dificulta detectar crisis a tiempo, medir la adherencia terapéutica y dar seguimiento a los avances clínicos. Este vacío genera que el progreso terapéutico sea más lento y que se pierdan oportunidades de intervención temprana.
+
+**¿Cómo podemos ayudar a los profesionales de la salud mental a monitorear de manera continua a sus pacientes, ofreciendo un dashboard digital que integre alertas, reportes clínicos y herramientas de seguimiento, fortaleciendo así la eficacia y continuidad del tratamiento?**
+
 <a id="1222-lean-ux-assumptions"></a>
 #### **1.2.2.2. Lean UX Assumptions**
 

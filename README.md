@@ -267,6 +267,26 @@
 <a id="111-descripción-de-la-startup"></a>
 ### **1.1.1. Descripción de la Startup**
 
+PsyWell es una startup tecnológica orientada al desarrollo de soluciones digitales que fortalecen la salud mental a través del seguimiento continuo y la intervención temprana. Esta iniciativa surge como respuesta a la necesidad urgente de brindar apoyo psicológico constante entre sesiones terapéuticas, considerando que el acceso a los servicios de salud mental en el Perú presenta serias limitaciones.
+
+Como señalan Piazza y Fiestas (2015), “sólo una de cada cinco personas que presentaron algún trastorno durante los últimos 12 meses recibió tratamiento durante ese período” (p. 338). Esta brecha de atención evidencia la necesidad de contar con herramientas complementarias que amplíen el alcance de la atención psicológica y ofrezcan acompañamiento accesible, oportuno y confiable para la población.
+
+Fundada por estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, la startup busca democratizar el acceso a herramientas digitales de bienestar emocional, conectando a profesionales de la salud mental con personas que requieren orientación, monitoreo y recursos inmediatos para gestionar sus emociones.
+
+**Servicios y producto principal**
+
+Su producto principal es Soft Focus, una plataforma digital que combina inteligencia artificial con recursos clínicos validados para ofrecer un espacio de autocuidado y un sistema de monitoreo terapéutico en tiempo real.
+
+De esta manera, Soft Focus no sólo apoya a las personas en el manejo de sus emociones, sino que también optimiza la labor de los profesionales de la salud mental al proporcionar datos confiables y herramientas para la toma de decisiones.
+
+**Visión**
+
+Ser la plataforma líder en Latinoamérica en monitoreo y prevención de la salud mental, reduciendo las brechas de acceso y brindando soporte oportuno tanto a pacientes como a profesionales.
+
+**Misión**
+
+Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fortalezcan la relación paciente–psicólogo, promuevan el autocuidado emocional y prevengan crisis mediante intervenciones oportunas y personalizadas.
+
 <a id="112-perfiles-de-integrantes-del-equipo"></a>
 ### **1.1.2. Perfiles de Integrantes del Equipo**
 

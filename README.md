@@ -306,16 +306,16 @@ Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fort
 **Problem Statement 1:**  
  Nuestra plataforma ha sido diseñada para ayudar a usuarios generales a gestionar su bienestar emocional y prevenir crisis a través de un acompañamiento digital continuo. A través de herramientas como registro diario de emociones, ejercicios de relajación y recomendaciones personalizadas, buscamos ofrecer apoyo inmediato y accesible en la vida cotidiana.
 
-Hemos observado que una gran parte de la población joven en Perú presenta altos niveles de ansiedad, depresión y estrés, pero no accede a servicios de salud mental de manera frecuente debido a factores como el costo, el estigma y la falta de disponibilidad de especialistas (MINSA, 2017, como se cita en Arango Mendoza, Cayetano Ramos, Hu Vilchez, & Ríos Baca, 2022). Esto genera un vacío en la atención, dejando a las personas sin recursos efectivos para manejar sus emociones en momentos críticos.
+ Hemos observado que una gran parte de la población joven en Perú presenta altos niveles de ansiedad, depresión y estrés, pero no accede a servicios de salud mental de manera frecuente debido a factores como el costo, el estigma y la falta de disponibilidad de especialistas (MINSA, 2017, como se cita en Arango Mendoza, Cayetano Ramos, Hu Vilchez, & Ríos Baca, 2022). Esto genera un vacío en la atención, dejando a las personas sin recursos efectivos para manejar sus emociones en momentos críticos.
 
-**¿Cómo podemos mejorar el acceso al apoyo emocional diario, brindando a los usuarios una plataforma accesible y confiable que les permita registrar su estado, recibir intervenciones inmediatas y fortalecer su autocuidado emocional?**
+ **¿Cómo podemos mejorar el acceso al apoyo emocional diario, brindando a los usuarios una plataforma accesible y confiable que les permita registrar su estado, recibir intervenciones inmediatas y fortalecer su autocuidado emocional?**
 
 **Problem Statement 2:**  
  Soft Focus fue creado con el objetivo de facilitar el trabajo de psicólogos y profesionales de la salud mental mediante un sistema de seguimiento continuo y comunicación digital con sus pacientes. La plataforma integra métricas emocionales, alertas de crisis y asignación de tareas terapéuticas para fortalecer el vínculo clínico fuera de la sesión presencial.
 
-Hemos identificado que muchos psicólogos carecen de herramientas digitales para monitorear a sus pacientes entre consultas, lo que dificulta detectar crisis a tiempo, medir la adherencia terapéutica y dar seguimiento a los avances clínicos. Este vacío genera que el progreso terapéutico sea más lento y que se pierdan oportunidades de intervención temprana.
+ Hemos identificado que muchos psicólogos carecen de herramientas digitales para monitorear a sus pacientes entre consultas, lo que dificulta detectar crisis a tiempo, medir la adherencia terapéutica y dar seguimiento a los avances clínicos. Este vacío genera que el progreso terapéutico sea más lento y que se pierdan oportunidades de intervención temprana.
 
-**¿Cómo podemos ayudar a los profesionales de la salud mental a monitorear de manera continua a sus pacientes, ofreciendo un dashboard digital que integre alertas, reportes clínicos y herramientas de seguimiento, fortaleciendo así la eficacia y continuidad del tratamiento?**
+ **¿Cómo podemos ayudar a los profesionales de la salud mental a monitorear de manera continua a sus pacientes, ofreciendo un dashboard digital que integre alertas, reportes clínicos y herramientas de seguimiento, fortaleciendo así la eficacia y continuidad del tratamiento?**
 
 <a id="1222-lean-ux-assumptions"></a>
 #### **1.2.2.2. Lean UX Assumptions**
@@ -379,6 +379,71 @@ Hemos identificado que muchos psicólogos carecen de herramientas digitales para
 
 <a id="13-segmentos-objetivos"></a>
 ## **1.3. Segmentos Objetivos**
+
+### **Segmento Objetivo 1:**
+
+###  **Usuarios generales (autoayuda y pacientes en terapia)**
+
+Este segmento está conformado por personas que buscan apoyo emocional y herramientas inmediatas para gestionar su salud mental en la vida cotidiana. Incluye a quienes no se encuentran actualmente en tratamiento psicológico, pero desean fortalecer su bienestar emocional, así como a pacientes que utilizan la plataforma como complemento de sus terapias.
+
+**Características demográficas:**
+
+* **Ubicación:** Principalmente en zonas urbanas del Perú, con mayor concentración en Lima Metropolitana y ciudades intermedias como Arequipa, Trujillo y Cusco.
+
+* **Edad:** Entre 18 y 35 años, dado que la literatura científica señala que el 75% de los trastornos de salud mental se manifiestan antes de los 25 años (Reid, 2013, como se cita en Arango Mendoza, Cayetano Ramos, Hu Vilchez, & Ríos Baca, 2022).
+
+* **Nivel socioeconómico:** Clase media y media-baja, con acceso a smartphones e internet. En Lima Metropolitana, el 93.2% de la población cuenta con un dispositivo móvil (INEI, 2021).
+
+**Necesidades principales:**
+
+* Manejo diario de emociones como estrés, ansiedad o tristeza.
+
+* Acceso a herramientas inmediatas durante momentos de crisis.
+
+* Registro y seguimiento de su estado emocional mediante un calendario digital.
+
+* Comunicación directa con un terapeuta, en caso de encontrarse en tratamiento.
+
+**Desafíos:**
+
+* Limitaciones económicas que restringen el acceso a consultas psicológicas frecuentes.
+
+* Persistencia del estigma social que inhibe la búsqueda de ayuda profesional.
+
+* Uso de recursos no estructurados (videos, música o aplicaciones generales) sin respaldo clínico ni supervisión profesional.
+
+### **Segmento Objetivo 2:** 
+### **Profesionales de la salud mental**
+
+ Este segmento está integrado por psicólogos clínicos y de la salud que requieren herramientas digitales para optimizar el seguimiento de sus pacientes, reducir las brechas de atención y aumentar la efectividad de sus intervenciones terapéuticas.
+
+**Características demográficas:**
+
+* **Ubicación:** Mayor concentración en Lima Metropolitana y capitales regionales, donde se encuentra la mayor oferta de profesionales.
+
+* **Edad:** Entre 28 y 50 años, con una media aproximada de 35 años.
+
+* **Nivel socioeconómico:** Profesionales independientes o asociados a clínicas privadas y consultorios de tamaño pequeño o mediano.
+
+**Necesidades principales:**
+
+* Monitoreo en tiempo real del estado emocional de sus pacientes.
+
+* Alertas inmediatas ante situaciones de crisis.
+
+* Herramientas para asignar ejercicios, recursos y tareas terapéuticas personalizadas.
+
+* Reportes clínicos claros para evaluar la evolución del paciente.
+
+**Desafíos:**
+
+* La escasez de profesionales frente a la alta demanda: en Perú existen únicamente 5.06 psicólogos y 0.76 psiquiatras por cada 100,000 habitantes (MINSA, 2017, como se cita en Arango Mendoza et al., 2022, p. 2).
+
+* Brechas significativas de acceso: en áreas urbanas alcanzan el 69%, mientras que  en zonas rurales ascienden hasta el 93.2% (MINSA, 2018a, como se cita en Arango Mendoza et al., 2022).
+
+* Sobrecarga laboral y falta de sistemas digitales adaptados al contexto peruano que faciliten el seguimiento continuo de los pacientes.
+
+
 
 <a id="capítulo-ii-requirements-elicitation--analysis"></a>
 # **Capítulo II: Requirements Elicitation & Analysis**
@@ -688,6 +753,11 @@ Hemos identificado que muchos psicólogos carecen de herramientas digitales para
 
 <a id="bibliografía"></a>
 # **Bibliografía**
+
+* Arango Mendoza, E. M., Cayetano Ramos, E. P., Hu Vilchez, S. R., & Ríos Baca, C. A. (2022). Harmony, aplicativo móvil para reducir las brechas de atención en salud mental (Tesis de Maestría, Pontificia Universidad Católica del Perú).PUCP..https://tesis.pucp.edu.pe/items/d082b4ed-6fc1-40e8-b68d-a427055d1212 
+
+* Piazza, M., & Fiestas, F. (2015). Estudio transversal de uso de servicios de salud mental en cinco ciudades del Perú. Salud mental, 38(5), 337-345.https://www.scielo.org.mx/scielo.php?pid=S0185-33252015000500337&script=sci_arttext 
+
 
 <a id="anexos"></a>
 # **Anexos**

@@ -24,7 +24,7 @@
     <td style="border: 1px solid black; padding: 8px; text-align: center;">U202313433</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Gutierrez Condo, Maylhy Olinda </td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Gutiérrez Condo, Maylhy Olinda </td>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311220</td>
   </tr>
   </tr>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-<h3 align="center"><strong>Ciclo 2025-02</strong></h3>
+<h3 align="center"><strong>Ciclo 2025-20</strong></h3>
 
 <hr>
 

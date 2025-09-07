@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Informe del Trabajo Final</strong></h1>
-<h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h1>
+<h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h3>
 
 <p align="center">
     <img src="imgs/UPC.png" alt="Logo UPC" width="50%">
@@ -7,9 +7,9 @@
 
 <h4 align="center"><strong>Ingeniería de Software</strong></h4>
 <h4 align="center"><strong>Aplicaciones para Dispositivos Móviles - 1795</strong></h4>
-<h4 align="center"><strong>Docente: Jorge Luis Mayta Guillermo</h4>
-<h4 align="center"><strong>Startup: PsyWell</strong></h4>
-<h4 align="center">Product: Soft Focus</strong></h4>
+<h4 align="center"><strong>Docente:</strong> Jorge Luis Mayta Guillermo</h4>
+<h4 align="center"><strong>Startup:</strong> PsyWell</h4>
+<h4 align="center"><strong>Product:</strong> Soft Focus</h4>
 
 <p align="center"><strong>Team members:</strong></p>
 
@@ -52,15 +52,9 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 | :---- | :---- | :---- | :---- |
 | TB1 | //2025 | Gutiérrez Condo, Maylhy Olinda <br> Roca Tineo, Steven Mathew <br> Bueno Perales, Mathias Eduardo <br> Luyo Correa, Sandra Paula <br> Solis Santa Cruz, Giancarlo Rafael | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros 5 capítulos del informe y también entregamos la primera versión del landing page de Soft Focus. |
-| TP | //2025 |  |  |
-| TB2 | //2025 |  |  |
-| TF  | //2025 |  |  |
 
 <hr>
 
-#
-
-# 
 <br>
 
 <a id="project-report-collaboration-insights"></a>

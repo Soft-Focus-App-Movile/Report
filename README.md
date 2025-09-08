@@ -468,8 +468,66 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 <a id="22-entrevistas"></a>
 ## **2.2. Entrevistas**
 
+#### La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
+
 <a id="221-diseño-de-entrevistas"></a>
 ### **2.2.1. Diseño de entrevistas**
+
+### Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)
+##### *Preguntas dirigidas a personas que buscan apoyo emocional o que usan la plataforma como complemento de su terapia.*
+---
+
+**Características demográficas:**
+1. ¿Cuál es tu edad?
+2. ¿En qué ciudad vives actualmente?
+3. ¿Actualmente te encuentras en tratamiento psicológico o usas recursos de autoayuda?
+
+**Preguntas Principales:**
+1. ¿Qué sueles hacer actualmente cuando te sientes estresado, ansioso o triste?
+
+2. ¿Usas alguna aplicación, recurso digital o técnica para manejar tus emociones? ¿Cuál?
+
+3. ¿Cómo registras o haces seguimiento de tu estado de ánimo (si es que lo haces)?
+
+4. ¿En qué momentos sientes que más necesitarías apoyo o recordatorios para manejar tus emociones?
+
+5. ¿Has tenido dificultades para acceder a un psicólogo por costos, tiempo o disponibilidad?
+
+6. ¿Qué tan cómodo/a te sentirías registrando información personal sobre tu estado emocional en una app?
+
+**Preguntas sobre el Proyecto (Soft Focus):**
+1. ¿Qué te parecería tener una aplicación que te permita registrar tu estado emocional día a día y recibir recomendaciones personalizadas?
+
+2. ¿Qué herramientas te gustaría encontrar en una plataforma así? (ejercicios de relajación, meditación, diarios de emociones, alertas, etc.)
+
+3. ¿Considerarías útil que la aplicación te conecte con un psicólogo de manera directa en caso de emergencia o necesidad?
+
+4. ¿Preferirías que la plataforma te brinde recordatorios automáticos o que tú configures cuándo recibirlos?
+
+5. ¿Qué nivel de confianza te generaría que la aplicación utilice inteligencia artificial para darte recomendaciones?
+
+### Segmento Objetivo #2: Profesionales de la salud mental
+##### *Preguntas dirigidas a psicólogos clínicos y de la salud.*
+---
+**Características demográficas:**
+1. ¿Cuál es tu edad?
+2. ¿En qué ciudad trabajas y en qué contexto (consulta privada, clínica, universidad, hospital)?
+3. ¿Cuántos años de experiencia tienes como psicólogo/a clínico?
+
+**Preguntas Principales:**
+1. ¿Cómo realizas actualmente el seguimiento de tus pacientes entre sesiones?
+2. ¿Sueles pedirles que registren emociones, pensamientos o actividades? ¿Cómo lo hacen?
+3. ¿Qué dificultades encuentras para dar seguimiento continuo a tus pacientes?
+4. ¿Qué tan útil sería para ti recibir alertas cuando un paciente esté en crisis o con indicadores de riesgo alto?
+5. ¿Qué tipo de reportes o indicadores te ayudarían más a evaluar el progreso de un paciente?
+6. ¿Has utilizado antes alguna aplicación o herramienta digital para complementar tu práctica? ¿Cuál fue tu experiencia?
+
+**Preguntas sobre el Proyecto (Soft Focus):**
+1. ¿Qué opinas de contar con una plataforma que te permita monitorear en tiempo real el estado emocional de tus pacientes?
+2. ¿Qué funcionalidades consideras más valiosas? (ej. envío de ejercicios, historial de emociones, alertas de crisis, reportes automáticos).
+3. ¿Te gustaría que la plataforma se integre con tus sesiones presenciales/virtuales o que funcione como un espacio aparte?
+4. ¿Qué preocupaciones tendrías respecto a la confidencialidad y seguridad de los datos de tus pacientes?
+5. ¿Estarías dispuesto/a a recomendar una herramienta como esta a tus pacientes? ¿Por qué sí o por qué no?
 
 <a id="222-registro-de-entrevistas"></a>
 ### **2.2.2. Registro de entrevistas**

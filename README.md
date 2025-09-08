@@ -304,6 +304,34 @@ Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fort
 <a id="121-antecedentes-y-problemática"></a>
 ### **1.2.1. Antecedentes y Problemática**
 
+What – ¿Cuál es el problema?
+
+En el sector de la salud mental en el Perú, existe una gran brecha entre la demanda de atención psicológica y la disponibilidad de servicios. Muchas personas no acceden a tratamiento oportuno debido a limitaciones de recursos, costos y tiempos de espera. Además, entre las sesiones terapéuticas no existe un acompañamiento constante, lo que dificulta la continuidad del proceso y aumenta el riesgo de recaídas emocionales o crisis no atendidas (Piazza & Fiestas, 2015).
+
+When – ¿Cuándo sucede el problema?
+
+El problema ocurre cada vez que un paciente requiere soporte emocional entre sesiones y no cuenta con herramientas de monitoreo ni recursos inmediatos para gestionar sus emociones. Esta situación es especialmente crítica en momentos de estrés, ansiedad o depresión, donde la falta de intervención temprana puede agravar los síntomas y generar crisis que requieren atención de urgencia (Ministerio de Salud, 2022).
+
+Where – ¿Dónde ocurre el problema?
+
+La problemática se manifiesta principalmente en contextos urbanos y periurbanos del Perú, donde si bien existen psicólogos y centros de salud mental comunitarios, la cobertura es insuficiente. En zonas rurales, el problema es aún más agudo, pues la oferta de servicios es mínima y los pacientes dependen de traslados largos y costosos para acceder a un profesional.
+
+Who – ¿Quiénes están involucrados?
+
+Las personas más afectadas son los pacientes que presentan trastornos emocionales o psicológicos y no cuentan con apoyo constante. También se ven impactados los psicólogos y profesionales de la salud mental, quienes carecen de herramientas digitales que les permitan monitorear a sus pacientes en tiempo real. Asimismo, familiares y cuidadores se enfrentan a la incertidumbre de no contar con información confiable sobre el estado emocional de sus seres queridos (MINSA, 2022).
+
+Why – ¿Por qué ocurre esta situación?
+
+La falta de digitalización en el sector salud, sumada a la limitada cobertura de profesionales de la salud mental, son las principales causas de esta brecha. En el Perú, menos del 20% de las personas que requieren atención psicológica la reciben, debido a la baja disponibilidad de servicios, estigmatización social y altos costos privados. Además, la infraestructura tecnológica para dar continuidad a los tratamientos es casi inexistente.
+
+How – ¿En qué condiciones usan el producto?
+
+Los pacientes y psicólogos que accedan a la plataforma Soft Focus lo harán desde entornos diversos, utilizando dispositivos móviles o computadoras. La interfaz debe ser amigable, accesible y garantizar la confidencialidad de los datos. El producto será usado en el día a día como un espacio de autocuidado (ejercicios, recursos emocionales) y como un sistema de seguimiento terapéutico en tiempo real, que proporcione alertas y métricas confiables para los profesionales.
+
+How Much – ¿Cuánto cuesta no resolverlo?
+
+Los costos de no atender este problema son elevados. En términos sociales, la falta de apoyo oportuno incrementa la tasa de abandono terapéutico y las crisis emocionales no controladas, lo que repercute en ausentismo laboral, bajo rendimiento académico y deterioro de las relaciones familiares. Según la Organización Mundial de la Salud (2020), la depresión y la ansiedad generan pérdidas económicas de más de 1 billón de dólares anuales en productividad a nivel global. En el Perú, la falta de atención psicológica contribuye a perpetuar desigualdades sociales y limita las oportunidades de las personas para alcanzar su bienestar integral.
+
 <a id="122-lean-ux-process"></a>
 ### **1.2.2. Lean UX Process**
 
@@ -763,6 +791,10 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 # **Bibliografía**
 
 * Arango Mendoza, E. M., Cayetano Ramos, E. P., Hu Vilchez, S. R., & Ríos Baca, C. A. (2022). Harmony, aplicativo móvil para reducir las brechas de atención en salud mental (Tesis de Maestría, Pontificia Universidad Católica del Perú).PUCP..https://tesis.pucp.edu.pe/items/d082b4ed-6fc1-40e8-b68d-a427055d1212 
+
+* Ministerio de Salud. (2025). Programa presupuestal 0131: Control y prevención en salud mental – Reporte de seguimiento 2025. MINSA.https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjY6Nz0rsqPAxVcLLkGHYyqMYgQFnoECAoQAQ&url=https%3A%2F%2Fwww.mef.gob.pe%2Fcontenidos%2Fpresu_publ%2Fppr%2Fprog_presupuestal%2Farticulados%2F0131_control_prevencion_salud_mental.pdf&usg=AOvVaw2dV69TElJeEM_f695vKy7B&opi=89978449
+
+* Organización Mundial de la Salud. (2017). Depresión y otros trastornos mentales comunes: estimaciones mundiales de la salud. OMS.https://www.who.int/es/news-room/fact-sheets/detail/depression#:~:text=Se%20estima%20que%20el%203,personas%20sufren%20depresión%20(1).
 
 * Piazza, M., & Fiestas, F. (2015). Estudio transversal de uso de servicios de salud mental en cinco ciudades del Perú. Salud mental, 38(5), 337-345.https://www.scielo.org.mx/scielo.php?pid=S0185-33252015000500337&script=sci_arttext 
 

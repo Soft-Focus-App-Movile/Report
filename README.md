@@ -616,14 +616,213 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 <a id="211-análisis-competitivo"></a>
 ### **2.1.1. Análisis competitivo**
 
+# Competitive analysis landscape
+
+**¿¿Cuál es el análisis de las ventajas y desventajas de las empresas que compiten con nosotros? ¿Cómo nos comparamos en términos de fortalezas y debilidades respecto a ellos? ¿Se vislumbran oportunidades para destacarnos de la competencia y de qué manera podríamos sacar provecho de ellas?**  
+_El propósito de este análisis competitivo es evaluar las ventajas y desventajas de Qualix y su producto Textiflow en comparación con los competidores, con el fin de crear estrategias y diseños que nos permitan competir de manera efectiva en el mercado._
+
+|                           | Soft Focus | psiConecta | Momentu | Wysa |
+|---------------------------|------------|--------------|--------------|--------------|
+| **Perfil**                |            |              |              |              |
+| Overview                  |      Plataforma digital de bienestar mental que combina IA con recursos clínicos validados. Ofrece seguimiento en tiempo real, para asi optimizar la labor de terapeutas y empoderar a sus usuarios cotidianos.      |   Una plataforma e-Health peruana que conecta a las personas con psicólogos calificados, enfocada en brindar atención personalizada en salud mental.         |  Startup mexicana que ofrece una plataforma de salud mental corporativa, orientada a empleadores en toda Latinoamérica. |  Aplicación de bienestar emocional basada en IA. Funciona como un chatbot conversacional que utiliza técnicas de Terapia Cognitivo-Conductual para apoyar el bienestar mental.           |
+| Ventaja competitiva <br> ¿Qué valor ofrece a los clientes? | - Integración de IA y respaldo clínico en una misma plataforma. <br> - Enfoque dual: soporte continuo para usuarios y herramientas para profesionales. | - Facilita el acceso a atención psicológica profesional en Perú. <br> - Atención personalizada mediante una red de profesionales. | - Servicios de salud mental integrados como beneficio corporativo. <br> - Uso de pruebas estandarizadas para evaluar necesidades y promover bienestar laboral. | - Costos mucho más bajos que la terapia tradicional. <br> - Combina IA + profesionales (modelo híbrido). <br> - Escucha activa y ejercicios prácticos en cualquier momento.  |
+| **Perfil de Marketing**   |            |              |              |              |
+| Mercado objetivo          | - Usuarios generales (18–35 años, nivel medio/bajo, urbanos, Perú). <br> - Psicólogos clínicos y de la salud que requieren seguimiento digital a sus pacientes.       | Personas en Perú que buscan terapia psicológica online, especialmente quienes requieren soporte profesional accesible.           |  Empresas que buscan ofrecer salud mental como parte de sus beneficios a empleados en Latinoamérica.            | - Jóvenes y adultos con ansiedad, estrés o depresión leve. <br> - Empresas que buscan programas de bienestar para empleados.   |
+| Estrategias de marketing  | - Posicionamiento cultural y local (Perú, Latinoamérica). <br> - Alianzas educativas/universitarias, promoción en redes sociales, campañas de sensibilización.           | - Presencia digital orientada al mercado local. <br> - Posiblemente alianzas con profesionales independientes o clínicas.           | - B2B: venta directa a empresas y alianzas corporativas. <br> - Participación en redes de inversión e innovación regionales.            |   - Alianzas con empresas y aseguradoras. <br> - Comunicación centrada en el bienestar accesible y confidencial.           |
+| **Perfil de Producto**    |            |              |              |              |
+| Productos & Servicios     | Plataforma móvil  que ofrece check-ins emocionales, chat IA, seguimiento, alertas, biblioteca de recursos, conexión con psicólogo, crisis, calendario emocional.          | - Plataforma para conexión con psicólogos. <br> - Sesiones terapéuticas en línea a través de psicólogos afiliados.             |  Plataforma corporativa para evaluación y seguimiento del bienestar mental de empleados.            |  - Chatbot de IA para autocuidado emocional. <br> - Ejercicios de mindfulness, diarios emocionales y recursos clínicos.            |
+| Precios & Costos          | - Plan gratuito para usuarios generales; Premium de USD 12.99/mes. <br> - Planes para psicólogos: Básico USD 39.99/mes o Premium USD 69.99/mes.         |  El modelo de negocio incluye pago por sesión o suscripción, con costos variables según profesional.            |  Modelo empresarial B2B, con licencias por empleado o por paquete de servicios.            | - Versión gratuita con IA. <br> - Suscripciones desde USD 5 – 30/mes (según país y plan).             |
+| Canales de distribución <br> (Web y/o Móvil) | - Landing web y app móvil (Android/iOS) con descargas directas. <br> - Interfaz web para profesionales (dashboard clínico). | - Web <br> - Posible integración de canales online como WhatsApp. | - Web para empresas. <br> - Plataforma interna para empleados. | - App móvil (iOS y Android). <br> - Web |
+| **Análisis SWOT**         |            |              |              |              |
+| Fortalezas                | - Alineación con la realidad peruana. <br> - IA + evidencia clínica. <br> - Funcionalidades integrales (check-in, crisis, contenido, alertas).          | - Enfoque local, respaldo profesional. <br> - Asegura calidad en la atención y evita perfiles falsos.             | - Diseño pensado para usuarios jóvenes y empresas que buscan programas de wellness. <br> - Programas de salud mental para empleados, un segmento con alto potencial en LATAM.            |  - Pionera en uso de IA clínica validada en salud mental. <br> - Escalabilidad global. <br> - Única app que cubre los 5 tipos de intervención en crisis (detección, información, autoayuda, contacto profesional, notificación).           |
+| Debilidades               | - Necesidad de validación clínica rigurosa y confianza del usuario.<br> - Costos de desarrollo e IA pueden ser altos. <br> - Penetración limitada fuera de Lima o zonas menos conectadas.        |  - No incluye herramientas de autoayuda o IA integradas. <br> - Se centra en conexión directa, sin módulos de autoayuda o gamificación.         |  - Al abarcar psicología, mindfulness y coaching, puede perder foco y parecer poco especializado. <br> - Dependencia de coaches y facilitadores externos: Calidad variable según el profesional.            |  - Aunque tiene versión en español, gran parte de sus contenidos y comunidad están en inglés, lo que reduce engagement en LATAM.            |
+| Oportunidades             | - Alto crecimiento del mercado digital de salud mental.<br> - Posibilidad de alianzas con universidades, clínicas, sistema público.        |  -  Mayor aceptación de teleterapia post-pandemia. <br> - Ofrecer talleres, cursos de bienestar o programas de prevención del burnout.        | - Público más abierto a apps y programas digitales. <br> - Alianzas con EPS, aseguradoras y startups de HR: Integración en beneficios corporativos de salud.             |  - Vincular métricas biométricas (sueño, frecuencia cardiaca) para enriquecer el monitoreo emocional.             |
+| Amenazas                  | - Competidores globales fuerte inversión (BetterHelp, Wysa, etc.). <br> - Regulaciones de privacidad de datos sensibles. <br> - Barrera tecnológica en zonas rurales (acceso a internet).           |  - Nuevos competidores digitales con servicios más integrales. <br> - Cambios en licencias para psicólogos digitales podrían restringir su operación.           |  - Mercado saturado de contenidos de bienestar gratuitos en YouTube, TikTok o podcasts. <br> - Falta de diferenciación frente a startups locales que ofrezcan psicología online a menor costo.            | - El manejo de información sensible de salud puede volverse más regulado, afectando su modelo de negocio. <br> - Riesgo de que autoridades sanitarias cuestionen la seguridad del uso de IA en terapias psicológicas.             |
+
 <a id="212-estrategias-y-tácticas-frente-a-competidores"></a>
 ### **2.1.2. Estrategias y tácticas frente a competidores**
+
+En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta clave para asi poder trazar estrategias y tácticas de superación hacia la competencia, cuando el servicio entre al mercado. A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar nuestro objetivo:
+
+---
+
+### Afrontando las fortalezas de nuestros competidores:
+- Plataformas con amplia base de usuarios y presencia internacional/regional.
+
+- Integración con profesionales humanos y, en algunos casos, IA avanzada.
+
+- Ofertas diversificadas: terapia, mindfulness, coaching, wellness corporativo.
+
+
+Comprendemos que nuestras fortalezas son:
+- Plataformas con amplia base de usuarios y presencia internacional/regional.
+
+- Integración con profesionales humanos y, en algunos casos, IA avanzada.
+
+- Ofertas diversificadas: terapia, mindfulness, coaching, wellness corporativo.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+- Posicionar a Soft Focus como una solución especializada y cercana al contexto local, más relevante que las plataformas globales.
+
+#### Tácticas
+- Enfatizar la adaptación cultural y lingüística.
+
+- Integrar evidencia visual, reportes y alertas personalizadas.
+
+- Destacar testimonios de usuarios y profesionales peruanos.
+
+
+---
+
+### Afrontando las debilidades de nuestros competidores:
+- Altos costos que limitan el acceso a personas de bajos ingresos.
+
+- Dependencia de psicólogos humanos → baja escalabilidad.
+
+- Falta de personalización real en el acompañamiento (IA genérica o coaching no validado clínicamente).
+
+Comprendemos que nuestras debilidades son:
+- Menor visibilidad de marca.
+
+- Producto aún en fase temprana de desarrollo.
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+- Diferenciarnos con un modelo híbrido accesible (IA + profesionales), enfocado en escalabilidad y bajo costo.
+
+#### Tácticas
+- Ofrecer un plan freemium para captar usuarios jóvenes.
+
+- Mantener una iteración rápida según feedback local.
+
+- Brindar soporte técnico y contacto directo en la misma plataforma
+
+---
+
+### Afrontando las oportunidades de nuestros competidores:
+- Mayor interés global en la salud mental digital post-pandemia.
+
+- Expansión del mercado corporativo (wellness laboral).
+
+- Digitalización creciente en LATAM con acceso masivo a smartphones.
+
+
+Comprendemos que nuestras oportunidades son:
+- Convertirnos en el estándar peruano de monitoreo y prevención en salud mental.
+
+- Atacar un nicho desatendido: jóvenes de 18 a 35 años y pacientes con acceso limitado a consultas frecuentes.
+
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+- Aprovechar el momento de digitalización y posicionarnos como solución clínicamente confiable y escalable en LATAM.
+
+#### Tácticas
+- Pilotos con universidades, EPS y consultorios locales.
+
+- Reportes automáticos y paneles para terapeutas.
+
+- Recursos educativos dentro de la app (autoayuda validada).
+
+---
+
+### Afrontando las amenazas de nuestros competidores:
+- Entrada de apps globales con grandes presupuestos de marketing.
+
+- Preferencia de usuarios por recursos gratuitos (YouTube, TikTok, podcasts).
+
+- Desconfianza hacia la IA en temas de salud mental.
+
+- Regulación de datos sensibles y licencias sanitarias.
+
+
+Comprendemos que nuestras amenazas son:
+- Baja tracción inicial frente a marcas globales.
+
+- Riesgo de ser vistos como “una app más” en un mercado saturado.
+
+
+Entonces, podemos aplicar las siguientes estrategias y tácticas:
+
+#### Estrategias
+- Construir confianza y legitimidad mediante validación científica y cercanía cultural.
+
+#### Tácticas
+- Certificaciones de privacidad y cumplimiento normativo.
+
+- Alianzas con gremios de psicólogos y MINSA.
+
+- Campañas educativas que muestren casos reales de impacto positivo.
+
+
 
 <a id="22-entrevistas"></a>
 ## **2.2. Entrevistas**
 
+#### La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
+
 <a id="221-diseño-de-entrevistas"></a>
 ### **2.2.1. Diseño de entrevistas**
+
+### Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)
+##### *Preguntas dirigidas a personas que buscan apoyo emocional o que usan la plataforma como complemento de su terapia.*
+---
+
+**Características demográficas:**
+1. ¿Cuál es tu edad?
+2. ¿En qué ciudad vives actualmente?
+3. ¿Actualmente te encuentras en tratamiento psicológico o usas recursos de autoayuda?
+
+**Preguntas Principales:**
+1. ¿Qué sueles hacer actualmente cuando te sientes estresado, ansioso o triste?
+
+2. ¿Usas alguna aplicación, recurso digital o técnica para manejar tus emociones? ¿Cuál?
+
+3. ¿Cómo registras o haces seguimiento de tu estado de ánimo (si es que lo haces)?
+
+4. ¿En qué momentos sientes que más necesitarías apoyo o recordatorios para manejar tus emociones?
+
+5. ¿Has tenido dificultades para acceder a un psicólogo por costos, tiempo o disponibilidad?
+
+6. ¿Qué tan cómodo/a te sentirías registrando información personal sobre tu estado emocional en una app?
+
+**Preguntas sobre el Proyecto (Soft Focus):**
+1. ¿Qué te parecería tener una aplicación que te permita registrar tu estado emocional día a día y recibir recomendaciones personalizadas?
+
+2. ¿Qué herramientas te gustaría encontrar en una plataforma así? (ejercicios de relajación, meditación, diarios de emociones, alertas, etc.)
+
+3. ¿Considerarías útil que la aplicación te conecte con un psicólogo de manera directa en caso de emergencia o necesidad?
+
+4. ¿Preferirías que la plataforma te brinde recordatorios automáticos o que tú configures cuándo recibirlos?
+
+5. ¿Qué nivel de confianza te generaría que la aplicación utilice inteligencia artificial para darte recomendaciones?
+
+### Segmento Objetivo #2: Profesionales de la salud mental
+##### *Preguntas dirigidas a psicólogos clínicos y de la salud.*
+---
+**Características demográficas:**
+1. ¿Cuál es tu edad?
+2. ¿En qué ciudad trabajas y en qué contexto (consulta privada, clínica, universidad, hospital)?
+3. ¿Cuántos años de experiencia tienes como psicólogo/a clínico?
+
+**Preguntas Principales:**
+1. ¿Cómo realizas actualmente el seguimiento de tus pacientes entre sesiones?
+2. ¿Sueles pedirles que registren emociones, pensamientos o actividades? ¿Cómo lo hacen?
+3. ¿Qué dificultades encuentras para dar seguimiento continuo a tus pacientes?
+4. ¿Qué tan útil sería para ti recibir alertas cuando un paciente esté en crisis o con indicadores de riesgo alto?
+5. ¿Qué tipo de reportes o indicadores te ayudarían más a evaluar el progreso de un paciente?
+6. ¿Has utilizado antes alguna aplicación o herramienta digital para complementar tu práctica? ¿Cuál fue tu experiencia?
+
+**Preguntas sobre el Proyecto (Soft Focus):**
+1. ¿Qué opinas de contar con una plataforma que te permita monitorear en tiempo real el estado emocional de tus pacientes?
+2. ¿Qué funcionalidades consideras más valiosas? (ej. envío de ejercicios, historial de emociones, alertas de crisis, reportes automáticos).
+3. ¿Te gustaría que la plataforma se integre con tus sesiones presenciales/virtuales o que funcione como un espacio aparte?
+4. ¿Qué preocupaciones tendrías respecto a la confidencialidad y seguridad de los datos de tus pacientes?
+5. ¿Estarías dispuesto/a a recomendar una herramienta como esta a tus pacientes? ¿Por qué sí o por qué no?
 
 <a id="222-registro-de-entrevistas"></a>
 ### **2.2.2. Registro de entrevistas**
@@ -763,9 +962,9 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 
 <a id="243-product-backlog"></a>
 ### **2.4.3. Product Backlog**
-Tienes razón Steven, debo comenzar desde US01. Aquí está el Product Backlog completo:
 
-## **Product Backlog**
+
+
 
 [Trello Board - Soft Focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
 

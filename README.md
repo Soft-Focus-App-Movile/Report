@@ -962,6 +962,56 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <a id="243-product-backlog"></a>
 ### **2.4.3. Product Backlog**
+Tienes razón Steven, debo comenzar desde US01. Aquí está el Product Backlog completo:
+
+## **Product Backlog**
+
+[Trello Board - Soft Focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
+
+| Orden | User Story Id | Título | Descripción | Story Points |
+|-------|---------------|--------|-------------|--------------|
+| 1 | US01 | Visualizar header con navegación | Como visitante, Quiero ver un header fijo con logo y menú de navegación, Para acceder fácilmente a las diferentes secciones de la página. | 2 |
+| 2 | US02 | Acceder a descarga de app | Como visitante, Quiero ver botones destacados para descargar la app, Para acceder rápidamente a las tiendas de aplicaciones. | 2 |
+| 3 | US03 | Visualizar contenido principal y funcionalidades | Como visitante, Quiero ver secciones hero, problema/solución y funcionalidades, Para entender el propósito y beneficios de la aplicación. | 3 |
+| 4 | US04 | Comparar planes y precios | Como visitante interesado, Quiero ver una tabla comparativa de planes, Para elegir la opción que mejor se adapte a mis necesidades. | 3 |
+| 5 | US05 | Ver testimonios dinámicos | Como visitante, Quiero leer testimonios auténticos de usuarios reales, Para generar confianza en la aplicación. | 2 |
+| 6 | US06 | Contactar para información de planes profesionales | Como psicólogo interesado, Quiero llenar un formulario de contacto, Para recibir información sobre los planes de suscripción profesionales. | 3 |
+| 7 | US07 | Acceder a footer con información legal | Como visitante, Quiero encontrar información legal y redes sociales en el footer, Para conocer términos de uso y seguir a la empresa. | 1 |
+| 8 | US08 | Registrarse con email y contraseña | Como nuevo usuario, Quiero registrarme con email y contraseña, Para crear mi cuenta en la aplicación. | 3 |
+| 9 | US09 | Iniciar sesión con credenciales | Como usuario registrado, Quiero iniciar sesión con email y contraseña, Para acceder a mi cuenta personal. | 2 |
+| 10 | US10 | Autenticarse con redes sociales | Como usuario, Quiero iniciar sesión con Google o Facebook, Para acceder rápidamente sin crear contraseña. | 3 |
+| 11 | US11 | Seleccionar tipo de usuario al registrarse | Como nuevo usuario, Quiero seleccionar si soy usuario general o psicólogo, Para acceder a las funcionalidades correspondientes. | 2 |
+| 12 | US12 | Completar perfil de usuario general | Como usuario general, Quiero completar mi perfil básico, Para personalizar mi experiencia en la app. | 3 |
+| 13 | US13 | Completar perfil de psicólogo | Como psicólogo, Quiero completar mi perfil profesional, Para usar las herramientas especializadas. | 3 |
+| 14 | US14 | Realizar check-in diario | Como usuario, Quiero completar mi check-in emocional diario, Para registrar mi estado de ánimo y recibir recomendaciones. | 5 |
+| 15 | US15 | Ver historial de estados emocionales | Como usuario, Quiero visualizar mi progreso emocional en el tiempo, Para entender mis patrones y mejoras. | 3 |
+| 16 | US16 | Configurar recordatorios de check-in | Como usuario, Quiero personalizar recordatorios para mis check-ins, Para mantener consistencia en mi seguimiento. | 2 |
+| 17 | US17 | Chatear con IA emocional | Como usuario, Quiero conversar con la IA sobre mi estado emocional, Para recibir apoyo inmediato y técnicas de manejo. | 5 |
+| 18 | US18 | Usar reconocimiento facial de emociones | Como usuario, Quiero que la app analice mis expresiones faciales, Para obtener un análisis objetivo de mi estado emocional. | 5 |
+| 19 | US19 | Recibir recomendaciones personalizadas | Como usuario, Quiero recibir sugerencias de contenido según mi estado, Para mejorar mi bienestar emocional. | 3 |
+| 20 | US20 | Activar botón de crisis | Como usuario en crisis, Quiero presionar un botón de emergencia, Para recibir ayuda inmediata de mi psicólogo. | 5 |
+| 21 | US21 | Acceder a herramientas de contención | Como usuario en crisis, Quiero usar técnicas de contención inmediata, Para estabilizar mi estado emocional. | 3 |
+| 22 | US22 | Conectarse con psicólogo mediante código | Como paciente, Quiero ingresar el código de mi psicólogo, Para establecer la conexión terapéutica en la app. | 3 |
+| 23 | US23 | Generar código de invitación | Como psicólogo, Quiero generar códigos únicos, Para invitar a mis pacientes a conectarse conmigo. | 2 |
+| 24 | US24 | Chatear con pacientes | Como psicólogo, Quiero comunicarme directamente con mis pacientes, Para brindar contención emocional entre sesiones. | 5 |
+| 25 | US25 | Ver lista básica de pacientes | Como psicólogo, Quiero ver una lista simple de mis pacientes, Para acceder rápidamente a su información. | 3 |
+| 26 | US26 | Ver perfil básico de paciente | Como psicólogo, Quiero ver información esencial del paciente, Para conocer su estado actual sin complejidad. | 3 |
+| 27 | US27 | Asignar ejercicios y recursos | Como psicólogo, Quiero asignar actividades específicas a mis pacientes, Para complementar el tratamiento terapéutico. | 3 |
+| 28 | US28 | Recibir alertas de crisis | Como psicólogo, Quiero ser notificado cuando un paciente está en crisis, Para brindar apoyo inmediato. | 3 |
+| 29 | US29 | Acceder a biblioteca de ejercicios | Como usuario, Quiero explorar ejercicios de bienestar, Para mejorar mi estado emocional de forma autónoma. | 3 |
+| 30 | US30 | Realizar ejercicios guiados | Como usuario, Quiero seguir ejercicios paso a paso, Para practicar técnicas terapéuticas correctamente. | 3 |
+| 31 | US31 | Ver contenido asignado por terapeuta | Como paciente, Quiero acceder a recursos específicos de mi psicólogo, Para seguir mi plan de tratamiento personalizado. | 2 |
+| 32 | US32 | Ver recomendaciones de películas y series | Como usuario, Quiero recibir sugerencias de contenido audiovisual, Para mejorar mi estado de ánimo con entretenimiento apropiado. | 3 |
+| 33 | US33 | Explorar música recomendada | Como usuario, Quiero acceder a música según mi estado emocional, Para usar la musicoterapia como herramienta de bienestar. | 3 |
+| 34 | US34 | Ver videos de técnicas terapéuticas | Como usuario, Quiero acceder a videos educativos sobre técnicas de bienestar, Para aprender ejercicios de forma visual. | 2 |
+| 35 | US35 | Recibir recomendaciones de lugares | Como usuario, Quiero obtener sugerencias de lugares cercanos, Para realizar actividades que mejoren mi estado de ánimo. | 3 |
+| 36 | US36 | Usar calendario emocional | Como usuario, Quiero registrar mi estado de ánimo en un calendario, Para visualizar mis patrones emocionales de forma simple. | 3 |
+| 37 | US37 | Recibir notificaciones push | Como usuario, Quiero recibir alertas en mi dispositivo, Para mantenerme al día con mi seguimiento emocional. | 2 |
+| 38 | US38 | Configurar preferencias de notificaciones | Como usuario, Quiero personalizar qué notificaciones recibir, Para controlar las interrupciones según mis necesidades. | 2 |
+| 39 | US39 | Upgradar a plan premium | Como usuario, Quiero actualizar mi suscripción, Para acceder a funcionalidades avanzadas. | 3 |
+| 40 | US40 | Gestionar suscripción de psicólogo | Como psicólogo, Quiero administrar mi plan de suscripción, Para ajustarlo según mi práctica profesional. | 3 |
+| 41 | US41 | Explorar directorio de psicólogos | Como usuario general, Quiero ver un directorio de psicólogos disponibles, Para encontrar un profesional que se adapte a mis necesidades. | 5 |
+| 42 | US42 | Solicitar conexión con psicólogo | Como usuario general, Quiero solicitar conexión con un psicólogo del directorio, Para obtener sus datos de contacto. | 3 |
 
 <a id="25-strategic-level-domain-driven-design"></a>
 ## **2.5. Strategic-Level Domain-Driven Design**
@@ -1497,3 +1547,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <a id="anexos"></a>
 # **Anexos**
+ 
+ ## **Product Backlog - Sprints**
+
+[https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)

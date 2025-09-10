@@ -962,9 +962,9 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <a id="243-product-backlog"></a>
 ### **2.4.3. Product Backlog**
-Tienes razón Steven, debo comenzar desde US01. Aquí está el Product Backlog completo:
 
-## **Product Backlog**
+
+
 
 [Trello Board - Soft Focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
 

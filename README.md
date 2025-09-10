@@ -61,11 +61,6 @@
 # **Project Report Collaboration Insights**
 
 
-
-<p align="center">
-  <img src="images/insightsReport.png" alt="PI5" width="1000">
-</p> 
-
 <a id="tabla-de-contenidos"></a>
 # **Tabla de Contenidos**
 
@@ -74,190 +69,326 @@
 
 <ul><a href="#project-report-collaboration-insights">Project Report Collaboration Insights</a></ul>
 
+<ul><a href="#contenido">Contenido</a></ul>
+
 <ul><a href="#tabla-de-contenidos">Tabla de Contenidos</a></ul>
 
 <ul><a href="#student-outcome">Student Outcome</a></ul>
 
 <ul><a href="#objetivos-smart">Objetivos SMART</a></ul>
 
-<a href="#capítulo-i-presentación">Capítulo I: Presentación</a>
+<a href="#capítulo-i-presentación">Capítulo I: Presentación</a>    
+    	<ul>
+            <a href="#11-startup-profile">1.1. Startup Profile</a><br>
+	    <ul>
+            <a href="#111-descripción-de-la-startup">1.1.1. Descripción de la Startup</a><br>
+            <a href="#112-perfiles-de-integrantes-del-equipo">1.1.2. Perfiles de Integrantes del Equipo</a><br>
+	    </ul>
+            <a href="#12-solution-profile">1.2. Solution Profile</a><br>
+	    <ul>
+            <a href="#121-antecedentes-y-problemática">1.2.1. Antecedentes y Problemática</a><br>
+            <a href="#122-lean-ux-process">1.2.2. Lean UX Process</a><br>
+		<ul>
+            <a href="#1221-lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a><br>
+            <a href="#1222-lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a><br>
+            <a href="#1223-lean-ux-hypothesis-statements">1.2.2.3. Lean UX Hypothesis Statements</a><br>
+            <a href="#1224-lean-ux-canvas">1.2.2.4. Lean UX Canvas</a><br>
+		</ul>
+	    </ul>
+            <a href="#13-segmentos-objetivos">1.3. Segmentos Objetivos</a><br>
+        </ul>    
 
-<ul>
-<a href="#11-startup-profile">1.1. Startup Profile</a><br>
-<ul>
-<a href="#111-descripción-de-la-startup">1.1.1. Descripción de la Startup</a><br>
-<a href="#112-perfiles-de-integrantes-del-equipo">1.1.2. Perfiles de Integrantes del Equipo</a><br>
-</ul>
-<a href="#12-solution-profile">1.2. Solution Profile</a><br>
-<ul>
-<a href="#121-antecedentes-y-problemática">1.2.1. Antecedentes y Problemática</a><br>
-<a href="#122-lean-ux-process">1.2.2. Lean UX Process</a><br>
-<ul>
-<a href="#1221-lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a><br>
-<a href="#1222-lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a><br>
-<a href="#1223-lean-ux-hypothesis-statements">1.2.2.3. Lean UX Hypothesis Statements</a><br>
-<a href="#1224-lean-ux-canvas">1.2.2.4. Lean UX Canvas</a><br>
-</ul>
-</ul>
-<a href="#13-segmentos-objetivos">1.3. Segmentos Objetivos</a><br>
-</ul>
-<a href="#capítulo-ii-requirements-elicitation--analysis">Capítulo II: Requirements Elicitation & Analysis</a>
-<ul>
-<a href="#21-competidores">2.1. Competidores</a><br>
-<ul>
-<a href="#211-análisis-competitivo">2.1.1. Análisis competitivo</a><br>
-<a href="#212-estrategias-y-tácticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a><br>
-</ul>
-<a href="#22-entrevistas">2.2. Entrevistas</a><br>
-<ul>
-<a href="#221-diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a><br>
-<a href="#222-registro-de-entrevistas">2.2.2. Registro de entrevistas</a><br>
-<a href="#223-análisis-de-entrevistas">2.2.3. Análisis de entrevistas</a><br>
-</ul>
-<a href="#23-needfinding">2.3. Needfinding</a><br>
-<ul>
-<a href="#231-user-personas">2.3.1. User Personas</a><br>
-<a href="#232-user-task-matrix">2.3.2. User Task Matrix</a><br>
-<a href="#233-user-journey-mapping">2.3.3. User Journey Mapping</a><br>
-<a href="#234-empathy-mapping">2.3.4. Empathy Mapping</a><br>
-<a href="#235-as-is-scenario-mapping">2.3.5. As-is Scenario Mapping</a><br>
-</ul>
-<a href="#24-ubiquitous-language">2.4. Ubiquitous Language</a><br>
-</ul>
-<a href="#capítulo-iii-requirements-specification">Capítulo III: Requirements Specification </a>
-<ul>
-<a href="#31-to-be-scenario-mapping">3.1. To-Be Scenario Mapping</a><br>
-<a href="#32-user-stories">3.2. User Stories</a><br>
-<a href="#33-impact-mapping">3.3. Impact Mapping</a><br>
-<a href="#34-product-backlog">3.4. Product Backlog</a><br>
-</ul>
-<a href="#capítulo-iv-solution-software-design">Capítulo IV: Solution Software Design </a>
-<ul>
-<a href="#41-strategic-level-domain-driven-design">4.1. Strategic-Level Domain-Driven Design</a><br>
-<ul>
-<a href="#411-eventstorming">4.1.1. EventStorming</a><br>
-<ul>
-<a href="#4111-candidate-context-discovery">4.1.1.1. Candidate Context Discovery</a><br>
-<a href="#4112-domain-message-flows-modeling">4.1.1.2. Domain Message Flows Modeling</a><br>
-<a href="#4113-bounded-context-canvases">4.1.1.3. Bounded Context Canvases</a><br>
-</ul>
-<a href="#412-context-mapping">4.1.2. Context Mapping</a><br>
-<a href="#413-software-architecture">4.1.3. Software Architecture</a><br>
-<ul>
-<a href="#4131-software-architecture-context-level-diagrams">4.1.3.1. Software Architecture Context Level Diagrams</a><br>
-<a href="#4132-software-architecture-container-level-diagrams">4.1.3.2. Software Architecture Container Level Diagrams</a><br>
-<a href="#4133-software-architecture-deployment-diagrams">4.1.3.3. Software Architecture Deployment Diagrams</a><br>
-</ul>
-</ul>
-<a href="#42-tactical-level-domain-driven-design">4.2. Tactical-Level Domain-Driven Design</a><br>
-<ul>
-<a href="#42x-bounded-context">4.2.X. Bounded Context: <Bounded Context Name></a><br>
-<ul>
-<a href="#42x1-domain-layer">4.2.X.1. Domain Layer</a><br>
-<a href="#42x2-interface-layer">4.2.X.2. Interface Layer</a><br>
-<a href="#42x3-application-layer">4.2.X.3. Application Layer</a><br>
-<a href="#42x4-infrastructure-layer">4.2.X.4. Infrastructure Layer</a><br>
-<a href="#42x5-bounded-context-software-architecture-component-level-diagrams">4.2.X.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
-<a href="#42x6-bounded-context-software-architecture-code-level-diagrams">4.2.X.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
-<ul>
-<a href="#42x61-bounded-context-domain-layer-class-diagrams">4.2.X.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
-<a href="#42x62-bounded-context-database-design-diagram">4.2.X.6.2. Bounded Context Database Design Diagram</a><br>
-</ul>
-</ul>
-</ul>
-</ul>
-<a href="#capítulo-v-solution-uiux-design">Capítulo V: Solution UI/UX Design </a>
-<ul>
-<a href="#51-product-design">5.1. Product Design</a><br>
-<ul>
-<a href="#511-style-guidelines">5.1.1. Style Guidelines</a><br>
-<ul>
-<a href="#5111-general-style-guidelines">5.1.1.1. General Style Guidelines</a><br>
-</ul>
-<a href="#512-information-architecture">5.1.2. Information Architecture</a><br>
-<ul>
-<a href="#5121-organization-systems">5.1.2.1. Organization Systems</a><br>
-<a href="#5122-labelling-systems">5.1.2.2. Labelling Systems</a><br>
-<a href="#5123-seo-tags-and-meta-tags">5.1.2.3. SEO Tags and Meta Tags</a><br>
-<a href="#5124-searching-systems">5.1.2.4. Searching Systems</a><br>
-<a href="#5125-navigation-systems">5.1.2.5. Navigation Systems</a><br>
-</ul>
-<a href="#513-landing-page-ui-design">5.1.3. Landing Page UI Design</a><br>
-<ul>
-<a href="#5131-landing-page-wireframe">5.1.3.1. Landing Page Wireframe</a><br>
-<a href="#5132-landing-page-mock-up">5.1.3.2. Landing Page Mock-up</a><br>
-</ul>
-<a href="#514-mobile-applications-uxui-design">5.1.4. Mobile Applications UX/UI Design</a><br>
-<ul>
-<a href="#5141-mobile-applications-wireframes">5.1.4.1. Mobile Applications Wireframes</a><br>
-<a href="#5142-mobile-applications-wireflow-diagrams">5.1.4.2. Mobile Applications Wireflow Diagrams</a><br>
-<a href="#5143-mobile-applications-mock-ups">5.1.4.3. Mobile Applications Mock-ups</a><br>
-<a href="#5144-mobile-applications-user-flow-diagrams">5.1.4.4. Mobile Applications User Flow Diagrams</a><br>
-<a href="#5145-mobile-applications-prototyping">5.1.4.5. Mobile Applications Prototyping</a><br>
-</ul>
-</ul>
-</ul>
-<a href="#capítulo-vi-product-implementation-validation--deployment">Capítulo VI: Product Implementation, Validation & Deployment </a>
-<ul>
-<a href="#61-software-configuration-management">6.1. Software Configuration Management</a><br>
-<ul>
-<a href="#611-software-development-environment-configuration">6.1.1. Software Development Environment Configuration</a><br>
-<a href="#612-source-code-management">6.1.2. Source Code Management</a><br>
-<a href="#613-source-code-style-guide--conventions">6.1.3. Source Code Style Guide & Conventions</a><br>
-<a href="#614-software-deployment-configuration">6.1.4. Software Deployment Configuration</a><br>
-</ul>
-<a href="#62-landing-page--mobile-application-implementation">6.2. Landing Page & Mobile Application Implementation</a><br>
-<ul>
-<a href="#621-sprint-1">6.2.1. Sprint 1</a><br>
-<ul>
-<a href="#6211-sprint-planning-1">6.2.1.1. Sprint Planning 1</a><br>
-<a href="#6212-sprint-backlog-1">6.2.1.2. Sprint Backlog 1</a><br>
-<a href="#6213-development-evidence-for-sprint-review">6.2.1.3. Development Evidence for Sprint Review</a><br>
-<a href="#6214-testing-suite-evidence-for-sprint-review">6.2.1.4. Testing Suite Evidence for Sprint Review</a><br>
-<a href="#6215-execution-evidence-for-sprint-review">6.2.1.5. Execution Evidence for Sprint Review</a><br>
-<a href="#6216-services-documentation-evidence-for-sprint-review">6.2.1.6. Services Documentation Evidence for Sprint Review</a><br>
-<a href="#6217-software-deployment-evidence-for-sprint-review">6.2.1.7. Software Deployment Evidence for Sprint Review</a><br>
-<a href="#6218-team-collaboration-insights-during-sprint">6.2.1.8. Team Collaboration Insights during Sprint</a><br>
-</ul>
-<a href="#622-sprint-2">6.2.2. Sprint 2</a><br>
-<ul>
-<a href="#6221-sprint-planning-2">6.2.2.1. Sprint Planning 2</a><br>
-<a href="#6222-sprint-backlog-2">6.2.2.2. Sprint Backlog 2</a><br>
-<a href="#6223-development-evidence-for-sprint-review">6.2.2.3. Development Evidence for Sprint Review</a><br>
-<a href="#6224-testing-suite-evidence-for-sprint-review">6.2.2.4. Testing Suite Evidence for Sprint Review</a><br>
-<a href="#6225-execution-evidence-for-sprint-review">6.2.2.5. Execution Evidence for Sprint Review</a><br>
-<a href="#6226-services-documentation-evidence-for-sprint-review">6.2.2.6. Services Documentation Evidence for Sprint Review</a><br>
-<a href="#6227-software-deployment-evidence-for-sprint-review">6.2.2.7. Software Deployment Evidence for Sprint Review</a><br>
-<a href="#6228-team-collaboration-insights-during-sprint">6.2.2.8. Team Collaboration Insights during Sprint</a><br>
-</ul>
-<a href="#623-sprint-3">6.2.3. Sprint 3</a><br>
-<ul>
-<a href="#6231-sprint-planning-3">6.2.3.1. Sprint Planning 3</a><br>
-<a href="#6232-sprint-backlog-3">6.2.3.2. Sprint Backlog 3</a><br>
-<a href="#6233-development-evidence-for-sprint-review">6.2.3.3. Development Evidence for Sprint Review</a><br>
-<a href="#6234-testing-suite-evidence-for-sprint-review">6.2.3.4. Testing Suite Evidence for Sprint Review</a><br>
-<a href="#6235-execution-evidence-for-sprint-review">6.2.3.5. Execution Evidence for Sprint Review</a><br>
-<a href="#6236-services-documentation-evidence-for-sprint-review">6.2.3.6. Services Documentation Evidence for Sprint Review</a><br>
-<a href="#6237-software-deployment-evidence-for-sprint-review">6.2.3.7. Software Deployment Evidence for Sprint Review</a><br>
-<a href="#6238-team-collaboration-insights-during-sprint">6.2.3.8. Team Collaboration Insights during Sprint</a><br>
-</ul>
-</ul>
-<a href="#63-validation-interviews">6.3. Validation Interviews</a><br>
-<ul>
-<a href="#631-diseño-de-entrevistas">6.3.1. Diseño de Entrevistas</a><br>
-<a href="#632-registro-de-entrevistas">6.3.2. Registro de Entrevistas</a><br>
-<a href="#633-evaluaciones-según-heurísticas">6.3.3. Evaluaciones según heurísticas</a><br>
-</ul>
-<a href="#64-video-about-the-product">6.4. Video About-the-Product</a><br>
-</ul>
+<a href="#capítulo-ii-requirements-development-and-software-solution-design">Capítulo II: Requirements Development and Software Solution Design</a>
+        <ul>
+            <a href="#21-competidores">2.1. Competidores</a><br>
+		<ul>
+            <a href="#211-análisis-competitivo">2.1.1. Análisis competitivo</a><br>
+            <a href="#212-estrategias-y-tácticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a><br>
+		</ul>
+            <a href="#22-entrevistas">2.2. Entrevistas</a><br>
+		<ul>
+            <a href="#221-diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a><br>
+            <a href="#222-registro-de-entrevistas">2.2.2. Registro de entrevistas</a><br>
+            <a href="#223-análisis-de-entrevistas">2.2.3. Análisis de entrevistas</a><br>
+		</ul>
+            <a href="#23-needfinding">2.3. Needfinding</a><br>
+		<ul>
+            <a href="#231-user-personas">2.3.1. User Personas</a><br>
+            <a href="#232-user-task-matrix">2.3.2. User Task Matrix</a><br>
+            <a href="#233-user-journey-mapping">2.3.3. User Journey Mapping</a><br>
+            <a href="#234-empathy-mapping">2.3.4. Empathy Mapping</a><br>
+            <a href="#235-ubiquitous-language">2.3.5. Ubiquitous Language</a><br>
+		</ul>
+            <a href="#24-requirements-specification">2.4. Requirements specification</a><br>
+		<ul>
+            <a href="#241-user-stories">2.4.1. User Stories</a><br>
+            <a href="#242-impact-mapping">2.4.2. Impact Mapping</a><br>
+            <a href="#243-product-backlog">2.4.3. Product Backlog</a><br>
+		</ul>
+            <a href="#25-strategic-level-domain-driven-design">2.5. Strategic-Level Domain-Driven Design</a><br>
+		<ul>
+            <a href="#251-eventstorming">2.5.1. EventStorming</a><br>
+		    <ul>
+                <a href="#2511-candidate-context-discovery">2.5.1.1. Candidate Context Discovery</a><br>
+                <a href="#2512-domain-message-flows-modeling">2.5.1.2. Domain Message Flows Modeling</a><br>
+                <a href="#2513-bounded-context-canvases">2.5.1.3. Bounded Context Canvases</a><br>
+		    </ul>
+            <a href="#252-context-mapping">2.5.2. Context Mapping</a><br>
+            <a href="#253-software-architecture">2.5.3. Software Architecture</a><br>
+		    <ul>
+                <a href="#2531-software-architecture-context-level-diagrams">2.5.3.1. Software Architecture Context Level Diagrams</a><br>
+                <a href="#2532-software-architecture-container-level-diagrams">2.5.3.2. Software Architecture Container Level Diagrams</a><br>
+                <a href="#2533-software-architecture-deployment-diagrams">2.5.3.3. Software Architecture Deployment Diagrams</a><br>
+		    </ul>
+		</ul>
+            <a href="#26-tactical-level-domain-driven-design">2.6. Tactical-Level Domain-Driven Design</a><br>
+		<ul>
+            <a href="#261-bounded-context-auth">2.6.1. Bounded Context: Auth</a><br>
+		    <ul>
+                <a href="#2611-domain-layer">2.6.1.1. Domain Layer</a><br>
+                <a href="#2612-interface-layer">2.6.1.2. Interface Layer</a><br>
+                <a href="#2613-application-layer">2.6.1.3. Application Layer</a><br>
+                <a href="#2614-infrastructure-layer">2.6.1.4 Infrastructure Layer</a><br>
+                <a href="#2615-bounded-context-software-architecture-component-level-diagrams">2.6.1.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#2616-bounded-context-software-architecture-code-level-diagrams">2.6.1.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#26161-bounded-context-domain-layer-class-diagrams">2.6.1.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#26162-bounded-context-database-design-diagram">2.6.1.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#262-bounded-context-profiles">2.6.2. Bounded Context: Profiles</a><br>
+		    <ul>
+                <a href="#2621-domain-layer">2.6.2.1. Domain Layer</a><br>
+                <a href="#2622-interface-layer">2.6.2.2. Interface Layer</a><br>
+                <a href="#2623-application-layer">2.6.2.3. Application Layer</a><br>
+                <a href="#2624-infrastructure-layer">2.6.2.4 Infrastructure Layer</a><br>
+                <a href="#2625-bounded-context-software-architecture-component-level-diagrams">2.6.2.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#2626-bounded-context-software-architecture-code-level-diagrams">2.6.2.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#26261-bounded-context-domain-layer-class-diagrams">2.6.2.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#26262-bounded-context-database-design-diagram">2.6.2.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#263-bounded-context-tracking">2.6.3. Bounded Context: Tracking</a><br>
+		    <ul>
+                <a href="#2631-domain-layer">2.6.3.1. Domain Layer</a><br>
+                <a href="#2632-interface-layer">2.6.3.2. Interface Layer</a><br>
+                <a href="#2633-application-layer">2.6.3.3. Application Layer</a><br>
+                <a href="#2634-infrastructure-layer">2.6.3.4 Infrastructure Layer</a><br>
+                <a href="#2635-bounded-context-software-architecture-component-level-diagrams">2.6.3.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#2636-bounded-context-software-architecture-code-level-diagrams">2.6.3.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#26361-bounded-context-domain-layer-class-diagrams">2.6.3.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#26362-bounded-context-database-design-diagram">2.6.3.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#264-bounded-context-crisis">2.6.4. Bounded Context: Crisis</a><br>
+		    <ul>
+                <a href="#2641-domain-layer">2.6.4.1. Domain Layer</a><br>
+                <a href="#2642-interface-layer">2.6.4.2. Interface Layer</a><br>
+                <a href="#2643-application-layer">2.6.4.3. Application Layer</a><br>
+                <a href="#2644-infrastructure-layer">2.6.4.4 Infrastructure Layer</a><br>
+                <a href="#2645-bounded-context-software-architecture-component-level-diagrams">2.6.4.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#2646-bounded-context-software-architecture-code-level-diagrams">2.6.4.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#26461-bounded-context-domain-layer-class-diagrams">2.6.4.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#26462-bounded-context-database-design-diagram">2.6.4.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#265-bounded-context-therapy">2.6.5. Bounded Context: Therapy</a><br>
+		    <ul>
+                <a href="#2651-domain-layer">2.6.5.1. Domain Layer</a><br>
+                <a href="#2652-interface-layer">2.6.5.2. Interface Layer</a><br>
+                <a href="#2653-application-layer">2.6.5.3. Application Layer</a><br>
+                <a href="#2654-infrastructure-layer">2.6.5.4 Infrastructure Layer</a><br>
+                <a href="#2655-bounded-context-software-architecture-component-level-diagrams">2.6.5.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#2656-bounded-context-software-architecture-code-level-diagrams">2.6.5.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#26561-bounded-context-domain-layer-class-diagrams">2.6.5.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#26562-bounded-context-database-design-diagram">2.6.5.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#266-bounded-context-content">2.6.6. Bounded Context: Content</a><br>
+		    <ul>
+                <a href="#2661-domain-layer">2.6.6.1. Domain Layer</a><br>
+                <a href="#2662-interface-layer">2.6.6.2. Interface Layer</a><br>
+                <a href="#2663-application-layer">2.6.6.3. Application Layer</a><br>
+                <a href="#2664-infrastructure-layer">2.6.6.4 Infrastructure Layer</a><br>
+                <a href="#2665-bounded-context-software-architecture-component-level-diagrams">2.6.6.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#2666-bounded-context-software-architecture-code-level-diagrams">2.6.6.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#26661-bounded-context-domain-layer-class-diagrams">2.6.6.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#26662-bounded-context-database-design-diagram">2.6.6.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#267-bounded-context-notifications">2.6.7. Bounded Context: Notifications</a><br>
+		    <ul>
+                <a href="#2671-domain-layer">2.6.7.1. Domain Layer</a><br>
+                <a href="#2672-interface-layer">2.6.7.2. Interface Layer</a><br>
+                <a href="#2673-application-layer">2.6.7.3. Application Layer</a><br>
+                <a href="#2674-infrastructure-layer">2.6.7.4 Infrastructure Layer</a><br>
+                <a href="#2675-bounded-context-software-architecture-component-level-diagrams">2.6.7.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#2676-bounded-context-software-architecture-code-level-diagrams">2.6.7.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#26761-bounded-context-domain-layer-class-diagrams">2.6.7.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#26762-bounded-context-database-design-diagram">2.6.7.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#268-bounded-context-subscriptions">2.6.8. Bounded Context: Subscriptions</a><br>
+		    <ul>
+                <a href="#2681-domain-layer">2.6.8.1. Domain Layer</a><br>
+                <a href="#2682-interface-layer">2.6.8.2. Interface Layer</a><br>
+                <a href="#2683-application-layer">2.6.8.3. Application Layer</a><br>
+                <a href="#2684-infrastructure-layer">2.6.8.4 Infrastructure Layer</a><br>
+                <a href="#2685-bounded-context-software-architecture-component-level-diagrams">2.6.8.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#2686-bounded-context-software-architecture-code-level-diagrams">2.6.8.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#26861-bounded-context-domain-layer-class-diagrams">2.6.8.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#26862-bounded-context-database-design-diagram">2.6.8.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#269-bounded-context-ai">2.6.9. Bounded Context: AI</a><br>
+		    <ul>
+                <a href="#2691-domain-layer">2.6.9.1. Domain Layer</a><br>
+                <a href="#2692-interface-layer">2.6.9.2. Interface Layer</a><br>
+                <a href="#2693-application-layer">2.6.9.3. Application Layer</a><br>
+                <a href="#2694-infrastructure-layer">2.6.9.4 Infrastructure Layer</a><br>
+                <a href="#2695-bounded-context-software-architecture-component-level-diagrams">2.6.9.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#2696-bounded-context-software-architecture-code-level-diagrams">2.6.9.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#26961-bounded-context-domain-layer-class-diagrams">2.6.9.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#26962-bounded-context-database-design-diagram">2.6.9.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#2610-bounded-context-integrations">2.6.10. Bounded Context: Integrations</a><br>
+		    <ul>
+                <a href="#26101-domain-layer">2.6.10.1. Domain Layer</a><br>
+                <a href="#26102-interface-layer">2.6.10.2. Interface Layer</a><br>
+                <a href="#26103-application-layer">2.6.10.3. Application Layer</a><br>
+                <a href="#26104-infrastructure-layer">2.6.10.4 Infrastructure Layer</a><br>
+                <a href="#26105-bounded-context-software-architecture-component-level-diagrams">2.6.10.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#26106-bounded-context-software-architecture-code-level-diagrams">2.6.10.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#261061-bounded-context-domain-layer-class-diagrams">2.6.10.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#261062-bounded-context-database-design-diagram">2.6.10.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+            <a href="#2611-bounded-context-shared">2.6.11. Bounded Context: Shared</a><br>
+		    <ul>
+                <a href="#26111-domain-layer">2.6.11.1. Domain Layer</a><br>
+                <a href="#26112-interface-layer">2.6.11.2. Interface Layer</a><br>
+                <a href="#26113-application-layer">2.6.11.3. Application Layer</a><br>
+                <a href="#26114-infrastructure-layer">2.6.11.4 Infrastructure Layer</a><br>
+                <a href="#26115-bounded-context-software-architecture-component-level-diagrams">2.6.11.5. Bounded Context Software Architecture Component Level Diagrams</a><br>
+                <a href="#26116-bounded-context-software-architecture-code-level-diagrams">2.6.11.6. Bounded Context Software Architecture Code Level Diagrams</a><br>
+		        <ul>
+                    <a href="#261161-bounded-context-domain-layer-class-diagrams">2.6.11.6.1. Bounded Context Domain Layer Class Diagrams</a><br>
+                    <a href="#261162-bounded-context-database-design-diagram">2.6.11.6.2. Bounded Context Database Design Diagram</a><br>
+		        </ul>
+		    </ul>
+		</ul>
+        </ul>   
+
+<a href="#capítulo-iii-solution-uiux-design">Capítulo III: Solution UI/UX Design</a>
+        <ul>
+            <a href="#31-product-design">3.1. Product Design</a><br>
+		<ul>
+            <a href="#311-style-guidelines">3.1.1. Style Guidelines</a><br>
+		    <ul>
+                <a href="#3111-general-style-guidelines">3.1.1.1. General Style Guidelines</a><br>
+		    </ul>
+            <a href="#312-information-architecture">3.1.2. Information Architecture</a><br>
+		    <ul>
+                <a href="#3121-organization-systems">3.1.2.1. Organization Systems</a><br>
+                <a href="#3122-labelling-systems">3.1.2.2. Labelling Systems</a><br>
+                <a href="#3123-seo-tags-and-meta-tags">3.1.2.3. SEO Tags and Meta Tags</a><br>
+                <a href="#3124-searching-systems">3.1.2.4. Searching Systems</a><br>
+                <a href="#3125-navigation-systems">3.1.2.5. Navigation Systems</a><br>
+		    </ul>
+            <a href="#313-landing-page-ui-design">3.1.3. Landing Page UI Design</a><br>
+		    <ul>
+                <a href="#3131-landing-page-wireframe">3.1.3.1. Landing Page Wireframe</a><br>
+                <a href="#3132-landing-page-mock-up">3.1.3.2. Landing Page Mock-up</a><br>
+		    </ul>
+            <a href="#314-mobile-applications-uxui-design">3.1.4. Mobile Applications UX/UI Design</a><br>
+		    <ul>
+                <a href="#3141-mobile-applications-wireframes">3.1.4.1. Mobile Applications Wireframes</a><br>
+                <a href="#3142-mobile-applications-wireflow-diagrams">3.1.4.2. Mobile Applications Wireflow Diagrams</a><br>
+                <a href="#3143-mobile-applications-mock-ups">3.1.4.3. Mobile Applications Mock-ups</a><br>
+                <a href="#3144-mobile-applications-user-flow-diagrams">3.1.4.4. Mobile Applications User Flow Diagrams</a><br>
+                <a href="#3145-mobile-applications-prototyping">3.1.4.5. Mobile Applications Prototyping</a><br>
+		    </ul>
+		</ul>
+        </ul>    
+
+<a href="#capítulo-iv-product-implementation--validation">Capítulo IV: Product Implementation & Validation</a>
+        <ul>
+            <a href="#4-product-implementation--validation">4. Product Implementation & Validation</a><br>
+            <a href="#41-software-configuration-management">4.1. Software Configuration Management</a><br>
+	<ul>
+            <a href="#411-software-development-environment-configuration">4.1.1. Software Development Environment Configuration</a><br>
+            <a href="#412-source-code-management">4.1.2. Source Code Management</a><br>
+            <a href="#413-source-code-style-guide--conventions">4.1.3. Source Code Style Guide & Conventions</a><br>
+            <a href="#414-software-deployment-configuration">4.1.4. Software Deployment Configuration</a><br>
+	</ul>
+            <a href="#42-landing-page--mobile-application-implementation">4.2. Landing Page & Mobile Application Implementation</a><br>
+		<ul>
+            <a href="#421-sprint-1">4.2.1. Sprint 1</a><br>
+			<ul>
+            <a href="#4211-sprint-planning-1">4.2.1.1. Sprint Planning 1</a><br>
+            <a href="#4212-sprint-backlog-1">4.2.1.2. Sprint Backlog 1</a><br>
+            <a href="#4213-development-evidence-for-sprint-review">4.2.1.3. Development Evidence for Sprint Review</a><br>
+            <a href="#4214-testing-suite-evidence-for-sprint-review">4.2.1.4. Testing Suite Evidence for Sprint Review</a><br>
+            <a href="#4215-execution-evidence-for-sprint-review">4.2.1.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#4216-services-documentation-evidence-for-sprint-review">4.2.1.6. Services Documentation Evidence for Sprint Review</a><br>
+            <a href="#4217-software-deployment-evidence-for-sprint-review">4.2.1.7. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#4218-team-collaboration-insights-during-sprint">4.2.1.8. Team Collaboration Insights during Sprint</a><br>
+			</ul>
+            <a href="#422-sprint-2">4.2.2. Sprint 2</a><br>
+			<ul>
+            <a href="#4221-sprint-planning-2">4.2.2.1. Sprint Planning 2</a><br>
+            <a href="#4222-sprint-backlog-2">4.2.2.2. Sprint Backlog 2</a><br>
+            <a href="#4223-development-evidence-for-sprint-review">4.2.2.3. Development Evidence for Sprint Review</a><br>
+            <a href="#4224-testing-suite-evidence-for-sprint-review">4.2.2.4. Testing Suite Evidence for Sprint Review</a><br>
+            <a href="#4225-execution-evidence-for-sprint-review">4.2.2.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#4226-services-documentation-evidence-for-sprint-review">4.2.2.6. Services Documentation Evidence for Sprint Review</a><br>
+            <a href="#4227-software-deployment-evidence-for-sprint-review">4.2.2.7. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#4228-team-collaboration-insights-during-sprint">4.2.2.8. Team Collaboration Insights during Sprint</a><br>
+			</ul>
+            <a href="#423-sprint-3">4.2.3. Sprint 3</a><br>
+			<ul>
+            <a href="#4231-sprint-planning-3">4.2.3.1. Sprint Planning 3</a><br>
+            <a href="#4232-sprint-backlog-3">4.2.3.2. Sprint Backlog 3</a><br>
+            <a href="#4233-development-evidence-for-sprint-review">4.2.3.3. Development Evidence for Sprint Review</a><br>
+            <a href="#4234-testing-suite-evidence-for-sprint-review">4.2.3.4. Testing Suite Evidence for Sprint Review</a><br>
+            <a href="#4235-execution-evidence-for-sprint-review">4.2.3.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#4236-services-documentation-evidence-for-sprint-review">4.2.3.6. Services Documentation Evidence for Sprint Review</a><br>
+            <a href="#4237-software-deployment-evidence-for-sprint-review">4.2.3.7. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#4238-team-collaboration-insights-during-sprint">4.2.3.8. Team Collaboration Insights during Sprint</a><br>
+			</ul>
+		</ul>
+            <a href="#43-validation-interviews">4.3. Validation Interviews</a><br>
+		<ul>
+            <a href="#431-diseño-de-entrevistas">4.3.1. Diseño de Entrevistas</a><br>
+            <a href="#432-registro-de-entrevistas">4.3.2. Registro de Entrevistas</a><br>
+            <a href="#433-evaluaciones-según-heurísticas">4.3.3. Evaluaciones según heurísticas</a><br>
+		</ul>
+        </ul>        
+
 <a href="#conclusiones">Conclusiones</a>
 <ul>
     <a href="#conclusiones-y-recomendaciones">Conclusiones y recomendaciones</a><br>
+    <a href="#video-app-validation">Video App Validation</a><br>
+    <a href="#video-about-the-product">Video About the product</a><br>
     <a href="#video-about-the-team">Video About the team</a>
 </ul>
+
+<ul><a href="#glosario">Glosario</a></ul>
+
 <a href="#bibliografía">Bibliografía</a>
 
 <a href="#anexos">Anexos</a>
+
 <hr>
 
 <a id="student-outcome"></a>
@@ -274,7 +405,6 @@
 
 <a id="111-descripción-de-la-startup"></a>
 ### **1.1.1. Descripción de la Startup**
-
 PsyWell es una startup tecnológica orientada al desarrollo de soluciones digitales que fortalecen la salud mental a través del seguimiento continuo y la intervención temprana. Esta iniciativa surge como respuesta a la necesidad urgente de brindar apoyo psicológico constante entre sesiones terapéuticas, considerando que el acceso a los servicios de salud mental en el Perú presenta serias limitaciones.
 
 Como señalan Piazza y Fiestas (2015), “sólo una de cada cinco personas que presentaron algún trastorno durante los últimos 12 meses recibió tratamiento durante ese período” (p. 338). Esta brecha de atención evidencia la necesidad de contar con herramientas complementarias que amplíen el alcance de la atención psicológica y ofrezcan acompañamiento accesible, oportuno y confiable para la población.
@@ -303,7 +433,6 @@ Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fort
 
 <a id="121-antecedentes-y-problemática"></a>
 ### **1.2.1. Antecedentes y Problemática**
-
 What – ¿Cuál es el problema?
 
 En el sector de la salud mental en el Perú, existe una gran brecha entre la demanda de atención psicológica y la disponibilidad de servicios. Muchas personas no acceden a tratamiento oportuno debido a limitaciones de recursos, costos y tiempos de espera. Además, entre las sesiones terapéuticas no existe un acompañamiento constante, lo que dificulta la continuidad del proceso y aumenta el riesgo de recaídas emocionales o crisis no atendidas (Piazza & Fiestas, 2015).
@@ -337,8 +466,6 @@ Los costos de no atender este problema son elevados. En términos sociales, la f
 
 <a id="1221-lean-ux-problem-statements"></a>
 #### **1.2.2.1. Lean UX Problem Statements**
-
-
 **Problem Statement 1:**  
  Nuestra plataforma ha sido diseñada para ayudar a usuarios generales a gestionar su bienestar emocional y prevenir crisis a través de un acompañamiento digital continuo. A través de herramientas como registro diario de emociones, ejercicios de relajación y recomendaciones personalizadas, buscamos ofrecer apoyo inmediato y accesible en la vida cotidiana.
 
@@ -415,7 +542,6 @@ Los costos de no atender este problema son elevados. En términos sociales, la f
 
 <a id="13-segmentos-objetivos"></a>
 ## **1.3. Segmentos Objetivos**
-
 ### **Segmento Objetivo 1:**
 
 ###  **Usuarios generales (autoayuda y pacientes en terapia)**
@@ -481,8 +607,8 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 
 
 
-<a id="capítulo-ii-requirements-elicitation--analysis"></a>
-# **Capítulo II: Requirements Elicitation & Analysis**
+<a id="capítulo-ii-requirements-development-and-software-solution-design"></a>
+# **Capítulo II: Requirements Development and Software Solution Design**
 
 <a id="21-competidores"></a>
 ## **2.1. Competidores**
@@ -520,263 +646,627 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 <a id="234-empathy-mapping"></a>
 ### **2.3.4. Empathy Mapping**
 
-<a id="235-as-is-scenario-mapping"></a>
-### **2.3.5. As-is Scenario Mapping**
+<a id="235-ubiquitous-language"></a>
+### **2.3.5. Ubiquitous Language**
+
+<a id="24-requirements-specification"></a>
+## **2.4. Requirements specification**
+
+<a id="241-user-stories"></a>
+### **2.4.1. User Stories**
+## **EPICS**
+
+| Epic ID | Título | Descripción |
+|---------|--------|-------------|
+| EP01 | Estructura y Navegación de Landing | Header, navegación, secciones informativas y call-to-action |
+| EP02 | Planes, Testimonios y Contacto | Comparación de planes, testimonios dinámicos y formulario de contacto |
+| EP03 | Autenticación y Registro | Login, registro, social login y gestión de cuentas de usuarios |
+| EP04 | Gestión de Perfiles de Usuario | Perfiles diferenciados para usuarios generales, pacientes y psicólogos |
+| EP05 | Check-ins y Seguimiento Emocional | Check-ins diarios, registro emocional y seguimiento de estados de ánimo |
+| EP06 | IA y Recomendaciones | Chat con IA emocional, reconocimiento facial y recomendaciones personalizadas |
+| EP07 | Crisis y Emergencias | Botón de crisis, alertas inmediatas y herramientas de contención |
+| EP08 | Conexión Psicólogo-Paciente | Sistema de códigos, vinculación y comunicación directa |
+| EP09 | Dashboard Profesional | Panel de control para psicólogos, monitoreo de pacientes y reportes |
+| EP10 | Biblioteca de Recursos | Ejercicios, técnicas terapéuticas y contenido asignado por psicólogos |
+| EP11 | Notificaciones y Recordatorios | Push notifications, recordatorios personalizables y alertas |
+| EP12 | Suscripciones y Planes | Gestión de planes gratuito/premium, pagos y funcionalidades por plan |
+
+## **USER STORIES**
+
+| Story ID | Título | Descripción | Criterios de Aceptación | Epic ID |
+|----------|--------|-------------|------------------------|---------|
+| US01 | Visualizar header con navegación | Como visitante, Quiero ver un header fijo con logo y menú de navegación, Para acceder fácilmente a las diferentes secciones de la página. | **Escenario 1:** Header visible y fijo<br/>Given que el visitante accede a la landing page<br/>When navega por la página<br/>Then el header permanece fijo en la parte superior mostrando logo "Soft Focus" y menú (Inicio, Funcionalidades, Planes, Contacto/Descarga)<br/><br/>**Escenario 2:** Navegación funcional<br/>Given que el visitante ve el menú de navegación<br/>When hace clic en cualquier opción del menú<br/>Then la página se desplaza suavemente a la sección correspondiente | EP01 |
+| US02 | Acceder a descarga de app | Como visitante, Quiero ver botones destacados para descargar la app, Para acceder rápidamente a las tiendas de aplicaciones. | **Escenario 1:** Botones en header y CTA final<br/>Given que el visitante navega por la landing<br/>When observa header y sección final<br/>Then ve botones "Descargar App" destacados visualmente<br/><br/>**Escenario 2:** Redirección a tiendas<br/>Given que el visitante hace clic en descargar<br/>When el sistema detecta su dispositivo<br/>Then redirige a App Store (iOS) o Google Play (Android) | EP01 |
+| US03 | Visualizar contenido principal y funcionalidades | Como visitante, Quiero ver secciones hero, problema/solución y funcionalidades, Para entender el propósito y beneficios de la aplicación. | **Escenario 1:** Sección hero atractiva<br/>Given que el visitante accede a la landing<br/>When llega a la página<br/>Then ve imagen de la app, mensaje "Tu acompañamiento emocional, todos los días" y CTA<br/><br/>**Escenario 2:** Información clara de funcionalidades<br/>Given que el visitante explora la página<br/>When revisa las secciones<br/>Then ve problema/solución, beneficios con íconos y funcionalidades por tipo de usuario (generales/pacientes vs psicólogos) | EP01 |
+| US04 | Comparar planes y precios | Como visitante interesado, Quiero ver una tabla comparativa de planes, Para elegir la opción que mejor se adapte a mis necesidades. | **Escenario 1:** Tabla comparativa completa<br/>Given que el visitante accede a la sección planes<br/>When revisa las opciones<br/>Then ve planes para usuarios (Gratuito vs Premium $12.99/mes) y psicólogos (Básica $39.99/mes vs Premium $69.99/mes)<br/><br/>**Escenario 2:** CTAs funcionales<br/>Given que el visitante decide actuar<br/>When hace clic en "Empieza Gratis" o "Solicitar Licencia"<br/>Then es redirigido a tiendas o formulario según corresponda | EP02 |
+| US05 | Ver testimonios dinámicos | Como visitante, Quiero leer testimonios auténticos de usuarios reales, Para generar confianza en la aplicación. | **Escenario 1:** Testimonios del backend<br/>Given que existen reseñas aprobadas en el sistema<br/>When el visitante accede a la sección testimonios<br/>Then ve comentarios reales filtrados automáticamente en formato carrusel<br/><br/>**Escenario 2:** Respaldo con testimonios estáticos<br/>Given que no hay suficientes reseñas reales<br/>When el visitante ve la sección<br/>Then se muestran testimonios predefinidos para mantener credibilidad | EP02 |
+| US06 | Contactar para información de planes profesionales | Como psicólogo interesado, Quiero llenar un formulario de contacto, Para recibir información sobre los planes de suscripción profesionales. | **Escenario 1:** Formulario de contacto funcional<br/>Given que el psicólogo quiere más información sobre planes<br/>When accede al formulario<br/>Then puede completar campos: nombre, email, tipo de práctica, mensaje<br/><br/>**Escenario 2:** Envío por email exitoso<br/>Given que el psicólogo completa y envía el formulario<br/>When se procesa la información<br/>Then el sistema envía email con los datos y muestra confirmación | EP02 |
+| US07 | Acceder a footer con información legal | Como visitante, Quiero encontrar información legal y redes sociales en el footer, Para conocer términos de uso y seguir a la empresa. | **Escenario 1:** Footer completo<br/>Given que el visitante llega al final de la página<br/>When revisa el footer<br/>Then encuentra contacto, Términos y Condiciones, Política de Privacidad y redes sociales<br/><br/>**Escenario 2:** Enlaces externos funcionales<br/>Given que el visitante hace clic en redes sociales<br/>When se procesan los enlaces<br/>Then se abren en nueva pestaña las páginas oficiales | EP02 |
+| US08 | Registrarse con email y contraseña | Como nuevo usuario, Quiero registrarme con email y contraseña, Para crear mi cuenta en la aplicación. | Escenario 1: Registro exitoso<br/>Given que el usuario accede a la pantalla de registro<br/>When completa email, contraseña, confirmar contraseña y acepta términos<br/>Then el sistema crea la cuenta y envía email de verificación<br/><br/>Escenario 2: Validación de datos<br/>Given que el usuario ingresa datos inválidos<br/>When intenta registrarse<br/>Then el sistema muestra errores específicos (email inválido, contraseña débil, etc.) | EP03 |
+| US09 | Iniciar sesión con credenciales | Como usuario registrado, Quiero iniciar sesión con email y contraseña, Para acceder a mi cuenta personal. | Escenario 1: Login exitoso<br/>Given que el usuario tiene una cuenta verificada<br/>When ingresa credenciales correctas<br/>Then accede al dashboard correspondiente a su tipo de usuario<br/><br/>Escenario 2: Credenciales incorrectas<br/>Given que el usuario ingresa datos incorrectos<br/>When intenta iniciar sesión<br/>Then el sistema muestra mensaje de error sin especificar si es email o contraseña | EP03 |
+| US10 | Autenticarse con redes sociales | Como usuario, Quiero iniciar sesión con Google o Facebook, Para acceder rápidamente sin crear contraseña. | Escenario 1: Social login exitoso<br/>Given que el usuario selecciona login social<br/>When autoriza el acceso desde Google/Facebook<br/>Then el sistema crea/accede a la cuenta automáticamente<br/><br/>Escenario 2: Primera vez con social login<br/>Given que es la primera vez usando social login<br/>When completa la autorización<br/>Then el sistema solicita información adicional requerida (tipo de usuario) | EP03 |
+| US11 | Seleccionar tipo de usuario al registrarse | Como nuevo usuario, Quiero seleccionar si soy usuario general o psicólogo, Para acceder a las funcionalidades correspondientes. | Escenario 1: Selección de tipo de usuario<br/>Given que el usuario completa el registro<br/>When llega a la pantalla de selección de perfil<br/>Then puede elegir entre "Usuario General" y "Psicólogo"<br/><br/>Escenario 2: Validación para psicólogos<br/>Given que el usuario selecciona "Psicólogo"<br/>When procede con el registro<br/>Then el sistema solicita información adicional para validar credenciales profesionales | EP04 |
+| US12 | Completar perfil de usuario general | Como usuario general, Quiero completar mi perfil básico, Para personalizar mi experiencia en la app. | Escenario 1: Información básica<br/>Given que el usuario general accede por primera vez<br/>When completa el onboarding<br/>Then ingresa: nombre, edad, intereses, objetivos de bienestar emocional<br/><br/>Escenario 2: Configuración de notificaciones<br/>Given que el usuario completa su perfil<br/>When llega a configuraciones<br/>Then puede activar/desactivar recordatorios de check-ins diarios | EP04 |
+| US13 | Completar perfil de psicólogo | Como psicólogo, Quiero completar mi perfil profesional, Para usar las herramientas especializadas. | Escenario 1: Información profesional<br/>Given que el psicólogo se registra<br/>When completa el perfil<br/>Then ingresa: nombre, colegio profesional, número de colegiatura, especialidades, años de experiencia<br/><br/>Escenario 2: Generación de código de invitación<br/>Given que el psicólogo completa su perfil<br/>When accede al dashboard<br/>Then el sistema genera automáticamente su código único para invitar pacientes | EP04 |
+| US14 | Realizar check-in diario | Como usuario, Quiero completar mi check-in emocional diario, Para registrar mi estado de ánimo y recibir recomendaciones. | Escenario 1: Check-in básico<br/>Given que el usuario accede a la app<br/>When selecciona "Check-in diario"<br/>Then responde preguntas predeterminadas sobre su estado emocional<br/><br/>Escenario 2: Check-in personalizado por psicólogo<br/>Given que el usuario tiene psicólogo asignado<br/>When realiza el check-in<br/>Then ve preguntas adicionales personalizadas por su terapeuta | EP05 |
+| US15 | Ver historial de estados emocionales | Como usuario, Quiero visualizar mi progreso emocional en el tiempo, Para entender mis patrones y mejoras. | Escenario 1: Gráfico de evolución<br/>Given que el usuario ha completado varios check-ins<br/>When accede a "Mi Progreso"<br/>Then ve gráficos de su evolución emocional semanal y mensual<br/><br/>Escenario 2: Identificación de patrones<br/>Given que el usuario revisa su historial<br/>When observa los datos<br/>Then puede identificar días de mejora/empeoramiento con notas contextuales | EP05 |
+| US16 | Configurar recordatorios de check-in | Como usuario, Quiero personalizar recordatorios para mis check-ins, Para mantener consistencia en mi seguimiento. | Escenario 1: Configuración de horarios<br/>Given que el usuario accede a configuraciones<br/>When selecciona recordatorios<br/>Then puede establecer hora preferida y frecuencia de notificaciones<br/><br/>Escenario 2: Desactivar recordatorios<br/>Given que el usuario no quiere notificaciones<br/>When modifica configuraciones<br/>Then puede desactivar completamente los recordatorios automáticos | EP05 |
+| US17 | Chatear con IA emocional | Como usuario, Quiero conversar con la IA sobre mi estado emocional, Para recibir apoyo inmediato y técnicas de manejo. | Escenario 1: Chat básico disponible<br/>Given que el usuario se siente mal<br/>When accede al chat con IA<br/>Then puede describir su situación y recibir respuestas empáticas y sugerencias de técnicas<br/><br/>Escenario 2: Limitaciones para usuarios gratuitos<br/>Given que el usuario tiene plan gratuito<br/>When usa el chat IA<br/>Then tiene limitación de 3 conversaciones por semana | EP06 |
+| US18 | Usar reconocimiento facial de emociones | Como usuario, Quiero que la app analice mis expresiones faciales, Para obtener un análisis objetivo de mi estado emocional. | Escenario 1: Análisis facial opcional<br/>Given que el usuario inicia un check-in<br/>When se le ofrece el análisis facial<br/>Then puede activar la cámara para análisis de expresiones<br/><br/>Escenario 2: Resultados del análisis<br/>Given que el usuario completa el análisis facial<br/>When la IA procesa la imagen<br/>Then recibe feedback sobre emociones detectadas y sugerencias basadas en el análisis | EP06 |
+| US19 | Recibir recomendaciones personalizadas | Como usuario, Quiero recibir sugerencias de contenido según mi estado, Para mejorar mi bienestar emocional. | Escenario 1: Recomendaciones automáticas<br/>Given que el usuario completa un check-in<br/>When reporta estado emocional bajo<br/>Then recibe recomendaciones de ejercicios de respiración, música relajante, películas positivas<br/><br/>Escenario 2: Recomendaciones del psicólogo<br/>Given que el usuario tiene psicólogo asignado<br/>When su terapeuta le asigna contenido<br/>Then ve una sección "Asignado por tu terapeuta" con recursos específicos | EP06 |
+| US20 | Activar botón de crisis | Como usuario en crisis, Quiero presionar un botón de emergencia, Para recibir ayuda inmediata de mi psicólogo. | Escenario 1: Alerta a psicólogo<br/>Given que el usuario tiene psicólogo asignado<br/>When presiona el botón de crisis<br/>Then se envía alerta inmediata al terapeuta con ubicación y estado actual<br/><br/>Escenario 2: Recursos de autoayuda<br/>Given que el usuario no tiene psicólogo asignado<br/>When activa el botón de crisis<br/>Then accede a recursos de emergencia, líneas de ayuda y técnicas de contención inmediata | EP07 |
+| US21 | Acceder a herramientas de contención | Como usuario en crisis, Quiero usar técnicas de contención inmediata, Para estabilizar mi estado emocional. | Escenario 1: Técnicas de respiración<br/>Given que el usuario está en crisis<br/>When accede a herramientas de contención<br/>Then encuentra ejercicios guiados de respiración, relajación muscular y mindfulness<br/><br/>Escenario 2: Contenido calmante<br/>Given que el usuario necesita distracción positiva<br/>When busca herramientas de contención<br/>Then accede a música relajante, videos de meditación y contenido visual calmante | EP07 |
+| US22 | Conectarse con psicólogo mediante código | Como paciente, Quiero ingresar el código de mi psicólogo, Para establecer la conexión terapéutica en la app. | Escenario 1: Código válido<br/>Given que el paciente tiene un código de su psicólogo<br/>When lo ingresa en la sección "Conectar con psicólogo"<br/>Then se establece la vinculación y aparece el perfil del terapeuta<br/><br/>Escenario 2: Código inválido<br/>Given que el paciente ingresa un código incorrecto<br/>When intenta conectarse<br/>Then recibe mensaje de error y opción para reintentar o contactar soporte | EP08 |
+| US23 | Generar código de invitación | Como psicólogo, Quiero generar códigos únicos, Para invitar a mis pacientes a conectarse conmigo. | Escenario 1: Generación automática<br/>Given que el psicólogo accede a su dashboard<br/>When ve la sección "Invitar pacientes"<br/>Then encuentra su código único generado automáticamente<br/><br/>Escenario 2: Compartir código<br/>Given que el psicólogo quiere invitar un paciente<br/>When selecciona "Compartir código"<br/>Then puede enviarlo por mensaje, email o mostrarlo en pantalla | EP08 |
+| US24 | Chatear con pacientes | Como psicólogo, Quiero comunicarme directamente con mis pacientes, Para brindar contención emocional entre sesiones. | Escenario 1: Chat en tiempo real<br/>Given que el psicólogo tiene pacientes conectados<br/>When accede al chat de un paciente específico<br/>Then puede enviar mensajes de texto en tiempo real<br/><br/>Escenario 2: Mensajes de contención<br/>Given que el paciente está en crisis<br/>When el psicólogo recibe la alerta<br/>Then puede responder inmediatamente con mensajes de apoyo y técnicas específicas | EP08 |
+| US25 | Ver lista básica de pacientes | Como psicólogo, Quiero ver una lista simple de mis pacientes, Para acceder rápidamente a su información. | Escenario 1: Lista de pacientes<br/>Given que el psicólogo accede a su dashboard<br/>When revisa sus pacientes<br/>Then ve lista con nombre, último check-in y estado básico (bien/regular/mal)<br/><br/>Escenario 2: Acceso directo al perfil<br/>Given que el psicólogo selecciona un paciente<br/>When hace clic en su nombre<br/>Then accede directamente al perfil básico del paciente | EP09 |
+| US26 | Ver perfil básico de paciente | Como psicólogo, Quiero ver información esencial del paciente, Para conocer su estado actual sin complejidad. | Escenario 1: Información básica<br/>Given que el psicólogo accede al perfil de un paciente<br/>When revisa la información<br/>Then ve check-ins recientes, estado emocional actual y medicamentos registrados<br/><br/>Escenario 2: Historial simple<br/>Given que el psicólogo revisa el historial<br/>When ve los datos<br/>Then encuentra lista cronológica de check-ins con fechas y estados emocionales | EP09 |
+| US27 | Asignar ejercicios y recursos | Como psicólogo, Quiero asignar actividades específicas a mis pacientes, Para complementar el tratamiento terapéutico. | Escenario 1: Biblioteca de recursos<br/>Given que el psicólogo quiere asignar contenido<br/>When accede a la biblioteca de intervenciones<br/>Then puede seleccionar ejercicios categorizados por trastorno, técnica y nivel de urgencia<br/><br/>Escenario 2: Asignación personalizada<br/>Given que el psicólogo selecciona recursos<br/>When los asigna a un paciente específico<br/>Then aparecen en la sección "Asignado por tu terapeuta" del paciente | EP09 |
+| US28 | Recibir alertas de crisis | Como psicólogo, Quiero ser notificado cuando un paciente está en crisis, Para brindar apoyo inmediato. | Escenario 1: Alerta inmediata<br/>Given que un paciente presiona botón de crisis<br/>When se procesa la alerta<br/>Then el psicólogo recibe notificación push con nombre del paciente<br/><br/>Escenario 2: Acceso rápido al chat<br/>Given que el psicólogo recibe alerta de crisis<br/>When abre la notificación<br/>Then accede directamente al chat con el paciente en crisis | EP09 |
+| US29 | Acceder a biblioteca de ejercicios | Como usuario, Quiero explorar ejercicios de bienestar, Para mejorar mi estado emocional de forma autónoma. | Escenario 1: Ejercicios generales<br/>Given que el usuario accede a la biblioteca<br/>When explora las categorías<br/>Then encuentra ejercicios de respiración, mindfulness, relajación muscular y técnicas de manejo de ansiedad<br/><br/>Escenario 2: Contenido limitado para gratuitos<br/>Given que el usuario tiene plan gratuito<br/>When accede a la biblioteca<br/>Then ve contenido básico con opción de upgrade para acceso completo | EP10 |
+| US30 | Realizar ejercicios guiados | Como usuario, Quiero seguir ejercicios paso a paso, Para practicar técnicas terapéuticas correctamente. | Escenario 1: Ejercicio interactivo<br/>Given que el usuario selecciona un ejercicio<br/>When lo inicia<br/>Then recibe instrucciones audio/visuales paso a paso con temporizadores<br/><br/>Escenario 2: Registro de progreso<br/>Given que el usuario completa un ejercicio<br/>When finaliza la sesión<br/>Then puede calificar su efectividad y el sistema registra su progreso | EP10 |
+| US31 | Ver contenido asignado por terapeuta | Como paciente, Quiero acceder a recursos específicos de mi psicólogo, Para seguir mi plan de tratamiento personalizado. | Escenario 1: Sección dedicada<br/>Given que el paciente tiene psicólogo asignado<br/>When accede a la app<br/>Then ve claramente la sección "Asignado por tu terapeuta" con contenido específico<br/><br/>Escenario 2: Seguimiento de cumplimiento<br/>Given que el paciente completa tareas asignadas<br/>When las marca como completadas<br/>Then el psicólogo recibe notificación del progreso | EP10 |
+| US32 | Ver recomendaciones de películas y series | Como usuario, Quiero recibir sugerencias de contenido audiovisual, Para mejorar mi estado de ánimo con entretenimiento apropiado. | Escenario 1: Recomendaciones por estado de ánimo<br/>Given que el usuario completa un check-in<br/>When reporta su estado emocional<br/>Then ve recomendaciones de películas/series con imagen, sinopsis y trailer<br/><br/>Escenario 2: Redirección a plataformas<br/>Given que el usuario selecciona contenido recomendado<br/>When hace clic en "Ver ahora"<br/>Then es redirigido a Netflix, Prime Video u otra plataforma disponible | EP10 |
+| US33 | Explorar música recomendada | Como usuario, Quiero acceder a música según mi estado emocional, Para usar la musicoterapia como herramienta de bienestar. | Escenario 1: Sugerencias musicales<br/>Given que el usuario busca contenido calmante<br/>When accede a recomendaciones musicales<br/>Then ve canciones/playlists con imagen del álbum y descripción del efecto emocional<br/><br/>Escenario 2: Reproducción externa<br/>Given que el usuario selecciona música<br/>When presiona el botón de reproducir<br/>Then es redirigido a Spotify, Apple Music u otra plataforma musical | EP10 |
+| US34 | Ver videos de técnicas terapéuticas | Como usuario, Quiero acceder a videos educativos sobre técnicas de bienestar, Para aprender ejercicios de forma visual. | Escenario 1: Biblioteca de videos<br/>Given que el usuario busca técnicas visuales<br/>When accede a la sección de videos<br/>Then encuentra contenido de YouTube sobre respiración, meditación y relajación<br/><br/>Escenario 2: Reproducción integrada<br/>Given que el usuario selecciona un video<br/>When lo reproduce<br/>Then se abre reproductor integrado o redirige a YouTube según configuración | EP10 |
+| US35 | Recibir recomendaciones de lugares | Como usuario, Quiero obtener sugerencias de lugares cercanos, Para realizar actividades que mejoren mi estado de ánimo. | Escenario 1: Lugares por estado de ánimo<br/>Given que el usuario reporta estado emocional bajo<br/>When solicita recomendaciones de lugares<br/>Then ve sugerencias de parques, cafés, centros culturales cercanos obtenidos de Google Places<br/><br/>Escenario 2: Consideración del clima<br/>Given que el usuario quiere salir<br/>When se generan recomendaciones<br/>Then el sistema considera el clima actual para sugerir actividades indoor/outdoor apropiadas | EP10 |
+| US36 | Usar calendario emocional | Como usuario, Quiero registrar mi estado de ánimo en un calendario, Para visualizar mis patrones emocionales de forma simple. | Escenario 1: Marcar días con emojis<br/>Given que el usuario completa un check-in<br/>When registra su estado emocional<br/>Then puede seleccionar un emoji predefinido que se marca en el calendario del día<br/><br/>Escenario 2: Vista mensual del calendario<br/>Given que el usuario accede al calendario<br/>When revisa el mes actual<br/>Then ve todos los días marcados con emojis representando su estado emocional histórico | EP05 |
+| US37 | Recibir notificaciones push | Como usuario, Quiero recibir alertas en mi dispositivo, Para mantenerme al día con mi seguimiento emocional. | Escenario 1: Recordatorios de check-in<br/>Given que el usuario tiene recordatorios activados<br/>When llega la hora configurada<br/>Then recibe notificación push para realizar su check-in diario<br/><br/>Escenario 2: Alertas de crisis para psicólogos<br/>Given que un paciente activa el botón de crisis<br/>When se procesa la alerta<br/>Then el psicólogo recibe notificación inmediata con prioridad alta | EP11 |
+| US38 | Configurar preferencias de notificaciones | Como usuario, Quiero personalizar qué notificaciones recibir, Para controlar las interrupciones según mis necesidades. | Escenario 1: Configuración granular<br/>Given que el usuario accede a configuraciones<br/>When modifica notificaciones<br/>Then puede activar/desactivar recordatorios, alertas, mensajes del psicólogo por separado<br/><br/>Escenario 2: Horarios de silencio<br/>Given que el usuario quiere períodos sin notificaciones<br/>When configura horarios<br/>Then puede establecer "modo silencio" en horarios específicos | EP11 |
+| US39 | Upgradar a plan premium | Como usuario, Quiero actualizar mi suscripción, Para acceder a funcionalidades avanzadas. | Escenario 1: Comparación de planes<br/>Given que el usuario gratuito ve limitaciones<br/>When accede a "Actualizar plan"<br/>Then ve comparación clara entre plan gratuito y premium con beneficios específicos<br/><br/>Escenario 2: Proceso de pago<br/>Given que el usuario decide upgradar<br/>When selecciona plan premium<br/>Then puede pagar a través de App Store/Google Play y obtiene acceso inmediato | EP12 |
+| US40 | Gestionar suscripción de psicólogo | Como psicólogo, Quiero administrar mi plan de suscripción, Para ajustarlo según mi práctica profesional. | Escenario 1: Upgrade de plan profesional<br/>Given que el psicólogo tiene plan básico<br/>When necesita más funcionalidades<br/>Then puede upgradar a plan premium con análisis básico y pacientes ilimitados<br/><br/>Escenario 2: Gestión de facturación<br/>Given que el psicólogo administra su suscripción<br/>When accede a configuraciones de cuenta<br/>Then puede ver historial de pagos, cambiar método de pago y descargar facturas | EP12 |
+| US41 | Explorar directorio de psicólogos | Como usuario general, Quiero ver un directorio de psicólogos disponibles, Para encontrar un profesional que se adapte a mis necesidades. | Escenario 1: Visualización del directorio<br/>Given que el usuario general accede a "Buscar Psicólogo"<br/>When explora el directorio<br/>Then ve perfiles con foto, nombre, especialidades, años de experiencia, calificaciones y precio por sesión<br/><br/>Escenario 2: Filtros de búsqueda<br/>Given que el usuario quiere encontrar un especialista<br/>When aplica filtros<br/>Then puede filtrar por especialidad, precio, calificación y disponibilidad | EP08 |
+| US42 | Solicitar conexión con psicólogo | Como usuario general, Quiero solicitar conexión con un psicólogo del directorio, Para obtener sus datos de contacto. | Escenario 1: Solicitud exitosa<br/>Given que el usuario selecciona un psicólogo<br/>When presiona "Solicitar conexión"<br/>Then el sistema muestra los datos de contacto del psicólogo (email, teléfono, WhatsApp)<br/><br/>Escenario 2: Instrucciones claras<br/>Given que se muestran los datos de contacto<br/>When el usuario los ve<br/>Then aparecen instrucciones sobre cómo proceder con el contacto externo y obtener el código | EP08 |
+
+
+## **TECHNICAL STORIES**
+
+| ID | Título Técnico | Descripción | Relacionado con |
+|----|----------------|-------------|-----------------|
+| TS01 | Implementar Auth bounded context | Como developer, quiero crear el contexto de autenticación con registro, login y social login. | US08, US09, US10 |
+| TS02 | Configurar esquemas de usuario en MongoDB | Como developer, quiero diseñar colecciones para usuarios con roles diferenciados. | US08, US11 |
+| TS03 | Implementar sistema JWT y OAuth | Como developer, quiero crear autenticación segura con tokens y proveedores externos. | US09, US10 |
+| TS04 | Crear Profiles bounded context | Como developer, quiero implementar gestión de perfiles diferenciados por tipo de usuario. | US11, US12, US13 |
+| TS05 | Generar códigos únicos para psicólogos | Como developer, quiero implementar lógica de generación automática de códigos de invitación. | US13, US23 |
+| TS06 | Implementar Tracking bounded context | Como developer, quiero crear el contexto de seguimiento emocional y check-ins. | US14, US15, US16, US36 |
+| TS07 | Diseñar esquema de check-ins emocionales | Como developer, quiero estructurar almacenamiento de registros diarios en MongoDB. | US14, US15 |
+| TS08 | Sistema de calendario con emojis | Como developer, quiero implementar registro y visualización de estados emocionales por fecha. | US36 |
+| TS09 | Crear Crisis bounded context | Como developer, quiero implementar manejo de alertas de crisis y recursos de emergencia. | US20, US21, US28 |
+| TS10 | Sistema de alertas en tiempo real | Como developer, quiero usar WebSockets para notificaciones inmediatas de crisis. | US20, US28 |
+| TS11 | Implementar Therapy bounded context | Como developer, quiero crear el contexto de relación terapéutica  | US22, US23, US24, US25, US26, US27 |
+| TS12 | Directorio público de psicólogos | Como developer, quiero crear endpoint para mostrar perfiles públicos de psicólogos disponibles. | US41,US42 |
+| TS13 | Sistema de solicitudes de conexión | Como developer, quiero implementar flujo de solicitud y entrega de datos de contacto. | US41,US42 |
+| TS14 | Chat en tiempo real psicólogo-paciente | Como developer, quiero implementar WebSockets para comunicación directa. | US24 |
+| TS15 | Crear Content bounded context | Como developer, quiero implementar biblioteca de recursos y asignaciones terapéuticas. | US27, US29, US30, US31 |
+| TS16 | Base de datos de ejercicios categorizados | Como developer, quiero crear colección con ejercicios organizados por tipo y nivel. | US29, US30 |
+| TS17 | Sistema de asignaciones terapeuta-paciente | Como developer, quiero implementar funcionalidad para asignar contenido específico. | US27, US31 |
+| TS18 | Implementar AI bounded context | Como developer, quiero integrar servicios de IA para chat emocional y reconocimiento facial. | US17, US18, US19 |
+| TS19 | Integración con Google Gemini API | Como developer, quiero conectar con IA conversacional para chat emocional. | US17 |
+| TS20 | API de reconocimiento de expresiones faciales | Como developer, quiero integrar servicio para análisis de emociones por cámara. | US18 |
+| TS21 | Crear Integrations bounded context | Como developer, quiero implementar conexiones con APIs externas de contenido. | US32, US33, US34, US35 |
+| TS22 | Integración con APIs de streaming | Como developer, quiero conectar con servicios de películas y series para recomendaciones. | US32 |
+| TS23 | Integración con APIs musicales | Como developer, quiero conectar con Spotify/Apple Music para sugerencias musicales. | US33 |
+| TS24 | Integración con YouTube API | Como developer, quiero obtener videos de técnicas terapéuticas. | US34 |
+| TS25 | Integración con Google Places y clima | Como developer, quiero obtener recomendaciones de lugares y datos meteorológicos. | US35 |
+| TS26 | Implementar Notifications bounded context | Como developer, quiero crear sistema de notificaciones push personalizables. | US37, US38 |
+| TS27 | Configuración granular de notificaciones | Como developer, quiero permitir personalización detallada de alertas por usuario. | US38 |
+| TS28 | Crear Subscriptions bounded context | Como developer, quiero implementar gestión de planes y limitaciones por suscripción. | US39, US40 |
+| TS29 | Integración con App Store/Google Play | Como developer, quiero conectar con plataformas de pago para gestión de suscripciones. | US39, US40 |
+| TS30 | Sistema de limitaciones por plan | Como developer, quiero implementar control de acceso según tipo de suscripción. | US17, US29, US39, US40 |
+| TS31 | Implementar Shared services | Como developer, quiero crear servicios compartidos para email, storage y validaciones comunes. | Múltiples US |
+| TS32 | Servicio de email con templates | Como developer, quiero implementar envío de emails transaccionales con plantillas. | US08 |
+| TS33 | Integración con Cloudinary | Como developer, quiero implementar subida y gestión de imágenes en la nube. | US13 |
+| TS34 | Rate limiting para usuarios gratuitos | Como developer, quiero implementar limitaciones de uso según plan de suscripción. | US17 |
 
-<a id="24-ubiquitous-language"></a>
-## **2.4. Ubiquitous Language**
+<a id="242-impact-mapping"></a>
+### **2.4.2. Impact Mapping**
 
-<a id="capítulo-iii-requirements-specification"></a>
-# **Capítulo III: Requirements Specification**
+<a id="243-product-backlog"></a>
+### **2.4.3. Product Backlog**
 
-<a id="31-to-be-scenario-mapping"></a>
-## **3.1. To-Be Scenario Mapping**
+<a id="25-strategic-level-domain-driven-design"></a>
+## **2.5. Strategic-Level Domain-Driven Design**
 
-<a id="32-user-stories"></a>
-## **3.2. User Stories**
+<a id="251-eventstorming"></a>
+### **2.5.1. EventStorming**
 
-<a id="33-impact-mapping"></a>
-## **3.3. Impact Mapping**
+<a id="2511-candidate-context-discovery"></a>
+#### **2.5.1.1. Candidate Context Discovery**
 
-<a id="34-product-backlog"></a>
-## **3.4. Product Backlog**
+<a id="2512-domain-message-flows-modeling"></a>
+#### **2.5.1.2. Domain Message Flows Modeling**
 
-<a id="capítulo-iv-solution-software-design"></a>
-# **Capítulo IV: Solution Software Design**
+<a id="2513-bounded-context-canvases"></a>
+#### **2.5.1.3. Bounded Context Canvases**
 
-<a id="41-strategic-level-domain-driven-design"></a>
-## **4.1. Strategic-Level Domain-Driven Design**
+<a id="252-context-mapping"></a>
+### **2.5.2. Context Mapping**
 
-<a id="411-eventstorming"></a>
-### **4.1.1. EventStorming**
+<a id="253-software-architecture"></a>
+### **2.5.3. Software Architecture**
 
-<a id="4111-candidate-context-discovery"></a>
-#### **4.1.1.1. Candidate Context Discovery**
+<a id="2531-software-architecture-context-level-diagrams"></a>
+#### **2.5.3.1. Software Architecture Context Level Diagrams**
 
-<a id="4112-domain-message-flows-modeling"></a>
-#### **4.1.1.2. Domain Message Flows Modeling**
+<a id="2532-software-architecture-container-level-diagrams"></a>
+#### **2.5.3.2. Software Architecture Container Level Diagrams**
 
-<a id="4113-bounded-context-canvases"></a>
-#### **4.1.1.3. Bounded Context Canvases**
+<a id="2533-software-architecture-deployment-diagrams"></a>
+#### **2.5.3.3. Software Architecture Deployment Diagrams**
 
-<a id="412-context-mapping"></a>
-### **4.1.2. Context Mapping**
+<a id="26-tactical-level-domain-driven-design"></a>
+## **2.6. Tactical-Level Domain-Driven Design**
 
-<a id="413-software-architecture"></a>
-### **4.1.3. Software Architecture**
+<a id="261-bounded-context-auth"></a>
+### **2.6.1. Bounded Context: Auth**
 
-<a id="4131-software-architecture-context-level-diagrams"></a>
-#### **4.1.3.1. Software Architecture Context Level Diagrams**
+<a id="2611-domain-layer"></a>
+#### **2.6.1.1. Domain Layer**
 
-<a id="4132-software-architecture-container-level-diagrams"></a>
-#### **4.1.3.2. Software Architecture Container Level Diagrams**
+<a id="2612-interface-layer"></a>
+#### **2.6.1.2. Interface Layer**
 
-<a id="4133-software-architecture-deployment-diagrams"></a>
-#### **4.1.3.3. Software Architecture Deployment Diagrams**
+<a id="2613-application-layer"></a>
+#### **2.6.1.3. Application Layer**
 
-<a id="42-tactical-level-domain-driven-design"></a>
-## **4.2. Tactical-Level Domain-Driven Design**
+<a id="2614-infrastructure-layer"></a>
+#### **2.6.1.4 Infrastructure Layer**
 
-<a id="42x-bounded-context"></a>
-### **4.2.X. Bounded Context: <Bounded Context Name>**
+<a id="2615-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
-<a id="42x1-domain-layer"></a>
-#### **4.2.X.1. Domain Layer**
+<a id="2616-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams**
 
-<a id="42x2-interface-layer"></a>
-#### **4.2.X.2. Interface Layer**
+<a id="26161-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.1.6.1. Bounded Context Domain Layer Class Diagrams**
 
-<a id="42x3-application-layer"></a>
-#### **4.2.X.3. Application Layer**
+<a id="26162-bounded-context-database-design-diagram"></a>
+##### **2.6.1.6.2. Bounded Context Database Design Diagram**
 
-<a id="42x4-infrastructure-layer"></a>
-#### **4.2.X.4. Infrastructure Layer**
+<a id="262-bounded-context-profiles"></a>
+### **2.6.2. Bounded Context: Profiles**
 
-<a id="42x5-bounded-context-software-architecture-component-level-diagrams"></a>
-#### **4.2.X.5. Bounded Context Software Architecture Component Level Diagrams**
+<a id="2621-domain-layer"></a>
+#### **2.6.2.1. Domain Layer**
 
-<a id="42x6-bounded-context-software-architecture-code-level-diagrams"></a>
-#### **4.2.X.6. Bounded Context Software Architecture Code Level Diagrams**
+<a id="2622-interface-layer"></a>
+#### **2.6.2.2. Interface Layer**
 
-<a id="42x61-bounded-context-domain-layer-class-diagrams"></a>
-##### **4.2.X.6.1. Bounded Context Domain Layer Class Diagrams**
+<a id="2623-application-layer"></a>
+#### **2.6.2.3. Application Layer**
 
-<a id="42x62-bounded-context-database-design-diagram"></a>
-##### **4.2.X.6.2. Bounded Context Database Design Diagram**
+<a id="2624-infrastructure-layer"></a>
+#### **2.6.2.4 Infrastructure Layer**
 
-<a id="capítulo-v-solution-uiux-design"></a>
-# **Capítulo V: Solution UI/UX Design**
+<a id="2625-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.2.5. Bounded Context Software Architecture Component Level Diagrams**
 
-<a id="51-product-design"></a>
-## **5.1. Product Design**
+<a id="2626-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.2.6. Bounded Context Software Architecture Code Level Diagrams**
 
-<a id="511-style-guidelines"></a>
-### **5.1.1. Style Guidelines**
+<a id="26261-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
 
-<a id="5111-general-style-guidelines"></a>
-#### **5.1.1.1. General Style Guidelines**
+<a id="26262-bounded-context-database-design-diagram"></a>
+##### **2.6.2.6.2. Bounded Context Database Design Diagram**
 
-<a id="512-information-architecture"></a>
-### **5.1.2. Information Architecture**
+<a id="263-bounded-context-tracking"></a>
+### **2.6.3. Bounded Context: Tracking**
 
-<a id="5121-organization-systems"></a>
-#### **5.1.2.1. Organization Systems**
+<a id="2631-domain-layer"></a>
+#### **2.6.3.1. Domain Layer**
 
-<a id="5122-labelling-systems"></a>
-#### **5.1.2.2. Labelling Systems**
+<a id="2632-interface-layer"></a>
+#### **2.6.3.2. Interface Layer**
 
-<a id="5123-seo-tags-and-meta-tags"></a>
-#### **5.1.2.3. SEO Tags and Meta Tags**
+<a id="2633-application-layer"></a>
+#### **2.6.3.3. Application Layer**
 
-<a id="5124-searching-systems"></a>
-#### **5.1.2.4. Searching Systems**
+<a id="2634-infrastructure-layer"></a>
+#### **2.6.3.4 Infrastructure Layer**
 
-<a id="5125-navigation-systems"></a>
-#### **5.1.2.5. Navigation Systems**
+<a id="2635-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.3.5. Bounded Context Software Architecture Component Level Diagrams**
 
-<a id="513-landing-page-ui-design"></a>
-### **5.1.3. Landing Page UI Design**
+<a id="2636-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.3.6. Bounded Context Software Architecture Code Level Diagrams**
 
-<a id="5131-landing-page-wireframe"></a>
-#### **5.1.3.1. Landing Page Wireframe**
+<a id="26361-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.3.6.1. Bounded Context Domain Layer Class Diagrams**
 
-<a id="5132-landing-page-mock-up"></a>
-#### **5.1.3.2. Landing Page Mock-up**
+<a id="26362-bounded-context-database-design-diagram"></a>
+##### **2.6.3.6.2. Bounded Context Database Design Diagram**
 
-<a id="514-mobile-applications-uxui-design"></a>
-### **5.1.4. Mobile Applications UX/UI Design**
+<a id="264-bounded-context-crisis"></a>
+### **2.6.4. Bounded Context: Crisis**
 
-<a id="5141-mobile-applications-wireframes"></a>
-#### **5.1.4.1. Mobile Applications Wireframes**
+<a id="2641-domain-layer"></a>
+#### **2.6.4.1. Domain Layer**
 
-<a id="5142-mobile-applications-wireflow-diagrams"></a>
-#### **5.1.4.2. Mobile Applications Wireflow Diagrams**
+<a id="2642-interface-layer"></a>
+#### **2.6.4.2. Interface Layer**
 
-<a id="5143-mobile-applications-mock-ups"></a>
-#### **5.1.4.3. Mobile Applications Mock-ups**
+<a id="2643-application-layer"></a>
+#### **2.6.4.3. Application Layer**
 
-<a id="5144-mobile-applications-user-flow-diagrams"></a>
-#### **5.1.4.4. Mobile Applications User Flow Diagrams**
+<a id="2644-infrastructure-layer"></a>
+#### **2.6.4.4 Infrastructure Layer**
 
-<a id="5145-mobile-applications-prototyping"></a>
-#### **5.1.4.5. Mobile Applications Prototyping**
+<a id="2645-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.4.5. Bounded Context Software Architecture Component Level Diagrams**
 
-<a id="capítulo-vi-product-implementation-validation--deployment"></a>
-# **Capítulo VI: Product Implementation, Validation & Deployment**
+<a id="2646-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.4.6. Bounded Context Software Architecture Code Level Diagrams**
 
-<a id="61-software-configuration-management"></a>
-## **6.1. Software Configuration Management**
+<a id="26461-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.4.6.1. Bounded Context Domain Layer Class Diagrams**
 
-<a id="611-software-development-environment-configuration"></a>
-### **6.1.1. Software Development Environment Configuration**
+<a id="26462-bounded-context-database-design-diagram"></a>
+##### **2.6.4.6.2. Bounded Context Database Design Diagram**
 
-<a id="612-source-code-management"></a>
-### **6.1.2. Source Code Management**
+<a id="265-bounded-context-therapy"></a>
+### **2.6.5. Bounded Context: Therapy**
 
-<a id="613-source-code-style-guide--conventions"></a>
-### **6.1.3. Source Code Style Guide & Conventions**
+<a id="2651-domain-layer"></a>
+#### **2.6.5.1. Domain Layer**
 
-<a id="614-software-deployment-configuration"></a>
-### **6.1.4. Software Deployment Configuration**
+<a id="2652-interface-layer"></a>
+#### **2.6.5.2. Interface Layer**
 
-<a id="62-landing-page--mobile-application-implementation"></a>
-## **6.2. Landing Page & Mobile Application Implementation**
+<a id="2653-application-layer"></a>
+#### **2.6.5.3. Application Layer**
 
-<a id="621-sprint-1"></a>
-### **6.2.1. Sprint 1**
+<a id="2654-infrastructure-layer"></a>
+#### **2.6.5.4 Infrastructure Layer**
 
-<a id="6211-sprint-planning-1"></a>
-#### **6.2.1.1. Sprint Planning 1**
+<a id="2655-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.5.5. Bounded Context Software Architecture Component Level Diagrams**
 
-<a id="6212-sprint-backlog-1"></a>
-#### **6.2.1.2. Sprint Backlog 1**
+<a id="2656-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.5.6. Bounded Context Software Architecture Code Level Diagrams**
 
-<a id="6213-development-evidence-for-sprint-review"></a>
-#### **6.2.1.3. Development Evidence for Sprint Review**
+<a id="26561-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
 
-<a id="6214-testing-suite-evidence-for-sprint-review"></a>
-#### **6.2.1.4. Testing Suite Evidence for Sprint Review**
+<a id="26562-bounded-context-database-design-diagram"></a>
+##### **2.6.5.6.2. Bounded Context Database Design Diagram**
 
-<a id="6215-execution-evidence-for-sprint-review"></a>
-#### **6.2.1.5. Execution Evidence for Sprint Review**
+<a id="266-bounded-context-content"></a>
+### **2.6.6. Bounded Context: Content**
 
-<a id="6216-services-documentation-evidence-for-sprint-review"></a>
-#### **6.2.1.6. Services Documentation Evidence for Sprint Review**
+<a id="2661-domain-layer"></a>
+#### **2.6.6.1. Domain Layer**
 
-<a id="6217-software-deployment-evidence-for-sprint-review"></a>
-#### **6.2.1.7. Software Deployment Evidence for Sprint Review**
+<a id="2662-interface-layer"></a>
+#### **2.6.6.2. Interface Layer**
 
-<a id="6218-team-collaboration-insights-during-sprint"></a>
-#### **6.2.1.8. Team Collaboration Insights during Sprint**
+<a id="2663-application-layer"></a>
+#### **2.6.6.3. Application Layer**
 
-<a id="622-sprint-2"></a>
-### **6.2.2. Sprint 2**
+<a id="2664-infrastructure-layer"></a>
+#### **2.6.6.4 Infrastructure Layer**
 
-<a id="6221-sprint-planning-2"></a>
-#### **6.2.2.1. Sprint Planning 2**
+<a id="2665-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.6.5. Bounded Context Software Architecture Component Level Diagrams**
 
-<a id="6222-sprint-backlog-2"></a>
-#### **6.2.2.2. Sprint Backlog 2**
+<a id="2666-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.6.6. Bounded Context Software Architecture Code Level Diagrams**
 
-<a id="6223-development-evidence-for-sprint-review"></a>
-#### **6.2.2.3. Development Evidence for Sprint Review**
+<a id="26661-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.6.6.1. Bounded Context Domain Layer Class Diagrams**
 
-<a id="6224-testing-suite-evidence-for-sprint-review"></a>
-#### **6.2.2.4. Testing Suite Evidence for Sprint Review**
+<a id="26662-bounded-context-database-design-diagram"></a>
+##### **2.6.6.6.2. Bounded Context Database Design Diagram**
 
-<a id="6225-execution-evidence-for-sprint-review"></a>
-#### **6.2.2.5. Execution Evidence for Sprint Review**
+<a id="267-bounded-context-notifications"></a>
+### **2.6.7. Bounded Context: Notifications**
 
-<a id="6226-services-documentation-evidence-for-sprint-review"></a>
-#### **6.2.2.6. Services Documentation Evidence for Sprint Review**
+<a id="2671-domain-layer"></a>
+#### **2.6.7.1. Domain Layer**
 
-<a id="6227-software-deployment-evidence-for-sprint-review"></a>
-#### **6.2.2.7. Software Deployment Evidence for Sprint Review**
+<a id="2672-interface-layer"></a>
+#### **2.6.7.2. Interface Layer**
 
-<a id="6228-team-collaboration-insights-during-sprint"></a>
-#### **6.2.2.8. Team Collaboration Insights during Sprint**
+<a id="2673-application-layer"></a>
+#### **2.6.7.3. Application Layer**
 
-<a id="623-sprint-3"></a>
-### **6.2.3. Sprint 3**
+<a id="2674-infrastructure-layer"></a>
+#### **2.6.7.4 Infrastructure Layer**
 
-<a id="6231-sprint-planning-3"></a>
-#### **6.2.3.1. Sprint Planning 3**
+<a id="2675-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.7.5. Bounded Context Software Architecture Component Level Diagrams**
 
-<a id="6232-sprint-backlog-3"></a>
-#### **6.2.3.2. Sprint Backlog 3**
+<a id="2676-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.7.6. Bounded Context Software Architecture Code Level Diagrams**
 
-<a id="6233-development-evidence-for-sprint-review"></a>
-#### **6.2.3.3. Development Evidence for Sprint Review**
+<a id="26761-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.7.6.1. Bounded Context Domain Layer Class Diagrams**
 
-<a id="6234-testing-suite-evidence-for-sprint-review"></a>
-#### **6.2.3.4. Testing Suite Evidence for Sprint Review**
+<a id="26762-bounded-context-database-design-diagram"></a>
+##### **2.6.7.6.2. Bounded Context Database Design Diagram**
 
-<a id="6235-execution-evidence-for-sprint-review"></a>
-#### **6.2.3.5. Execution Evidence for Sprint Review**
+<a id="268-bounded-context-subscriptions"></a>
+### **2.6.8. Bounded Context: Subscriptions**
 
-<a id="6236-services-documentation-evidence-for-sprint-review"></a>
-#### **6.2.3.6. Services Documentation Evidence for Sprint Review**
+<a id="2681-domain-layer"></a>
+#### **2.6.8.1. Domain Layer**
 
-<a id="6237-software-deployment-evidence-for-sprint-review"></a>
-#### **6.2.3.7. Software Deployment Evidence for Sprint Review**
+<a id="2682-interface-layer"></a>
+#### **2.6.8.2. Interface Layer**
 
-<a id="6238-team-collaboration-insights-during-sprint"></a>
-#### **6.2.3.8. Team Collaboration Insights during Sprint**
+<a id="2683-application-layer"></a>
+#### **2.6.8.3. Application Layer**
 
-<a id="63-validation-interviews"></a>
-## **6.3. Validation Interviews**
+<a id="2684-infrastructure-layer"></a>
+#### **2.6.8.4 Infrastructure Layer**
 
-<a id="631-diseño-de-entrevistas"></a>
-### **6.3.1. Diseño de Entrevistas**
+<a id="2685-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.8.5. Bounded Context Software Architecture Component Level Diagrams**
 
-<a id="632-registro-de-entrevistas"></a>
-### **6.3.2. Registro de Entrevistas**
+<a id="2686-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.8.6. Bounded Context Software Architecture Code Level Diagrams**
 
-<a id="633-evaluaciones-según-heurísticas"></a>
-### **6.3.3. Evaluaciones según heurísticas**
+<a id="26861-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.8.6.1. Bounded Context Domain Layer Class Diagrams**
 
-<a id="64-video-about-the-product"></a>
-## **6.4. Video About-the-Product**
+<a id="26862-bounded-context-database-design-diagram"></a>
+##### **2.6.8.6.2. Bounded Context Database Design Diagram**
+
+<a id="269-bounded-context-ai"></a>
+### **2.6.9. Bounded Context: AI**
+
+<a id="2691-domain-layer"></a>
+#### **2.6.9.1. Domain Layer**
+
+<a id="2692-interface-layer"></a>
+#### **2.6.9.2. Interface Layer**
+
+<a id="2693-application-layer"></a>
+#### **2.6.9.3. Application Layer**
+
+<a id="2694-infrastructure-layer"></a>
+#### **2.6.9.4 Infrastructure Layer**
+
+<a id="2695-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.9.5. Bounded Context Software Architecture Component Level Diagrams**
+
+<a id="2696-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.9.6. Bounded Context Software Architecture Code Level Diagrams**
+
+<a id="26961-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.9.6.1. Bounded Context Domain Layer Class Diagrams**
+
+<a id="26962-bounded-context-database-design-diagram"></a>
+##### **2.6.9.6.2. Bounded Context Database Design Diagram**
+
+<a id="2610-bounded-context-integrations"></a>
+### **2.6.10. Bounded Context: Integrations**
+
+<a id="26101-domain-layer"></a>
+#### **2.6.10.1. Domain Layer**
+
+<a id="26102-interface-layer"></a>
+#### **2.6.10.2. Interface Layer**
+
+<a id="26103-application-layer"></a>
+#### **2.6.10.3. Application Layer**
+
+<a id="26104-infrastructure-layer"></a>
+#### **2.6.10.4 Infrastructure Layer**
+
+<a id="26105-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.10.5. Bounded Context Software Architecture Component Level Diagrams**
+
+<a id="26106-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.10.6. Bounded Context Software Architecture Code Level Diagrams**
+
+<a id="261061-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.10.6.1. Bounded Context Domain Layer Class Diagrams**
+
+<a id="261062-bounded-context-database-design-diagram"></a>
+##### **2.6.10.6.2. Bounded Context Database Design Diagram**
+
+<a id="2611-bounded-context-shared"></a>
+### **2.6.11. Bounded Context: Shared**
+
+<a id="26111-domain-layer"></a>
+#### **2.6.11.1. Domain Layer**
+
+<a id="26112-interface-layer"></a>
+#### **2.6.11.2. Interface Layer**
+
+<a id="26113-application-layer"></a>
+#### **2.6.11.3. Application Layer**
+
+<a id="26114-infrastructure-layer"></a>
+#### **2.6.11.4 Infrastructure Layer**
+
+<a id="26115-bounded-context-software-architecture-component-level-diagrams"></a>
+#### **2.6.11.5. Bounded Context Software Architecture Component Level Diagrams**
+
+<a id="26116-bounded-context-software-architecture-code-level-diagrams"></a>
+#### **2.6.11.6. Bounded Context Software Architecture Code Level Diagrams**
+
+<a id="261161-bounded-context-domain-layer-class-diagrams"></a>
+##### **2.6.11.6.1. Bounded Context Domain Layer Class Diagrams**
+
+<a id="261162-bounded-context-database-design-diagram"></a>
+##### **2.6.11.6.2. Bounded Context Database Design Diagram**
+
+<a id="capítulo-iii-solution-uiux-design"></a>
+# **Capítulo III: Solution UI/UX Design**
+
+<a id="31-product-design"></a>
+## **3.1. Product Design**
+
+<a id="311-style-guidelines"></a>
+### **3.1.1. Style Guidelines**
+
+<a id="3111-general-style-guidelines"></a>
+#### **3.1.1.1. General Style Guidelines**
+
+<a id="312-information-architecture"></a>
+### **3.1.2. Information Architecture**
+
+<a id="3121-organization-systems"></a>
+#### **3.1.2.1. Organization Systems**
+
+<a id="3122-labelling-systems"></a>
+#### **3.1.2.2. Labelling Systems**
+
+<a id="3123-seo-tags-and-meta-tags"></a>
+#### **3.1.2.3. SEO Tags and Meta Tags**
+
+<a id="3124-searching-systems"></a>
+#### **3.1.2.4. Searching Systems**
+
+<a id="3125-navigation-systems"></a>
+#### **3.1.2.5. Navigation Systems**
+
+<a id="313-landing-page-ui-design"></a>
+### **3.1.3. Landing Page UI Design**
+
+<a id="3131-landing-page-wireframe"></a>
+#### **3.1.3.1. Landing Page Wireframe**
+
+<a id="3132-landing-page-mock-up"></a>
+#### **3.1.3.2. Landing Page Mock-up**
+
+<a id="314-mobile-applications-uxui-design"></a>
+### **3.1.4. Mobile Applications UX/UI Design**
+
+<a id="3141-mobile-applications-wireframes"></a>
+#### **3.1.4.1. Mobile Applications Wireframes**
+
+<a id="3142-mobile-applications-wireflow-diagrams"></a>
+#### **3.1.4.2. Mobile Applications Wireflow Diagrams**
+
+<a id="3143-mobile-applications-mock-ups"></a>
+#### **3.1.4.3. Mobile Applications Mock-ups**
+
+<a id="3144-mobile-applications-user-flow-diagrams"></a>
+#### **3.1.4.4. Mobile Applications User Flow Diagrams**
+
+<a id="3145-mobile-applications-prototyping"></a>
+#### **3.1.4.5. Mobile Applications Prototyping**
+
+<a id="capítulo-iv-product-implementation--validation"></a>
+# **Capítulo IV: Product Implementation & Validation**
+
+<a id="4-product-implementation--validation"></a>
+## **4. Product Implementation & Validation**
+
+<a id="41-software-configuration-management"></a>
+## **4.1. Software Configuration Management**
+
+<a id="411-software-development-environment-configuration"></a>
+### **4.1.1. Software Development Environment Configuration**
+
+<a id="412-source-code-management"></a>
+### **4.1.2. Source Code Management**
+
+<a id="413-source-code-style-guide--conventions"></a>
+### **4.1.3. Source Code Style Guide & Conventions**
+
+<a id="414-software-deployment-configuration"></a>
+### **4.1.4. Software Deployment Configuration**
+
+<a id="42-landing-page--mobile-application-implementation"></a>
+## **4.2. Landing Page & Mobile Application Implementation**
+
+<a id="421-sprint-1"></a>
+### **4.2.1. Sprint 1**
+
+<a id="4211-sprint-planning-1"></a>
+#### **4.2.1.1. Sprint Planning 1**
+
+<a id="4212-sprint-backlog-1"></a>
+#### **4.2.1.2. Sprint Backlog 1**
+
+<a id="4213-development-evidence-for-sprint-review"></a>
+#### **4.2.1.3. Development Evidence for Sprint Review**
+
+<a id="4214-testing-suite-evidence-for-sprint-review"></a>
+#### **4.2.1.4. Testing Suite Evidence for Sprint Review**
+
+<a id="4215-execution-evidence-for-sprint-review"></a>
+#### **4.2.1.5. Execution Evidence for Sprint Review**
+
+<a id="4216-services-documentation-evidence-for-sprint-review"></a>
+#### **4.2.1.6. Services Documentation Evidence for Sprint Review**
+
+<a id="4217-software-deployment-evidence-for-sprint-review"></a>
+#### **4.2.1.7. Software Deployment Evidence for Sprint Review**
+
+<a id="4218-team-collaboration-insights-during-sprint"></a>
+#### **4.2.1.8. Team Collaboration Insights during Sprint**
+
+<a id="422-sprint-2"></a>
+### **4.2.2. Sprint 2**
+
+<a id="4221-sprint-planning-2"></a>
+#### **4.2.2.1. Sprint Planning 2**
+
+<a id="4222-sprint-backlog-2"></a>
+#### **4.2.2.2. Sprint Backlog 2**
+
+<a id="4223-development-evidence-for-sprint-review"></a>
+#### **4.2.2.3. Development Evidence for Sprint Review**
+
+<a id="4224-testing-suite-evidence-for-sprint-review"></a>
+#### **4.2.2.4. Testing Suite Evidence for Sprint Review**
+
+<a id="4225-execution-evidence-for-sprint-review"></a>
+#### **4.2.2.5. Execution Evidence for Sprint Review**
+
+<a id="4226-services-documentation-evidence-for-sprint-review"></a>
+#### **4.2.2.6. Services Documentation Evidence for Sprint Review**
+
+<a id="4227-software-deployment-evidence-for-sprint-review"></a>
+#### **4.2.2.7. Software Deployment Evidence for Sprint Review**
+
+<a id="4228-team-collaboration-insights-during-sprint"></a>
+#### **4.2.2.8. Team Collaboration Insights during Sprint**
+
+<a id="423-sprint-3"></a>
+### **4.2.3. Sprint 3**
+
+<a id="4231-sprint-planning-3"></a>
+#### **4.2.3.1. Sprint Planning 3**
+
+<a id="4232-sprint-backlog-3"></a>
+#### **4.2.3.2. Sprint Backlog 3**
+
+<a id="4233-development-evidence-for-sprint-review"></a>
+#### **4.2.3.3. Development Evidence for Sprint Review**
+
+<a id="4234-testing-suite-evidence-for-sprint-review"></a>
+#### **4.2.3.4. Testing Suite Evidence for Sprint Review**
+
+<a id="4235-execution-evidence-for-sprint-review"></a>
+#### **4.2.3.5. Execution Evidence for Sprint Review**
+
+<a id="4236-services-documentation-evidence-for-sprint-review"></a>
+#### **4.2.3.6. Services Documentation Evidence for Sprint Review**
+
+<a id="4237-software-deployment-evidence-for-sprint-review"></a>
+#### **4.2.3.7. Software Deployment Evidence for Sprint Review**
+
+<a id="4238-team-collaboration-insights-during-sprint"></a>
+#### **4.2.3.8. Team Collaboration Insights during Sprint**
+
+<a id="43-validation-interviews"></a>
+## **4.3. Validation Interviews**
+
+<a id="431-diseño-de-entrevistas"></a>
+### **4.3.1. Diseño de Entrevistas**
+
+<a id="432-registro-de-entrevistas"></a>
+### **4.3.2. Registro de Entrevistas**
+
+<a id="433-evaluaciones-según-heurísticas"></a>
+### **4.3.3. Evaluaciones según heurísticas**
 
 <a id="conclusiones"></a>
 # **Conclusiones**
@@ -784,12 +1274,20 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 <a id="conclusiones-y-recomendaciones"></a>
 ## **Conclusiones y recomendaciones**
 
+<a id="video-app-validation"></a>
+## **Video App Validation**
+
+<a id="video-about-the-product"></a>
+## **Video About the product**
+
 <a id="video-about-the-team"></a>
 ## **Video About the team**
 
+<a id="glosario"></a>
+# **Glosario**
+
 <a id="bibliografía"></a>
 # **Bibliografía**
-
 * Arango Mendoza, E. M., Cayetano Ramos, E. P., Hu Vilchez, S. R., & Ríos Baca, C. A. (2022). Harmony, aplicativo móvil para reducir las brechas de atención en salud mental (Tesis de Maestría, Pontificia Universidad Católica del Perú).PUCP..https://tesis.pucp.edu.pe/items/d082b4ed-6fc1-40e8-b68d-a427055d1212 
 
 * Ministerio de Salud. (2025). Programa presupuestal 0131: Control y prevención en salud mental – Reporte de seguimiento 2025. MINSA.https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjY6Nz0rsqPAxVcLLkGHYyqMYgQFnoECAoQAQ&url=https%3A%2F%2Fwww.mef.gob.pe%2Fcontenidos%2Fpresu_publ%2Fppr%2Fprog_presupuestal%2Farticulados%2F0131_control_prevencion_salud_mental.pdf&usg=AOvVaw2dV69TElJeEM_f695vKy7B&opi=89978449
@@ -797,7 +1295,6 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 * Organización Mundial de la Salud. (2017). Depresión y otros trastornos mentales comunes: estimaciones mundiales de la salud. OMS.https://www.who.int/es/news-room/fact-sheets/detail/depression#:~:text=Se%20estima%20que%20el%203,personas%20sufren%20depresión%20(1).
 
 * Piazza, M., & Fiestas, F. (2015). Estudio transversal de uso de servicios de salud mental en cinco ciudades del Perú. Salud mental, 38(5), 337-345.https://www.scielo.org.mx/scielo.php?pid=S0185-33252015000500337&script=sci_arttext 
-
 
 <a id="anexos"></a>
 # **Anexos**

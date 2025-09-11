@@ -961,6 +961,21 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 | TS33 | Integración con Cloudinary | Como developer, quiero implementar subida y gestión de imágenes en la nube. | US13 |
 | TS34 | Rate limiting para usuarios gratuitos | Como developer, quiero implementar limitaciones de uso según plan de suscripción. | US17 |
 
+
+## **SPIKE STORIES**
+
+| Spike ID | Título | Descripción | Criterios de Aceptación | Time |
+|----------|--------|-------------|------------------------|----------|
+| SP01 | Investigar APIs de IA para chat emocional | Como equipo de desarrollo (backend), Quiero evaluar Google Gemini, OpenAI y Claude APIs, Para seleccionar la mejor opción para chat emocional con limitaciones gratuitas. | **1.** Comparar precios y límites gratuitos<br/>**2.** Evaluar calidad de respuestas empáticas<br/>**3.** Probar integración con HttpClient en C#<br/>**4.** Documentar recomendación con PoC funcional | 8 horas |
+| SP02 | Investigar reconocimiento facial de emociones | Como equipo de desarrollo (móvil), Quiero evaluar APIs gratuitas para análisis de expresiones faciales, Para implementar detección emocional por cámara en ambas plataformas móviles. | **1.** Identificar APIs gratuitas disponibles<br/>**2.** Probar integración con cámara en Flutter<br/>**3.** Evaluar integración en Kotlin Android<br/>**4.** Comparar precisión y limitaciones entre plataformas | 8 horas |
+| SP03 | Investigar integración con APIs de contenido multimedia | Como equipo de desarrollo (backend), Quiero evaluar APIs de Netflix, Spotify, YouTube y Google Places, Para implementar recomendaciones personalizadas. | **1.** Verificar disponibilidad y documentación<br/>**2.** Probar autenticación y límites<br/>**3.** Evaluar calidad de datos obtenidos<br/>**4.** Documentar endpoints en Swagger | 12 horas |
+| SP04 | Investigar Firebase FCM para notificaciones push | Como equipo de desarrollo (móvil y backend), Quiero evaluar Firebase Cloud Messaging, Para enviar notificaciones de crisis y recordatorios a dispositivos móviles. | **1.** Configurar proyecto Firebase<br/>**2.** Integrar FCM en Flutter<br/>**3.** Integrar FCM en Kotlin Android<br/>**4.** Probar envío desde backend C# | 10 horas |
+| SP05 | Investigar almacenamiento de imágenes | Como equipo de desarrollo (backend), Quiero evaluar Cloudinary vs alternativas, Para implementar subida y gestión de fotos de perfil. | **1.** Comparar servicios disponibles<br/>**2.** Probar SDK para .NET<br/>**3.** Evaluar integración con MongoDB<br/>**4.** Documentar configuración recomendada | 4 horas |
+| SP06 | Investigar SignalR para chat en tiempo real | Como equipo de desarrollo (backend y móvil), Quiero evaluar SignalR, Para implementar comunicación instantánea entre psicólogo y paciente. | **1.** Configurar SignalR Hub en backend<br/>**2.** Probar cliente SignalR en Flutter<br/>**3.** Probar cliente en Kotlin Android<br/>**4.** Evaluar rendimiento y latencia | 8 horas |
+| SP07 | Investigar validación de psicólogos | Como equipo de desarrollo (web y backend), Quiero investigar métodos para validar credenciales profesionales, Para asegurar acceso solo a psicólogos certificados. | **1.** Investigar APIs de colegios profesionales<br/>**2.** Diseñar proceso de validación manual<br/>**3.** Evaluar documentación requerida<br/>**4.** Documentar flujo de aprobación | 4 horas |
+| SP08 | Definir estrategia de desarrollo móvil dual | Como equipo de desarrollo (móvil), Quiero planificar el desarrollo con Flutter y Kotlin nativo, Para optimizar funcionalidades específicas en cada plataforma. | **1.** Definir qué desarrollar en Flutter<br/>**2.** Definir qué desarrollar en Kotlin nativo<br/>**3.** Planificar comunicación entre apps<br/>**4.** Documentar estrategia de deployment | 6 horas |
+
+
 <a id="242-impact-mapping"></a>
 ### **2.4.2. Impact Mapping**
 

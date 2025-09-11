@@ -461,6 +461,10 @@ How Much – ¿Cuánto cuesta no resolverlo?
 
 Los costos de no atender este problema son elevados. En términos sociales, la falta de apoyo oportuno incrementa la tasa de abandono terapéutico y las crisis emocionales no controladas, lo que repercute en ausentismo laboral, bajo rendimiento académico y deterioro de las relaciones familiares. Según la Organización Mundial de la Salud (2020), la depresión y la ansiedad generan pérdidas económicas de más de 1 billón de dólares anuales en productividad a nivel global. En el Perú, la falta de atención psicológica contribuye a perpetuar desigualdades sociales y limita las oportunidades de las personas para alcanzar su bienestar integral.
 
+<p align="center">
+    <img src="imgs/Grafico1.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="122-lean-ux-process"></a>
 ### **1.2.2. Lean UX Process**
 

@@ -544,6 +544,10 @@ Los costos de no atender este problema son elevados. En términos sociales, la f
 <a id="1224-lean-ux-canvas"></a>
 #### **1.2.2.4. Lean UX Canvas**
 
+<p align="center">
+    <img src="imgs/Lean ux canvas.png" alt="Lean UX canvas" width="100%">
+</p>
+
 <a id="13-segmentos-objetivos"></a>
 ## **1.3. Segmentos Objetivos**
 ### **Segmento Objetivo 1:**

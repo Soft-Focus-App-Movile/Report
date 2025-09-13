@@ -842,19 +842,134 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ## **2.3. Needfinding**
 
 <a id="231-user-personas"></a>
-### **2.3.1. User Personas**
+### ***2.3.1. User Personas***
+
+Para el presente proyecto Soft Focus, la elaboración de User Personas constituye un paso fundamental dentro del análisis del dominio, ya que permite representar de manera estructurada a los segmentos objetivo identificados. Estas fichas han sido construidas a partir de la información obtenida en entrevistas a usuarios potenciales y del análisis comparativo de soluciones existentes en el mercado, lo que facilitó reconocer patrones en cuanto a necesidades, objetivos, dificultades y motivaciones. Cada User Persona sintetiza características demográficas, profesionales y conductuales de los usuarios clave de la plataforma. La finalidad de este artefacto es proporcionar una representación clara y consistente de nuestro público objetivo, de manera que oriente el diseño y desarrollo de Soft Focus hacia una solución alineada con las expectativas y el contexto real de quienes harán uso de la herramienta.
+
+<ins>**User Persona del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
+
+**Figura**  
+*User Persona del Segmento Objetivo #1 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserPersona1.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
+
+<ins>**User Persona del Segmento Objetivo #2: Profesionales de la salud mental**</ins>
+
+**Figura**  
+*User Persona del Segmento Objetivo #2 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserPersona2.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
+
 
 <a id="232-user-task-matrix"></a>
-### **2.3.2. User Task Matrix**
+### ***2.3.2. User Task Matrix***
+
+En esta sección se presenta el User Task Matrix, una herramienta que organiza y concentra las tareas que los usuarios de los segmentos objetivos de Soft Focus definidos previamente, Leonardo Mendoza y Gabriela Torres, realizan para alcanzar sus metas cotidianas relacionadas con el objetivo de la aplicación. Es importante destacar que estas tareas se refieren a acciones que los usuarios llevan a cabo en su contexto real, independientemente de la existencia de una solución tecnológica.
+
+Este artefacto permite identificar patrones, similitudes y diferencias entre los segmentos, así como resaltar aquellas tareas que poseen mayor frecuencia e importancia en la vida de los usuarios. Estos hallazgos facilitan la priorización de funcionalidades que deben ser consideradas dentro del diseño de la plataforma Soft Focus.
+
+<ins>**User Persona del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
+
+**Figura**  
+*User Task Matrix de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserTaskMatrix_PsyWell.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en Canva.
+
 
 <a id="233-user-journey-mapping"></a>
-### **2.3.3. User Journey Mapping**
+### ***2.3.3. User Journey Mapping***
+
+En esta sección se presentan los User Journey Maps correspondientes a los User Personas definidos en el proyecto Soft Focus, con el propósito de ilustrar el end-to-end journey que realizan nuestros usuarios objetivos. Estos mapas muestran las fases, objetivos, acciones, puntos de contacto, emociones, frustraciones y oportunidades de mejora que experimentan tanto Leonardo Mendoza y Gabriela Torres, permitiendo comprender sus necesidades y problemáticas reales. Cada mapa se vincula directamente con la ficha de su User Persona y se presenta mediante diagramas elaborados en la herramienta indicada.
+
+<ins>**User Journey Map del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
+
+**Figura**  
+*User Journey Map del Segmento Objetivo #1 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserJourneyMappingS1.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
+
+<ins>**User Journey Map del Segmento Objetivo #2: Profesionales de la salud mental**</ins>
+
+**Figura**  
+*User Journey Map del Segmento Objetivo #2 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserJourneyMappingS2.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
 
 <a id="234-empathy-mapping"></a>
-### **2.3.4. Empathy Mapping**
+### ***2.3.4. Empathy Mapping***
+
+En esta sección, se presentan los Empathy Maps desarrollados para cada uno de los User Personas, Leonardo Mendoza y Gabriela Torres, descritos anteriormente. El proceso de elaboración consistió en colocar al usuario al centro del análisis y, a partir de ahí, responder de manera colaborativa a preguntas clave que permiten comprender en profundidad su experiencia y se identificaron los pains y los gains de cada perfil. Los Empathy Maps resultantes ofrecen una visión clara de sus comportamientos, emociones y expectativas, lo que servirá de guía para diseñar una solución empática, relevante y centrada en el usuario. Cada uno de los mapas se documenta con capturas de la herramienta indicada a continuación.
+
+<ins>**Empathy Map del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
+
+**Figura**  
+*Empathy Map del Segmento Objetivo #1 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/EmpathyMappingS1.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
+
+<ins>**Empathy Map del Segmento Objetivo #2: Profesionales de la salud mental**</ins>
+
+**Figura**  
+*Empathy Map del Segmento Objetivo #2 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/EmpathyMappingS2.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
 
 <a id="235-ubiquitous-language"></a>
-### **2.3.5. Ubiquitous Language**
+### ***2.3.5. Ubiquitous Language***
+
+En esta sección, se presenta un glosario de términos clave del dominio en el que se enmarca el proyecto Soft Focus. El propósito es establecer un lenguaje compartido, sin ambigüedades, que facilite la comunicación entre los miembros del equipo, los usuarios y los diferentes stakeholders. Este glosario se centra exclusivamente en conceptos relacionados con el sector de la salud mental y el bienestar emocional, evitando términos técnicos de ingeniería de software. Mantener actualizado este Ubiquitous Language permitirá asegurar que todos los participantes comprendan de forma clara y consistente los objetivos, procesos y necesidades vinculados a la solución propuesta.
+
+* **Emotional State (Estado emocional):** Condición afectiva que experimenta una persona en un momento determinado, influenciada por pensamientos, entorno y experiencias recientes.
+
+* **Crisis Alert (Alerta de crisis):** Notificación generada cuando un usuario muestra indicadores de riesgo emocional o psicológico que requieren atención inmediata.
+
+* **Self-Report (Autorreporte):** Registro realizado por el propio usuario sobre sus emociones, pensamientos o actividades cotidianas, con el fin de dar seguimiento a su estado mental.
+
+* **Therapeutic Exercise (Ejercicio terapéutico):** Actividad diseñada por un profesional de la salud mental para ayudar a un paciente a manejar emociones, desarrollar habilidades de afrontamiento o mejorar su bienestar psicológico.
+
+* **Patient Progress (Progreso del paciente):** Cambios observados en el estado emocional, cognitivo o conductual de un paciente a lo largo del tiempo, como resultado de su tratamiento o proceso terapéutico.
+
+* **Emotional Tracking (Seguimiento emocional):** Monitoreo sistemático y continuo del estado emocional de un usuario, con el fin de identificar patrones, variaciones o riesgos.
+
+* **Well-being (Bienestar):** Estado general de equilibrio físico, emocional y social que contribuye a la calidad de vida de una persona.
+
+* **Therapeutic Session (Sesión terapéutica):** Encuentro entre un profesional de la salud mental y un paciente, en el que se trabaja sobre objetivos emocionales y conductuales.
+
+* **Support Network (Red de apoyo):** Conjunto de familiares, amigos o instituciones que acompañan y ayudan a una persona en momentos de dificultad emocional o psicológica.
+
+* **Confidentiality (Confidencialidad):** Principio ético que asegura que la información personal y emocional compartida por un paciente sea protegida y no divulgada sin su consentimiento.
+
+* **Risk Indicator (Indicador de riesgo):** Señal o evidencia de que un paciente podría encontrarse en una situación de vulnerabilidad emocional, como síntomas de depresión, ansiedad o conductas de riesgo.
+
+* **Therapist (Terapeuta / Psicólogo clínico):** Profesional especializado en salud mental que brinda acompañamiento,diagnóstico y tratamiento a pacientes con dificultades emocionales o psicológicas.
 
 <a id="24-requirements-specification"></a>
 ## **2.4. Requirements specification**

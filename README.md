@@ -1157,6 +1157,57 @@ En esta sección, se presenta un glosario de términos clave del dominio en el q
 <a id="251-eventstorming"></a>
 ### **2.5.1. EventStorming**
 
+#### STEP 1
+<p align="center">
+<img src="imgs/EVENT1.png" width="900">
+</p>
+
+#### STEP 2
+<p align="center">
+<img src="imgs/EVENT2.png" width="900">
+</p>
+
+#### STEP 3
+<p align="center">
+<img src="imgs/EVENTO3.png" width="900">
+</p>
+
+#### STEP 4
+<p align="center">
+<img src="imgs/EVENT4.png" width="900">
+</p>
+
+#### STEP 5
+<p align="center">
+<img src="imgs/EVENTO5.png" width="900">
+</p>
+
+#### STEP 6
+<p align="center">
+<img src="imgs/EVENT6.png" width="900">
+</p>
+
+#### STEP 7
+<p align="center">
+<img src="imgs/EVENTO7.png" width="900">
+</p>
+
+#### STEP 8
+<p align="center">
+<img src="imgs/EVENTO8.png" width="900">
+</p>
+
+#### STEP 9
+<p align="center">
+<img src="imgs/EVENTO9.png" width="900">
+</p>
+
+#### STEP 10
+<p align="center">
+<img src="imgs/EVENTO10.png" width="900">
+</p>
+
+
 <a id="2511-candidate-context-discovery"></a>
 #### **2.5.1.1. Candidate Context Discovery**
 

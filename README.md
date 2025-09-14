@@ -835,6 +835,54 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 <a id="222-registro-de-entrevistas"></a>
 ### **2.2.2. Registro de entrevistas**
 
+### Segmento 1: Usuarios generales (autoayuda y pacientes en terapia)
+
+| Entrevistado 1 |   |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800"> |  |
+| Timing:00:02 –  min | [Entrevista 1 Soft Focus.mp4]()  |
+
+| Entrevistado 2 |  |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+|  <img src="" alt="PB" width="800">  |  |
+| Timing: –  min | [Entrevista 2 Soft Focus.mp4]() |
+
+| Entrevistado 3 |   |
+| :---- | :---- |
+| Edad |  años |
+|  <img src="" alt="PB" width="800"> |  |
+| Timing: –  min | [Entrevista 3 Soft Focus.mp4]() |
+
+
+### Segmento 2: Profesionales de la salud mental
+
+| Entrevistado 4 |   |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800">|  |
+| Timing: –  min | [Entrevista 4 Soft Focus.mp4]() |
+
+| Entrevistado 5 |   |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800">|  |
+| Timing: –  min | [Entrevista 5 Soft Focus.mp4]() |
+
+| Entrevistado 6 |  |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800"> |  |
+| Timing: –  min | [Entrevista 6 Soft Focus.mp4]() |
+
+[Ver las entrevistas en Microsoft Stream]()
+
 <a id="223-análisis-de-entrevistas"></a>
 ### **2.2.3. Análisis de entrevistas**
 
@@ -1097,6 +1145,18 @@ En esta sección, se presenta un glosario de términos clave del dominio en el q
 
 <a id="242-impact-mapping"></a>
 ### **2.4.2. Impact Mapping**
+
+Usuario: Paciente
+
+<p align="center">
+  <img src="imgs/Impact map 1.png" alt="UH" width="1000">
+</p>
+
+Usuario: Psicologo
+
+<p align="center">
+  <img src="imgs/Impact map 2.png" alt="UH" width="1000">
+</p>
 
 <a id="243-product-backlog"></a>
 ### **2.4.3. Product Backlog**

@@ -1217,6 +1217,8 @@ Usuario: Psicologo
 <a id="251-eventstorming"></a>
 ### **2.5.1. EventStorming**
 
+Event Storming es una técnica colaborativa de modelado de dominios desarrollada por Alberto Brandolini. Su objetivo es descubrir rápidamente los procesos de negocio complejos mediante la identificación de eventos de dominio, comandos, agregados y bounded contexts.
+
 #### STEP 1
 <p align="center">
 <img src="imgs/EVENT1.png" width="900">

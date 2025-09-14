@@ -1217,7 +1217,7 @@ Usuario: Psicologo
 <a id="251-eventstorming"></a>
 ### **2.5.1. EventStorming**
 
-Event Storming es una técnica colaborativa de modelado de dominios desarrollada por Alberto Brandolini. Su objetivo es descubrir rápidamente los procesos de negocio complejos mediante la identificación de eventos de dominio, comandos, agregados y bounded contexts.
+Event Storming es una técnica colaborativa de modelado de dominios desarrollada por Alberto Brandolini. Su objetivo es descubrir rápidamente los procesos de negocio complejos mediante la identificación de eventos de dominio, comandos, agregados y bounded contexts.La duracion aproximanda fueron de 2 horas.
 
 #### STEP 1
 <p align="center">
@@ -1272,6 +1272,127 @@ Event Storming es una técnica colaborativa de modelado de dominios desarrollada
 
 <a id="2511-candidate-context-discovery"></a>
 #### **2.5.1.1. Candidate Context Discovery**
+
+Elegimos la combinación de **Start with Value** y **Look-for-Pivotal-Events**, porque permite identificar tanto las áreas de mayor valor de negocio como los eventos clave que marcan transiciones importantes entre diferentes contextos.
+
+---
+
+## Sesión de Context Discovery (Duración: 1.5 horas)
+
+### **Fase 1: Identificación de Áreas Core (30 minutos)**
+Analizamos nuestro Event Storm completo para identificar las partes del dominio que generan mayor valor:
+
+- **Tracking de Emociones**: Core del negocio, diferenciador competitivo.  
+- **Gestión de Crisis**: Crítico para la seguridad del usuario.  
+- **Terapia Digital**: Valor terapéutico directo.  
+- **Suscripciones**: Modelo de negocio principal (sistema de pago).  
+
+---
+
+### **Fase 2: Identificación de Eventos Pivotales (45 minutos)**
+Eventos que marcan transiciones claras entre contextos:
+
+- **Usuario Creado** → Transición entre *Auth* y *Profiles*.  
+- **Sesión de terapia agendada** → Inicio del contexto *Therapy*.  
+- **Suscripción activada** → Entrada al contexto *Subscriptions*.  
+- **Emoción registrada** → Core del contexto *Tracking*.  
+
+---
+
+### **Fase 3: Agrupación y Refinamiento (15 minutos)**
+Agrupamos comandos, eventos y agregados en contextos cohesivos.
+
+---
+
+## **Bounded Contexts Identificados**
+
+1. **Auth Context**  
+   - **Propósito**: Gestión de autenticación y autorización.  
+   - **Eventos clave**: Usuario creó cuenta, Usuario completó perfil.  
+   - **Comandos**: Crear cuenta.  
+   - **Valor de negocio**: Seguridad y acceso controlado.  
+
+2. **Profiles Context**  
+   - **Propósito**: Gestión de perfiles de usuario y profesionales.  
+   - **Eventos clave**: Inicio de sesión, Usuario restablece contraseña.  
+   - **Comandos**: Iniciar sesión.  
+   - **Valor de negocio**: Interacción y experiencia de usuario.  
+
+3. **Tracking Context (CORE)**  
+   - **Propósito**: Seguimiento y registro de estados emocionales.  
+   - **Eventos clave**: Usuario registra emoción, Paciente compartió registro con psicólogo, Usuario registró nota de estado de ánimo.  
+   - **Comandos**: Registrar emoción.  
+   - **Valor de negocio**: Diferenciador principal del producto.  
+
+4. **Crisis Context (CORE)**  
+   - **Propósito**: Detección y manejo de situaciones de crisis.  
+   - **Eventos clave**: Se detectó crisis, Se asignó respuesta pronta.  
+   - **Comandos**: Control de crisis, Asignar respuesta primaria.  
+   - **Valor de negocio**: Seguridad crítica del usuario.  
+
+5. **Therapy Context (CORE)**  
+   - **Propósito**: Gestión de sesiones terapéuticas y ejercicios.  
+   - **Eventos clave**: Psicólogo asigna contenido, Programa sesión de seguimiento, Registra intervención.  
+   - **Comandos**: Controlar seguimiento.  
+   - **Valor de negocio**: Valor terapéutico directo.  
+
+6. **Notifications Context**  
+   - **Propósito**: Gestión de comunicaciones y alertas.  
+   - **Eventos clave**: Usuario completó ejercicio, Usuario marcó actividad como completada.  
+   - **Comandos**: Modificar control.  
+   - **Valor de negocio**: Engagement y retención.  
+
+7. **Subscriptions Context**  
+   - **Propósito**: Gestión del modelo de negocio y pagos.  
+   - **Eventos clave**: Usuario activó suscripción premium, Usuario renovó suscripción.  
+   - **Comandos**: Manejar suscripción.  
+   - **Valor de negocio**: Monetización directa.  
+
+8. **Shared Context**  
+   - **Propósito**: Datos y servicios compartidos entre contextos.  
+   - **Eventos clave**: Generar data, Actualizar sistema.  
+   - **Comandos**: Generar reporte semanal, Crear gráfico de evolución emocional, Actualizar estadísticas, Registrar feedback, Recomendar con IA.  
+   - **Valor de negocio**: Insights y toma de decisiones.  
+
+---
+
+## **Evolución del Event Storm**
+
+- **Step 1-3**: Identificación inicial de eventos y timeline básico.  
+<p align="center"><img src="imgs/EVENTO3.png" width="900"></p>
+
+- **Step 4**: Pivotal Points.  
+- **Step 5**: Identificación de comandos.  
+- **Step 6**: Adición de automation policies.  
+<p align="center"><img src="imgs/EVENT6.png" width="900"></p>
+
+- **Step 7**: Incorporación de modelos de lectura.  
+- **Step 8**: Inserción de sistemas externos.  
+<p align="center"><img src="imgs/EVENTO8.png" width="900"></p>
+
+- **Step 9**: Refinamiento de agregados.  
+- **Step 10**: Context Discovery - Identificación de bounded contexts.  
+<p align="center"><img src="imgs/EVENTO10.png" width="900"></p>  
+
+---
+
+## **Criterios de Separación de Contextos**
+
+- Cohesión funcional: Elementos que cambian juntos.  
+- Vocabulario único: Términos específicos por contexto.  
+- Responsabilidad clara: Un propósito bien definido.  
+- Autonomía: Capacidad de evolucionar independientemente.  
+- Valor de negocio: Contribución específica al objetivo del negocio.  
+
+---
+
+## **Resultados y Recomendaciones**
+
+- **Contextos Core (Mayor inversión)**: Tracking, Crisis, Therapy.  
+- **Contextos de Soporte**: Auth, Profiles, Notifications, Subscriptions.  
+- **Contextos de Infraestructura**: Shared.  
+
+
 
 <a id="2512-domain-message-flows-modeling"></a>
 #### **2.5.1.2. Domain Message Flows Modeling**

@@ -1390,15 +1390,38 @@ Agrupamos comandos, eventos y agregados en contextos cohesivos.
 
 - **Contextos Core (Mayor inversión)**: Tracking, Crisis, Therapy.  
 - **Contextos de Soporte**: Auth, Profiles, Notifications, Subscriptions.  
-- **Contextos de Infraestructura**: Shared.  
-
+- **Contextos de Infraestructura**: Shared. 
 
 
 <a id="2512-domain-message-flows-modeling"></a>
 #### **2.5.1.2. Domain Message Flows Modeling**
 
+Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a través de mensajes (eventos, comandos o notificaciones), permitiendo visualizar de manera clara los flujos de información y reacciones entre ellos; con esto se logra entender la coreografía del sistema, garantizar la coherencia del negocio y diseñar integraciones explícitas y trazables.
+
+<p align="center"><img src="imgs/FLOW1.png" width="900"></p>
+
+*Flujo básico de onboarding. Usuario se registra → sistema crea cuenta → configura perfil inicial → envía bienvenida. Establece la base para usar la plataforma.*
+
+<p align="center"><img src="imgs/FLOW2.png" width="900"></p>
+
+*Flujo de emergencia automatizada. IA detecta comportamiento de riesgo → dispara alertas → notifica contactos de emergencia → programa sesión urgente. Crítico para seguridad del paciente.*
+
+<p align="center"><img src="imgs/FLOW3.png" width="900"></p>
+
+*Flujo de monitoreo clínico. Terapeuta inicia sesión → sistema rastrea progreso → registra métricas → actualiza plan de tratamiento. Esencial para continuidad terapéutica.*
+
+<p align="center"><img src="imgs/FLOW4.png" width="900"></p>
+
+*Flujo de monetización. Usuario upgradea plan → sistema procesa pago → confirma cambios → desbloquea nuevas funciones → actualiza permisos. Core del modelo de negocio.*
+
+<p align="center"><img src="imgs/FLOW5.png" width="900"></p>
+
+*Flujo principal del negocio. Paciente reserva cita → verifica disponibilidad → confirma pago → crea sala virtual → registra asistencia → actualiza historial. Es la razón de ser de toda la plataforma.*
+
 <a id="2513-bounded-context-canvases"></a>
 #### **2.5.1.3. Bounded Context Canvases**
+
+
 
 <a id="252-context-mapping"></a>
 ### **2.5.2. Context Mapping**

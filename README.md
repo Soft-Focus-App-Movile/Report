@@ -1456,6 +1456,133 @@ Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a 
 <a id="252-context-mapping"></a>
 ### **2.5.2. Context Mapping**
 
+# Context Mapping en Domain-Driven Design
+
+El **Context Mapping** es una técnica fundamental en Domain-Driven Design que nos permite visualizar y analizar las relaciones estructurales entre *bounded contexts*. En esta sección, documentamos el proceso sistemático de elaboración de mapas de contexto para nuestro sistema, evaluando diferentes alternativas de diseño y sus implicaciones arquitectónicas.
+
+---
+
+## Metodología de Análisis
+
+Para desarrollar los context maps, seguimos un proceso iterativo de análisis y refinamiento, planteando preguntas críticas que nos permitieron explorar diferentes configuraciones:
+
+### Preguntas Guía del Proceso
+- **Reubicación de Capabilities:** ¿Qué pasaría si movemos este capability a otro bounded context?
+- **Descomposición:** ¿Qué pasaría si descomponemos este capability y movemos uno de los sub-capabilities a otro bounded context?
+- **Partición:** ¿Qué pasaría si partimos el bounded context en múltiples bounded contexts?
+- **Consolidación:** ¿Qué pasaría si tomamos este capability de estos 3 contexts y lo usamos para formar un nuevo context?
+- **Duplicación Estratégica:** ¿Qué pasaría si duplicamos una funcionalidad para romper la dependencia?
+- **Servicios Compartidos:** ¿Qué pasaría si creamos un shared service para reducir la duplicación entre múltiples bounded contexts?
+- **Aislamiento del Core:** ¿Qué pasaría si aislamos los core capabilities y movemos los otros a un context aparte?
+
+---
+
+## Bounded Contexts Identificados
+
+### Auth Context
+**Responsabilidades:** Gestión de autenticación y autorización de usuarios
+- Crear cuentas de usuario
+- Verificación de credenciales
+- Gestión de permisos y roles
+
+### Profiles Context
+**Responsabilidades:** Administración de perfiles de usuario y sesiones
+- Iniciar sesión
+- Gestión de perfiles de usuario
+- Configuraciones personales
+
+### Therapy Context
+**Responsabilidades:** Funcionalidades centrales de terapia
+- Gestión de sesiones terapéuticas
+- Seguimiento de progreso
+- Herramientas de evaluación
+
+### Tracking Context
+**Responsabilidades:** Monitoreo y seguimiento de actividades
+- Registro de actividades diarias
+- Seguimiento de hábitos
+- Métricas de progreso
+
+### Notifications Context
+**Responsabilidades:** Sistema de notificaciones
+- Envío de recordatorios
+- Alertas del sistema
+- Comunicaciones automatizadas
+
+### Suscription Context
+**Responsabilidades:** Gestión de suscripciones y facturación
+- Planes de suscripción
+- Procesamiento de pagos
+- Gestión de beneficios
+
+### Crisis Context
+**Responsabilidades:** Manejo de situaciones de crisis
+- Detección de crisis
+- Protocolos de emergencia
+- Escalamiento de casos críticos
+
+### Shared Context
+**Responsabilidades:** Servicios y datos compartidos
+- Configuraciones globales
+- Utilidades comunes
+- Datos de referencia
+
+---
+
+## Análisis de Alternativas de Context Mapping
+
+### Alternativa 1: Configuración Actual
+La configuración mostrada en el diagrama representa nuestra propuesta principal, donde cada context mantiene responsabilidades bien definidas con relaciones claras.  
+**Ventajas:**
+- Separación clara de responsabilidades
+- Bajo acoplamiento entre contexts
+- Facilita el desarrollo independiente por equipos  
+
+**Desventajas:**
+- Mayor complejidad en la coordinación
+- Posible duplicación de funcionalidades básicas
+
+### Alternativa 2: Consolidación de Auth y Profiles
+**Análisis:** Aunque ambos contexts están relacionados con usuarios, mantienen responsabilidades distintas. Auth se enfoca en seguridad mientras Profiles en personalización. La separación permite mejor escalabilidad y mantenimiento.
+
+### Alternativa 3: Separación del Tracking Context
+**Análisis:** Esta división podría crear dependencias innecesarias y complejidad adicional sin beneficios claros. El context actual mantiene cohesión funcional adecuada.
+
+### Alternativa 4: Crisis Context como Shared Service
+**Análisis:** Crisis Context requiere lógica de negocio específica y estado propio. Mantenerlo como bounded context independiente permite mejor evolución y especialización.
+
+---
+
+## Patrones de Relación Aplicados
+
+### Customer/Supplier
+- **Therapy Context → Tracking Context:** Therapy actúa como customer, definiendo qué métricas necesita trackear  
+- **Crisis Context → Notifications Context:** Crisis define los tipos de notificaciones urgentes requeridas
+
+### Conformist
+- **Profiles Context → Auth Context:** Profiles se conforma a los modelos de usuario definidos por Auth  
+- **Suscription Context → Auth Context:** Suscription adopta el modelo de usuario de Auth
+
+### Shared Kernel
+- **Shared Context:** Proporciona modelos y servicios comunes utilizados por múltiples contexts
+
+### Anticorruption Layer
+- **Crisis Context:** Implementa ACL para traducir conceptos de otros contexts a su modelo de dominio específico  
+- **Tracking Context:** Utiliza ACL para integrar datos de diferentes sources sin contaminar su modelo
+
+---
+
+## Context Map Final
+
+El context map resultante optimiza la separación de responsabilidades mientras minimiza el acoplamiento. Las relaciones están diseñadas para:
+- Maximizar la cohesión interna de cada bounded context
+- Minimizar las dependencias entre contexts
+- Facilitar la evolución independiente de cada área funcional
+- Mantener la integridad de los modelos de dominio específicos
+
+<p align="center"><img src="imgs/CONTEXT MAPPING.png" width="900"></p>
+
+
 <a id="253-software-architecture"></a>
 ### **2.5.3. Software Architecture**
 

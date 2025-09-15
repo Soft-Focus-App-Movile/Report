@@ -1456,9 +1456,7 @@ Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a 
 <a id="252-context-mapping"></a>
 ### **2.5.2. Context Mapping**
 
-# Context Mapping en Domain-Driven Design
-
-El **Context Mapping** es una técnica fundamental en Domain-Driven Design que nos permite visualizar y analizar las relaciones estructurales entre *bounded contexts*. En esta sección, documentamos el proceso sistemático de elaboración de mapas de contexto para nuestro sistema, evaluando diferentes alternativas de diseño y sus implicaciones arquitectónicas.
+Es una técnica fundamental en Domain-Driven Design que nos permite visualizar y analizar las relaciones estructurales entre *bounded contexts*. En esta sección, documentamos el proceso sistemático de elaboración de mapas de contexto para nuestro sistema, evaluando diferentes alternativas de diseño y sus implicaciones arquitectónicas.
 
 ---
 

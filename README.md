@@ -1421,7 +1421,41 @@ Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a 
 <a id="2513-bounded-context-canvases"></a>
 #### **2.5.1.3. Bounded Context Canvases**
 
+## THERAPY CONTEXT
 
+<p align="center"><img src="imgs/THERAPY CONTEXT.png" width="900"></p>
+
+## CRISIS CONTEXT
+
+<p align="center"><img src="imgs/CRISIS  CONTEXT.png" width="900"></p>
+
+## TRACKING CONTEXT
+
+<p align="center"><img src="imgs/TRACKING CONTEXT.png" width="900"></p>
+
+## AUTH CONTEXT
+
+<p align="center"><img src="imgs/AUTH CONTEXT.png" width="900"></p>
+
+## PROFILE CONTEXT
+
+<p align="center"><img src="imgs/PROFILE CONTEXT.png" width="900"></p>
+
+## AUTH CONTEXT
+
+<p align="center"><img src="imgs/AUTH CONTEXT.png" width="900"></p>
+
+## SUSCRIPTION CONTEXT
+
+<p align="center"><img src="imgs/SUSCRIPCION CONTEXT.png" width="900"></p>
+
+## NOTIFICATION CONTEXT
+
+<p align="center"><img src="imgs/NOTIFICACION CONTEXT.png" width="900"></p>
+
+## SHARED CONTEXT
+
+<p align="center"><img src="imgs/Shared CONTEXT.png" width="900"></p>
 
 <a id="252-context-mapping"></a>
 ### **2.5.2. Context Mapping**

@@ -1441,10 +1441,6 @@ Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a 
 
 <p align="center"><img src="imgs/PROFILE CONTEXT.png" width="900"></p>
 
-## AUTH CONTEXT
-
-<p align="center"><img src="imgs/AUTH CONTEXT.png" width="900"></p>
-
 ## SUSCRIPTION CONTEXT
 
 <p align="center"><img src="imgs/SUSCRIPCION CONTEXT.png" width="900"></p>

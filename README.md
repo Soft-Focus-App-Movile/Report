@@ -1590,6 +1590,10 @@ Integración con plataformas de pago y gestión de límites.
 <a id="2675-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.7.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Subscriptions-Components.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2686-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.7.6. Bounded Context Software Architecture Code Level Diagrams**
 
@@ -1659,6 +1663,10 @@ Implementación de servicios externos esenciales.
 
 <a id="2685-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.8.5. Bounded Context Software Architecture Component Level Diagrams**
+
+<p align="center">
+    <img src="imgs/structurizr-Shared-Components.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="2686-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.8.6. Bounded Context Software Architecture Code Level Diagrams**

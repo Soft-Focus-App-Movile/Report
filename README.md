@@ -1722,7 +1722,7 @@ Implementa persistencia y servicios externos para gestión de perfiles.
 ##### **2.6.2.6.2. Bounded Context Database Design Diagram**
 
 <p align="center">
-    <img src="imgs/profiledatabase.png" alt="Grafico  1" width="70%">
+    <img src="imgs/databaseB1.jpg" alt="Grafico  1" width="70%">
 </p>
 
 <a id="263-bounded-context-tracking"></a>
@@ -1808,7 +1808,7 @@ Implementación de persistencia y análisis de datos emocionales.
 ##### **2.6.3.6.2. Bounded Context Database Design Diagram**
 
 <p align="center">
-    <img src="imgs/trackingdatabase.png" alt="Grafico  1" width="100%">
+    <img src="imgs/databaseB2.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="264-bounded-context-crisis"></a>
@@ -1893,7 +1893,7 @@ Servicios críticos para respuesta inmediata ante emergencias.
 <a id="26462-bounded-context-database-design-diagram"></a>
 ##### **2.6.4.6.2. Bounded Context Database Design Diagram**
 <p align="center">
-    <img src="imgs/crisisdatabase.png" alt="Grafico  1" width="70%">
+    <img src="imgs/databaseB3.png" alt="Grafico  1" width="70%">
 </p>
 
 <a id="265-bounded-context-therapy"></a>
@@ -1980,7 +1980,7 @@ Implementación segura para comunicación terapéutica.
 ##### **2.6.5.6.2. Bounded Context Database Design Diagram**
 
 <p align="center">
-    <img src="imgs/theraphydatabase.png" alt="Grafico  1" width="100%">
+    <img src="imgs/databaseB4.png" alt="Grafico  1" width="100%">
 </p>
 
 
@@ -2069,7 +2069,7 @@ Implementación de servicios de notificación multiplataforma.
 ##### **2.6.6.6.2. Bounded Context Database Design Diagram**
 
 <p align="center">
-    <img src="imgs/notificaciondatabase.png" alt="Grafico  1" width="60%">
+    <img src="imgs/databaseB5.png" alt="Grafico  1" width="60%">
 </p>
 
 <a id="267-bounded-context-subscriptions"></a>
@@ -2158,7 +2158,7 @@ Integración con plataformas de pago y gestión de límites.
 ##### **2.6.7.6.2. Bounded Context Database Design Diagram**
 
 <p align="center">
-    <img src="imgs/suscripciondatabase.png" alt="Grafico  1" width="80%">
+    <img src="imgs/databaseB6.png" alt="Grafico  1" width="80%">
 </p>
 
 <a id="268-bounded-context-shared"></a>
@@ -2236,11 +2236,7 @@ Implementación de servicios externos esenciales.
     <img src="imgs/shared-class.png" alt="Grafico  1" width="100%">
 </p>
 
-<a id="26862-bounded-context-database-design-diagram"></a>
-##### **2.6.8.6.2. Bounded Context Database Design Diagram**
-<p align="center">
-    <img src="imgs/shareddatabase.png" alt="Grafico  1" width="70%">
-</p>
+
 
 <a id="capítulo-iii-solution-uiux-design"></a>
 # **Capítulo III: Solution UI/UX Design**

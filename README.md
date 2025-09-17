@@ -2158,7 +2158,7 @@ Integración con plataformas de pago y gestión de límites.
 ##### **2.6.7.6.2. Bounded Context Database Design Diagram**
 
 <p align="center">
-    <img src="imgs/databaseB7.png" alt="Grafico  1" width="80%">
+    <img src="imgs/databaseB6.png" alt="Grafico  1" width="80%">
 </p>
 
 <a id="268-bounded-context-shared"></a>

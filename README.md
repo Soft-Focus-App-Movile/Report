@@ -388,7 +388,21 @@ Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fort
 
 <a id="112-perfiles-de-integrantes-del-equipo"></a>
 ### **1.1.2. Perfiles de Integrantes del Equipo**
-
+<p align="center">
+    <img src="imgs/Mathias.png" alt="Grafico  1" width="100%">
+</p>
+<p align="center">
+    <img src="imgs/Maylhy.png" alt="Grafico  1" width="100%">
+</p>
+<p align="center">
+    <img src="imgs/Paula.png" alt="Grafico  1" width="100%">
+</p>
+<p align="center">
+    <img src="imgs/Mathew.png" alt="Grafico  1" width="100%">
+</p>
+<p align="center">
+    <img src="imgs/Giancarlo.png" alt="Grafico  1" width="100%">
+</p>
 <a id="12-solution-profile"></a>
 ## **1.2. Solution Profile**
 

@@ -1534,6 +1534,10 @@ Implementación de servicios de notificación multiplataforma.
 <a id="26661-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.6.6.1. Bounded Context Domain Layer Class Diagrams**
 
+<p align="center">
+    <img src="imgs/notifications-class.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="26662-bounded-context-database-design-diagram"></a>
 ##### **2.6.6.6.2. Bounded Context Database Design Diagram**
 
@@ -1615,6 +1619,9 @@ Integración con plataformas de pago y gestión de límites.
 
 <a id="26861-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.7.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/subscripcions-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26862-bounded-context-database-design-diagram"></a>
 ##### **2.6.7.6.2. Bounded Context Database Design Diagram**

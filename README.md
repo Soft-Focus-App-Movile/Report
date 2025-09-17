@@ -1107,6 +1107,10 @@ Implementa el acceso a servicios externos y persistencia de datos.
 <a id="2615-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Auth-Components.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2616-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams**
 
@@ -1186,6 +1190,9 @@ Implementa persistencia y servicios externos para gestión de perfiles.
 
 <a id="2625-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.2.5. Bounded Context Software Architecture Component Level Diagrams**
+<p align="center">
+    <img src="imgs/structurizr-Profiles-Components.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="2626-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.2.6. Bounded Context Software Architecture Code Level Diagrams**
@@ -1262,6 +1269,10 @@ Implementación de persistencia y análisis de datos emocionales.
 <a id="2635-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.3.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Tracking-Components.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2636-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.3.6. Bounded Context Software Architecture Code Level Diagrams**
 
@@ -1336,6 +1347,10 @@ Servicios críticos para respuesta inmediata ante emergencias.
 
 <a id="2645-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.4.5. Bounded Context Software Architecture Component Level Diagrams**
+
+<p align="center">
+    <img src="imgs/structurizr-Crisis-Components.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="2646-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.4.6. Bounded Context Software Architecture Code Level Diagrams**
@@ -1412,6 +1427,9 @@ Implementación segura para comunicación terapéutica.
 
 <a id="2655-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.5.5. Bounded Context Software Architecture Component Level Diagrams**
+<p align="center">
+    <img src="imgs/structurizr-Therapy-Components.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="2656-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.5.6. Bounded Context Software Architecture Code Level Diagrams**
@@ -1489,6 +1507,10 @@ Implementación de servicios de notificación multiplataforma.
 
 <a id="2665-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.6.5. Bounded Context Software Architecture Component Level Diagrams**
+
+<p align="center">
+    <img src="imgs/structurizr-Notifications-Components.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="2666-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.6.6. Bounded Context Software Architecture Code Level Diagrams**

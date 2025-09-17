@@ -1366,6 +1366,9 @@ Servicios críticos para respuesta inmediata ante emergencias.
 
 <a id="26461-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.4.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/crisis-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26462-bounded-context-database-design-diagram"></a>
 ##### **2.6.4.6.2. Bounded Context Database Design Diagram**
@@ -1445,6 +1448,10 @@ Implementación segura para comunicación terapéutica.
 
 <a id="26561-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
+
+<p align="center">
+    <img src="imgs/therapy-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26562-bounded-context-database-design-diagram"></a>
 ##### **2.6.5.6.2. Bounded Context Database Design Diagram**

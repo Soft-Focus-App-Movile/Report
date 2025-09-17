@@ -1017,11 +1017,24 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 <a id="2531-software-architecture-context-level-diagrams"></a>
 #### **2.5.3.1. Software Architecture Context Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-SystemContext (1).png" alt="Grafico  1" width="100%">
+</p>
+
+
 <a id="2532-software-architecture-container-level-diagrams"></a>
 #### **2.5.3.2. Software Architecture Container Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Containers (1).png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2533-software-architecture-deployment-diagrams"></a>
 #### **2.5.3.3. Software Architecture Deployment Diagrams**
+
+<p align="center">
+    <img src="imgs/employment diagram.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26-tactical-level-domain-driven-design"></a>
 ## **2.6. Tactical-Level Domain-Driven Design**
@@ -1094,11 +1107,18 @@ Implementa el acceso a servicios externos y persistencia de datos.
 <a id="2615-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.1.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Auth-Components.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2616-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams**
 
 <a id="26161-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.1.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/auth-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26162-bounded-context-database-design-diagram"></a>
 ##### **2.6.1.6.2. Bounded Context Database Design Diagram**
@@ -1173,12 +1193,18 @@ Implementa persistencia y servicios externos para gestión de perfiles.
 
 <a id="2625-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.2.5. Bounded Context Software Architecture Component Level Diagrams**
+<p align="center">
+    <img src="imgs/structurizr-Profiles-Components.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="2626-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.2.6. Bounded Context Software Architecture Code Level Diagrams**
 
 <a id="26261-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/profile-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26262-bounded-context-database-design-diagram"></a>
 ##### **2.6.2.6.2. Bounded Context Database Design Diagram**
@@ -1249,11 +1275,18 @@ Implementación de persistencia y análisis de datos emocionales.
 <a id="2635-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.3.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Tracking-Components.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2636-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.3.6. Bounded Context Software Architecture Code Level Diagrams**
 
 <a id="26361-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.3.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/tracking-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26362-bounded-context-database-design-diagram"></a>
 ##### **2.6.3.6.2. Bounded Context Database Design Diagram**
@@ -1324,11 +1357,18 @@ Servicios críticos para respuesta inmediata ante emergencias.
 <a id="2645-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.4.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Crisis-Components.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2646-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.4.6. Bounded Context Software Architecture Code Level Diagrams**
 
 <a id="26461-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.4.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/crisis-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26462-bounded-context-database-design-diagram"></a>
 ##### **2.6.4.6.2. Bounded Context Database Design Diagram**
@@ -1399,12 +1439,19 @@ Implementación segura para comunicación terapéutica.
 
 <a id="2655-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.5.5. Bounded Context Software Architecture Component Level Diagrams**
+<p align="center">
+    <img src="imgs/structurizr-Therapy-Components.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="2656-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.5.6. Bounded Context Software Architecture Code Level Diagrams**
 
 <a id="26561-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
+
+<p align="center">
+    <img src="imgs/therapy-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26562-bounded-context-database-design-diagram"></a>
 ##### **2.6.5.6.2. Bounded Context Database Design Diagram**
@@ -1477,11 +1524,19 @@ Implementación de servicios de notificación multiplataforma.
 <a id="2665-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.6.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Notifications-Components.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2666-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.6.6. Bounded Context Software Architecture Code Level Diagrams**
 
 <a id="26661-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.6.6.1. Bounded Context Domain Layer Class Diagrams**
+
+<p align="center">
+    <img src="imgs/notifications-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26662-bounded-context-database-design-diagram"></a>
 ##### **2.6.6.6.2. Bounded Context Database Design Diagram**
@@ -1555,11 +1610,18 @@ Integración con plataformas de pago y gestión de límites.
 <a id="2675-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.7.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Subscriptions-Components.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2686-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.7.6. Bounded Context Software Architecture Code Level Diagrams**
 
 <a id="26861-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.7.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/subscripcions-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26862-bounded-context-database-design-diagram"></a>
 ##### **2.6.7.6.2. Bounded Context Database Design Diagram**
@@ -1625,11 +1687,19 @@ Implementación de servicios externos esenciales.
 <a id="2685-bounded-context-software-architecture-component-level-diagrams"></a>
 #### **2.6.8.5. Bounded Context Software Architecture Component Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Shared-Components.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2686-bounded-context-software-architecture-code-level-diagrams"></a>
 #### **2.6.8.6. Bounded Context Software Architecture Code Level Diagrams**
 
 <a id="26861-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.8.6.1. Bounded Context Domain Layer Class Diagrams**
+
+<p align="center">
+    <img src="imgs/shared-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26862-bounded-context-database-design-diagram"></a>
 ##### **2.6.8.6.2. Bounded Context Database Design Diagram**

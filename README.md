@@ -1017,11 +1017,24 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 <a id="2531-software-architecture-context-level-diagrams"></a>
 #### **2.5.3.1. Software Architecture Context Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-SystemContext (1).png" alt="Grafico  1" width="100%">
+</p>
+
+
 <a id="2532-software-architecture-container-level-diagrams"></a>
 #### **2.5.3.2. Software Architecture Container Level Diagrams**
 
+<p align="center">
+    <img src="imgs/structurizr-Containers (1).png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="2533-software-architecture-deployment-diagrams"></a>
 #### **2.5.3.3. Software Architecture Deployment Diagrams**
+
+<p align="center">
+    <img src="imgs/employment diagram.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26-tactical-level-domain-driven-design"></a>
 ## **2.6. Tactical-Level Domain-Driven Design**

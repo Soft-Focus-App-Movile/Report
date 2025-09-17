@@ -1630,8 +1630,7 @@ Implementa el acceso a servicios externos y persistencia de datos.
     <img src="imgs/auth-class.png" alt="Grafico  1" width="100%">
 </p>
 
-<a id="26162-bounded-context-database-design-diagram"></a>
-##### **2.6.1.6.2. Bounded Context Database Design Diagram**
+
 
 <a id="262-bounded-context-profiles"></a>
 ### **2.6.2. Bounded Context: Profiles**
@@ -1719,6 +1718,10 @@ Implementa persistencia y servicios externos para gestión de perfiles.
 <a id="26262-bounded-context-database-design-diagram"></a>
 ##### **2.6.2.6.2. Bounded Context Database Design Diagram**
 
+<p align="center">
+    <img src="imgs/profiledatabase.png" alt="Grafico  1" width="70%">
+</p>
+
 <a id="263-bounded-context-tracking"></a>
 ### **2.6.3. Bounded Context: Tracking**
 
@@ -1801,6 +1804,10 @@ Implementación de persistencia y análisis de datos emocionales.
 <a id="26362-bounded-context-database-design-diagram"></a>
 ##### **2.6.3.6.2. Bounded Context Database Design Diagram**
 
+<p align="center">
+    <img src="imgs/trackingdatabase.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="264-bounded-context-crisis"></a>
 ### **2.6.4. Bounded Context: Crisis**
 
@@ -1882,6 +1889,9 @@ Servicios críticos para respuesta inmediata ante emergencias.
 
 <a id="26462-bounded-context-database-design-diagram"></a>
 ##### **2.6.4.6.2. Bounded Context Database Design Diagram**
+<p align="center">
+    <img src="imgs/crisisdatabase.png" alt="Grafico  1" width="70%">
+</p>
 
 <a id="265-bounded-context-therapy"></a>
 ### **2.6.5. Bounded Context: Therapy**
@@ -1965,6 +1975,10 @@ Implementación segura para comunicación terapéutica.
 
 <a id="26562-bounded-context-database-design-diagram"></a>
 ##### **2.6.5.6.2. Bounded Context Database Design Diagram**
+
+<p align="center">
+    <img src="imgs/theraphydatabase.png" alt="Grafico  1" width="100%">
+</p>
 
 
 <a id="266-bounded-context-notifications"></a>
@@ -2051,6 +2065,10 @@ Implementación de servicios de notificación multiplataforma.
 <a id="26662-bounded-context-database-design-diagram"></a>
 ##### **2.6.6.6.2. Bounded Context Database Design Diagram**
 
+<p align="center">
+    <img src="imgs/notificaciondatabase.png" alt="Grafico  1" width="60%">
+</p>
+
 <a id="267-bounded-context-subscriptions"></a>
 ### **2.6.7. Bounded Context: Subscriptions**
 
@@ -2136,6 +2154,10 @@ Integración con plataformas de pago y gestión de límites.
 <a id="26862-bounded-context-database-design-diagram"></a>
 ##### **2.6.7.6.2. Bounded Context Database Design Diagram**
 
+<p align="center">
+    <img src="imgs/suscripciondatabase.png" alt="Grafico  1" width="80%">
+</p>
+
 <a id="268-bounded-context-shared"></a>
 ### **2.6.8. Bounded Context: Shared**
 
@@ -2213,6 +2235,9 @@ Implementación de servicios externos esenciales.
 
 <a id="26862-bounded-context-database-design-diagram"></a>
 ##### **2.6.8.6.2. Bounded Context Database Design Diagram**
+<p align="center">
+    <img src="imgs/shareddatabase.png" alt="Grafico  1" width="70%">
+</p>
 
 <a id="capítulo-iii-solution-uiux-design"></a>
 # **Capítulo III: Solution UI/UX Design**

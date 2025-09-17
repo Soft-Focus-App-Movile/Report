@@ -1116,6 +1116,9 @@ Implementa el acceso a servicios externos y persistencia de datos.
 
 <a id="26161-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.1.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/auth-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26162-bounded-context-database-design-diagram"></a>
 ##### **2.6.1.6.2. Bounded Context Database Design Diagram**
@@ -1199,6 +1202,9 @@ Implementa persistencia y servicios externos para gestión de perfiles.
 
 <a id="26261-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/profile-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26262-bounded-context-database-design-diagram"></a>
 ##### **2.6.2.6.2. Bounded Context Database Design Diagram**
@@ -1278,6 +1284,9 @@ Implementación de persistencia y análisis de datos emocionales.
 
 <a id="26361-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.3.6.1. Bounded Context Domain Layer Class Diagrams**
+<p align="center">
+    <img src="imgs/tracking-class.png" alt="Grafico  1" width="100%">
+</p>
 
 <a id="26362-bounded-context-database-design-diagram"></a>
 ##### **2.6.3.6.2. Bounded Context Database Design Diagram**

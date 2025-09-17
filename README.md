@@ -791,6 +791,53 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <a id="222-registro-de-entrevistas"></a>
 ### **2.2.2. Registro de entrevistas**
+### Segmento 1: Usuarios generales (autoayuda y pacientes en terapia)
+
+| Entrevistado 1 |   |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800"> |  |
+| Timing:00:02 –  min | [Entrevista 1 Soft Focus.mp4]()  |
+
+| Entrevistado 2 |  |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+|  <img src="" alt="PB" width="800">  |  |
+| Timing: –  min | [Entrevista 2 Soft Focus.mp4]() |
+
+| Entrevistado 3 |   |
+| :---- | :---- |
+| Edad |  años |
+|  <img src="" alt="PB" width="800"> |  |
+| Timing: –  min | [Entrevista 3 Soft Focus.mp4]() |
+
+
+### Segmento 2: Profesionales de la salud mental
+
+| Entrevistado 4 |   |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800">|  |
+| Timing: –  min | [Entrevista 4 Soft Focus.mp4]() |
+
+| Entrevistado 5 |   |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800">|  |
+| Timing: –  min | [Entrevista 5 Soft Focus.mp4]() |
+
+| Entrevistado 6 |  |
+| :---- | :---- |
+| Edad |  años |
+| Distrito/Ciudad | Lima |
+| <img src="" alt="PB" width="800"> |  |
+| Timing: –  min | [Entrevista 6 Soft Focus.mp4]() |
+
+[Ver las entrevistas en Microsoft Stream]()
 
 <a id="223-análisis-de-entrevistas"></a>
 ### **2.2.3. Análisis de entrevistas**
@@ -800,18 +847,126 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <a id="231-user-personas"></a>
 ### **2.3.1. User Personas**
+Para el presente proyecto Soft Focus, la elaboración de User Personas constituye un paso fundamental dentro del análisis del dominio, ya que permite representar de manera estructurada a los segmentos objetivo identificados. Estas fichas han sido construidas a partir de la información obtenida en entrevistas a usuarios potenciales y del análisis comparativo de soluciones existentes en el mercado, lo que facilitó reconocer patrones en cuanto a necesidades, objetivos, dificultades y motivaciones. Cada User Persona sintetiza características demográficas, profesionales y conductuales de los usuarios clave de la plataforma. La finalidad de este artefacto es proporcionar una representación clara y consistente de nuestro público objetivo, de manera que oriente el diseño y desarrollo de Soft Focus hacia una solución alineada con las expectativas y el contexto real de quienes harán uso de la herramienta.
+
+<ins>**User Persona del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
+
+**Figura**  
+*User Persona del Segmento Objetivo #1 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserPersona1.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
+
+<ins>**User Persona del Segmento Objetivo #2: Profesionales de la salud mental**</ins>
+
+**Figura**  
+*User Persona del Segmento Objetivo #2 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserPersona2.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
 
 <a id="232-user-task-matrix"></a>
 ### **2.3.2. User Task Matrix**
+En esta sección se presenta el User Task Matrix, una herramienta que organiza y concentra las tareas que los usuarios de los segmentos objetivos de Soft Focus definidos previamente, Leonardo Mendoza y Gabriela Torres, realizan para alcanzar sus metas cotidianas relacionadas con el objetivo de la aplicación. Es importante destacar que estas tareas se refieren a acciones que los usuarios llevan a cabo en su contexto real, independientemente de la existencia de una solución tecnológica.
+
+Este artefacto permite identificar patrones, similitudes y diferencias entre los segmentos, así como resaltar aquellas tareas que poseen mayor frecuencia e importancia en la vida de los usuarios. Estos hallazgos facilitan la priorización de funcionalidades que deben ser consideradas dentro del diseño de la plataforma Soft Focus.
+
+<ins>**User Persona del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
+
+**Figura**  
+*User Task Matrix de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserTaskMatrix_PsyWell.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en Canva.
 
 <a id="233-user-journey-mapping"></a>
 ### **2.3.3. User Journey Mapping**
+En esta sección se presentan los User Journey Maps correspondientes a los User Personas definidos en el proyecto Soft Focus, con el propósito de ilustrar el end-to-end journey que realizan nuestros usuarios objetivos. Estos mapas muestran las fases, objetivos, acciones, puntos de contacto, emociones, frustraciones y oportunidades de mejora que experimentan tanto Leonardo Mendoza y Gabriela Torres, permitiendo comprender sus necesidades y problemáticas reales. Cada mapa se vincula directamente con la ficha de su User Persona y se presenta mediante diagramas elaborados en la herramienta indicada.
+
+<ins>**User Journey Map del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
+
+**Figura**  
+*User Journey Map del Segmento Objetivo #1 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserJourneyMappingS1.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
+
+<ins>**User Journey Map del Segmento Objetivo #2: Profesionales de la salud mental**</ins>
+
+**Figura**  
+*User Journey Map del Segmento Objetivo #2 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/UserJourneyMappingS2.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
 
 <a id="234-empathy-mapping"></a>
 ### **2.3.4. Empathy Mapping**
+En esta sección, se presentan los Empathy Maps desarrollados para cada uno de los User Personas, Leonardo Mendoza y Gabriela Torres, descritos anteriormente. El proceso de elaboración consistió en colocar al usuario al centro del análisis y, a partir de ahí, responder de manera colaborativa a preguntas clave que permiten comprender en profundidad su experiencia y se identificaron los pains y los gains de cada perfil. Los Empathy Maps resultantes ofrecen una visión clara de sus comportamientos, emociones y expectativas, lo que servirá de guía para diseñar una solución empática, relevante y centrada en el usuario. Cada uno de los mapas se documenta con capturas de la herramienta indicada a continuación.
+
+<ins>**Empathy Map del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
+
+**Figura**  
+*Empathy Map del Segmento Objetivo #1 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/EmpathyMappingS1.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
+
+<ins>**Empathy Map del Segmento Objetivo #2: Profesionales de la salud mental**</ins>
+
+**Figura**  
+*Empathy Map del Segmento Objetivo #2 de Soft Focus*  
+
+<p align="center">
+<img src="imgs/EmpathyMappingS2.png" width="800">
+</p>
+
+*Nota.* Elaboración propia. Elaborado en UXPressia.
 
 <a id="235-ubiquitous-language"></a>
 ### **2.3.5. Ubiquitous Language**
+En esta sección, se presenta un glosario de términos clave del dominio en el que se enmarca el proyecto Soft Focus. El propósito es establecer un lenguaje compartido, sin ambigüedades, que facilite la comunicación entre los miembros del equipo, los usuarios y los diferentes stakeholders. Este glosario se centra exclusivamente en conceptos relacionados con el sector de la salud mental y el bienestar emocional, evitando términos técnicos de ingeniería de software. Mantener actualizado este Ubiquitous Language permitirá asegurar que todos los participantes comprendan de forma clara y consistente los objetivos, procesos y necesidades vinculados a la solución propuesta.
+
+* **Emotional State (Estado emocional):** Condición afectiva que experimenta una persona en un momento determinado, influenciada por pensamientos, entorno y experiencias recientes.
+
+* **Crisis Alert (Alerta de crisis):** Notificación generada cuando un usuario muestra indicadores de riesgo emocional o psicológico que requieren atención inmediata.
+
+* **Self-Report (Autorreporte):** Registro realizado por el propio usuario sobre sus emociones, pensamientos o actividades cotidianas, con el fin de dar seguimiento a su estado mental.
+
+* **Therapeutic Exercise (Ejercicio terapéutico):** Actividad diseñada por un profesional de la salud mental para ayudar a un paciente a manejar emociones, desarrollar habilidades de afrontamiento o mejorar su bienestar psicológico.
+
+* **Patient Progress (Progreso del paciente):** Cambios observados en el estado emocional, cognitivo o conductual de un paciente a lo largo del tiempo, como resultado de su tratamiento o proceso terapéutico.
+
+* **Emotional Tracking (Seguimiento emocional):** Monitoreo sistemático y continuo del estado emocional de un usuario, con el fin de identificar patrones, variaciones o riesgos.
+
+* **Well-being (Bienestar):** Estado general de equilibrio físico, emocional y social que contribuye a la calidad de vida de una persona.
+
+* **Therapeutic Session (Sesión terapéutica):** Encuentro entre un profesional de la salud mental y un paciente, en el que se trabaja sobre objetivos emocionales y conductuales.
+
+* **Support Network (Red de apoyo):** Conjunto de familiares, amigos o instituciones que acompañan y ayudan a una persona en momentos de dificultad emocional o psicológica.
+
+* **Confidentiality (Confidencialidad):** Principio ético que asegura que la información personal y emocional compartida por un paciente sea protegida y no divulgada sin su consentimiento.
+
+* **Risk Indicator (Indicador de riesgo):** Señal o evidencia de que un paciente podría encontrarse en una situación de vulnerabilidad emocional, como síntomas de depresión, ansiedad o conductas de riesgo.
+
+* **Therapist (Terapeuta / Psicólogo clínico):** Profesional especializado en salud mental que brinda acompañamiento,diagnóstico y tratamiento a pacientes con dificultades emocionales o psicológicas.
 
 <a id="24-requirements-specification"></a>
 ## **2.4. Requirements specification**
@@ -940,10 +1095,20 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 <a id="242-impact-mapping"></a>
 ### **2.4.2. Impact Mapping**
 
+Usuario: Paciente
+
+<p align="center">
+  <img src="imgs/Impact map 1.png" alt="UH" width="1000">
+</p>
+
+Usuario: Psicologo
+
+<p align="center">
+  <img src="imgs/Impact map 2.png" alt="UH" width="1000">
+</p>
+
 <a id="243-product-backlog"></a>
 ### **2.4.3. Product Backlog**
-
-
 
 
 [Trello Board - Soft Focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
@@ -998,18 +1163,363 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 <a id="251-eventstorming"></a>
 ### **2.5.1. EventStorming**
+Event Storming es una técnica colaborativa de modelado de dominios desarrollada por Alberto Brandolini. Su objetivo es descubrir rápidamente los procesos de negocio complejos mediante la identificación de eventos de dominio, comandos, agregados y bounded contexts.La duracion aproximanda fueron de 2 horas.
+
+#### STEP 1
+<p align="center">
+<img src="imgs/EVENT1.png" width="900">
+</p>
+
+#### STEP 2
+<p align="center">
+<img src="imgs/EVENT2.png" width="900">
+</p>
+
+#### STEP 3
+<p align="center">
+<img src="imgs/EVENTO3.png" width="900">
+</p>
+
+#### STEP 4
+<p align="center">
+<img src="imgs/EVENT4.png" width="900">
+</p>
+
+#### STEP 5
+<p align="center">
+<img src="imgs/EVENTO5.png" width="900">
+</p>
+
+#### STEP 6
+<p align="center">
+<img src="imgs/EVENT6.png" width="900">
+</p>
+
+#### STEP 7
+<p align="center">
+<img src="imgs/EVENTO7.png" width="900">
+</p>
+
+#### STEP 8
+<p align="center">
+<img src="imgs/EVENTO8.png" width="900">
+</p>
+
+#### STEP 9
+<p align="center">
+<img src="imgs/EVENTO9.png" width="900">
+</p>
+
+#### STEP 10
+<p align="center">
+<img src="imgs/EVENTO10.png" width="900">
+</p>
 
 <a id="2511-candidate-context-discovery"></a>
 #### **2.5.1.1. Candidate Context Discovery**
+Elegimos la combinación de **Start with Value** y **Look-for-Pivotal-Events**, porque permite identificar tanto las áreas de mayor valor de negocio como los eventos clave que marcan transiciones importantes entre diferentes contextos.
+
+---
+
+## Sesión de Context Discovery (Duración: 1.5 horas)
+
+### **Fase 1: Identificación de Áreas Core (30 minutos)**
+Analizamos nuestro Event Storm completo para identificar las partes del dominio que generan mayor valor:
+
+- **Tracking de Emociones**: Core del negocio, diferenciador competitivo.  
+- **Gestión de Crisis**: Crítico para la seguridad del usuario.  
+- **Terapia Digital**: Valor terapéutico directo.  
+- **Suscripciones**: Modelo de negocio principal (sistema de pago).  
+
+---
+
+### **Fase 2: Identificación de Eventos Pivotales (45 minutos)**
+Eventos que marcan transiciones claras entre contextos:
+
+- **Usuario Creado** → Transición entre *Auth* y *Profiles*.  
+- **Sesión de terapia agendada** → Inicio del contexto *Therapy*.  
+- **Suscripción activada** → Entrada al contexto *Subscriptions*.  
+- **Emoción registrada** → Core del contexto *Tracking*.  
+
+---
+
+### **Fase 3: Agrupación y Refinamiento (15 minutos)**
+Agrupamos comandos, eventos y agregados en contextos cohesivos.
+
+---
+
+## **Bounded Contexts Identificados**
+
+1. **Auth Context**  
+   - **Propósito**: Gestión de autenticación y autorización.  
+   - **Eventos clave**: Usuario creó cuenta, Usuario completó perfil.  
+   - **Comandos**: Crear cuenta.  
+   - **Valor de negocio**: Seguridad y acceso controlado.  
+
+2. **Profiles Context**  
+   - **Propósito**: Gestión de perfiles de usuario y profesionales.  
+   - **Eventos clave**: Inicio de sesión, Usuario restablece contraseña.  
+   - **Comandos**: Iniciar sesión.  
+   - **Valor de negocio**: Interacción y experiencia de usuario.  
+
+3. **Tracking Context (CORE)**  
+   - **Propósito**: Seguimiento y registro de estados emocionales.  
+   - **Eventos clave**: Usuario registra emoción, Paciente compartió registro con psicólogo, Usuario registró nota de estado de ánimo.  
+   - **Comandos**: Registrar emoción.  
+   - **Valor de negocio**: Diferenciador principal del producto.  
+
+4. **Crisis Context (CORE)**  
+   - **Propósito**: Detección y manejo de situaciones de crisis.  
+   - **Eventos clave**: Se detectó crisis, Se asignó respuesta pronta.  
+   - **Comandos**: Control de crisis, Asignar respuesta primaria.  
+   - **Valor de negocio**: Seguridad crítica del usuario.  
+
+5. **Therapy Context (CORE)**  
+   - **Propósito**: Gestión de sesiones terapéuticas y ejercicios.  
+   - **Eventos clave**: Psicólogo asigna contenido, Programa sesión de seguimiento, Registra intervención.  
+   - **Comandos**: Controlar seguimiento.  
+   - **Valor de negocio**: Valor terapéutico directo.  
+
+6. **Notifications Context**  
+   - **Propósito**: Gestión de comunicaciones y alertas.  
+   - **Eventos clave**: Usuario completó ejercicio, Usuario marcó actividad como completada.  
+   - **Comandos**: Modificar control.  
+   - **Valor de negocio**: Engagement y retención.  
+
+7. **Subscriptions Context**  
+   - **Propósito**: Gestión del modelo de negocio y pagos.  
+   - **Eventos clave**: Usuario activó suscripción premium, Usuario renovó suscripción.  
+   - **Comandos**: Manejar suscripción.  
+   - **Valor de negocio**: Monetización directa.  
+
+8. **Shared Context**  
+   - **Propósito**: Datos y servicios compartidos entre contextos.  
+   - **Eventos clave**: Generar data, Actualizar sistema.  
+   - **Comandos**: Generar reporte semanal, Crear gráfico de evolución emocional, Actualizar estadísticas, Registrar feedback, Recomendar con IA.  
+   - **Valor de negocio**: Insights y toma de decisiones.  
+
+---
+
+## **Evolución del Event Storm**
+
+- **Step 1-3**: Identificación inicial de eventos y timeline básico.  
+<p align="center"><img src="imgs/EVENTO3.png" width="900"></p>
+
+- **Step 4**: Pivotal Points.  
+- **Step 5**: Identificación de comandos.  
+- **Step 6**: Adición de automation policies.  
+<p align="center"><img src="imgs/EVENT6.png" width="900"></p>
+
+- **Step 7**: Incorporación de modelos de lectura.  
+- **Step 8**: Inserción de sistemas externos.  
+<p align="center"><img src="imgs/EVENTO8.png" width="900"></p>
+
+- **Step 9**: Refinamiento de agregados.  
+- **Step 10**: Context Discovery - Identificación de bounded contexts.  
+<p align="center"><img src="imgs/EVENTO10.png" width="900"></p>  
+
+---
+
+## **Criterios de Separación de Contextos**
+
+- Cohesión funcional: Elementos que cambian juntos.  
+- Vocabulario único: Términos específicos por contexto.  
+- Responsabilidad clara: Un propósito bien definido.  
+- Autonomía: Capacidad de evolucionar independientemente.  
+- Valor de negocio: Contribución específica al objetivo del negocio.  
+
+---
+
+## **Resultados y Recomendaciones**
+
+- **Contextos Core (Mayor inversión)**: Tracking, Crisis, Therapy.  
+- **Contextos de Soporte**: Auth, Profiles, Notifications, Subscriptions.  
+- **Contextos de Infraestructura**: Shared. 
+
 
 <a id="2512-domain-message-flows-modeling"></a>
 #### **2.5.1.2. Domain Message Flows Modeling**
+Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a través de mensajes (eventos, comandos o notificaciones), permitiendo visualizar de manera clara los flujos de información y reacciones entre ellos; con esto se logra entender la coreografía del sistema, garantizar la coherencia del negocio y diseñar integraciones explícitas y trazables.
+
+<p align="center"><img src="imgs/FLOW1.png" width="900"></p>
+
+*Flujo básico de onboarding. Usuario se registra → sistema crea cuenta → configura perfil inicial → envía bienvenida. Establece la base para usar la plataforma.*
+
+<p align="center"><img src="imgs/FLOW2.png" width="900"></p>
+
+*Flujo de emergencia automatizada. IA detecta comportamiento de riesgo → dispara alertas → notifica contactos de emergencia → programa sesión urgente. Crítico para seguridad del paciente.*
+
+<p align="center"><img src="imgs/FLOW3.png" width="900"></p>
+
+*Flujo de monitoreo clínico. Terapeuta inicia sesión → sistema rastrea progreso → registra métricas → actualiza plan de tratamiento. Esencial para continuidad terapéutica.*
+
+<p align="center"><img src="imgs/FLOW4.png" width="900"></p>
+
+*Flujo de monetización. Usuario upgradea plan → sistema procesa pago → confirma cambios → desbloquea nuevas funciones → actualiza permisos. Core del modelo de negocio.*
+
+<p align="center"><img src="imgs/FLOW5.png" width="900"></p>
+
+*Flujo principal del negocio. Paciente reserva cita → verifica disponibilidad → confirma pago → crea sala virtual → registra asistencia → actualiza historial. Es la razón de ser de toda la plataforma.*
 
 <a id="2513-bounded-context-canvases"></a>
 #### **2.5.1.3. Bounded Context Canvases**
+## THERAPY CONTEXT
+
+<p align="center"><img src="imgs/THERAPY CONTEXT.png" width="900"></p>
+
+## CRISIS CONTEXT
+
+<p align="center"><img src="imgs/CRISIS  CONTEXT.png" width="900"></p>
+
+## TRACKING CONTEXT
+
+<p align="center"><img src="imgs/TRACKING CONTEXT.png" width="900"></p>
+
+## AUTH CONTEXT
+
+<p align="center"><img src="imgs/AUTH CONTEXT.png" width="900"></p>
+
+## PROFILE CONTEXT
+
+<p align="center"><img src="imgs/PROFILE CONTEXT.png" width="900"></p>
+
+## SUSCRIPTION CONTEXT
+
+<p align="center"><img src="imgs/SUSCRIPCION CONTEXT.png" width="900"></p>
+
+## NOTIFICATION CONTEXT
+
+<p align="center"><img src="imgs/NOTIFICACION CONTEXT.png" width="900"></p>
+
+## SHARED CONTEXT
+
+<p align="center"><img src="imgs/Shared CONTEXT.png" width="900"></p>
 
 <a id="252-context-mapping"></a>
 ### **2.5.2. Context Mapping**
+Es una técnica fundamental en Domain-Driven Design que nos permite visualizar y analizar las relaciones estructurales entre *bounded contexts*. En esta sección, documentamos el proceso sistemático de elaboración de mapas de contexto para nuestro sistema, evaluando diferentes alternativas de diseño y sus implicaciones arquitectónicas.
+
+---
+
+## Metodología de Análisis
+
+Para desarrollar los context maps, seguimos un proceso iterativo de análisis y refinamiento, planteando preguntas críticas que nos permitieron explorar diferentes configuraciones:
+
+### Preguntas Guía del Proceso
+- **Reubicación de Capabilities:** ¿Qué pasaría si movemos este capability a otro bounded context?
+- **Descomposición:** ¿Qué pasaría si descomponemos este capability y movemos uno de los sub-capabilities a otro bounded context?
+- **Partición:** ¿Qué pasaría si partimos el bounded context en múltiples bounded contexts?
+- **Consolidación:** ¿Qué pasaría si tomamos este capability de estos 3 contexts y lo usamos para formar un nuevo context?
+- **Duplicación Estratégica:** ¿Qué pasaría si duplicamos una funcionalidad para romper la dependencia?
+- **Servicios Compartidos:** ¿Qué pasaría si creamos un shared service para reducir la duplicación entre múltiples bounded contexts?
+- **Aislamiento del Core:** ¿Qué pasaría si aislamos los core capabilities y movemos los otros a un context aparte?
+
+---
+
+## Bounded Contexts Identificados
+
+### Auth Context
+**Responsabilidades:** Gestión de autenticación y autorización de usuarios
+- Crear cuentas de usuario
+- Verificación de credenciales
+- Gestión de permisos y roles
+
+### Profiles Context
+**Responsabilidades:** Administración de perfiles de usuario y sesiones
+- Iniciar sesión
+- Gestión de perfiles de usuario
+- Configuraciones personales
+
+### Therapy Context
+**Responsabilidades:** Funcionalidades centrales de terapia
+- Gestión de sesiones terapéuticas
+- Seguimiento de progreso
+- Herramientas de evaluación
+
+### Tracking Context
+**Responsabilidades:** Monitoreo y seguimiento de actividades
+- Registro de actividades diarias
+- Seguimiento de hábitos
+- Métricas de progreso
+
+### Notifications Context
+**Responsabilidades:** Sistema de notificaciones
+- Envío de recordatorios
+- Alertas del sistema
+- Comunicaciones automatizadas
+
+### Suscription Context
+**Responsabilidades:** Gestión de suscripciones y facturación
+- Planes de suscripción
+- Procesamiento de pagos
+- Gestión de beneficios
+
+### Crisis Context
+**Responsabilidades:** Manejo de situaciones de crisis
+- Detección de crisis
+- Protocolos de emergencia
+- Escalamiento de casos críticos
+
+### Shared Context
+**Responsabilidades:** Servicios y datos compartidos
+- Configuraciones globales
+- Utilidades comunes
+- Datos de referencia
+
+---
+
+## Análisis de Alternativas de Context Mapping
+
+### Alternativa 1: Configuración Actual
+La configuración mostrada en el diagrama representa nuestra propuesta principal, donde cada context mantiene responsabilidades bien definidas con relaciones claras.  
+**Ventajas:**
+- Separación clara de responsabilidades
+- Bajo acoplamiento entre contexts
+- Facilita el desarrollo independiente por equipos  
+
+**Desventajas:**
+- Mayor complejidad en la coordinación
+- Posible duplicación de funcionalidades básicas
+
+### Alternativa 2: Consolidación de Auth y Profiles
+**Análisis:** Aunque ambos contexts están relacionados con usuarios, mantienen responsabilidades distintas. Auth se enfoca en seguridad mientras Profiles en personalización. La separación permite mejor escalabilidad y mantenimiento.
+
+### Alternativa 3: Separación del Tracking Context
+**Análisis:** Esta división podría crear dependencias innecesarias y complejidad adicional sin beneficios claros. El context actual mantiene cohesión funcional adecuada.
+
+### Alternativa 4: Crisis Context como Shared Service
+**Análisis:** Crisis Context requiere lógica de negocio específica y estado propio. Mantenerlo como bounded context independiente permite mejor evolución y especialización.
+
+---
+
+## Patrones de Relación Aplicados
+
+### Customer/Supplier
+- **Therapy Context → Tracking Context:** Therapy actúa como customer, definiendo qué métricas necesita trackear  
+- **Crisis Context → Notifications Context:** Crisis define los tipos de notificaciones urgentes requeridas
+
+### Conformist
+- **Profiles Context → Auth Context:** Profiles se conforma a los modelos de usuario definidos por Auth  
+- **Suscription Context → Auth Context:** Suscription adopta el modelo de usuario de Auth
+
+### Shared Kernel
+- **Shared Context:** Proporciona modelos y servicios comunes utilizados por múltiples contexts
+
+### Anticorruption Layer
+- **Crisis Context:** Implementa ACL para traducir conceptos de otros contexts a su modelo de dominio específico  
+- **Tracking Context:** Utiliza ACL para integrar datos de diferentes sources sin contaminar su modelo
+
+---
+
+## Context Map Final
+
+El context map resultante optimiza la separación de responsabilidades mientras minimiza el acoplamiento. Las relaciones están diseñadas para:
+- Maximizar la cohesión interna de cada bounded context
+- Minimizar las dependencias entre contexts
+- Facilitar la evolución independiente de cada área funcional
+- Mantener la integridad de los modelos de dominio específicos
+
+<p align="center"><img src="imgs/CONTEXT MAPPING.png" width="900"></p>
 
 <a id="253-software-architecture"></a>
 ### **2.5.3. Software Architecture**

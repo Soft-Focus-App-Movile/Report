@@ -1697,6 +1697,10 @@ Implementación de servicios externos esenciales.
 <a id="26861-bounded-context-domain-layer-class-diagrams"></a>
 ##### **2.6.8.6.1. Bounded Context Domain Layer Class Diagrams**
 
+<p align="center">
+    <img src="imgs/shared-class.png" alt="Grafico  1" width="100%">
+</p>
+
 <a id="26862-bounded-context-database-design-diagram"></a>
 ##### **2.6.8.6.2. Bounded Context Database Design Diagram**
 

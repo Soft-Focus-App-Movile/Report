@@ -409,6 +409,7 @@ Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fort
 <p align="center">
     <img src="imgs/Giancarlo.png" alt="Grafico  1" width="100%">
 </p>
+
 <a id="12-solution-profile"></a>
 ## **1.2. Solution Profile**
 
@@ -821,21 +822,21 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 | Edad | 19 años |
 | Distrito/Ciudad | Cercado de Lima |
 | <img src="imgs/entrevista1softfocus.png" alt="PB" width="800"> | No está en tratamiento psicológico. Maneja sus emociones dependiendo de su día, buscando apoyo en amigos o a través de la música para aliviar el estrés. Ha intentado acceder a psicólogos, pero el costo y la falta de tiempo han sido barreras. Considera valiosa una aplicación que lo ayude a manejar sus emociones, especialmente con ejercicios de relajación y conexión directa con un psicólogo. Aceptaría que la IA recopile información siempre que sea confiable y segura. |
-| Timing: 00:03 – 05:27 min | [Entrevista 1 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EY7Uz-NezYhEmgqsKziLNncBvYhODmbpLlji8-_JO192PQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z6BGpg)  |
+| Timing: 00:03 – 05:27 min | [Entrevista 1 Soft Focus.mp4](https://bit.ly/4nfJbj2)  |
 
 | Entrevistado 2 | Manuel |
 | :---- | :---- |
 | Edad | 19 años |
 | Distrito/Ciudad | Lima |
 |  <img src="imgs/entrevista2softfocus.png" alt="PB" width="800">  | Manuel tampoco se encuentra en tratamiento psicológico. Para manejar sus emociones suele distraerse y evitar el estrés, sin usar aplicaciones. Le gustaría contar con recordatorios en momentos de mayor dificultad y recibir recomendaciones de expertos. Si bien le parece buena idea una aplicación que conecte con psicólogos en emergencias, tiene dudas sobre la seguridad de su información y no cree que la IA pueda gestionar mejor las emociones que una persona. |
-| Timing: 05:27 – 09:37 min | [Entrevista 2 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EY7Uz-NezYhEmgqsKziLNncBvYhODmbpLlji8-_JO192PQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z6BGpg) |
+| Timing: 05:27 – 09:37 min | [Entrevista 2 Soft Focus.mp4](https://bit.ly/4nfJbj2) |
 
 | Entrevistado 3 | Victor Li  |
 | :---- | :---- |
 | Edad | 19 años |
 | Distrito/Ciudad | Bellavista |
 |  <img src="imgs/entrevista3softfocus.png" alt="PB" width="800"> | Victor no utiliza recursos de autoayuda ni lleva un registro de su estado de ánimo. Ante tristeza o soledad suele buscar distracciones. Los costos son el principal obstáculo para acudir a psicólogos. Considera útil que una aplicación pueda enviar recordatorios, trabajar con IA y dar recomendaciones personalizadas. Aceptaría compartir información siempre que se garantice privacidad. Piensa que la IA puede complementar el trabajo de los psicólogos, brindando apoyo adicional. |
-| Timing: 09:38 – 15:41 min | [Entrevista 3 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EY7Uz-NezYhEmgqsKziLNncBvYhODmbpLlji8-_JO192PQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z6BGpg) |
+| Timing: 09:38 – 15:41 min | [Entrevista 3 Soft Focus.mp4](https://bit.ly/4nfJbj2) |
 
 
 ### Segmento 2: Profesionales de la salud mental
@@ -845,23 +846,23 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 | Edad | 24 años |
 | Distrito/Ciudad | Lima |
 | <img src="imgs/entrevista4softfocus.png" alt="PB" width="800">| Psicóloga con 2 años de experiencia en consultas privadas y clínicas. Suele apoyarse en anotaciones, grabaciones consentidas y diarios emocionales de los pacientes, aunque a veces es difícil dar seguimiento por falta de tiempo. Considera crucial recibir notificaciones cuando un usuario atraviesa una crisis, así como disponer de gráficos que muestren la evolución de cada paciente. Le interesa que la app se integre con las sesiones y garantice confidencialidad, permitiendo acceso solo al psicólogo. Recomienda una herramienta así como apoyo y medio de involucramiento de los pacientes.  |
-| Timing: 15:41 – 23:10 min | [Entrevista 4 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EY7Uz-NezYhEmgqsKziLNncBvYhODmbpLlji8-_JO192PQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z6BGpg) |
+| Timing: 15:41 – 23:10 min | [Entrevista 4 Soft Focus.mp4](https://bit.ly/4nfJbj2) |
 
 | Entrevistado 5 | Andrea Salazar |
 | :---- | :---- |
 | Edad | 27 años |
 | Distrito/Ciudad | Arequipa |
 | <img src="imgs/entrevista5softfocus.png" alt="PB" width="800">| Con 2 años de experiencia, trabaja en consultorio privado. Durante las sesiones pregunta sobre la semana de sus pacientes y les asigna actividades para la siguiente. Recoge información sobre situaciones y conductas. Le gustaría contar con alertas, aunque reconoce que no todos los pacientes aceptarían por temas de privacidad. Considera fundamental el seguimiento de emociones y la generación de reportes. También valora poder integrar ejercicios personalizados y que la app complemente sus sesiones. Recomendaría la herramienta solo si comprueba su utilidad y la seguridad de los datos. |
-| Timing: 23:10 – 31:57 min | [Entrevista 5 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EY7Uz-NezYhEmgqsKziLNncBvYhODmbpLlji8-_JO192PQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z6BGpg) |
+| Timing: 23:10 – 31:57 min | [Entrevista 5 Soft Focus.mp4](https://bit.ly/4nfJbj2) |
 
 | Entrevistado 6 | Edwyn Lopez |
 | :---- | :---- |
 | Edad | 26 años |
 | Distrito/Ciudad | Lima |
 | <img src="imgs/entrevista6softfocus.png" alt="PB" width="800"> | Psicólogo con 2 años de experiencia en Lima. Sus pacientes suelen llevar registros emocionales, aunque no siempre son constantes, lo que dificulta ver progresos. Para él, las alertas inmediatas serían muy útiles para actuar en crisis. Ha probado aplicaciones de relajación, pero ninguna orientada al trabajo clínico. Le interesa que la app proporcione datos precisos, ejercicios personalizados y reportes gráficos para usar en consulta. Es muy consciente de la importancia de la confidencialidad y cree que una solución así sería valiosa, especialmente para jóvenes más acostumbrados a la tecnología. |
-| Timing:31:57 – 36:28 min | [Entrevista 6 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EY7Uz-NezYhEmgqsKziLNncBvYhODmbpLlji8-_JO192PQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z6BGpg) |
+| Timing:31:57 – 36:28 min | [Entrevista 6 Soft Focus.mp4](https://bit.ly/4nfJbj2) |
 
-[Ver las entrevistas en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/EY7Uz-NezYhEmgqsKziLNncBvYhODmbpLlji8-_JO192PQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Z6BGpg)
+Ver las entrevistas en Microsoft Stream: https://bit.ly/4nfJbj2
 
 <a id="223-análisis-de-entrevistas"></a>
 ### **2.2.3. Análisis de entrevistas**
@@ -2486,3 +2487,5 @@ Nuestro startup Psywell, con su producto Soft Focus, ofrece una solución innova
  ## **Product Backlog - Sprints**
 
 [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
+
+Entrevistas - Sprint 1: https://bit.ly/4nfJbj2

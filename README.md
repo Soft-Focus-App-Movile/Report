@@ -1434,7 +1434,7 @@ Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a 
 
 ## SHARED CONTEXT
 
-<p align="center"><img src="imgs/Shared CONTEXT.png" width="900"></p>
+<p align="center"><img src="imgs/Shared Context.png" width="900"></p>
 
 <a id="252-context-mapping"></a>
 ### **2.5.2. Context Mapping**

@@ -364,6 +364,18 @@
 <a id="objetivos-smart"></a>
 # **Objetivos SMART**
 
+
+
+| Integrantes | Objetivo SMART 1  | Objetivo SMART 2 |
+| :---- | :---- | :---- |
+| Bueno Perales, Mathias Eduardo  | Cuando termine mi carrera, quiero desarrollar aplicaciones que faciliten la vida a las personas en base a sus necesidades, aplicando todo lo aprendido durante mi etapa universitaria. | Especializarme en Analisis de Datos en un tiempo corto después de culminar la carrera, de manera que pueda abrir las puertas a otros sectores relacionados con mi carrera. |
+| Gutierrez Condo, Maylhy Olinda |  Desarrollar un portafolio con al menos 2 aplicaciones móviles funcionales, publicadas en GitHub antes de finalizar la carrera, de modo que evidencien mis competencias en desarrollo móvil y buenas prácticas de programación | Obtener certificaciones profesionales en Ciberseguridad y en Ciencia de Datos en un plazo máximo de 1 año y medio después de mi graduación, para fortalecer mi perfil profesional y acceder a oportunidades laborales en el sector tecnológico.  |
+| Luyo Correa, Sandra Paula | Al culminar mi carrera, obtener una certificación internacional en metodologías ágiles (Scrum Master o Product Owner), para fortalecer mis competencias en gestión de proyectos y mejorar mis oportunidades en equipos de desarrollo de software. | Tras finalizar la carrera, completar una maestría en Ingeniería de Software con el fin de ampliar mis conocimientos y aumentar mis oportunidades en el ámbito profesional. |
+| Roca Tineo, Steven Mathew | Desarrollar un portafolio de ciberseguridad con 2 proyectos técnicos, documentados y publicados en GitHub antes de finalizar mi carrera universitaria, para demostrar mis competencias técnicas en desarrollo seguro y posicionarme como candidato competitivo para roles especializados en ciberseguridad. | Completar la maestría en Ciberseguridad en mi universidad y obtener una certificación profesional en cloud security dentro de los primeros años después de mi graduación de pregrado, para alcanzar el nivel de expertise necesario que me permita acceder a posiciones especializadas en seguridad en la nube y ciberseguridad |
+| Solis Santa Cruz,Giancarlo Rafael | Obtener la certificación Microsoft Azure Fundamentals en los primeros 6 meses después de mi graduación, dedicando un mínimo de 5 horas de estudio semanales y completando simulacros de examen, con el fin de reforzar mis competencias en servicios en la nube y mejorar mi empleabilidad en el área cloud. | Realizar una especialización en Ciencia de Datos dentro de los 2 años posteriores a mi graduación, dedicando al menos 5 horas semanales al estudio de Python y análisis de datos, con el fin de mejorar mis habilidades técnicas y aumentar mis oportunidades de empleo en el área de tecnología.  |
+
+
+
 <a id="capítulo-i-presentación"></a>
 # **Capítulo I: Presentación**
 

@@ -60,6 +60,9 @@
 <a id="project-report-collaboration-insights"></a>
 # **Project Report Collaboration Insights**
 
+<p align="center">
+    <img src="imgs/insights.png" alt="Logo UPC" width="100%">
+</p>
 
 <a id="tabla-de-contenidos"></a>
 # **Tabla de Contenidos**

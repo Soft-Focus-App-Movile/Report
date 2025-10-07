@@ -2339,6 +2339,119 @@ Implementación de servicios externos esenciales.
 <a id="3142-mobile-applications-wireflow-diagrams"></a>
 #### **3.1.4.2. Mobile Applications Wireflow Diagrams**
 
+### 1. User Goal: REGISTRO Y AUTENTICACIÓN
+
+
+### Explicación del flujo
+El usuario inicia en la pantalla de bienvenida, donde puede elegir entre “Iniciar Sesión” o “Registrarse”. Al seleccionar “Registrarse”, debe ingresar sus datos personales, incluyendo nombre, apellidos, correo electrónico, contraseña y tipo de usuario.En caso de que el usuario sea psicólogo, se le solicitarán datos adicionales como colegiatura, título y especialización. El sistema también puede ofrecer opciones de registro rápido mediante Google.Una vez completados todos los datos, el usuario acepta los términos y condiciones y el sistema crea la cuenta. Finalmente, el usuario puede acceder a la pantalla principal.
+
+<p align="center">
+    <img src="imgs/WIREFLOWS-REGISTRO.png" alt="WIREFLOW_REGISTRO" width="100%">
+</p>
+
+---
+
+## 2. User Goal: REGISTRO DE EMOCIONES
+
+### Explicación del flujo
+El usuario accede a la sección "Diario" desde el menú principal. Se presenta una interfaz para registrar su estado emocional del día, donde puede seleccionar entre diferentes emociones (feliz, triste, ansioso, estresado, etc.) mediante iconos visuales o una escala numérica. El usuario puede agregar notas adicionales describiendo cómo se siente o qué eventos influyeron en su estado. Opcionalmente, el usuario puede mostrar su rostro para capturar una expresión facial, proporcionar detalles adicionales sobre lo ocurrido y utilizar un cuadro de diálogo para notificar el acontecimiento con sus propias palabras.
+
+<p align="center">
+    <img src="imgs/WIREFLOWS-REGISTRO EMOCIONES.png" alt="WIREFLOW_REGISTRO_EMOCIONES" width="100%">
+</p>
+
+---
+
+## 3. User Goal: MANEJO DE BIBLIOTECA DE RECURSOS
+
+
+### Explicación del flujo
+El usuario accede a la sección “Biblioteca” desde el menú de navegación inferior, donde se le presentan distintas categorías de recursos: Películas/Series, Música, Videos y Lugares. En la categoría de Películas/Series, puede explorar contenido con enfoque psicológico, eligiendo entre películas o series según su preferencia e indicacion del psicólogo. En Música, encontrará canciones y listas de reproducción diseñadas para fomentar el bienestar emocional. En la sección de Videos, podrá acceder a material multimedia orientado a la relajación y la meditación. Finalmente, en Lugares, se le ofrecen recomendaciones de espacios cercanos con un ambiente y clima propicios para la tranquilidad y el equilibrio mental.
+
+En el caso del psicólogo, la gestión de la Biblioteca está orientada al contenido asignado a sus pacientes. Desde esta sección, el psicólogo puede visualizar y administrar los recursos que cada paciente tiene disponibles, así como revisar y recomendar nuevo material (películas, música, videos o lugares) acorde a las necesidades terapéuticas de cada uno.
+
+Usuario General
+
+<p align="center">
+    <img src="imgs/WIREFLOWS-MANEJO BIBLIOTECA.png" alt="WIREFLOW_BIBLIOTECA" width="100%">
+</p>
+
+Usario Psicologo
+
+<p align="center">
+    <img src="imgs/WIREFLOWS-LIBRARY.png" alt="WIREFLOW_LIBRARY" width="100%">
+</p>
+---
+
+## 4. User Goal: CONTACTO ENTRE PSCICOLOGO-PACIENTE
+
+### Explicación del flujo
+El usuario accede a la sección “Conectar con Psicólogo” desde su perfil, donde se muestra una lista de profesionales disponibles junto con sus perfiles que incluyen foto, especialidad y calificaciones. El usuario puede filtrar la lista según la especialidad o la calificación de los psicólogos para facilitar su búsqueda. Al seleccionar un perfil, se despliega información detallada del profesional, así como las opciones para agendar una cita. De esta manera, el usuario puede conocer los medios de contacto y coordinar una sesión de forma directa y sencilla con el psicólogo elegido.
+
+Usuario General
+
+<p align="center">
+    <img src="imgS/WIREFLOWS-CONTACTO PSICOLOGO.png" alt="WIREFLOW_PSICOLOGO" width="100%">
+</p>
+Usuario Psicólogo
+
+<p align="center">
+    <img src="imgS/WIREFLOWS-PSICOLOGO CONTACT.png" alt="WIREFLOW_PSICOLOGO_CONTACTO" width="100%">
+</p>
+---
+
+## 5. User Goal: MANEJO DE ALERTAS
+
+### Explicación del flujo
+El usuario accede a la función “Alertas” desde la barra de menú inferior, donde puede visualizar a sus pacientes y el progreso de cada uno. Desde esta sección, el psicólogo puede acceder al perfil de un paciente, marcarlo como atendido, corregir información o enviar notificaciones adicionales según sea necesario.
+
+<p align="center">
+    <img src="imgS/WIREFLOWS-ALERTAS.png" alt="WIREFLOW_ALERTAS" width="100%">
+</p>
+
+---
+
+## 6. User Goal: COMUNICACION CON IA (CONSULTAS)
+
+### Explicación del flujo
+El usuario accede a la función de chat con IA desde el menú principal. Se presenta una interfaz de conversación donde el usuario puede escribir sus preguntas o preocupaciones. La IA responde con información relevante, técnicas de manejo, o sugerencias de recursos de la biblioteca. El sistema puede hacer preguntas de seguimiento para entender mejor la situación del usuario. Las conversaciones se guardan en el historial para referencia futura. Si la IA detecta que la situación requiere atención profesional, sugiere al usuario contactar con un psicólogo disponible en la plataforma.
+
+<p align="center">
+    <img src="imgS/WIREFLOWS-IA.png" alt="WIREFLOW_IA" width="100%">
+</p>
+
+---
+
+## 7. User Goal: CONFIGURACIÓN DE PERFIL
+
+### Explicación del flujo
+
+El usuario accede a la sección “Perfil” desde el menú, donde se muestra una pantalla con su información personal, incluyendo foto, nombre y correo electrónico, junto con diversas opciones de configuración. Desde esta sección, el usuario puede editar o actualizar sus datos personales, conectar con un psicólogo, gestionar notificaciones, consultar su plan, revisar la política de privacidad y acceder al centro de ayuda o soporte. En general, esta sección permite al usuario personalizar su experiencia y ajustar la aplicación según sus preferencias.
+
+Usuario General
+
+<p align="center">
+    <img src="imgS/WIREFLOWS-CONFIGURACION.png" alt="WIREFLOW_CONFIGURACION" width="100%">
+</p>
+
+Usuario Psicologo
+
+<p align="center">
+    <img src="imgS/WIREFLOWS-PSICOLOGO PERFIL.png" alt="WIREFLOW_CONFIGURACION" width="100%">
+</p>
+
+---
+
+## 8. User Goal: SUSCRIPCIONES Y PAGOS
+
+### Explicación del flujo
+El usuario accede a la sección “Suscripción” desde el perfil o la configuración, donde se muestran los planes disponibles (gratuito, mensual y anual) con sus precios y beneficios. Al elegir un plan de pago, por ejemplo $12.99, el usuario es redirigido a una pantalla para ingresar su método de pago (tarjeta, PayPal o Google Pay). Tras confirmar la compra, el sistema muestra una confirmación de suscripción exitosa con los detalles y fecha de renovación. Desde esta misma sección, el usuario puede gestionar su suscripción, ver pagos anteriores, actualizar el método de pago o cancelar la membresía en cualquier momento.
+
+<p align="center">
+    <img src="imgs/WIREFLOWS-SUSCRIPTION.png" alt="WIREFLOW_SUSCRIPCION" width="100%">
+</p>
+
+
 <a id="3143-mobile-applications-mock-ups"></a>
 #### **3.1.4.3. Mobile Applications Mock-ups**
 

@@ -2339,8 +2339,9 @@ Implementación de servicios externos esenciales.
 <a id="3142-mobile-applications-wireflow-diagrams"></a>
 #### **3.1.4.2. Mobile Applications Wireflow Diagrams**
 
-### 1. User Goal: REGISTRO Y AUTENTICACIÓN
+[WireflowDiagrams](https://overflow.io/s/PT6JB80S)
 
+### 1. User Goal: REGISTRO Y AUTENTICACIÓN
 
 ### Explicación del flujo
 El usuario inicia en la pantalla de bienvenida, donde puede elegir entre “Iniciar Sesión” o “Registrarse”. Al seleccionar “Registrarse”, debe ingresar sus datos personales, incluyendo nombre, apellidos, correo electrónico, contraseña y tipo de usuario.En caso de que el usuario sea psicólogo, se le solicitarán datos adicionales como colegiatura, título y especialización. El sistema también puede ofrecer opciones de registro rápido mediante Google.Una vez completados todos los datos, el usuario acepta los términos y condiciones y el sistema crea la cuenta. Finalmente, el usuario puede acceder a la pantalla principal.

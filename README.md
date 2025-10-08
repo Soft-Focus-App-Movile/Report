@@ -3182,7 +3182,7 @@ Usuario General
 Usuario Psicologo
 
 <p align="center">
-    <img src="imgS/WIREFLOWS-PSICOLOGO PERFIL.png" alt="WIREFLOW_CONFIGURACION_PSI" width="100%">
+    <img src="imgs/WIREFLOWS-PSICOLOGO PERFIL.png" alt="WIREFLOW_CONFIGURACION_PSI" width="100%">
 </p>
 
 ---

@@ -3965,16 +3965,19 @@ Sprint Backlog 1 en Trello: https://trello.com/invite/b/68c0dd854014c2ed0d7503e8
 
 | Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| matthewsrt29/Landing-Page-Textiflow |  |  |  |  | /2025 |
-| matthewsrt29/Landing-Page-Textiflow |  |  |  |  | /2025 |
-| matthewsrt29/Landing-Page-Textiflow |  |  |  |  | /2025 |
-| matthewsrt29/Landing-Page-Textiflow |  |  |  |  | /2025 |
-| Ly009463/Landing-Page-Textiflow     |  |  |  |  | /2025 |
-| Ly009463/Landing-Page-Textiflow     |  |  |  |  | /2025 |
-| LucidVoid10/Landing-Page-Textiflow  |  |  |  |  | /2025 |
-| LucidVoid10/Landing-Page-Textiflow  |  |  |  |  | /2025 |
-| MathiasBueno/Landing-Page-Textiflow |  |  |  |  | /2025 |
-| MathiasBueno/Landing-Page-Textiflow |  |  |  |  | /2025 |
+| matthewsrt29/Landing-Page-SoftFocus-AppMovile | develop | 94f437f | feat:header |  | 11/09/2025 |
+| matthewsrt29/Landing-Page-SoftFocus-AppMovile | develop | 3b82d07 | feat:hero section |  | 26/09/2025 |
+| matthewsrt29/Landing-Page-SoftFocus-AppMovile | develop | ad2226c | fix: deployment |  | 26/09/2025 |
+| LucidVoid10/Landing-Page-SoftFocus-AppMovile | develop | d3350d7 | feat:adding the plans section |  | 27/09/2025 |
+| LucidVoid10/Landing-Page-SoftFocus-AppMovile | develop | e4fe1ae | fix:fixing card on plan section |  | 27/09/2025 |
+| Paulu27/Landing-Page-SoftFocus-AppMovile | develop | c2532c8 | feat:add about and footer section |  | 28/09/2025 |
+| Ly009463/Landing-Page-SoftFocus-AppMovile | develop | 266126f | feat:implement features section component |  | 28/09/2025 |
+| Ly009463/Landing-Page-SoftFocus-AppMovile | develop | 3d0d125 | feat:change features |  | 28/09/2025 |
+| MathiasBueno/Landing-Page-SoftFocus-AppMovile | develop | 21aff21 | feat:adding faq-section |  | 28/09/2025 |
+| matthewsrt29/BackEnd-SoftFocus-AppMovile | develop | 5414869 | feat:deploy docker yml |  | 28/09/2025 |
+| matthewsrt29/BackEnd-SoftFocus-AppMovile | develop | 9a16652 | fix:users |  | 07/10/2025 |
+| matthewsrt29/BackEnd-SoftFocus-AppMovile | develop | 8625292 | feat:AI bounded context |  | 07/10/2025 |
+| MathiasBueno/BackEnd-SoftFocus-AppMovile | develop | a0eb97c | feat:tracking bounded context |  | 07/10/2025 |
 
 
 <a id="4214-testing-suite-evidence-for-sprint-review"></a>
@@ -3986,6 +3989,8 @@ Sprint Backlog 1 en Trello: https://trello.com/invite/b/68c0dd854014c2ed0d7503e8
 En el sprint 1 alcanzamos un desarrollo completo en la implementación y despliegue de la landing page, asi como gran progreso en nuestro backend. La página muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre nuestro producto y nuestra startup. A continuación presentamos algunas evidencias:
 
 Enlace Soft Focus Landing Page: https://soft-focus-61053.web.app/
+
+Enlace Soft Focus BackEnd desplegado: http://98.90.172.251:5000/swagger/index.html
 
 <a id="4216-services-documentation-evidence-for-sprint-review"></a>
 #### **4.2.1.6. Services Documentation Evidence for Sprint Review**
@@ -4104,3 +4109,5 @@ Entrevistas - Sprint 1: [https://upcedupe-my.sharepoint.com/personal/u202311220_
 
 
 Enlace Landing Page: https://soft-focus-61053.web.app/
+
+Enlace - BackEnd: http://98.90.172.251:5000/swagger/index.html

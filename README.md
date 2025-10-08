@@ -3995,6 +3995,34 @@ Enlace Soft Focus BackEnd desplegado: http://98.90.172.251:5000/swagger/index.ht
 <a id="4216-services-documentation-evidence-for-sprint-review"></a>
 #### **4.2.1.6. Services Documentation Evidence for Sprint Review**
 
+### Servicios API Implementados
+
+| Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|-------------|----------|-------------|----------------|
+| **Admin Management** ||||
+| GET | `/api/v1/users` | Obtener todos los usuarios | Visualizar todos los usuarios autenticados |
+| GET | `/api/v1/users/{id}` | Obtener usuario por medio de su id | Visualizar usuarios en especifico |
+| PUT | `/api/v1/users/{id}/verify` | Verificar usuarios | Revisar si un usuario esta o no aprobado |
+| PUT | `/api/v1/users/{id}/status` | Verificar actividad de usuario | Revisar si un usuario esta o no activo |
+| **Auth Management** ||||
+| POST | `/api/v1/auth/register` | Crear nuevo usuario | Registrar un nuevo usuario |
+| POST | `/api/v1/auth/login` | Iniciar sesion con usuario creado | Iniciar sesion |
+| POST | `/api/v1/auth/oauth` | Dar acceso a terceros | Permitir acceso sin dar datos |
+| POST | `/api/v1/auth/forgot-password` | Actualizar contraseña olvidada | Permitir al usuario recuperar su contraseña |
+| POST | `/api/v1/auth/reset-password` | Crear nueva contraseña | Permitir al usuario cambiar su contraseña |
+| **Psychologist Management** ||||
+| GET | `/api/v1/users/psychologist/verification` | Verificar si un psicologo esta verificado | Dar o no acceso al psicologo |
+| PUT | `/api/v1/users/psychologist/verification` | Poner informacion y verificar | Dar informacion de psicologo y devolver su validez |
+| GET | `/api/v1/users/psychologist/invitation-code` | Obtiene el codigo de invitacion del psicologo | Codigo de invitacion |
+| POST | `/api/v1/users/psychologist/regenerate-code` | Regenerar codigo de invitacion | Regenerar nuevo codigo |
+| PUT | `/api/v1/users/psychologist/professional` | Actualiza perfil de psicologo | Modificar datos profesionales |
+| GET | `/api/v1/users/psychologist/stats` | Obtener estadisticas del psicologo | Recibir esstadisticas por fecha |
+| **User Management** ||||
+| GET | `/api/v1/users/profile` | Obtiene perfiles de usuario | Detalles de los usuarios |
+| PUT | `/api/v1/users/profile` | Actualizar datos de usuario | Modificar informacion de usuario |
+| DELETE | `/api/v1/observations/{observationId}` | Eliminar usuario | Remover usuarios |
+
+
 <a id="4217-software-deployment-evidence-for-sprint-review"></a>
 #### **4.2.1.7. Software Deployment Evidence for Sprint Review**
 

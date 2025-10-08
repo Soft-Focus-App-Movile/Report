@@ -3136,12 +3136,12 @@ El usuario accede a la sección “Conectar con Psicólogo” desde su perfil, d
 Usuario General
 
 <p align="center">
-    <img src="imgS/WIREFLOWS-CONTACTO PSICOLOGO.png" alt="WIREFLOW_PSICOLOGO" width="100%">
+    <img src="imgs/WIREFLOWS-CONTACTO PSICOLOGO.png" alt="WIREFLOW_US" width="100%">
 </p>
 Usuario Psicólogo
 
 <p align="center">
-    <img src="imgS/WIREFLOWS-PSICOLOGO CONTACT.png" alt="WIREFLOW_PSICOLOGO_CONTACTO" width="100%">
+    <img src="imgs/WIREFLOWS-PSICOLOGO CONTACT.png" alt="WIREFLOW_PSI" width="100%">
 </p>
 ---
 
@@ -3151,7 +3151,7 @@ Usuario Psicólogo
 El usuario accede a la función “Alertas” desde la barra de menú inferior, donde puede visualizar a sus pacientes y el progreso de cada uno. Desde esta sección, el psicólogo puede acceder al perfil de un paciente, marcarlo como atendido, corregir información o enviar notificaciones adicionales según sea necesario.
 
 <p align="center">
-    <img src="imgS/WIREFLOWS-ALERTAS.png" alt="WIREFLOW_ALERTAS" width="100%">
+    <img src="imgs/WIREFLOWS-ALERTAS.png" alt="WIREFLOW_AL" width="100%">
 </p>
 
 ---
@@ -3162,7 +3162,7 @@ El usuario accede a la función “Alertas” desde la barra de menú inferior, 
 El usuario accede a la función de chat con IA desde el menú principal. Se presenta una interfaz de conversación donde el usuario puede escribir sus preguntas o preocupaciones. La IA responde con información relevante, técnicas de manejo, o sugerencias de recursos de la biblioteca. El sistema puede hacer preguntas de seguimiento para entender mejor la situación del usuario. Las conversaciones se guardan en el historial para referencia futura. Si la IA detecta que la situación requiere atención profesional, sugiere al usuario contactar con un psicólogo disponible en la plataforma.
 
 <p align="center">
-    <img src="imgS/WIREFLOWS-IA.png" alt="WIREFLOW_IA" width="100%">
+    <img src="imgs/WIREFLOWS-IA.png" alt="WIREFLOW_IA" width="100%">
 </p>
 
 ---
@@ -3176,13 +3176,13 @@ El usuario accede a la sección “Perfil” desde el menú, donde se muestra un
 Usuario General
 
 <p align="center">
-    <img src="imgS/WIREFLOWS-CONFIGURACION.png" alt="WIREFLOW_CONFIGURACION" width="100%">
+    <img src="imgs/WIREFLOWS-CONFIGURACION.png" alt="WIREFLOW_CONFIGURACIOn_US" width="100%">
 </p>
 
 Usuario Psicologo
 
 <p align="center">
-    <img src="imgS/WIREFLOWS-PSICOLOGO PERFIL.png" alt="WIREFLOW_CONFIGURACION" width="100%">
+    <img src="imgS/WIREFLOWS-PSICOLOGO PERFIL.png" alt="WIREFLOW_CONFIGURACION_PSI" width="100%">
 </p>
 
 ---

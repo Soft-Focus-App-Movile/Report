@@ -2935,9 +2935,98 @@ Esta sección presenta la landing page de **Soft Focus**, donde se aprecia la pr
 <a id="314-mobile-applications-uxui-design"></a>
 ### **3.1.4. Mobile Applications UX/UI Design**
 
+Este apartado presenta el diseño de la experiencia (UX) y la interfaz de usuario (UI) de la aplicación móvil, enfocado en crear una navegación fluida, atractiva y fácil de usar. Se busca garantizar una interacción intuitiva y visualmente coherente con la identidad de la marca, priorizando la accesibilidad, el bienestar del usuario y la funcionalidad en cada pantalla.
 
 <a id="3141-mobile-applications-wireframes"></a>
 #### **3.1.4.1. Mobile Applications Wireframes**
+
+ * Usuario General
+   - Inicio de Sesión 
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="imgs/inicioS (1).png" width="30%">
+  <img src="imgs/inicioS (2).png" width="30%">
+  <img src="imgs/inicioS (3).png" width="30%">
+  <img src="imgs/inicioS (4).png" width="30%">
+  <img src="imgs/inicioS (5).png" width="30%">
+  <img src="imgs/inicioS (6).png" width="30%">
+  <img src="imgs/inicioS (7).png" width="30%">
+  <img src="imgs/inicioS (8).png" width="30%">
+</div>
+
+<br>
+
+
+   - Diario y Menú principal 
+   <br>
+
+
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Diario y menup (1).png" width="30%">
+  <img src="imgs/Diario y menup (2).png" width="30%">
+  <img src="imgs/Diario y menup (3).png" width="30%">
+  <img src="imgs/Diario y menup (4).png" width="30%">
+  <img src="imgs/Diario y menup (5).png" width="30%">
+  <img src="imgs/Diario y menup (6).png" width="30%">
+  <img src="imgs/Diario y menup (7).png" width="30%">
+  <img src="imgs/Diario y menup (8).png" width="30%">
+  <img src="imgs/Diario y menup (9).png" width="30%">
+  <img src="imgs/Diario y menup (10).png" width="30%">
+  <img src="imgs/Diario y menup (11).png" width="30%">
+</div>
+<br>
+
+
+   - Biblioteca
+  <br>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center; margin-top: 20px;">
+  <img src="imgs/Bibliotecaw (1).png" width="30%">
+  <img src="imgs/Bibliotecaw (3).png" width="30%">
+  <img src="imgs/Bibliotecaw (2).png" width="30%">
+  <img src="imgs/Bibliotecaw (4).png" width="30%">
+  <img src="imgs/Bibliotecaw (5).png" width="30%">
+  <img src="imgs/Bibliotecaw (6).png" width="30%">
+</div>
+
+
+<br>
+
+   * IA
+
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/IAW (1).png" width="30%">
+  <img src="imgs/IAW (2).png" width="30%">
+  </div>
+  <br>
+
+   - Perfil
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Perfilw (1).png" width="30%">
+  <img src="imgs/Perfilw (2).png" width="30%">
+  <img src="imgs/Perfilw (3).png" width="30%">
+  <img src="imgs/Perfilw (4).png" width="30%">
+  <img src="imgs/Perfilw (5).png" width="30%">
+  </div>
+  <br>
+
+   - Conexción con el psicólogo
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/conexcionw (1).png" width="30%">
+  <img src="imgs/conexcionw (2).png" width="30%">
+  <img src="imgs/conexcionw (3).png" width="30%">
+  <img src="imgs/conexcionw (4).png" width="30%">
+  </div>
+  <br>
+
+   
+ * Paciente
+ * Psicólogo
+ 
+  * 
+
 
 <a id="3142-mobile-applications-wireflow-diagrams"></a>
 #### **3.1.4.2. Mobile Applications Wireflow Diagrams**

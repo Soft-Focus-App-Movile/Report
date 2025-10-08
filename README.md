@@ -2492,6 +2492,24 @@ El usuario accede a la sección “Suscripción” desde el perfil o la configur
 <a id="4211-sprint-planning-1"></a>
 #### **4.2.1.1. Sprint Planning 1**
 
+Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+| Sprint \# | Sprint 1 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar el primer Sprint, enfocándonos en el desarrollo de la página principal (landing page) de PsyWell, asi como una version inicial de nuestro backend desplegado. Durante la reunión: Seleccionamos historias de usuario orientadas al visitante de la plataforma.<br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos el trabajo en tareas específicas.<br> Definimos prioridades y formas de colaboración.  |  |
+| Date | 2025-29-09 |
+| Time | 21:05 PM |
+| Location | Meeting by Discord |
+| Prepared By | Maylhy Gutiérrez Condo and Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz<br> Sandra Paula Luyo Correa |
+| Sprint n \- 1 Review Summary | Al ser este nuestro primer sprint, aun no hay retroalimentacion respecto a un anterior sprint |
+| **Sprint Goal & User Stories** |  |
+| Sprint 1 Goal | **Nuestro enfoque está en** implementar todas las funcionalidades principales de la landing page de PsyWell durante este sprint de 3 semanas, asi como tener lista una version inicial de nuestro backend desplegada, para asi ofrecer una experiencia clara, confiable y atractiva a los nuevos visitantes. **Creemos que esto ofrece** una comprensión inmediata del propósito de la plataforma, visibilidad de sus beneficios y comprension de la funcionalidad **Esto se confirmará cuando** los visitantes puedan navegar por la página con facilidad y comprendan claramente lo que ofrece PsyWell sin necesidad de explicaciones adicionales. 
+
+  |
+| Sprint 1 Velocity | 3 |
+| Sum of Story Points | 18 |
+
 <a id="4212-sprint-backlog-1"></a>
 #### **4.2.1.2. Sprint Backlog 1**
 

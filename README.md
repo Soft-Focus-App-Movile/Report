@@ -2924,6 +2924,7 @@ Esta sección presenta la landing page de **Soft Focus**, donde se aprecia la pr
   <img src="imgs/l2m.png" width="45%">
   <img src="imgs/l1m.png" width="45%">
 </p>
+[Landing Page Wireframe](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=518-2138&t=aDSf9V92VP80o9ES-1)
 
 <a id="3132-landing-page-mock-up"></a>
 #### **3.1.3.2. Landing Page Mock-up**
@@ -2931,6 +2932,7 @@ Esta sección presenta la landing page de **Soft Focus**, donde se aprecia la pr
   <img src="imgs/landingw (1).png" width="45%">
   <img src="imgs/landingw (2).png" width="45%">
 </p>
+[Landing Page Mock-up](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=26-1902&t=aDSf9V92VP80o9ES-1)
 
 <a id="314-mobile-applications-uxui-design"></a>
 ### **3.1.4. Mobile Applications UX/UI Design**
@@ -3011,7 +3013,7 @@ Este apartado presenta el diseño de la experiencia (UX) y la interfaz de usuari
   </div>
   <br>
 
-   - Conexción con el psicólogo
+   - Conexión con el psicólogo
    <br>
    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
   <img src="imgs/conexcionw (1).png" width="30%">
@@ -3024,9 +3026,58 @@ Este apartado presenta el diseño de la experiencia (UX) y la interfaz de usuari
    
  * Paciente
  * Psicólogo
- 
-  * 
 
+  * Menú principal y pacientes
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/PIs y pacientesw (1).png" width="30%">
+  <img src="imgs/PIs y pacientesw (2).png" width="30%">
+  <img src="imgs/PIs y pacientesw (3).png" width="30%">
+  <img src="imgs/PIs y pacientesw (4).png" width="30%">
+  <img src="imgs/PIs y pacientesw (5).png" width="30%">
+  <img src="imgs/PIs y pacientesw (6).png" width="30%">
+  <img src="imgs/PIs y pacientesw (7).png" width="30%">
+  <img src="imgs/PIs y pacientesw (8).png" width="30%">
+  <img src="imgs/PIs y pacientesw (9).png" width="30%">
+  <img src="imgs/PIs y pacientesw (10).png" width="30%">
+  </div>
+  <br>
+
+  * Alertas
+  <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Palertsw (1).png" width="30%">
+  <img src="imgs/Palertsw (2).png" width="30%">
+  </div>
+  <br>
+
+  * Biblioteca
+
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Pbibliotecaw (1).png" width="30%">
+  <img src="imgs/Pbibliotecaw (2).png" width="30%">
+  <img src="imgs/Pbibliotecaw (3).png" width="30%">
+  <img src="imgs/Pbibliotecaw (4).png" width="30%">
+  </div>
+  <br>
+
+  * Perfil
+  <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Pperfilw (1).png" width="30%">
+  <img src="imgs/Pperfilw (2).png" width="30%">
+  <img src="imgs/Pperfilw (3).png" width="30%">
+  <img src="imgs/Pperfilw (4).png" width="30%">
+  <img src="imgs/Pperfilw (5).png" width="30%">
+  <img src="imgs/Pperfilw (6).png" width="30%">
+  <img src="imgs/Pperfilw (7).png" width="30%">
+  </div>
+  <br>
+
+[Usuario General wireframes](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=376-2127&t=aDSf9V92VP80o9ES-1)
+[Pacientes wireframes](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=403-2349&t=aDSf9V92VP80o9ES-1)
+[Psicólogos](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=376-2129&t=aDSf9V92VP80o9ES-1)
 
 <a id="3142-mobile-applications-wireflow-diagrams"></a>
 #### **3.1.4.2. Mobile Applications Wireflow Diagrams**

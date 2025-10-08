@@ -3200,6 +3200,138 @@ El usuario accede a la sección “Suscripción” desde el perfil o la configur
 <a id="3143-mobile-applications-mock-ups"></a>
 #### **3.1.4.3. Mobile Applications Mock-ups**
 
+* Usuario General
+   - Inicio de Sesión 
+   <br>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="imgs/InicioSesiòn1.png" width="30%">
+  <img src="imgs/InicioSesiòn2.png" width="30%">
+  <img src="imgs/InicioSesiòn3.png" width="30%">
+  <img src="imgs/InicioSesiòn4.png" width="30%">
+  <img src="imgs/InicioSesiòn5.png" width="30%">
+</div>
+
+<br>
+
+   - Diario y Menú principal 
+   <br>
+
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/menu e inicio (1).png" width="30%">
+  <img src="imgs/menu e inicio (2).png" width="30%">
+  <img src="imgs/menu e inicio (3).png" width="30%">
+  <img src="imgs/menu e inicio (4).png" width="30%">
+  <img src="imgs/menu e inicio (5).png" width="30%">
+  <img src="imgs/menu e inicio (6).png" width="30%">
+  <img src="imgs/menu e inicio (7).png" width="30%">
+  <img src="imgs/menu e inicio (8).png" width="30%">
+  <img src="imgs/menu e inicio (9).png" width="30%">
+  <img src="imgs/menu e inicio (10).png" width="30%">
+  <img src="imgs/menu e inicio (11).png" width="30%">
+  <img src="imgs/menu e inicio (12).png" width="30%">
+</div>
+<br>
+
+   - Biblioteca
+  <br>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center; margin-top: 20px;">
+  <img src="imgs/Biblioteca (3).png" width="30%">
+  <img src="imgs/Biblioteca (1).png" width="30%">
+  <img src="imgs/Biblioteca (2).png" width="30%">
+  <img src="imgs/Biblioteca (4).png" width="30%">
+  <img src="imgs/Biblioteca (5).png" width="30%">
+  <img src="imgs/Biblioteca (6).png" width="30%">
+</div>
+
+
+<br>
+
+   * IA
+
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/IA (2).png" width="30%">
+  <img src="imgs/IA (1).png" width="30%">
+  </div>
+  <br>
+
+   - Perfil
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Perfil (1).png" width="30%">
+  <img src="imgs/Perfil (2).png" width="30%">
+  <img src="imgs/Perfil (3).png" width="30%">
+  <img src="imgs/Perfil (4).png" width="30%">
+  <img src="imgs/Perfil (5).png" width="30%">
+  </div>
+  <br>
+
+   - Conexión con el psicólogo
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Conexiòn con psi (1).png" width="30%">
+  <img src="imgs/Conexiòn con psi (2).png" width="30%">
+  <img src="imgs/Conexiòn con psi (3).png" width="30%">
+  <img src="imgs/Conexiòn con psi (4).png" width="30%">
+  </div>
+  <br>
+
+   
+ * Paciente
+ * Psicólogo
+
+  * Menú principal y pacientes
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/PIs y paciente  (1).png" width="30%">
+  <img src="imgs/PIs y paciente  (2).png" width="30%">
+  <img src="imgs/PIs y paciente  (3).png" width="30%">
+  <img src="imgs/PIs y paciente  (4).png" width="30%">
+  <img src="imgs/PIs y paciente  (5).png" width="30%">
+  <img src="imgs/PIs y paciente  (6).png" width="30%">
+  <img src="imgs/PIs y paciente  (7).png" width="30%">
+  <img src="imgs/PIs y paciente  (8).png" width="30%">
+  <img src="imgs/PIs y paciente  (9).png" width="30%">
+  <img src="imgs/PIs y paciente  (10).png" width="30%">
+  </div>
+  <br>
+
+  * Alertas
+  <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Palerts (1).png" width="30%">
+  <img src="imgs/Palerts (2).png" width="30%">
+  </div>
+  <br>
+
+  * Biblioteca
+
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Pbiblioteca (1).png" width="30%">
+  <img src="imgs/Pbiblioteca (2).png" width="30%">
+  <img src="imgs/Pbiblioteca (3).png" width="30%">
+  <img src="imgs/Pbiblioteca (4).png" width="30%">
+  </div>
+  <br>
+
+  * Perfil
+  <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Pperfil (1).png" width="30%">
+  <img src="imgs/Pperfil (2).png" width="30%">
+  <img src="imgs/Pperfil (3).png" width="30%">
+  <img src="imgs/Pperfil (4).png" width="30%">
+  <img src="imgs/Pperfil (5).png" width="30%">
+  <img src="imgs/Pperfil (6).png" width="30%">
+  <img src="imgs/Pperfil (7).png" width="30%">
+  </div>
+  <br>
+
+[Usuario General wireframes](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=376-2127&t=aDSf9V92VP80o9ES-1)
+[Pacientes wireframes](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=403-2349&t=aDSf9V92VP80o9ES-1)
+[Psicólogos](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=376-2129&t=aDSf9V92VP80o9ES-1)
 <a id="3144-mobile-applications-user-flow-diagrams"></a>
 #### **3.1.4.4. Mobile Applications User Flow Diagrams**
 
@@ -3307,6 +3439,7 @@ El usuario accede a "Suscripción" desde el perfil o configuración, donde se mu
 
 <a id="3145-mobile-applications-prototyping"></a>
 #### **3.1.4.5. Mobile Applications Prototyping**
+
 
 <a id="capítulo-iv-product-implementation--validation"></a>
 # **Capítulo IV: Product Implementation & Validation**

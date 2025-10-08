@@ -2412,6 +2412,7 @@ Usario Psicologo
 <p align="center">
     <img src="imgs/WIREFLOWS-LIBRARY.png" alt="WIREFLOW_LIBRARY" width="100%">
 </p>
+
 ---
 
 ## 4. User Goal: CONTACTO ENTRE PSCICOLOGO-PACIENTE
@@ -2488,6 +2489,106 @@ El usuario accede a la sección “Suscripción” desde el perfil o la configur
 
 <a id="3144-mobile-applications-user-flow-diagrams"></a>
 #### **3.1.4.4. Mobile Applications User Flow Diagrams**
+
+Basándome en tus wireflows, te presento los User Flows detallados para cada User Goal. Cada uno incluye el happy path y los unhappy paths correspondientes.
+
+## 1. Registro y Autenticación
+**User Persona:** Usuarios Generales y Psicólogos  
+**Explicación del flujo:**  
+El usuario inicia en la pantalla de bienvenida, donde puede elegir entre "Iniciar Sesión" o "Registrarse". Al seleccionar "Registrarse", debe ingresar sus datos personales, incluyendo nombre, apellidos, correo electrónico, contraseña y tipo de usuario. En caso de ser psicólogo, se solicitarán datos adicionales como colegiatura, título y especialización. El sistema puede ofrecer opciones de registro rápido mediante Google. Una vez completados todos los datos, el usuario acepta los términos y condiciones y se crea la cuenta. Finalmente, puede acceder a la pantalla principal.Cuando es caso del psicologo e ingresa datos incorrectos respecto a su cedula y estudios le da error.
+
+<p align="center">
+    <img src="imgs/USERFLOW-REGISTRO.png" alt="USERFLOW_REGISTRO" width="100%">
+</p>
+
+## 2. Registro de Emociones
+**User Persona:** Usuarios Generales  
+**Explicación del flujo:**  
+El usuario accede a la sección "Diario" desde el menú principal. Se presenta una interfaz para registrar su estado emocional del día, seleccionando entre diferentes emociones mediante iconos visuales o una escala numérica. Puede agregar notas describiendo cómo se siente o qué eventos influyeron en su estado. Opcionalmente, puede activar la cámara para capturar una expresión facial; el sistema analiza la expresión y sugiere la emoción detectada, que el usuario puede confirmar o ajustar. Una vez completado, presiona "Guardar registro" y el sistema confirma que la entrada ha sido guardada exitosamente. Si intenta guardar sin seleccionar al menos una emoción, se solicita completar este campo obligatorio. En caso de abandonar el formulario sin guardar, se ofrece la opción de guardar como borrador para continuar más tarde. Si el reconocimiento facial falla o los permisos de cámara no están otorgados, el sistema permite continuar sin esta funcionalidad opcional.
+
+<p align="center">
+    <img src="imgs/USERFLOW-EMOCIONES.png" alt="USERFLOW_EMOCIONES" width="100%">
+</p>
+
+
+
+## 3. Manejo de Biblioteca de Recursos
+**User Persona:** Usuarios Generales y Psicólogos  
+**Explicación del flujo:**  
+El usuario accede a la sección "Biblioteca" desde el menú de navegación inferior, donde se presentan distintas categorías: Películas/Series, Música, Videos y Lugares. Puede explorar contenido según su preferencia e indicación del psicólogo, aplicar filtros y seleccionar recursos para ver detalles y beneficios terapéuticos. Los recursos se pueden "Ver ahora", "Agregar a favoritos" o "Compartir". Para psicólogos, la gestión de la Biblioteca está orientada al contenido asignado a sus pacientes. Pueden agregar recursos con notas explicativas y el sistema notifica al paciente. Si no hay conexión a internet, solo se muestran recursos descargados previamente. Si un recurso no está disponible, se ofrecen alternativas similares.
+
+Usuario General
+<p align="center">
+    <img src="imgs/USERFLOW-BIBLIOTECA.png" alt="USERFLOW_Biblioteca" width="100%">
+</p>
+
+Psicologo
+<p align="center">
+    <img src="imgs/USERFLOW-LIBARY.png" alt="USERFLOW_Library" width="100%">
+</p>
+
+
+## 4. Contacto entre Psicólogo y Paciente
+**User Persona:** Usuarios Generales y Psicólogos  
+**Explicación del flujo:**  
+El usuario comienza "Conectar con Psicólogo" desde su perfil, donde se muestran los profesionales disponibles con su foto, especialidad, calificaciones, experiencia y tarifas, y puede iniciar un chat para decidir si requiere sus servicios o continuar con las tareas asignadas; en caso de emergencia, se activa un contacto inmediato con el psicólogo más cercano mientras la aplicación le ofrece pasos sencillos para manejar su ansiedad o problema. Para los psicólogos, la plataforma permite conectar con el paciente, acceder a su perfil, chatear o monitorear el progreso de sus tareas, así como editar la información que el paciente puede visualizar y controlar cómo se presenta su seguimiento.
+
+Usuario General
+<p align="center">
+    <img src="imgs/USERFLOW-CONECTAR.png" alt="USERFLOW_CONECTAR" width="100%">
+</p>
+
+<p align="center">
+    <img src="imgs/WIREFLOW-MANNEJO ALERTAS.png" alt="USERFLOW_ALERTAS" width="100%">
+</p>
+
+Psicologo
+
+<p align="center">
+    <img src="imgs/USERFLOW-CONN.png" alt="USERFLOW_CONN" width="100%">
+</p>
+
+## 5. Manejo de Alertas
+**User Persona:** Psicólogos  
+**Explicación del flujo:**  
+El psicólogo accede a la sección "Alertas" desde el menú inferior, donde visualiza un dashboard con alertas críticas o moderadas para gestionar y dar seguimiento a cada caso; también puede recibir notificaciones de nuevas alertas de pacientes, desde donde evalúa, clasifica y marca cada alerta como leída o pendiente, asegurando un manejo eficiente de las situaciones que requieren atención.
+
+<p align="center">
+    <img src="imgs/USERFLOW-ALERTA.png" alt="USERFLOW_ALERT" width="100%">
+</p>
+
+## 6. Comunicación con IA (Consultas)
+**User Persona:** Usuarios Generales  
+**Explicación del flujo:**  
+El usuario accede a "Chat IA" desde el menú principal, donde la IA se presenta y pregunta en qué puede ayudar. El usuario escribe su consulta y la IA responde con información relevante. Para consultas sobre técnicas de manejo, ofrece pasos detallados y recursos de la biblioteca. Para situaciones complejas, hace preguntas de seguimiento y proporciona respuestas personalizadas. Las conversaciones se guardan automáticamente en el historial. Si se detecta lenguaje de riesgo o situación de crisis, sugiere contactar con un psicólogo o línea de emergencia. La IA aclara límites médicos, solicita reformular preguntas no entendidas y puede ofrecer conexión directa con psicólogo humano si la conversación se extiende o hay frustración.
+
+<p align="center">
+    <img src="imgs/USERFLOW-IA.png" alt="USERFLOW_IA" width="100%">
+</p>
+
+## 7. Configuración de Perfil
+**User Persona:** Usuarios Generales y Psicólogos  
+**Explicación del flujo:**  
+El usuario accede a la sección "Perfil", donde puede editar su información personal, configurar notificaciones y gestionar su plan; en el caso de los psicólogos, también pueden acceder a sus estadísticas, revisar y modificar sus datos profesionales según lo necesiten.
+
+Usuario general
+<p align="center">
+    <img src="imgs/USERFLOW-CONFIGURACION.png" alt="USERFLOW_Configuracion" width="100%">
+</p>
+
+Psicologo
+<p align="center">
+    <img src="imgs/USERFLOW-CONFIG.png" alt="USERFLOW_Config" width="100%">
+</p>
+
+## 8. Suscripciones y Pagos
+**User Persona:** Usuarios Generales  
+**Explicación del flujo:**  
+El usuario accede a "Suscripción" desde el perfil o configuración, donde se muestran los planes disponibles: Gratuito, Mensual ($12.99) y Anual ($99.99) con beneficios y descuentos. Al seleccionar un plan, se muestran resumen de precio, beneficios y fecha de renovación. Al confirmar método de pago (tarjeta, PayPal, Google Pay) y aceptar términos, el sistema procesa el pago y muestra confirmación con detalles y recibo por correo. Si el pago falla, se ofrece intentar con otro método. 
+
+<p align="center">
+    <img src="imgs/USERFLOW-SUSCRIPCION.png" alt="USERFLOW_SUSCRIPCION" width="100%">
+</p>
 
 <a id="3145-mobile-applications-prototyping"></a>
 #### **3.1.4.5. Mobile Applications Prototyping**

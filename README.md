@@ -2914,15 +2914,27 @@ Los flujos de navegación están diseñados para ser lineales y predecibles en p
 
 <a id="313-landing-page-ui-design"></a>
 ### **3.1.3. Landing Page UI Design**
+Esta sección presenta la landing page de **Soft Focus**, donde se aprecia la propuesta visual y funcional de la plataforma. Su diseño busca ofrecer una experiencia moderna, intuitiva y emocionalmente cercana, destacando elementos como los check-ins diarios, la asistencia de IA y la conexión con profesionales de la salud mental. En el mock-up y wireframe se muestran las secciones principales : Inicio, Funcionalidades, Planes y Descarga de la App , junto al mensaje central de la marca orientado al bienestar, la prevención y el autocuidado.
+
 
 <a id="3131-landing-page-wireframe"></a>
 #### **3.1.3.1. Landing Page Wireframe**
 
+<p align="center">
+  <img src="imgs/l2m.png" width="45%">
+  <img src="imgs/l1m.png" width="45%">
+</p>
+
 <a id="3132-landing-page-mock-up"></a>
 #### **3.1.3.2. Landing Page Mock-up**
+<p align="center">
+  <img src="imgs/landingw (1).png" width="45%">
+  <img src="imgs/landingw (2).png" width="45%">
+</p>
 
 <a id="314-mobile-applications-uxui-design"></a>
 ### **3.1.4. Mobile Applications UX/UI Design**
+
 
 <a id="3141-mobile-applications-wireframes"></a>
 #### **3.1.4.1. Mobile Applications Wireframes**

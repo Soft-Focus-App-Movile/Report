@@ -3933,14 +3933,59 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 <a id="4212-sprint-backlog-1"></a>
 #### **4.2.1.2. Sprint Backlog 1**
 
+Para este primer Sprint, nuestro objetivo principal es desarrollar la **Landing Page de SoftFocus** y desarrollar un avance del **Backend de SoftFocus**. Para lograrlo, hemos creado tareas específicas para cada historia de usuario relacionada con la landing y algunas tecnicas relacionadas con el backend, las hemos asignado entre los integrantes del equipo. Además, para una mejor organización y seguimiento del Backlog, estamos utilizando la herramienta **Trello**  
+
+*Figura* <br>
+*Sprint 1 de TextilFlow*
+
+
+Sprint Backlog 1 en Trello: https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus
+
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+|  | 	 |  |   |  |  |  | Done |
+|  | 	 |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  | 	 |  |   |  |  |  | Done |
+|  | 	 |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+
+
+
 <a id="4213-development-evidence-for-sprint-review"></a>
 #### **4.2.1.3. Development Evidence for Sprint Review**
+
+
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| matthewsrt29/Landing-Page-Textiflow |  |  |  |  | /2025 |
+| matthewsrt29/Landing-Page-Textiflow |  |  |  |  | /2025 |
+| matthewsrt29/Landing-Page-Textiflow |  |  |  |  | /2025 |
+| matthewsrt29/Landing-Page-Textiflow |  |  |  |  | /2025 |
+| Ly009463/Landing-Page-Textiflow     |  |  |  |  | /2025 |
+| Ly009463/Landing-Page-Textiflow     |  |  |  |  | /2025 |
+| LucidVoid10/Landing-Page-Textiflow  |  |  |  |  | /2025 |
+| LucidVoid10/Landing-Page-Textiflow  |  |  |  |  | /2025 |
+| MathiasBueno/Landing-Page-Textiflow |  |  |  |  | /2025 |
+| MathiasBueno/Landing-Page-Textiflow |  |  |  |  | /2025 |
+
 
 <a id="4214-testing-suite-evidence-for-sprint-review"></a>
 #### **4.2.1.4. Testing Suite Evidence for Sprint Review**
 
 <a id="4215-execution-evidence-for-sprint-review"></a>
 #### **4.2.1.5. Execution Evidence for Sprint Review**
+
+En el sprint 1 alcanzamos un desarrollo completo en la implementación y despliegue de la landing page, asi como gran progreso en nuestro backend. La página muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre nuestro producto y nuestra startup. A continuación presentamos algunas evidencias:
+
+Enlace Soft Focus Landing Page: https://soft-focus-61053.web.app/
 
 <a id="4216-services-documentation-evidence-for-sprint-review"></a>
 #### **4.2.1.6. Services Documentation Evidence for Sprint Review**
@@ -4056,3 +4101,6 @@ Nuestro startup Psywell, con su producto Soft Focus, ofrece una solución innova
 [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
 
 Entrevistas - Sprint 1: [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20de%20Soft%20Focus%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed147e435%2Daccc%2D4f10%2D94a9%2Dd4fb967c4fe8](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20de%20Soft%20Focus%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed147e435%2Daccc%2D4f10%2D94a9%2Dd4fb967c4fe8)
+
+
+Enlace Landing Page: https://soft-focus-61053.web.app/

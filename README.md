@@ -2507,6 +2507,57 @@ El usuario accede a la sección “Suscripción” desde el perfil o la configur
 <a id="412-source-code-management"></a>
 ### **4.1.2. Source Code Management**
 
+Para el desarrollo de este proyecto, resultó esencial mantener un flujo de trabajo ordenado y una gestión eficiente de las tareas.  
+Para ello, utilizamos **Git** como herramienta principal, debido a su capacidad para manejar versiones y trabajar mediante un sistema de **ramas (branches)**.  
+Todo nuestro código se encuentra centralizado en un repositorio dentro de **GitHub**.  
+
+**Organización:** https://github.com/Soft-Focus-App-Movile  
+**Repositorio:** [Landing Page](https://github.com/Soft-Focus-App-Movile/Landing-Page.git)
+
+---
+
+##  Metodología de Ramas: GitFlow
+
+En cuanto a la metodología de desarrollo, implementamos el modelo de ramas **GitFlow**, lo que nos permitió mantener un flujo de integración controlado y bien estructurado.  
+
+### 🔹 Ramas Principales
+- **main:** Es la rama principal del proyecto. Contiene la versión más estable y lista para producción.  
+- **develop:** Rama de desarrollo, donde se validan y prueban los cambios antes de integrarlos en *main*.  
+
+### 🔹 Ramas Auxiliares
+- **feature/feature_name:** Se crean para implementar funcionalidades o requisitos específicos sin interferir con el trabajo del resto del equipo.  
+  Una vez completadas, se fusionan con la rama *develop*.  
+  Los nombres de estas ramas hacen referencia al requerimiento o *user story* que se está desarrollando.  
+
+---
+
+## Convenciones para los Commits
+
+Con el fin de mantener un historial de cambios claro y fácilmente identificable, adoptamos la convención de **Conventional Commits**.  
+Esto facilita el seguimiento del progreso y el análisis de las modificaciones realizadas durante el desarrollo.  
+
+```html
+<type>(scope): <description>
+```
+
+*Ejemplo: feat: adding user stories*
+
+###  Descripción de los Campos
+
+- **type:** Campo obligatorio que define el tipo de cambio realizado.  
+  - `feat`: Nueva funcionalidad.  
+  - `fix`: Corrección de errores.  
+  - `style`: Modificaciones en el estilo (por ejemplo, CSS).  
+  - `refactor`: Mejoras en el código sin añadir nuevas funciones.  
+  - `docs`: Cambios en la documentación.  
+  - `build`: Alteraciones en la configuración del proyecto o en las dependencias.  
+
+- **scope:** Campo opcional que indica el alcance o módulo afectado (por ejemplo, un identificador de *user story* o requerimiento).  
+
+- **description:** Breve descripción del cambio, escrita en inglés e iniciando con un verbo en infinitivo.  
+
+
+
 <a id="413-source-code-style-guide--conventions"></a>
 ### **4.1.3. Source Code Style Guide & Conventions**
 

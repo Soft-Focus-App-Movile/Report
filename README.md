@@ -1222,51 +1222,81 @@ Usuario: Psicologo
 Event Storming es una técnica colaborativa de modelado de dominios desarrollada por Alberto Brandolini. Su objetivo es descubrir rápidamente los procesos de negocio complejos mediante la identificación de eventos de dominio, comandos, agregados y bounded contexts.La duracion aproximanda fueron de 2 horas.
 
 #### STEP 1
+
+Aquí comienza la lluvia de ideas sobre los eventos del dominio. Cada evento representa algo que ya ocurrió en el negocio y es relevante para el dominio que se está explorando.
+
 <p align="center">
 <img src="imgs/EVENT1.png" width="900">
 </p>
 
 #### STEP 2
+
+En este paso se organizan los eventos en el orden en que suceden, iniciando con el happy path o flujo exitoso, y luego se agregan los escenarios alternativos.
+
 <p align="center">
 <img src="imgs/EVENT2.png" width="900">
 </p>
 
 #### STEP 3
+
+Con la línea de tiempo formada, se identifican los puntos problemáticos del proceso: cuellos de botella, pasos manuales, falta de automatización o vacíos de conocimiento.
+
 <p align="center">
 <img src="imgs/EVENTO3.png" width="900">
 </p>
 
 #### STEP 4
+
+Se buscan eventos fundamentales que marcan un cambio de fase o contexto dentro del dominio. Estos dividen la línea de tiempo en “antes” y “después” de dicho evento.
+
 <p align="center">
 <img src="imgs/EVENT4.png" width="900">
 </p>
 
 #### STEP 5
+
+Aquí se analizan los comandos que originan los eventos. A diferencia de los eventos (que ya sucedieron), los comandos son acciones que desencadenan esos eventos y se expresan en modo imperativo.
+
 <p align="center">
 <img src="imgs/EVENTO5.png" width="900">
 </p>
 
 #### STEP 6
+
+Se identifican políticas automáticas que ejecutan comandos sin intervención directa de un actor. Representan reglas donde un evento genera automáticamente un comando.
+
 <p align="center">
 <img src="imgs/EVENT6.png" width="900">
 </p>
 
 #### STEP 7
+
+Se modelan las vistas de lectura que los actores usan para tomar decisiones: informes, pantallas o notificaciones que muestran información relevante del dominio.
+
 <p align="center">
 <img src="imgs/EVENTO7.png" width="900">
 </p>
 
 #### STEP 8
+
+Se añaden los sistemas externos que interactúan con el dominio, ya sea ejecutando comandos (entrada) o recibiendo notificaciones de eventos (salida).
+
 <p align="center">
 <img src="imgs/EVENTO8.png" width="900">
 </p>
 
 #### STEP 9
+
+Se agrupan los eventos y comandos relacionados en agregados. Cada agregado recibe comandos y produce eventos, representando una unidad lógica del dominio.
+
 <p align="center">
 <img src="imgs/EVENTO9.png" width="900">
 </p>
 
 #### STEP 10
+
+Finalmente, se agrupan los agregados estrechamente relacionados para definir los contextos delimitados. Cada contexto representa un área funcional coherente y autónoma del dominio.
+
 <p align="center">
 <img src="imgs/EVENTO10.png" width="900">
 </p>

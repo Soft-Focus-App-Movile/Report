@@ -2914,18 +2914,170 @@ Los flujos de navegación están diseñados para ser lineales y predecibles en p
 
 <a id="313-landing-page-ui-design"></a>
 ### **3.1.3. Landing Page UI Design**
+Esta sección presenta la landing page de **Soft Focus**, donde se aprecia la propuesta visual y funcional de la plataforma. Su diseño busca ofrecer una experiencia moderna, intuitiva y emocionalmente cercana, destacando elementos como los check-ins diarios, la asistencia de IA y la conexión con profesionales de la salud mental. En el mock-up y wireframe se muestran las secciones principales : Inicio, Funcionalidades, Planes y Descarga de la App , junto al mensaje central de la marca orientado al bienestar, la prevención y el autocuidado.
+
 
 <a id="3131-landing-page-wireframe"></a>
 #### **3.1.3.1. Landing Page Wireframe**
 
+<p align="center">
+  <img src="imgs/l2m.png" width="45%">
+  <img src="imgs/l1m.png" width="45%">
+</p>
+[Landing Page Wireframe](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=518-2138&t=aDSf9V92VP80o9ES-1)
+
 <a id="3132-landing-page-mock-up"></a>
 #### **3.1.3.2. Landing Page Mock-up**
+<p align="center">
+  <img src="imgs/landingw (1).png" width="45%">
+  <img src="imgs/landingw (2).png" width="45%">
+</p>
+[Landing Page Mock-up](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=26-1902&t=aDSf9V92VP80o9ES-1)
 
 <a id="314-mobile-applications-uxui-design"></a>
 ### **3.1.4. Mobile Applications UX/UI Design**
 
+Este apartado presenta el diseño de la experiencia (UX) y la interfaz de usuario (UI) de la aplicación móvil, enfocado en crear una navegación fluida, atractiva y fácil de usar. Se busca garantizar una interacción intuitiva y visualmente coherente con la identidad de la marca, priorizando la accesibilidad, el bienestar del usuario y la funcionalidad en cada pantalla.
+
 <a id="3141-mobile-applications-wireframes"></a>
 #### **3.1.4.1. Mobile Applications Wireframes**
+
+ * Usuario General
+   - Inicio de Sesión 
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="imgs/inicioS (1).png" width="30%">
+  <img src="imgs/inicioS (2).png" width="30%">
+  <img src="imgs/inicioS (3).png" width="30%">
+  <img src="imgs/inicioS (4).png" width="30%">
+  <img src="imgs/inicioS (5).png" width="30%">
+  <img src="imgs/inicioS (6).png" width="30%">
+  <img src="imgs/inicioS (7).png" width="30%">
+  <img src="imgs/inicioS (8).png" width="30%">
+</div>
+
+<br>
+
+
+   - Diario y Menú principal 
+   <br>
+
+
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Diario y menup (1).png" width="30%">
+  <img src="imgs/Diario y menup (2).png" width="30%">
+  <img src="imgs/Diario y menup (3).png" width="30%">
+  <img src="imgs/Diario y menup (4).png" width="30%">
+  <img src="imgs/Diario y menup (5).png" width="30%">
+  <img src="imgs/Diario y menup (6).png" width="30%">
+  <img src="imgs/Diario y menup (7).png" width="30%">
+  <img src="imgs/Diario y menup (8).png" width="30%">
+  <img src="imgs/Diario y menup (9).png" width="30%">
+  <img src="imgs/Diario y menup (10).png" width="30%">
+  <img src="imgs/Diario y menup (11).png" width="30%">
+</div>
+<br>
+
+
+   - Biblioteca
+  <br>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center; margin-top: 20px;">
+  <img src="imgs/Bibliotecaw (1).png" width="30%">
+  <img src="imgs/Bibliotecaw (3).png" width="30%">
+  <img src="imgs/Bibliotecaw (2).png" width="30%">
+  <img src="imgs/Bibliotecaw (4).png" width="30%">
+  <img src="imgs/Bibliotecaw (5).png" width="30%">
+  <img src="imgs/Bibliotecaw (6).png" width="30%">
+</div>
+
+
+<br>
+
+   * IA
+
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/IAW (1).png" width="30%">
+  <img src="imgs/IAW (2).png" width="30%">
+  </div>
+  <br>
+
+   - Perfil
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Perfilw (1).png" width="30%">
+  <img src="imgs/Perfilw (2).png" width="30%">
+  <img src="imgs/Perfilw (3).png" width="30%">
+  <img src="imgs/Perfilw (4).png" width="30%">
+  <img src="imgs/Perfilw (5).png" width="30%">
+  </div>
+  <br>
+
+   - Conexión con el psicólogo
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/conexcionw (1).png" width="30%">
+  <img src="imgs/conexcionw (2).png" width="30%">
+  <img src="imgs/conexcionw (3).png" width="30%">
+  <img src="imgs/conexcionw (4).png" width="30%">
+  </div>
+  <br>
+
+   
+ * Paciente
+ * Psicólogo
+
+  * Menú principal y pacientes
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/PIs y pacientesw (1).png" width="30%">
+  <img src="imgs/PIs y pacientesw (2).png" width="30%">
+  <img src="imgs/PIs y pacientesw (3).png" width="30%">
+  <img src="imgs/PIs y pacientesw (4).png" width="30%">
+  <img src="imgs/PIs y pacientesw (5).png" width="30%">
+  <img src="imgs/PIs y pacientesw (6).png" width="30%">
+  <img src="imgs/PIs y pacientesw (7).png" width="30%">
+  <img src="imgs/PIs y pacientesw (8).png" width="30%">
+  <img src="imgs/PIs y pacientesw (9).png" width="30%">
+  <img src="imgs/PIs y pacientesw (10).png" width="30%">
+  </div>
+  <br>
+
+  * Alertas
+  <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Palertsw (1).png" width="30%">
+  <img src="imgs/Palertsw (2).png" width="30%">
+  </div>
+  <br>
+
+  * Biblioteca
+
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Pbibliotecaw (1).png" width="30%">
+  <img src="imgs/Pbibliotecaw (2).png" width="30%">
+  <img src="imgs/Pbibliotecaw (3).png" width="30%">
+  <img src="imgs/Pbibliotecaw (4).png" width="30%">
+  </div>
+  <br>
+
+  * Perfil
+  <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Pperfilw (1).png" width="30%">
+  <img src="imgs/Pperfilw (2).png" width="30%">
+  <img src="imgs/Pperfilw (3).png" width="30%">
+  <img src="imgs/Pperfilw (4).png" width="30%">
+  <img src="imgs/Pperfilw (5).png" width="30%">
+  <img src="imgs/Pperfilw (6).png" width="30%">
+  <img src="imgs/Pperfilw (7).png" width="30%">
+  </div>
+  <br>
+
+[Usuario General wireframes](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=376-2127&t=aDSf9V92VP80o9ES-1)
+[Pacientes wireframes](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=403-2349&t=aDSf9V92VP80o9ES-1)
+[Psicólogos wireframes](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=376-2129&t=aDSf9V92VP80o9ES-1)
 
 <a id="3142-mobile-applications-wireflow-diagrams"></a>
 #### **3.1.4.2. Mobile Applications Wireflow Diagrams**
@@ -3048,6 +3200,140 @@ El usuario accede a la sección “Suscripción” desde el perfil o la configur
 <a id="3143-mobile-applications-mock-ups"></a>
 #### **3.1.4.3. Mobile Applications Mock-ups**
 
+* Usuario General
+   - Inicio de Sesión 
+   <br>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="imgs/InicioSesiòn1.png" width="30%">
+  <img src="imgs/InicioSesiòn2.png" width="30%">
+  <img src="imgs/InicioSesiòn3.png" width="30%">
+  <img src="imgs/InicioSesiòn4.png" width="30%">
+  <img src="imgs/InicioSesiòn5.png" width="30%">
+</div>
+
+<br>
+
+   - Diario y Menú principal 
+   <br>
+
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/menu e inicio (1).png" width="30%">
+  <img src="imgs/menu e inicio (2).png" width="30%">
+  <img src="imgs/menu e inicio (3).png" width="30%">
+  <img src="imgs/menu e inicio (4).png" width="30%">
+  <img src="imgs/menu e inicio (5).png" width="30%">
+  <img src="imgs/menu e inicio (6).png" width="30%">
+  <img src="imgs/menu e inicio (7).png" width="30%">
+  <img src="imgs/menu e inicio (8).png" width="30%">
+  <img src="imgs/menu e inicio (9).png" width="30%">
+  <img src="imgs/menu e inicio (10).png" width="30%">
+  <img src="imgs/menu e inicio (11).png" width="30%">
+  <img src="imgs/menu e inicio (12).png" width="30%">
+</div>
+<br>
+
+   - Biblioteca
+  <br>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center; margin-top: 20px;">
+  <img src="imgs/Biblioteca (3).png" width="30%">
+  <img src="imgs/Biblioteca (1).png" width="30%">
+  <img src="imgs/Biblioteca (2).png" width="30%">
+  <img src="imgs/Biblioteca (4).png" width="30%">
+  <img src="imgs/Biblioteca (5).png" width="30%">
+  <img src="imgs/Biblioteca (6).png" width="30%">
+</div>
+
+
+<br>
+
+   * IA
+
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/IA (2).png" width="30%">
+  <img src="imgs/IA (1).png" width="30%">
+  </div>
+  <br>
+
+   - Perfil
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Perfil (1).png" width="30%">
+  <img src="imgs/Perfil (2).png" width="30%">
+  <img src="imgs/Perfil (3).png" width="30%">
+  <img src="imgs/Perfil (4).png" width="30%">
+  <img src="imgs/Perfil (5).png" width="30%">
+  </div>
+  <br>
+
+   - Conexión con el psicólogo
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Conexiòn con psi (1).png" width="30%">
+  <img src="imgs/Conexiòn con psi (2).png" width="30%">
+  <img src="imgs/Conexiòn con psi (3).png" width="30%">
+  <img src="imgs/Conexiòn con psi (4).png" width="30%">
+  </div>
+  <br>
+
+   
+ * Paciente
+ * Psicólogo
+
+  * Menú principal y pacientes
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/PIs y paciente  (1).png" width="30%">
+  <img src="imgs/PIs y paciente  (2).png" width="30%">
+  <img src="imgs/PIs y paciente  (3).png" width="30%">
+  <img src="imgs/PIs y paciente  (4).png" width="30%">
+  <img src="imgs/PIs y paciente  (5).png" width="30%">
+  <img src="imgs/PIs y paciente  (6).png" width="30%">
+  <img src="imgs/PIs y paciente  (7).png" width="30%">
+  <img src="imgs/PIs y paciente  (8).png" width="30%">
+  <img src="imgs/PIs y paciente  (9).png" width="30%">
+  <img src="imgs/PIs y paciente  (10).png" width="30%">
+  </div>
+  <br>
+
+  * Alertas
+  <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Palerts (1).png" width="30%">
+  <img src="imgs/Palerts (2).png" width="30%">
+  </div>
+  <br>
+
+  * Biblioteca
+
+   <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Pbiblioteca (1).png" width="30%">
+  <img src="imgs/Pbiblioteca (2).png" width="30%">
+  <img src="imgs/Pbiblioteca (3).png" width="30%">
+  <img src="imgs/Pbiblioteca (4).png" width="30%">
+  </div>
+  <br>
+
+  * Perfil
+  <br>
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+  <img src="imgs/Pperfil (1).png" width="30%">
+  <img src="imgs/Pperfil (2).png" width="30%">
+  <img src="imgs/Pperfil (3).png" width="30%">
+  <img src="imgs/Pperfil (4).png" width="30%">
+  <img src="imgs/Pperfil (5).png" width="30%">
+  <img src="imgs/Pperfil (6).png" width="30%">
+  <img src="imgs/Pperfil (7).png" width="30%">
+  </div>
+  <br>
+
+[Usuario General Mock-Up](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=192-1038&t=aDSf9V92VP80o9ES-1)
+
+[Pacientes Mock-Up](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=192-1068&t=aDSf9V92VP80o9ES-1)
+
+[Psicólogos Mock-Up](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=192-1069&t=aDSf9V92VP80o9ES-1)
 <a id="3144-mobile-applications-user-flow-diagrams"></a>
 #### **3.1.4.4. Mobile Applications User Flow Diagrams**
 
@@ -3155,6 +3441,15 @@ El usuario accede a "Suscripción" desde el perfil o configuración, donde se mu
 
 <a id="3145-mobile-applications-prototyping"></a>
 #### **3.1.4.5. Mobile Applications Prototyping**
+
+Este apartado presenta la etapa de creación del prototipo interactivo de la aplicación móvil. Su propósito es visualizar el flujo de navegación, validar la usabilidad y comprobar la coherencia entre el diseño visual y las funcionalidades propuestas. A través del prototipo se simula la experiencia real del usuario, permitiendo realizar pruebas, ajustes y mejoras antes del desarrollo final.
+
+
+<p align="center">
+    <img src="imgs/prototipe.png"  width="100%">
+</p>
+
+[Mobile Applications Prototyping](https://www.figma.com/proto/zWOudWULeBHrZm168XZ8if/Soft-Focus?page-id=426%3A1607&node-id=426-2218&viewport=-95%2C667%2C0.08&t=whO649XRK7hwKyIg-1&scaling=min-zoom&content-scaling=fixed)
 
 <a id="capítulo-iv-product-implementation--validation"></a>
 # **Capítulo IV: Product Implementation & Validation**

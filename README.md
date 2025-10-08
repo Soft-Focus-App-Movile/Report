@@ -2505,7 +2505,6 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Sprint n \- 1 Review Summary | Al ser este nuestro primer sprint, aun no hay retroalimentacion respecto a un anterior sprint |
 | **Sprint Goal & User Stories** |  |
 | Sprint 1 Goal | **Nuestro enfoque está en** implementar todas las funcionalidades principales de la landing page de PsyWell durante este sprint de 3 semanas, asi como tener lista una version inicial de nuestro backend desplegada, para asi ofrecer una experiencia clara, confiable y atractiva a los nuevos visitantes. **Creemos que esto ofrece** una comprensión inmediata del propósito de la plataforma, visibilidad de sus beneficios y comprension de la funcionalidad **Esto se confirmará cuando** los visitantes puedan navegar por la página con facilidad y comprendan claramente lo que ofrece PsyWell sin necesidad de explicaciones adicionales. 
-
   |
 | Sprint 1 Velocity | 3 |
 | Sum of Story Points | 18 |

@@ -2333,23 +2333,584 @@ Implementación de servicios externos esenciales.
 <a id="3111-general-style-guidelines"></a>
 #### **3.1.1.1. General Style Guidelines**
 
+## Branding
+
+**Soft Focus** es una plataforma de acompañamiento psicológico que combina tecnología e inteligencia artificial para brindar apoyo emocional continuo. Nuestra identidad visual está diseñada para transmitir calidez, confianza y accesibilidad, utilizando elementos que evocan tranquilidad y profesionalismo sin perder cercanía con los usuarios.
+
+### Logo
+
+El logo de Soft Focus presenta un **panda tierno sentado con una hoja en la cabeza**, rodeado por el nombre "Soft Focus". Este símbolo fue elegido por las siguientes razones:
+
+- **Panda**: Representa calma, ternura y paz, valores fundamentales en salud mental
+- **Hoja en la cabeza**: Simboliza crecimiento personal, renovación y naturaleza
+- **Postura sentada**: Transmite estabilidad, presencia y disposición para escuchar
+
+<p align="center">
+    <img src="imgs/SoftFocus.png" alt="SoftFocus" width="30%">
+</p>
+
+
+### Brand Personality
+
+La personalidad de marca de Soft Focus se define por cuatro pilares fundamentales:
+
+| Dimensión | Posicionamiento | Justificación |
+|-----------|----------------|---------------|
+| **Tono** | Entusiasta | Motivamos a los usuarios a cuidar su salud mental con energía positiva |
+| **Formalidad** | Formal | Mantenemos profesionalismo al tratar temas sensibles de salud mental |
+| **Actitud** | Respetuoso | Valoramos la vulnerabilidad de nuestros usuarios y la confidencialidad |
+| **Estilo** | Divertido | Hacemos accesible el cuidado mental sin perder seriedad |
+
+### Brand Values
+
+Los valores fundamentales que transmite Soft Focus son:
+
+1. **Confianza**: Protegemos la información sensible y brindamos un espacio seguro
+2. **Empatía**: Comprendemos las necesidades emocionales de nuestros usuarios
+3. **Profesionalismo**: Respaldamos nuestros servicios con conocimiento clínico validado
+4. **Accesibilidad**: Democratizamos el acceso al apoyo psicológico mediante tecnología
+
+---
+
+## Typography
+
+La tipografía de Soft Focus ha sido cuidadosamente seleccionada para garantizar legibilidad, profesionalismo y calidez en todas las plataformas.
+
+### Type Scale
+
+<p align="center">
+    <img src="imgs/Typo.png" alt="Typo" width="50%">
+</p>
+
+### Primary Fonts
+
+#### **Source Sans Pro** - Fuente principal para contenido
+- **Uso**: Textos de interfaz, cuerpo de texto, descripciones
+- **Pesos disponibles**:
+  - Light (300): 26 instancias - Textos secundarios
+  - Regular (400): 477 instancias - Texto principal
+  - SemiBold (600): 67 instancias - Énfasis medio
+  - Bold (700): 10 instancias - Títulos secundarios
+- **Razón de elección**: Excelente legibilidad en pantallas, humanista y profesional
+
+#### **Roboto** - Fuente complementaria
+- **Uso**: Elementos de navegación, botones, etiquetas
+- **Pesos disponibles**:
+  - Regular (400): 75 instancias
+  - Medium (500): 44 instancias
+- **Razón de elección**: Estándar de Material Design, optimizada para UI móvil
+
+#### **Crimson Text** - Fuente para contenido editorial
+- **Uso**: Artículos, recursos terapéuticos, contenido extenso
+- **Pesos disponibles**:
+  - Regular (400): 14 instancias
+  - SemiBold (600): 46 instancias
+  - Bold (700): 1 instancia
+- **Razón de elección**: Elegancia y legibilidad en textos largos
+
+### Secondary Fonts
+
+- **Inter**: Utilizada en elementos específicos de UI (1 instancia Medium)
+- **SF Pro Display/Text**: Para compatibilidad con iOS (2 instancias)
+- **Poppins**: Acentos y elementos destacados (1 instancia Regular)
+- **Sorts Mill Goudy**: Contenido especial (3 instancias Regular)
+
+### Typography Hierarchy
+
+```
+H1 (Display)        - Source Sans Pro Bold, 32px, Line height 40px
+H2 (Heading)        - Source Sans Pro SemiBold, 24px, Line height 32px
+H3 (Subheading)     - Source Sans Pro SemiBold, 20px, Line height 28px
+H4 (Section Title)  - Roboto Medium, 18px, Line height 24px
+Body Large          - Source Sans Pro Regular, 16px, Line height 24px
+Body Regular        - Source Sans Pro Regular, 14px, Line height 20px
+Body Small          - Source Sans Pro Light, 12px, Line height 16px
+Caption             - Source Sans Pro Light, 10px, Line height 14px
+Button Text         - Roboto Medium, 14px, Letter spacing 0.5px
+```
+
+
+## Colors
+
+La paleta de colores de Soft Focus está diseñada para transmitir calma, crecimiento y profesionalismo, fundamental en una aplicación de salud mental.
+
+### Color Palette
+
+<p align="center">
+    <img src="imgs/Colors.png" alt="Colors" width="50%">
+</p>
+
+### Primary Colors
+
+#### Verde Oliva (#657142)
+- **Uso principal**: Brand color, botones primarios, elementos destacados
+- **Significado**: Crecimiento, naturaleza, estabilidad emocional
+- **Accesibilidad**: Contraste 4.7:1 sobre blanco (WCAG AA)
+
+#### Verde Lima (#C0D77E)
+- **Uso principal**: Acentos, highlights, elementos secundarios
+- **Significado**: Renovación, esperanza, energía positiva
+- **Accesibilidad**: Contraste 1.8:1 sobre blanco (decorativo únicamente)
+
+#### Gradiente Linear
+- **Degradado**: De #657142 (Verde Oliva) a #C0D77E (Verde Lima)
+- **Uso**: Fondos de hero sections, cards especiales, elementos destacados
+- **Aplicación**: Dirección top-to-bottom o left-to-right según contexto
+
+### Neutral Colors
+
+#### Blanco (#FFFFFF)
+- **Uso**: Fondos principales, cards, espacios de contenido
+- **Función**: Limpieza visual, espacios de respiro
+
+#### Gris Oscuro (#1F2024)
+- **Uso**: Textos principales, íconos, elementos de alta jerarquía
+- **Contraste**: 20.6:1 sobre blanco (WCAG AAA)
+
+#### Gris Medio (#A2A2A2)
+- **Uso**: Textos secundarios, placeholders, elementos deshabilitados
+- **Contraste**: 3.4:1 sobre blanco (WCAG AA para texto grande)
+
+#### Gris Claro (#C2C2C2)
+- **Uso**: Bordes, separadores, fondos secundarios
+- **Contraste**: 2.3:1 sobre blanco
+
+#### Gris Muy Claro (#D9D9D9)
+- **Uso**: Fondos sutiles, hover states, skeleton loaders
+- **Contraste**: 1.7:1 sobre blanco
+
+#### Negro (#000000)
+- **Uso**: Textos de máxima importancia, overlays
+- **Contraste**: 21:1 sobre blanco (máximo contraste)
+
+
+### Special Colors
+
+#### Verde Bosque (#294822)
+- **Uso**: Textos sobre fondos claros de verde, elementos de alto contraste
+- **Significado**: Profundidad, seriedad profesional
+- **Contraste**: 11.2:1 sobre blanco (WCAG AAA)
+
+### Color Usage Guidelines
+
+| Elemento | Color Principal | Color Alternativo | Texto |
+|----------|----------------|-------------------|-------|
+| Botón Primario | #657142 | Linear Gradient | #FFFFFF |
+| Botón Secundario | #C0D77E | #FFFFFF (outline) | #294822 |
+| Fondo Principal | #FFFFFF | #F5F5F5 | #1F2024 |
+| Cards | #FFFFFF | Linear Gradient (subtle) | #1F2024 |
+| Navigation Bar | #FFFFFF | #657142 (active) | #1F2024 |
+| Text Primary | - | - | #1F2024 |
+| Text Secondary | - | - | #A2A2A2 |
+| Borders | #C2C2C2 | #D9D9D9 | - |
+
+## Spacing
+
+Soft Focus adopta un sistema de espaciado **espacioso** que prioriza la claridad visual y la comodidad de lectura, especialmente importante en una aplicación de salud mental donde reducir la sobrecarga cognitiva es fundamental.
+
+### Spacing Scale
+
+Basado en un sistema de 8pt grid (múltiplos de 8), siguiendo las recomendaciones de Material Design:
+
+```
+XXS:   4px   (0.25rem)  - Espacios mínimos, padding interno de elementos pequeños
+XS:    8px   (0.5rem)   - Separación entre elementos relacionados
+S:     16px  (1rem)     - Separación estándar entre elementos
+M:     24px  (1.5rem)   - Separación entre secciones relacionadas
+L:     32px  (2rem)     - Separación entre secciones principales
+XL:    48px  (3rem)     - Separación entre módulos diferentes
+XXL:   64px  (4rem)     - Espacios de respiro, separación de contextos
+```
+
+### Spacing Application
+
+#### Component Spacing
+- **Padding interno de botones**: 16px vertical, 24px horizontal
+- **Padding de cards**: 16px (mobile), 24px (tablet+)
+- **Margin entre cards**: 16px
+- **Padding de containers**: 16px (mobile), 32px (desktop)
+
+#### Content Spacing
+- **Línea entre párrafos**: 16px
+- **Separación título-contenido**: 12px
+- **Separación entre secciones**: 32px
+- **Margin superior de páginas**: 24px
+
+#### Layout Spacing
+- **Márgenes laterales móvil**: 16px
+- **Márgenes laterales tablet**: 24px
+- **Márgenes laterales desktop**: 48px
+- **Espacio entre columnas**: 24px
+
+### Breathing Room Philosophy
+
+El diseño espacioso de Soft Focus se basa en los siguientes principios:
+
+1. **Reduce Cognitive Load**: Más espacio = menor carga mental para usuarios en momentos emocionales difíciles
+2. **Improve Readability**: Textos con aire alrededor mejoran comprensión
+3. **Focus Attention**: El espaciado dirige naturalmente la atención a elementos importantes
+4. **Create Comfort**: El espacio generoso transmite calma y no urgencia
+
+## Design System Foundation
+
+Soft Focus adopta **Material Design** como sistema de diseño base, realizando adaptaciones específicas para alinear con nuestra identidad de marca y las necesidades particulares de una aplicación de salud mental.
+
+## Iconography
+
+<p align="center">
+    <img src="imgs/Icons1.png" alt="Icons1" width="50%">
+</p>
+
+<p align="center">
+    <img src="imgs/Icons2.png" alt="Icons2" width="50%">
+</p>
+
+<p align="center">
+    <img src="imgs/Icons3.png" alt="Icons3" width="50%">
+</p>
+
 <a id="312-information-architecture"></a>
 ### **3.1.2. Information Architecture**
 
 <a id="3121-organization-systems"></a>
 #### **3.1.2.1. Organization Systems**
+La arquitectura de información de Soft Focus está diseñada para proporcionar experiencias diferenciadas según el tipo de usuario, manteniendo consistencia en los patrones de interacción.
+
+## Hierarchical Organization
+
+### User Type Based Hierarchy
+
+La aplicación organiza su contenido de forma **jerárquica** basada en los usuarios principales:
+
+#### 1. Usuario General (Sin psicólogo asignado)
+
+```
+Home (Inicio)
+├── Check-in diario
+├── Estado emocional actual
+├── Recomendaciones de IA
+└── Acceso rápido a biblioteca
+
+Diario (Calendario Emocional)
+├── Vista mensual
+├── Registros por fecha
+├── Patrones identificados
+└── Estadísticas personales
+
+IA (Chat Inteligente)
+├── Conversación con IA
+├── Recomendaciones personalizadas
+├── Historial de conversaciones
+└── Recursos sugeridos
+
+Biblioteca
+├── Películas recomendadas
+├── Música por estado de ánimo
+├── Videos de técnicas
+├── Lugares para visitar
+└── Ejercicios de respiración
+
+Perfil
+├── Información personal
+├── Configuración de notificaciones
+├── Conectar con psicólogo
+└── Gestión de suscripción
+```
+#### 2. Paciente (Con psicólogo asignado)
+
+```
+Home (Inicio)
+├── Check-in diario
+├── Estado emocional actual
+├── Mensajes del psicólogo
+├── Tareas asignadas
+└── Próxima sesión
+
+Diario (Calendario Emocional)
+├── Vista mensual
+├── Registros compartidos con psicólogo
+├── Notas del terapeuta
+└── Progreso terapéutico
+
+Mi Terapeuta
+├── Datos del psicólogo
+├── Chat directo con terapeuta
+├── Recursos del psicólogo
+└── Historial supervisado
+
+Biblioteca
+├── Contenido asignado por terapeuta
+├── Películas recomendadas
+├── Música por estado de ánimo
+├── Videos de técnicas
+├── Lugares para visitar
+└── Ejercicios personalizados
+
+Perfil
+├── Información personal
+└── Configuraciones
+```
+#### 3. Psicólogo
+
+```
+Inicio (Dashboard)
+├── Resumen de pacientes
+├── Codigo de invitacion
+├── Check-ins pendientes de revisar
+└── Estadísticas generales
+
+Pacientes
+├── Lista de pacientes activos
+│   ├── Ver perfil completo
+│   ├── Historial emocional
+│   ├── Registros de check-ins
+│   ├── Chat privado
+│   └── Asignar tareas
+├── Solicitudes pendientes
+└── Código de invitación
+
+Alertas
+├── Crisis activas (prioridad alta)
+├── Cambios significativos en estado
+├── Check-ins con riesgo detectado
+└── Historial de alertas resueltas
+
+Biblioteca
+├── Recursos disponibles
+├── Ejercicios por categoría
+└── Contenido para asignar
+
+
+Perfil
+├── Información profesional
+├── Credenciales y certificaciones
+└── Configuración de notificaciones
+```
+### Procesos Secuenciales Principales
+
+#### Onboarding de Usuario
+```
+1. Registro inicial → 2. Selección de tipo de usuario → 3. Completar perfil →
+4. Configurar preferencias →  5. Primer check-in
+```
+
+#### Proceso de Check-in Diario
+```
+1. Abrir check-in → 2. Seleccionar emoción principal →
+3. Evaluación de intensidad (1-10) → 4. Añadir notas opcionales →
+5. Análisis facial → 6. Recibir recomendaciones → 7. Confirmar registro
+```
+
+#### Conexión Psicólogo-Paciente
+```
+1. Psicólogo genera código → 2. Comparte código con paciente →
+3. Paciente ingresa código → 4. Verificación de conexión →
+5. Activación de funcionalidades premium → 6. Notificación a ambas partes
+```
+
+#### Manejo de Crisis
+```
+1. Usuario presiona botón de crisis → 2. Pregunta de confirmación →
+3. Alerta enviada a psicólogo → 4. Recursos inmediatos disponibles →
+5. Psicólogo responde → 6. Seguimiento y resolución
+```
+## Matrix Organization
+
+### Biblioteca de Recursos
+
+La **Biblioteca** utiliza organización matricial donde el contenido puede ser accedido por múltiples dimensiones:
+
+| Tipo de Recurso | Por Emoción | Por Actividad | Por Duración | Por Favoritos |
+|-----------------|-------------|---------------|--------------|---------------|
+| **Películas** | Tristeza, Ansiedad, Alegría | Drama, Comedia, Documental | <90min, 90-120min, >120min |  Guardados |
+| **Música** | Calma, Energía, Reflexión | Relajación, Motivación | Playlist, Album, Single |  Guardados |
+| **Videos** | Todas las emociones | Respiración, Mindfulness, Yoga | <5min, 5-15min, >15min |  Guardados |
+| **Lugares** | Tranquilidad, Diversión | Parques, Cafés, Museos | Cerca, Lejos |  Guardados |
+| **Ejercicios** | Específico por emoción | Respiración, Relajación muscular | Corto, Medio, Largo |  Guardados |
+
+**Ejemplo de navegación matricial**:
+- Usuario se siente **ansioso** → Puede filtrar por emoción "Ansiedad"
+- Resultado: Películas calmantes + Música relajante + Ejercicios de respiración + Lugares tranquilos
 
 <a id="3122-labelling-systems"></a>
 #### **3.1.2.2. Labelling Systems**
+Los sistemas de etiquetado de Soft Focus están diseñados para ser **claros, consistentes y comprensibles** por todos los usuarios, evitando jerga técnica innecesaria.
 
+## Navigation Labels
+
+### Bottom Navigation (Usuarios Generales y Pacientes)
+
+| Etiqueta | Icono | Descripción | Justificación |
+|----------|-------|-------------|---------------|
+| **Home** | 🏠 | Pantalla principal con resumen del día | Término universal, inmediatamente reconocible |
+| **Diario** | 📅 | Calendario emocional y registros históricos | Evoca "diario personal", familiar para usuarios |
+| **IA** | 🤖 | Chat con inteligencia artificial | Término corto y moderno, reconocible por audiencia joven |
+| **Biblioteca** | 📚 | Recursos, ejercicios y contenido multimedia | Metáfora clara de colección de recursos |
+| **Perfil** | 👤 | Información personal y configuración | Estándar en aplicaciones móviles |
+
+### Bottom Navigation (Psicólogos)
+
+| Etiqueta | Icono | Descripción | Justificación |
+|----------|-------|-------------|---------------|
+| **Inicio** | 🏠 | Dashboard con resumen de pacientes y alertas | "Inicio" más formal que "Home" para profesionales |
+| **Pacientes** | 👥 | Lista y gestión de pacientes | Término clínico apropiado |
+| **Alertas** | ⚠️ | Notificaciones de crisis y situaciones importantes | Transmite urgencia y prioridad |
+| **Biblioteca** | 📚 | Recursos para asignar a pacientes | Consistencia con versión de usuario |
+| **Perfil** | 👤 | Información profesional y configuración | Mantiene estándar |
+
+## Content Labels
+
+### Secciones Principales
+
+| Etiqueta | Contexto de Uso | Evitamos | Razón |
+|----------|-----------------|----------|--------|
+| **Registro emocional** | Check-in diario | "Evaluación", "Assessment" | Más accesible que términos clínicos |
+| **Estado de ánimo** | Indicador actual | "Mood", "Affect" | Término coloquial comprensible |
+| **Psicólogo** | Referencia al profesional | "Terapeuta", "Clínico" | Término reconocido legalmente en Perú |
+| **Usuario** | Persona usando la app | "Cliente", "Paciente" (para generales) | Neutro e inclusivo |
+| **Crisis** | Situación de emergencia | "Incidente", "Evento crítico" | Directo y sin ambigüedades |
+| **Chat** | Conversación con IA o psicólogo | "Mensajería", "Consulta" | Universal y familiar |
+| **Ejercicios** | Actividades terapéuticas | "Tareas", "Asignaciones" | Menos escolar, más voluntario |
+
+### Action Labels (Botones y CTAs)
+
+| Acción | Etiqueta | Alternativas Rechazadas | Justificación |
+|--------|----------|------------------------|---------------|
+| Guardar cambios | **Guardar** | "Salvar", "Aplicar" | Término estándar en español |
+| Completar check-in | **Registrar** | "Enviar", "Completar" | Indica acción de guardar estado |
+| Iniciar sesión | **Ingresar** | "Login", "Entrar" | Español neutro latinoamericano |
+| Conectar con psicólogo | **Conectar** | "Vincular", "Asociar" | Acción clara y directa |
+| Activar alerta | **Necesito ayuda** | "Crisis", "Emergencia" | Menos alarmante, más acogedor |
+| Ver historial | **Ver más** | "Explorar", "Detalles" | Acción clara |
+
+### Status Messages
+
+| Estado | Etiqueta | Tono |
+|--------|----------|------|
+| Check-in completado | "✓ Registro guardado exitosamente" | Positivo, confirma acción |
+| Sin psicólogo asignado | "Aún no tienes un psicólogo conectado" | Neutral, no culpabiliza |
+| Alerta enviada | "Tu psicólogo ha sido notificado" | Tranquilizador |
+| Sesión programada | "Próxima sesión: [fecha]" | Informativo, claro |
+| Error de conexión | "No pudimos guardar tu registro. Intenta nuevamente" | Explica y ofrece solución |
+
+### Informative Labels
+
+```
+"Tu progreso esta semana"  (no "Weekly metrics")
+"Recomendaciones para ti"  (no "Personalized suggestions")
+"Conecta con un psicólogo" (no "Find a therapist")
+"Recursos de emergencia"   (no "Crisis intervention tools")
+```
+---
 <a id="3123-seo-tags-and-meta-tags"></a>
 #### **3.1.2.3. SEO Tags and Meta Tags**
+Las metaetiquetas nos ayudan a indicar información codificada y especificar los metadatos de nuestras páginas web. Estas no son visualizadas directamente en los sitios web, pero son leídas por los navegadores y rastreadores web. Las metaetiquetas facilitan el análisis de archivos HTML, permiten un mejor mantenimiento del contenido y son fundamentales para el posicionamiento de nuestra página en los buscadores.
+
+Las metaetiquetas que usaremos en Soft Focus son:
+
+**Título:** Esta etiqueta es una de las más importantes y por lo general se coloca antes que cualquier otra metaetiqueta. Es utilizada por todos los motores de búsqueda como encabezado en las páginas de resultados de búsqueda (SERP).
+
+```html
+<title>Soft Focus - Acompañamiento Psicológico con IA | App de Salud Mental</title>
+```
+
+**Codificación de caracteres:** Esta etiqueta permite que los navegadores muestren correctamente los caracteres especiales en la página, asegurando que acentos y símbolos del español se visualicen adecuadamente.
+
+```html
+<meta charset="UTF-8">
+```
+
+**Descripción:** Esta metaetiqueta proporciona un resumen del contenido de la página web. Aquí damos una breve información sobre lo que se puede visualizar en la página y los servicios que ofrecemos.
+
+```html
+<meta name="description" content="Soft Focus es una aplicación móvil de acompañamiento psicológico que combina inteligencia artificial y profesionales de la salud mental para brindarte apoyo emocional continuo. Registra tu estado de ánimo, recibe recomendaciones personalizadas y conecta con psicólogos certificados.">
+```
+
+**Palabras clave:** En esta etiqueta se colocan las palabras clave relacionadas con el contenido de la página web, enfocadas en salud mental y bienestar emocional.
+
+```html
+<meta name="keywords" content="salud mental, aplicación psicología, acompañamiento emocional, IA salud mental, psicólogo online, app bienestar, salud mental Perú, terapia digital, check-in emocional, gestión emociones">
+```
+
+**Autor y Derechos de Autor:** Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+```html
+<meta name="author" content="PsyWell - Equipo Soft Focus">
+<meta name="copyright" content="© Soft Focus 2025">
+```
+
+**Viewport:** Esta metaetiqueta es esencial para el diseño responsive, asegurando que la página se adapte correctamente a dispositivos móviles y tablets.
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+**Open Graph Tags (Redes Sociales):** Estas metaetiquetas permiten controlar cómo se muestra el contenido cuando se comparte en redes sociales como Facebook, LinkedIn y Twitter.
+
+```html
+<meta property="og:type" content="website">
+<meta property="og:title" content="Soft Focus - Tu Acompañamiento Emocional Diario">
+<meta property="og:description" content="Aplicación móvil que combina IA y psicólogos profesionales para cuidar tu salud mental. Descarga gratis en iOS y Android.">
+<meta property="og:image" content="https://softfocus.app/images/og-image.png">
+<meta property="og:url" content="https://softfocus.app">
+```
+
+**Twitter Card:** Metaetiquetas específicas para optimizar la visualización de enlaces compartidos en Twitter.
+
+```html
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Soft Focus - Acompañamiento Psicológico con IA">
+<meta name="twitter:description" content="Cuida tu salud mental con apoyo de IA y psicólogos profesionales. Descarga gratis.">
+<meta name="twitter:image" content="https://softfocus.app/images/twitter-card.png">
+```
+
+---
 
 <a id="3124-searching-systems"></a>
 #### **3.1.2.4. Searching Systems**
+El sistema de búsqueda de Soft Focus permitirá a los usuarios localizar información relevante de forma rápida y eficiente según su tipo de usuario. Se integrarán filtros específicos para facilitar la gestión y localización de recursos, psicólogos y contenido personalizado.
+
+**Búsqueda de Psicólogos en el Directorio:**
+
+Los usuarios generales podrán buscar psicólogos en el directorio público utilizando múltiples criterios de filtrado. La búsqueda incluye un campo de texto libre donde pueden ingresar el nombre del profesional o palabras relacionadas con su especialidad. Además, el sistema ofrece filtros avanzados por especialidad (ansiedad, depresión, terapia de pareja, trauma, adicciones), años de experiencia, rango de precio por sesión, calificación de usuarios anteriores y disponibilidad horaria. Los resultados se pueden ordenar por relevancia, calificación más alta o precio (de menor a mayor o viceversa), permitiendo que cada usuario encuentre al profesional que mejor se adapte a sus necesidades y presupuesto.
+
+**Búsqueda en la Biblioteca de Recursos:**
+
+El sistema de búsqueda en la biblioteca está diseñado para ayudar a los usuarios a encontrar contenido terapéutico según su estado emocional actual. Los usuarios pueden buscar películas, música, videos de técnicas terapéuticas y lugares para visitar utilizando palabras clave o aprovechando los filtros por estado de ánimo recomendado. Por ejemplo, si un usuario se siente ansioso, puede filtrar por "Para ansiedad" y el sistema mostrará películas calmantes, música relajante, ejercicios de respiración y lugares tranquilos cercanos. Cada categoría de contenido (películas, música, videos, lugares) tiene sus propios filtros específicos como género, duración, tipo de actividad y distancia, permitiendo una búsqueda personalizada y contextual.
+
+**Búsqueda de Favoritos:**
+
+Los usuarios pueden buscar rápidamente dentro de su colección de contenido guardado utilizando el sistema de búsqueda de favoritos. Este sistema permite filtrar por tipo de recurso (películas, música, videos, ejercicios, lugares) y ordenar los resultados por fecha de guardado, frecuencia de uso o nombre. La búsqueda de favoritos facilita que los usuarios vuelvan a acceder a los recursos que más les han ayudado en el pasado, promoviendo la continuidad en sus prácticas de autocuidado emocional.
+
+**Visualización de Resultados:**
+
+Todos los sistemas de búsqueda presentan los resultados de manera clara y estructurada. Cada resultado muestra información relevante como título, descripción breve, imagen representativa, calificación o métricas de efectividad y acciones rápidas (guardar, compartir, acceder). Los resultados se cargan de forma paginada para optimizar el rendimiento, mostrando inicialmente 20 elementos y permitiendo cargar más conforme el usuario hace scroll. En caso de no encontrar resultados, el sistema ofrece sugerencias alternativas y permite limpiar los filtros aplicados con un solo clic.
+
+---
 
 <a id="3125-navigation-systems"></a>
 #### **3.1.2.5. Navigation Systems**
+En la landing page de Soft Focus, el sistema de navegación se ubica en la parte superior de la interfaz (header) de manera fija y permite al usuario desplazarse hacia las secciones principales de manera intuitiva. El header incluye el logo de la aplicación en el lado izquierdo, que funciona como enlace de retorno al inicio, y un menú de navegación con las opciones: Inicio, Funcionalidades, Planes y Contacto/Descarga. Este menú permanece visible durante todo el recorrido por la página, facilitando que el usuario acceda rápidamente a cualquier sección sin necesidad de hacer scroll. Además, se incluyen botones destacados para descargar la aplicación que redirigen a las tiendas de aplicaciones según el dispositivo del usuario (Google Play Store para Android o App Store para iOS).
+
+En la aplicación móvil, el sistema de navegación principal se implementa mediante un **Bottom Navigation Bar** ubicado en la parte inferior de la pantalla, siguiendo los estándares de diseño móvil actuales. Este componente permanece siempre visible y accesible, permitiendo que los usuarios cambien entre las secciones principales con un solo tap. La barra de navegación contiene cinco opciones claramente identificadas con íconos y etiquetas textuales: Home (inicio), Diario (calendario emocional), IA (chat con inteligencia artificial), Biblioteca (recursos de bienestar) y Perfil (configuración personal). Los íconos cambian de color cuando una sección está activa, proporcionando feedback visual inmediato sobre la ubicación actual del usuario dentro de la aplicación.
+
+**Navegación Diferenciada por Tipo de Usuario:**
+
+El sistema de navegación se adapta inteligentemente según el tipo de usuario que ha iniciado sesión. Los usuarios generales y pacientes comparten la misma estructura de navegación básica (Home, Diario, IA, Biblioteca, Perfil), mientras que los psicólogos cuentan con una navegación especializada que incluye: Inicio (dashboard profesional), Pacientes (lista y gestión), Alertas (notificaciones de crisis), Biblioteca (recursos para asignar) y Perfil (información profesional). Esta diferenciación asegura que cada tipo de usuario tenga acceso directo a las funcionalidades más relevantes para su rol, optimizando su experiencia y productividad.
+
+**Navegación Secundaria:**
+
+Además de la navegación principal, la aplicación implementa un **App Bar** en la parte superior de cada pantalla interna que incluye un botón de retroceso (flecha hacia la izquierda), el título de la sección actual y acciones contextuales como búsqueda, filtros o configuración según corresponda. Este elemento proporciona orientación constante sobre la ubicación del usuario dentro de la jerarquía de la aplicación y ofrece una forma clara de regresar a la pantalla anterior.
+
+**Botón de Acción Flotante (FAB) de Crisis:**
+
+Un elemento especial del sistema de navegación es el **Floating Action Button** de crisis, representado por un ícono de alerta en color rojo (#F44336) que permanece visible en todas las pantallas de la aplicación. Este botón está estratégicamente ubicado en la esquina inferior derecha, nunca se oculta al hacer scroll y tiene prioridad visual sobre otros elementos. Al presionarlo, el usuario activa inmediatamente el sistema de alerta de crisis, notificando a su psicólogo (si tiene uno asignado) y accediendo a recursos de contención inmediata. Esta funcionalidad crítica está siempre a un solo tap de distancia, garantizando que los usuarios puedan obtener ayuda urgente en cualquier momento sin necesidad de navegar por múltiples pantallas.
+
+**Flujos de Navegación:**
+
+Los flujos de navegación están diseñados para ser lineales y predecibles en procesos importantes como el check-in diario o la conexión con un psicólogo. Cada pantalla indica claramente el paso actual en el proceso y permite avanzar o retroceder según sea necesario. Los encabezados y labels presentes en las pantallas informan claramente sobre el contenido que visualizará el usuario al acceder a cada sección, garantizando una experiencia fluida y coherente. El sistema también implementa navegación por pestañas (tabs) dentro de secciones complejas como la Biblioteca, permitiendo alternar entre Películas, Música, Videos y Lugares sin perder el contexto de la sección principal.
+
+---
 
 <a id="313-landing-page-ui-design"></a>
 ### **3.1.3. Landing Page UI Design**
@@ -2607,6 +3168,183 @@ El usuario accede a "Suscripción" desde el perfil o configuración, donde se mu
 <a id="411-software-development-environment-configuration"></a>
 ### **4.1.1. Software Development Environment Configuration**
 
+En esta sección se especifican los productos de software, herramientas y plataformas que el equipo de Soft Focus utiliza para colaborar durante todo el ciclo de vida del desarrollo de la solución. Se detallan los nombres de los productos, el propósito de uso en el proyecto y la ruta de acceso o descarga de cada herramienta.
+
+
+## Project Management
+
+### Trello
+- **Propósito**: Gestión de tareas, sprints y product backlog del proyecto
+- **Acceso**: https://trello.com
+- **Ruta del proyecto**: https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus
+- **Configuración del tablero**:
+  - Board principal: "Soft Focus - Product Development"
+  - Listas organizadas: Backlog, Sprint Actual, In Progress, In Review, Testing, Done
+  - Labels de categorización: Frontend, Backend, Mobile, Design, Documentation, Bug, Enhancement
+- **Responsables**: Todo el equipo tiene acceso y actualiza sus tareas asignadas
+
+<p align="center">
+    <img src="imgs/trello.png" alt="Tablero Trello de Soft Focus" width="100%">
+</p>
+
+
+
+## Requirements Management y Documentation
+
+### Markdown con Visual Studio Code
+- **Propósito**: Documentación técnica versionada junto con el código fuente en los repositorios
+- **Editor**: Visual Studio Code
+- **Descarga**: https://code.visualstudio.com
+- **Ubicación de documentación**: Directorio `/docs` en cada repositorio y repositorio principal Report
+- **Extensiones utilizadas**:
+  - Markdown All in One (edición y preview de archivos .md)
+  - Markdown Preview Enhanced (visualización mejorada)
+  - markdownlint (validación de sintaxis)
+- **Responsables**: Todos los developers documentan sus componentes, y el equipo mantiene actualizado el repositorio Report
+
+
+
+## Product UX/UI Design
+
+### Figma
+- **Propósito**: Diseño de interfaces de usuario, prototipado interactivo y gestión del design system
+- **Acceso**: https://figma.com
+- **Proyecto principal**: https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus
+- **Archivos del proyecto**:
+  - Soft Focus - Mobile App Design (wireframes y mockups de la aplicación móvil)
+  - Soft Focus - Landing Page (diseño del sitio web estático)
+- **Configuración de acceso**:
+  - Workspace compartido para todo el equipo
+
+
+
+<p align="center">
+    <img src="imgs/figma.png" alt="Workspace de Figma - Soft Focus" width="100%">
+</p>
+
+---
+
+## Software Development
+
+### IDEs y Editores de Código
+
+#### JetBrains Rider (Desarrollo Backend)
+- **Propósito**: Entorno de desarrollo integrado para el backend en .NET con C#
+- **Versión requerida**: 2024.3 o superior
+- **Descarga**: https://www.jetbrains.com/rider/download
+- **Configuración recomendada**:
+  - Theme: Darcula para trabajo nocturno o Light para ambientes iluminados
+  - Code style: Convenciones por defecto de C#
+  - Plugins necesarios: MongoDB Navigator (exploración de base de datos), HTTP Client (prueba de endpoints), Docker (gestión de contenedores)
+
+
+#### Android Studio (Desarrollo Mobile - Kotlin)
+- **Propósito**: IDE oficial para desarrollo nativo Android con Kotlin
+- **Descarga**: https://developer.android.com/studio
+- **SDK de Android requerido**: API 24+ 
+- **Configuración recomendada**:
+  - Emuladores configurados: Pixel 6 API 34, Pixel Tablet API 34
+- **Plugins esenciales**:
+  - Kotlin (lenguaje principal)
+
+
+#### JetBrains WebStorm (Desarrollo Landing Page)
+- **Propósito**: IDE especializado para desarrollo web con Angular, TypeScript, HTML y CSS
+- **Versión requerida**: 2024.3 o superior
+- **Descarga**: https://www.jetbrains.com/webstorm/download
+- **Configuración recomendada**:
+  - Integración con Node.js versión 20 LTS
+  - Angular Language Service activado
+
+
+
+#### Visual Studio Code (Uso general)
+- **Propósito**: Editor de código ligero para edición de Markdown, configuraciones y scripts auxiliares
+- **Versión requerida**: 1.85 o superior
+- **Descarga**: https://code.visualstudio.com
+- **Extensiones principales**:
+  - Markdown All in One (documentación)
+  - GitFlow (visualización de Git)
+  - Path Intellisense (autocompletado de rutas)
+
+
+---
+
+## Version Control
+
+### Git y GitHub
+- **Propósito**: Control de versiones del código fuente y colaboración del equipo
+- **Descarga de Git**: https://git-scm.com/downloads
+- **Plataforma**: GitHub - https://github.com
+- **Organización del proyecto**: https://github.com/Soft-Focus-App-Movile
+
+#### Repositorios del Proyecto
+
+**1. Report (Documentación)**
+- **URL**: https://github.com/Soft-Focus-App-Movile/Report
+- **Contenido**: Informe completo del proyecto, documentación técnica, imágenes y diagramas
+- **Branch principal**: `main`
+- **Responsables**: Todo el equipo contribuye a la documentación
+
+**2. BackEnd (API .NET)**
+- **URL**: https://github.com/Soft-Focus-App-Movile/BackEnd
+- **Stack tecnológico**: .NET 8, C#, MongoDB
+- **Estructura de branches**: 
+  - `main`: código en producción
+  - `develop`: integración de features
+  - `feature/*`: nuevas funcionalidades en desarrollo
+
+
+**3. Landing-Page (Angular)**
+- **URL**: https://github.com/Soft-Focus-App-Movile/Landing-Page
+- **Stack tecnológico**: Angular 17, TypeScript, HTML, CSS
+- **Estructura de branches**:
+  - `main`: versión en producción (auto-deploy a Firebase)
+  - `develop`: versión de desarrollo
+
+
+**4. FrontEnd (Aplicación Mobile)**
+- **URL**: https://github.com/Soft-Focus-App-Movile/FrontEnd
+- **Stack tecnológico**: Kotlin para Android
+- **Estructura de branches**:
+  - `main`: versión estable para release
+  - `develop`: integración de features
+  - `feature/*`: desarrollo de nuevas funcionalidades
+
+
+
+---
+
+## Database Management
+
+### MongoDB
+- **Propósito**: Base de datos NoSQL para almacenamiento de datos del backend
+- **Versión requerida**: 7.0 o superior
+- **Opciones de instalación**:
+  - **MongoDB Community Edition** (Local): https://www.mongodb.com/try/download/community - Para desarrollo en local
+- **Herramienta de visualización**: MongoDB Compass (GUI incluida) para explorar colecciones y documentos
+
+
+---
+
+## Deployment y Hosting
+
+### AWS (Backend y Base de Datos)
+- **Propósito**: Hosting del backend API y base de datos MongoDB
+- **Servicio utilizado**: AWS EC2 (Elastic Compute Cloud)
+- **Acceso**: AWS Console - https://aws.amazon.com/console
+- **Configuración**: Instancia Ubuntu 22.04 LTS con IP elástica asignada
+- **Responsables**: DevOps lead y equipo de backend
+
+### Firebase (Landing Page)
+- **Propósito**: Hosting del sitio web estático (Landing Page)
+- **Acceso**: Firebase Console - https://console.firebase.google.com
+- **Proyecto**: soft-focus-landing
+- **URL de producción**: https://soft-focus-app.web.app
+- **Responsables**: Equipo de frontend
+
+---
+
 <a id="412-source-code-management"></a>
 ### **4.1.2. Source Code Management**
 
@@ -2731,6 +3469,145 @@ En esta sección se explican en detalle las nomenclaturas y buenas prácticas qu
 
 <a id="414-software-deployment-configuration"></a>
 ### **4.1.4. Software Deployment Configuration**
+
+En esta sección se especifica la configuración de despliegue de la solución Soft Focus, incluyendo los pasos necesarios para lograr el despliegue satisfactorio de cada componente desde los repositorios de código fuente hasta los entornos de producción. El despliegue está completamente automatizado mediante GitHub Actions, lo que garantiza que cualquier cambio en la branch main se publique automáticamente en los respectivos servidores.
+
+
+
+## Arquitectura de Despliegue General
+
+La solución Soft Focus está distribuida en múltiples plataformas de hosting según la naturaleza de cada componente:
+
+- **Backend API (.NET)**: Desplegado en AWS EC2 con Ubuntu 22.04 LTS
+- **Base de Datos**: MongoDB ejecutándose en la misma instancia de AWS EC2
+- **Landing Page**: Desplegado en Firebase Hosting
+
+
+Todos los componentes se comunican mediante HTTPS y siguen protocolos seguros de transmisión de datos. El backend expone una API RESTful que es consumida tanto por la landing page como por las aplicaciones móviles.
+
+
+## Backend API - Despliegue en AWS EC2
+
+### Configuración del Servidor
+
+El backend está alojado en una instancia EC2 de AWS con las siguientes especificaciones:
+
+- **Tipo de instancia**: t2.micro (1 vCPU, 1 GB RAM)
+- **Sistema operativo**: Amazon linux
+- **Almacenamiento**: 30 GB SSD
+- **Región**: us-east-1 (Norte de Virginia)
+- **IP Elástica**: Asignada y asociada a la instancia para mantener una dirección IP fija
+
+### Security Group y Puertos
+
+La instancia tiene configurado un Security Group con las siguientes reglas de entrada:
+
+- Puerto 22 (SSH): Acceso restringido solo a IPs del equipo de desarrollo
+- Puerto 80 (HTTP): Acceso público para redirección a HTTPS
+- Puerto 443 (HTTPS): Acceso público para conexiones seguras
+- Puerto 5000: Puerto interno donde corre la aplicación .NET
+- Puerto 27017 (MongoDB): Acceso solo desde localhost (seguridad interna)
+
+### Software Instalado en el Servidor
+
+El servidor cuenta con las siguientes herramientas y servicios instalados:
+
+- **.NET 9 Runtime**: Para ejecutar la aplicación backend
+- **MongoDB Server 7.0**: Base de datos NoSQL
+
+
+### Proceso de Despliegue Automatizado
+
+El despliegue del backend está completamente automatizado mediante GitHub Actions. Cuando se hace push a la branch `main` del repositorio BackEnd, se ejecuta el siguiente flujo:
+
+1. **Build**: GitHub Actions compila el proyecto .NET en modo Release
+2. **Publish**: Se genera el paquete de publicación con todas las dependencias
+3. **Transfer**: Los archivos compilados se transfieren al servidor EC2 mediante SCP
+4. **Restart**: El servicio systemd reinicia automáticamente la aplicación con la nueva versión
+
+El servicio corre como un daemon gestionado por systemd, lo que garantiza que se reinicie automáticamente en caso de fallos y que arranque automáticamente cuando el servidor se reinicia.
+
+### Base de Datos MongoDB
+
+MongoDB está instalado en la misma instancia EC2 y configurado para:
+
+- Escuchar solo en localhost (127.0.0.1) por seguridad
+- Usar autenticación con usuario y contraseña
+- Realizar backups automáticos diarios mediante un script cron
+- Los backups se comprimen y almacenan localmente, manteniendo solo los últimos 7 días
+
+
+
+## Landing Page - Despliegue en Firebase Hosting
+
+### Configuración de Firebase
+
+La landing page desarrollada en Angular está alojada en Firebase Hosting, un servicio de hosting estático con CDN global de Google. El proyecto de Firebase se llama "soft-focus-landing" y está vinculado al repositorio Landing-Page de GitHub.
+
+Firebase Hosting ofrece:
+
+- CDN global para tiempos de carga rápidos desde cualquier ubicación
+- Certificado SSL automático y gratuito
+- Renovación automática de certificados
+- Deployment atómico (todo o nada, evitando estados inconsistentes)
+- Rollback instantáneo a versiones anteriores si es necesario
+
+### Proceso de Despliegue Automatizado
+
+El despliegue está completamente automatizado mediante GitHub Actions. El flujo es el siguiente:
+
+1. **Trigger**: Al hacer push a la branch `main`, se activa automáticamente el workflow
+2. **Build**: Se ejecuta `npm install` y `ng build --configuration production` para generar los archivos estáticos optimizados
+3. **Deploy**: Los archivos de la carpeta `dist/` se suben automáticamente a Firebase Hosting
+4. **Live**: La nueva versión queda disponible instantáneamente en https://soft-focus-app.web.app
+
+No se requiere intervención manual. El proceso completo desde commit hasta producción toma aproximadamente 3-5 minutos.
+
+### Configuración de Routing
+
+Firebase está configurado como Single Page Application (SPA), lo que significa que todas las rutas se redirigen a `index.html` para que Angular maneje el routing del lado del cliente. Esto permite que URLs como `/funcionalidades` o `/planes` funcionen correctamente al recargar la página.
+
+
+## Continuous Integration/Continuous Deployment (CI/CD)
+
+### GitHub Actions Workflows
+
+Cada repositorio tiene configurado GitHub Actions con workflows específicos:
+
+#### Backend 
+- **Archivo**: `.github/workflows`
+- **Trigger**: Push a `main` o `develop`
+- **Acciones**: Build, tests (cuando estén implementados), deploy a AWS EC2
+- **Secrets utilizados**: SSH Key, Host IP, Username
+
+#### Landing Page 
+- **Archivo**: `.github/workflows`
+- **Trigger**: Push a `main`
+- **Acciones**: npm install, ng build production, deploy a Firebase
+- **Secrets utilizados**: Firebase Service Account Token
+
+
+Los workflows están configurados para fallar todo el proceso si algún paso genera errores, evitando despliegues de código con problemas.
+
+
+
+## Diagrama de Deployment (C4 Model)
+
+El diagrama de arquitectura de deployment muestra la interacción entre todos los componentes de la solución:
+
+- Los **dispositivos de usuario** (móviles y computadoras) se conectan mediante HTTPS
+- El **Landing Page en Firebase** sirve contenido estático y hace llamadas API al backend
+- Las **aplicaciones móviles** descargadas desde las stores se comunican directamente con el backend API
+- El **Backend en AWS EC2** procesa todas las peticiones y consulta la base de datos MongoDB
+- **MongoDB** está en la misma instancia EC2 y solo acepta conexiones locales
+
+Todas las comunicaciones entre componentes usan HTTPS para garantizar la seguridad y privacidad de los datos de los usuarios.
+
+<p align="center">
+    <img src="imgs/employment diagram.png" alt="Diagrama de Deployment C4" width="100%">
+</p>
+
+
 
 <a id="42-landing-page--mobile-application-implementation"></a>
 ## **4.2. Landing Page & Mobile Application Implementation**

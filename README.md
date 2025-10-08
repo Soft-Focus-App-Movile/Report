@@ -2554,12 +2554,77 @@ Esto facilita el seguimiento del progreso y el análisis de las modificaciones r
 
 - **scope:** Campo opcional que indica el alcance o módulo afectado (por ejemplo, un identificador de *user story* o requerimiento).  
 
-- **description:** Breve descripción del cambio, escrita en inglés e iniciando con un verbo en infinitivo.  
-
-
+- **description:** Breve descripción del cambio, escrita en inglés e iniciando con un verbo en infinitivo. 
 
 <a id="413-source-code-style-guide--conventions"></a>
 ### **4.1.3. Source Code Style Guide & Conventions**
+
+## 💻 Convenciones y Nomenclaturas de los Lenguajes y Frameworks Utilizados
+
+En esta sección se explican en detalle las nomenclaturas y buenas prácticas que se aplicarán en los lenguajes de programación y frameworks empleados en el desarrollo del proyecto.
+
+---
+
+###  HTML
+- Los nombres de las etiquetas deben estar en minúsculas (lowercase).  
+- Todas las etiquetas deben estar correctamente cerradas.  
+- Los atributos deben escribirse en minúsculas y sus valores deben ir entre comillas dobles.  
+- Las imágenes deben incluir los atributos **alt**, **width** y **height** por motivos de accesibilidad, ajuste y rendimiento.  
+- No se deben agregar líneas en blanco o espacios innecesarios.  
+
+---
+
+###  CSS
+- Utilizar nombres específicos o representativos para las clases.  
+- Reducir la longitud de los nombres sin perder su significado.  
+- Emplear el formato **kebab-case** (uso de “-” para separar palabras).  
+- Evitar el uso de selectores por **ID**.  
+- Usar valores abreviados en las propiedades siempre que sea posible.  
+- Evitar el uso de la declaración **!important**.  
+
+---
+
+### JavaScript
+- No utilizar la palabra reservada **var**; usar **const** y **let** en su lugar.  
+- Emplear **camelCase** para el nombramiento de variables y funciones.  
+- Usar **PascalCase** para los nombres de clases.  
+- Usar **UPPERCASE** para las constantes.  
+- Evitar el uso del constructor **Array** para crear arreglos.  
+- Aplicar el uso del **Rest Operator** y del **Spread Operator** cuando sea necesario.  
+
+---
+
+### Angular
+- Utilizar una estructura modular desde el inicio (**feature modules**).  
+- Cada módulo o **feature** debe tener su propio subdirectorio.  
+- Agrupar los archivos por **feature**, no por tipo de archivo.  
+
+---
+
+### Kotlin
+- Emplear **camelCase** para variables y funciones.  
+- Usar **PascalCase** para clases, objetos e interfaces.  
+- Evitar nombres abreviados o poco descriptivos.  
+- Las constantes deben escribirse en **mayúsculas con guiones bajos**.  
+- Usar **val** para variables inmutables y **var** únicamente cuando sea estrictamente necesario.  
+
+---
+
+### C#
+- Usar **PascalCase** para clases, métodos y propiedades.  
+- Emplear **camelCase** para variables locales y parámetros.  
+- Evitar el uso de abreviaciones o prefijos innecesarios.  
+- Las constantes deben escribirse en **mayúsculas con guiones bajos**.  
+- Mantener una sangría de cuatro espacios y un formato consistente en todo el código.  
+
+---
+
+### Gherkin
+- Las especificaciones deben ser claras, legibles y comprensibles para todos los colaboradores.  
+- Evitar el uso de terminología técnica o compleja.  
+- Emplear las palabras clave **Given**, **When**, **Then**, **And** y **But** para describir el comportamiento del sistema.  
+- Evitar redundancias en la descripción de los escenarios.  
+
 
 <a id="414-software-deployment-configuration"></a>
 ### **4.1.4. Software Deployment Configuration**

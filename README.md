@@ -2490,6 +2490,8 @@ El usuario accede a la sección “Suscripción” desde el perfil o la configur
 <a id="3144-mobile-applications-user-flow-diagrams"></a>
 #### **3.1.4.4. Mobile Applications User Flow Diagrams**
 
+[UserflowDiagrams](https://overflow.io/s/ZBJH2UJN)
+
 Basándome en tus wireflows, te presento los User Flows detallados para cada User Goal. Cada uno incluye el happy path y los unhappy paths correspondientes.
 
 ## 1. Registro y Autenticación

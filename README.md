@@ -2559,7 +2559,7 @@ Esto facilita el seguimiento del progreso y el análisis de las modificaciones r
 <a id="413-source-code-style-guide--conventions"></a>
 ### **4.1.3. Source Code Style Guide & Conventions**
 
-## 💻 Convenciones y Nomenclaturas de los Lenguajes y Frameworks Utilizados
+## Convenciones y Nomenclaturas de los Lenguajes y Frameworks Utilizados
 
 En esta sección se explican en detalle las nomenclaturas y buenas prácticas que se aplicarán en los lenguajes de programación y frameworks empleados en el desarrollo del proyecto.
 

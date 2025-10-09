@@ -4480,9 +4480,7 @@ Sprint Backlog 1 en Trello: https://trello.com/invite/b/68c0dd854014c2ed0d7503e8
 | US06 |  Conocer informacion de la empresa   | T1 | Seccion de Informacion | Implementar seccion de informacion en la landing page  | 3 | Sandra Luyo | Done |
 | US07 | Acceder a footer con informacion legal | T1 | Seccion de Footer  | Implementar footer de landing page | 3 | Sandra Luyo | Done |
 | US04 | Comparar planes y precios	 | T1 | Seccion de planes y precios  | Implementar seccion de planes de landing page | 3 | Giancarlo Solis | Done |
-|  |     |  |   |  |  |  | Done |
-|  |     |  |   |  |  |  | Done |
-|  |     |  |   |  |  |  | Done |
+
 
 
 

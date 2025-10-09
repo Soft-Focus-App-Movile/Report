@@ -3927,7 +3927,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Sprint n \- 1 Review Summary | Al ser este nuestro primer sprint, aun no hay retroalimentacion respecto a un anterior sprint |
 | **Sprint Goal & User Stories** |  |
 | Sprint 1 Goal | **Nuestro enfoque está en** implementar todas las funcionalidades principales de la landing page de PsyWell durante este sprint de 3 semanas, asi como tener lista una version inicial de nuestro backend desplegada, para asi ofrecer una experiencia clara, confiable y atractiva a los nuevos visitantes. **Creemos que esto ofrece** una comprensión inmediata del propósito de la plataforma, visibilidad de sus beneficios y comprension de la funcionalidad **Esto se confirmará cuando** los visitantes puedan navegar por la página con facilidad y comprendan claramente lo que ofrece PsyWell sin necesidad de explicaciones adicionales. 
-  |
+|
 | Sprint 1 Velocity | 3 |
 | Sum of Story Points | 18 |
 
@@ -4030,6 +4030,25 @@ Enlace Soft Focus BackEnd desplegado: http://98.90.172.251:5000/swagger/index.ht
 
 <a id="4217-software-deployment-evidence-for-sprint-review"></a>
 #### **4.2.1.7. Software Deployment Evidence for Sprint Review**
+
+
+**Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.**
+
+**Publicamos nuestra landing page como un sitio web a través de GitHub para que sea accesible a todos nuestros usuarios. Primero, creamos una cuenta y un repositorio público "Landing-Page-SoftFocus" dentro de nuestra organización "SoftFocus-App-Movile". Luego, subimos los archivos de la página, activamos GitHub Pages seleccionando la rama "main" desde la configuración del repositorio y verificamos que el sitio estuviera disponible en línea en TextilFlow. Cuando queremos hacer cambios, simplemente actualizamos los archivos y los volvemos a subir.**
+
+**Figura**
+*Evidencia de deployment 1*
+<p align="center">
+  <img src="imgs/sd_evidence_landing1.png" alt="PB" width="850">
+</p>
+Nota. Elaboración propia.
+
+**Figura**
+*Evidencia de deployment 2*
+<p align="center">
+  <img src="imgs/sd_evidence_landing2.png" alt="PB" width="850">
+</p>
+**Nota.** Elaboración propia.
 
 <a id="4218-team-collaboration-insights-during-sprint"></a>
 #### **4.2.1.8. Team Collaboration Insights during Sprint**

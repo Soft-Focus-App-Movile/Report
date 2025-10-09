@@ -3933,8 +3933,52 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 <a id="4212-sprint-backlog-1"></a>
 #### **4.2.1.2. Sprint Backlog 1**
 
+Para este primer Sprint, nuestro objetivo principal es desarrollar la **Landing Page de SoftFocus** y desarrollar un avance del **Backend de SoftFocus**. Para lograrlo, hemos creado tareas específicas para cada historia de usuario relacionada con la landing y algunas tecnicas relacionadas con el backend, las hemos asignado entre los integrantes del equipo. Además, para una mejor organización y seguimiento del Backlog, estamos utilizando la herramienta **Trello**  
+
+*Figura* <br>
+*Sprint 1 de TextilFlow*
+
+
+Sprint Backlog 1 en Trello: https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus
+
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+|  | 	 |  |   |  |  |  | Done |
+|  | 	 |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  | 	 |  |   |  |  |  | Done |
+|  | 	 |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+|  |     |  |   |  |  |  | Done |
+
+
+
 <a id="4213-development-evidence-for-sprint-review"></a>
 #### **4.2.1.3. Development Evidence for Sprint Review**
+
+
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| matthewsrt29/Landing-Page-SoftFocus-AppMovile | develop | 94f437f | feat:header |  | 11/09/2025 |
+| matthewsrt29/Landing-Page-SoftFocus-AppMovile | develop | 3b82d07 | feat:hero section |  | 26/09/2025 |
+| matthewsrt29/Landing-Page-SoftFocus-AppMovile | develop | ad2226c | fix: deployment |  | 26/09/2025 |
+| LucidVoid10/Landing-Page-SoftFocus-AppMovile | develop | d3350d7 | feat:adding the plans section |  | 27/09/2025 |
+| LucidVoid10/Landing-Page-SoftFocus-AppMovile | develop | e4fe1ae | fix:fixing card on plan section |  | 27/09/2025 |
+| Paulu27/Landing-Page-SoftFocus-AppMovile | develop | c2532c8 | feat:add about and footer section |  | 28/09/2025 |
+| Ly009463/Landing-Page-SoftFocus-AppMovile | develop | 266126f | feat:implement features section component |  | 28/09/2025 |
+| Ly009463/Landing-Page-SoftFocus-AppMovile | develop | 3d0d125 | feat:change features |  | 28/09/2025 |
+| MathiasBueno/Landing-Page-SoftFocus-AppMovile | develop | 21aff21 | feat:adding faq-section |  | 28/09/2025 |
+| matthewsrt29/BackEnd-SoftFocus-AppMovile | develop | 5414869 | feat:deploy docker yml |  | 28/09/2025 |
+| matthewsrt29/BackEnd-SoftFocus-AppMovile | develop | 9a16652 | fix:users |  | 07/10/2025 |
+| matthewsrt29/BackEnd-SoftFocus-AppMovile | develop | 8625292 | feat:AI bounded context |  | 07/10/2025 |
+| MathiasBueno/BackEnd-SoftFocus-AppMovile | develop | a0eb97c | feat:tracking bounded context |  | 07/10/2025 |
+
 
 <a id="4214-testing-suite-evidence-for-sprint-review"></a>
 #### **4.2.1.4. Testing Suite Evidence for Sprint Review**
@@ -3942,8 +3986,42 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 <a id="4215-execution-evidence-for-sprint-review"></a>
 #### **4.2.1.5. Execution Evidence for Sprint Review**
 
+En el sprint 1 alcanzamos un desarrollo completo en la implementación y despliegue de la landing page, asi como gran progreso en nuestro backend. La página muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre nuestro producto y nuestra startup. A continuación presentamos algunas evidencias:
+
+Enlace Soft Focus Landing Page: https://soft-focus-61053.web.app/
+
+Enlace Soft Focus BackEnd desplegado: http://98.90.172.251:5000/swagger/index.html
+
 <a id="4216-services-documentation-evidence-for-sprint-review"></a>
 #### **4.2.1.6. Services Documentation Evidence for Sprint Review**
+
+### Servicios API Implementados
+
+| Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|-------------|----------|-------------|----------------|
+| **Admin Management** ||||
+| GET | `/api/v1/users` | Obtener todos los usuarios | Visualizar todos los usuarios autenticados |
+| GET | `/api/v1/users/{id}` | Obtener usuario por medio de su id | Visualizar usuarios en especifico |
+| PUT | `/api/v1/users/{id}/verify` | Verificar usuarios | Revisar si un usuario esta o no aprobado |
+| PUT | `/api/v1/users/{id}/status` | Verificar actividad de usuario | Revisar si un usuario esta o no activo |
+| **Auth Management** ||||
+| POST | `/api/v1/auth/register` | Crear nuevo usuario | Registrar un nuevo usuario |
+| POST | `/api/v1/auth/login` | Iniciar sesion con usuario creado | Iniciar sesion |
+| POST | `/api/v1/auth/oauth` | Dar acceso a terceros | Permitir acceso sin dar datos |
+| POST | `/api/v1/auth/forgot-password` | Actualizar contraseña olvidada | Permitir al usuario recuperar su contraseña |
+| POST | `/api/v1/auth/reset-password` | Crear nueva contraseña | Permitir al usuario cambiar su contraseña |
+| **Psychologist Management** ||||
+| GET | `/api/v1/users/psychologist/verification` | Verificar si un psicologo esta verificado | Dar o no acceso al psicologo |
+| PUT | `/api/v1/users/psychologist/verification` | Poner informacion y verificar | Dar informacion de psicologo y devolver su validez |
+| GET | `/api/v1/users/psychologist/invitation-code` | Obtiene el codigo de invitacion del psicologo | Codigo de invitacion |
+| POST | `/api/v1/users/psychologist/regenerate-code` | Regenerar codigo de invitacion | Regenerar nuevo codigo |
+| PUT | `/api/v1/users/psychologist/professional` | Actualiza perfil de psicologo | Modificar datos profesionales |
+| GET | `/api/v1/users/psychologist/stats` | Obtener estadisticas del psicologo | Recibir esstadisticas por fecha |
+| **User Management** ||||
+| GET | `/api/v1/users/profile` | Obtiene perfiles de usuario | Detalles de los usuarios |
+| PUT | `/api/v1/users/profile` | Actualizar datos de usuario | Modificar informacion de usuario |
+| DELETE | `/api/v1/observations/{observationId}` | Eliminar usuario | Remover usuarios |
+
 
 <a id="4217-software-deployment-evidence-for-sprint-review"></a>
 #### **4.2.1.7. Software Deployment Evidence for Sprint Review**
@@ -4056,3 +4134,8 @@ Nuestro startup Psywell, con su producto Soft Focus, ofrece una solución innova
 [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
 
 Entrevistas - Sprint 1: [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20de%20Soft%20Focus%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed147e435%2Daccc%2D4f10%2D94a9%2Dd4fb967c4fe8](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20de%20Soft%20Focus%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed147e435%2Daccc%2D4f10%2D94a9%2Dd4fb967c4fe8)
+
+
+Enlace Landing Page: https://soft-focus-61053.web.app/
+
+Enlace - BackEnd: http://98.90.172.251:5000/swagger/index.html

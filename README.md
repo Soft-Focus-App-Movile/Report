@@ -1216,16 +1216,16 @@ En esta sección, se presenta un glosario de términos clave del dominio en el q
 ## **SPIKE STORIES**
 
 
-| Spike ID | Título | Descripción | Criterios de Aceptación | Time |
-|----------|--------|-------------|------------------------|----------|
-| SP01 | Investigar APIs de IA para chat emocional | Como equipo de desarrollo (backend), Quiero evaluar Google Gemini, OpenAI y Claude APIs, Para seleccionar la mejor opción para chat emocional con limitaciones gratuitas. | **1.** Comparar precios y límites gratuitos<br/>**2.** Evaluar calidad de respuestas empáticas<br/>**3.** Probar integración con HttpClient en C#<br/>**4.** Documentar recomendación con PoC funcional | 8 horas |
-| SP02 | Investigar reconocimiento facial de emociones | Como equipo de desarrollo (móvil), Quiero evaluar APIs gratuitas para análisis de expresiones faciales, Para implementar detección emocional por cámara en ambas plataformas móviles. | **1.** Identificar APIs gratuitas disponibles<br/>**2.** Probar integración con cámara en Flutter<br/>**3.** Evaluar integración en Kotlin Android<br/>**4.** Comparar precisión y limitaciones entre plataformas | 8 horas |
-| SP03 | Investigar integración con APIs de contenido multimedia | Como equipo de desarrollo (backend), Quiero evaluar APIs de Netflix, Spotify, YouTube y Google Places, Para implementar recomendaciones personalizadas. | **1.** Verificar disponibilidad y documentación<br/>**2.** Probar autenticación y límites<br/>**3.** Evaluar calidad de datos obtenidos<br/>**4.** Documentar endpoints en Swagger | 12 horas |
-| SP04 | Investigar Firebase FCM para notificaciones push | Como equipo de desarrollo (móvil y backend), Quiero evaluar Firebase Cloud Messaging, Para enviar notificaciones de crisis y recordatorios a dispositivos móviles. | **1.** Configurar proyecto Firebase<br/>**2.** Integrar FCM en Flutter<br/>**3.** Integrar FCM en Kotlin Android<br/>**4.** Probar envío desde backend C# | 10 horas |
-| SP05 | Investigar almacenamiento de imágenes | Como equipo de desarrollo (backend), Quiero evaluar Cloudinary vs alternativas, Para implementar subida y gestión de fotos de perfil. | **1.** Comparar servicios disponibles<br/>**2.** Probar SDK para .NET<br/>**3.** Evaluar integración con MongoDB<br/>**4.** Documentar configuración recomendada | 4 horas |
-| SP06 | Investigar SignalR para chat en tiempo real | Como equipo de desarrollo (backend y móvil), Quiero evaluar SignalR, Para implementar comunicación instantánea entre psicólogo y paciente. | **1.** Configurar SignalR Hub en backend<br/>**2.** Probar cliente SignalR en Flutter<br/>**3.** Probar cliente en Kotlin Android<br/>**4.** Evaluar rendimiento y latencia | 8 horas |
-| SP07 | Investigar validación de psicólogos | Como equipo de desarrollo (web y backend), Quiero investigar métodos para validar credenciales profesionales, Para asegurar acceso solo a psicólogos certificados. | **1.** Investigar APIs de colegios profesionales<br/>**2.** Diseñar proceso de validación manual<br/>**3.** Evaluar documentación requerida<br/>**4.** Documentar flujo de aprobación | 4 horas |
-| SP08 | Definir estrategia de desarrollo móvil dual | Como equipo de desarrollo (móvil), Quiero planificar el desarrollo con Flutter y Kotlin nativo, Para optimizar funcionalidades específicas en cada plataforma. | **1.** Definir qué desarrollar en Flutter<br/>**2.** Definir qué desarrollar en Kotlin nativo<br/>**3.** Planificar comunicación entre apps<br/>**4.** Documentar estrategia de deployment | 6 horas |
+| **Spike ID** | **Título** | **Descripción (Objetivo)** | **Criterios de Aceptación** | **Tiempo estimado** |
+|:--:|:--|:--|:--|:--:|
+| **SP01** | **Investigar APIs de IA para chat emocional** | Como equipo de desarrollo (*backend*), queremos analizar y comparar **Google Gemini**, **OpenAI ChatGPT API** y **Claude API** con el fin de determinar cuál ofrece las respuestas más empáticas y coherentes para el chat emocional de Soft Focus. Se busca validar su rendimiento y los límites gratuitos para implementar una conversación empática entre usuario y psicólogo virtual. | 1️. Comparar precios, límites gratuitos y disponibilidad en español.<br>2️. Evaluar calidad emocional y coherencia de respuestas.<br> 3. Documentar la API recomendada con PoC funcional (chat demo). | 5 h |
+| **SP02** | **Evaluar reconocimiento facial de emociones** | Como equipo de desarrollo (*móvil*), queremos evaluar APIs o modelos gratuitos de reconocimiento facial, especialmente el modelo de **Hugging Face** , para detectar emociones mediante cámara y reflejar el estado emocional del usuario en Soft Focus. | 1️. Probar el modelo Hugging Face con Flutter y Kotlin.<br>2️. Comparar precisión con alternativas gratuitas (Face++ / Microsoft Face API).<br>3️. Validar integración con cámara en ambas plataformas.<br>4️. Documentar resultados de precisión y tiempos de respuesta. | 5 h |
+| **SP03** | **Explorar integración con APIs de contenido multimedia** | Como equipo *backend*, queremos integrar **TMDB**, **Spotify**, **YouTube Data API v3** y **Foursquare Places API**, para ofrecer películas, música y lugares recomendados según las emociones detectadas por Soft Focus, fortaleciendo el módulo de bienestar y autocuidado. | 1️. Verificar autenticación y documentación oficial de cada API.<br>2️. Probar recuperación de datos (géneros, tracks, lugares).<br>3️. Validar límites gratuitos y tiempos de respuesta.<br>4️. Documentar endpoints finales en Swagger con ejemplos JSON. | 6 h |
+| **SP04** | **Investigar Firebase FCM para notificaciones push** | Como equipo *móvil y backend*, queremos evaluar **Firebase Cloud Messaging (FCM)** para enviar notificaciones de crisis, recordatorios y mensajes terapéuticos a dispositivos móviles de los usuarios Soft Focus. | 1️. Configurar proyecto Firebase en Flutter y Kotlin.<br>2️. Probar envío push desde backend C# mediante SDK FCM.<br>3️. Validar recepción y personalización de mensajes.<br>4️. Documentar proceso de integración. | 3 h |
+| **SP05** | **Evaluar servicios de almacenamiento de imágenes** | Como equipo *backend*, queremos comparar **Cloudinary** (actualmente configurado en el entorno) frente a alternativas como **Firebase Storage** y **Imgur API**, para definir el mejor servicio de subida, almacenamiento y acceso de fotos de perfil y contenido multimedia en Soft Focus. | 1️. Comparar costos, límite gratuito y rendimiento.<br>2️. Probar SDK Cloudinary para .NET y vinculación con MongoDB.<br>3️. Evaluar seguridad y tiempo de carga.<br>4️. Documentar configuración final recomendada. | 4 h |
+| **SP06** | **Explorar SignalR para chat en tiempo real** | Como equipo *backend y móvil*, queremos investigar **SignalR** para habilitar mensajería instantánea entre psicólogo y paciente en Soft Focus, garantizando comunicación estable y sincronizada entre Flutter y Kotlin. | 1️. Configurar SignalR Hub en backend C#.<br>2️. Implementar cliente SignalR en Flutter.<br>3️. Probar cliente SignalR en Kotlin Android.<br>4️. Medir rendimiento y latencia en diferentes redes. | 8 h |
+| **SP07** | **Investigar validación de psicólogos profesionales** | Como equipo *web y backend*, queremos definir un flujo de validación de credenciales para psicólogos que se registran en Soft Focus, garantizando autenticidad y seguridad en la atención profesional. | 1️. Investigar APIs o portales oficiales de colegios profesionales (Perú).<br>2️. Diseñar flujo manual de verificación (documentos y licencia).<br>3️. Determinar requisitos de documentación (licencia, CMP, DNI).<br>4️. Documentar proceso y responsables de aprobación. | 4 h |
+| **SP08** | **Definir estrategia de desarrollo móvil dual** | Como equipo *móvil*, queremos planificar la estrategia de desarrollo híbrido entre **Flutter** (app principal multiplataforma) y **Kotlin nativo** (módulos especializados), para optimizar rendimiento y experiencia de usuario en Soft Focus. | 1️. Definir qué módulos desarrollar en Flutter y cuáles en Kotlin.<br>2️. Especificar método de comunicación entre ambas apps (API/SDK).<br>3️. Planificar deploy dual (Android Store + Web App).<br>4️. Documentar la estrategia de desarrollo y mantenimiento. | 6 h |
 
 
 <a id="242-impact-mapping"></a>
@@ -4733,7 +4733,41 @@ Después de avanzar en el desarrollo de la Landing pagey un avance de la API RES
 ## **Conclusiones y recomendaciones**
 
 
-Nuestro startup Psywell, con su producto Soft Focus, ofrece una solución innovadora para mejorar la concentración y el bienestar mental en estudiantes, profesionales y organizaciones. Su propuesta integra tecnología y prácticas de enfoque consciente, convirtiéndose en una herramienta clave para impulsar la productividad sostenible y la gestión saludable de la atención.
+### Conclusiones
+
+
+El desarrollo del proyecto Soft Focus permitió al equipo de PsyWell establecer las bases sólidas para una solución digital innovadora en el ámbito de la salud mental. Las principales conclusiones son:
+
+1. **Problemática validada**: Se confirmó la existencia de una brecha crítica en el acceso a servicios de salud mental, donde menos del 20% de quienes necesitan atención la reciben oportunamente, evidenciando la necesidad de soluciones digitales complementarias.
+
+2. **Segmentos objetivo bien definidos**: La investigación con usuarios generales (18-35 años) y psicólogos clínicos mediante entrevistas, User Personas y Journey Maps permitió comprender profundamente sus necesidades, estableciendo una base clara para el diseño centrado en el usuario.
+
+3. **Arquitectura escalable mediante DDD**: La aplicación de Domain-Driven Design, con la identificación de 8 Bounded Contexts (Auth, Profiles, Tracking, Crisis, Therapy, Notifications, Subscriptions, Shared), garantiza una estructura modular que facilitará el desarrollo independiente y la evolución sostenible del sistema.
+
+4. **Requerimientos claros y priorizados**: Se definieron 42 User Stories organizadas en 12 Epics, estableciendo un Product Backlog estructurado que guiará el desarrollo de los sprints con criterios de aceptación específicos.
+
+5. **Diferenciación competitiva identificada**: El análisis competitivo reveló oportunidades para posicionar a Soft Focus como una solución híbrida (IA + profesionales) adaptada al contexto local, con precios accesibles y enfoque en prevención de crisis.
+
+
+
+### Recomendaciones
+
+Para garantizar el éxito del proyecto en sus siguientes fases, se proponen las siguientes acciones clave:
+
+1. **Validación temprana con prototipos**: Realizar pruebas de usabilidad desde las primeras iteraciones para ajustar diseños y funcionalidades antes del desarrollo completo, reduciendo riesgos de rechazo.
+
+2. **Priorizar seguridad y privacidad**: Implementar encriptación end-to-end, cumplir con la Ley de Protección de Datos Personales del Perú y obtener certificaciones que generen confianza en los usuarios.
+
+3. **Establecer alianzas estratégicas**: Buscar convenios con universidades, clínicas y colegios profesionales para acelerar la adopción, validar credenciales de psicólogos y ampliar la base de usuarios.
+
+4. **Implementar sistema de métricas**: Definir KPIs desde el inicio (retención, frecuencia de check-ins, tiempo de respuesta en crisis) para tomar decisiones basadas en datos y medir el impacto real de la plataforma.
+
+5. **Planificar escalabilidad técnica**: Desplegar en infraestructura cloud con arquitectura elástica para soportar el crecimiento de usuarios sin comprometer el rendimiento.
+
+6. **Complementar con educación en salud mental**: Desarrollar campañas de sensibilización en redes sociales para reducir el estigma y aumentar el engagement con la plataforma.
+
+---
+
 
 
 <a id="video-app-validation"></a>

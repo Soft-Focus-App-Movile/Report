@@ -381,13 +381,18 @@
 
 
 <a id="capítulo-i-presentación"></a>
+
 # **Capítulo I: Presentación**
 
+
 <a id="11-startup-profile"></a>
+
 ## **1.1. Startup Profile**
 
 <a id="111-descripción-de-la-startup"></a>
+
 ### **1.1.1. Descripción de la Startup**
+
 PsyWell es una startup tecnológica orientada al desarrollo de soluciones digitales que fortalecen la salud mental a través del seguimiento continuo y la intervención temprana. Esta iniciativa surge como respuesta a la necesidad urgente de brindar apoyo psicológico constante entre sesiones terapéuticas, considerando que el acceso a los servicios de salud mental en el Perú presenta serias limitaciones.
 
 Como señalan Piazza y Fiestas (2015), “sólo una de cada cinco personas que presentaron algún trastorno durante los últimos 12 meses recibió tratamiento durante ese período” (p. 338). Esta brecha de atención evidencia la necesidad de contar con herramientas complementarias que amplíen el alcance de la atención psicológica y ofrezcan acompañamiento accesible, oportuno y confiable para la población.
@@ -409,7 +414,9 @@ Ser la plataforma líder en Latinoamérica en monitoreo y prevención de la salu
 Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fortalezcan la relación paciente–psicólogo, promuevan el autocuidado emocional y prevengan crisis mediante intervenciones oportunas y personalizadas.
 
 <a id="112-perfiles-de-integrantes-del-equipo"></a>
+
 ### **1.1.2. Perfiles de Integrantes del Equipo**
+
 <p align="center">
     <img src="imgs/Mathias.png" alt="Grafico  1" width="100%">
 </p>
@@ -427,10 +434,14 @@ Proporcionar herramientas tecnológicas accesibles, seguras y efectivas que fort
 </p>
 
 <a id="12-solution-profile"></a>
+
 ## **1.2. Solution Profile**
 
+
 <a id="121-antecedentes-y-problemática"></a>
+
 ### **1.2.1. Antecedentes y Problemática**
+
 What – ¿Cuál es el problema?
 
 En el sector de la salud mental en el Perú, existe una gran brecha entre la demanda de atención psicológica y la disponibilidad de servicios. Muchas personas no acceden a tratamiento oportuno debido a limitaciones de recursos, costos y tiempos de espera. Además, entre las sesiones terapéuticas no existe un acompañamiento constante, lo que dificulta la continuidad del proceso y aumenta el riesgo de recaídas emocionales o crisis no atendidas (Piazza & Fiestas, 2015).
@@ -464,10 +475,14 @@ Los costos de no atender este problema son elevados. En términos sociales, la f
 </p>
 
 <a id="122-lean-ux-process"></a>
+
 ### **1.2.2. Lean UX Process**
 
+
 <a id="1221-lean-ux-problem-statements"></a>
+
 #### **1.2.2.1. Lean UX Problem Statements**
+
 **Problem Statement 1:**  
  Nuestra plataforma ha sido diseñada para ayudar a usuarios generales a gestionar su bienestar emocional y prevenir crisis a través de un acompañamiento digital continuo. A través de herramientas como registro diario de emociones, ejercicios de relajación y recomendaciones personalizadas, buscamos ofrecer apoyo inmediato y accesible en la vida cotidiana.
 
@@ -483,6 +498,7 @@ Los costos de no atender este problema son elevados. En términos sociales, la f
  **¿Cómo podemos ayudar a los profesionales de la salud mental a monitorear de manera continua a sus pacientes, ofreciendo un dashboard digital que integre alertas, reportes clínicos y herramientas de seguimiento, fortaleciendo así la eficacia y continuidad del tratamiento?**
 
 <a id="1222-lean-ux-assumptions"></a>
+
 #### **1.2.2.2. Lean UX Assumptions**
 
 
@@ -528,7 +544,9 @@ Los costos de no atender este problema son elevados. En términos sociales, la f
 
 
 <a id="1223-lean-ux-hypothesis-statements"></a>
+
 #### **1.2.2.3. Lean UX Hypothesis Statements**
+
 
 
 **Hypothesis Statement 1 :**
@@ -540,14 +558,20 @@ Los costos de no atender este problema son elevados. En términos sociales, la f
 **Creemos que** un dashboard profesional con alertas de crisis, métricas emocionales y herramientas de seguimiento permitirá a los psicólogos intervenir oportunamente y mejorar la eficacia terapéutica. Sabremos que esto es cierto cuando los psicólogos reporten que las alertas han facilitado intervenciones más rápidas, cuando al menos el 40% de ellos utilicen las alertas y reportes clínicos semanalmente y cuando se evidencie una disminución del 20% en los casos de crisis no atendidas entre pacientes registrados en la plataforma.
 
 <a id="1224-lean-ux-canvas"></a>
+
 #### **1.2.2.4. Lean UX Canvas**
+
 <p align="center">
     <img src="imgs/Lean ux canvas.png" alt="Lean UX canvas" width="100%">
 </p>
 
+
 <a id="13-segmentos-objetivos"></a>
+
 ## **1.3. Segmentos Objetivos**
+
 ### **Segmento Objetivo 1:**
+
 
 ###  **Usuarios generales (autoayuda y pacientes en terapia)**
 
@@ -580,6 +604,7 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 * Uso de recursos no estructurados (videos, música o aplicaciones generales) sin respaldo clínico ni supervisión profesional.
 
 ### **Segmento Objetivo 2:** 
+
 ### **Profesionales de la salud mental**
 
  Este segmento está integrado por psicólogos clínicos y de la salud que requieren herramientas digitales para optimizar el seguimiento de sus pacientes, reducir las brechas de atención y aumentar la efectividad de sus intervenciones terapéuticas.
@@ -613,13 +638,19 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 
 
 <a id="capítulo-ii-requirements-development-and-software-solution-design"></a>
+
 # **Capítulo II: Requirements Development and Software Solution Design**
 
+
 <a id="21-competidores"></a>
+
 ## **2.1. Competidores**
 
+
 <a id="211-análisis-competitivo"></a>
+
 ### **2.1.1. Análisis competitivo**
+
 
 # Competitive analysis landscape
 
@@ -645,13 +676,16 @@ _El propósito de este análisis competitivo es evaluar las ventajas y desventaj
 | Amenazas                  | - Competidores globales fuerte inversión (BetterHelp, Wysa, etc.). <br> - Regulaciones de privacidad de datos sensibles. <br> - Barrera tecnológica en zonas rurales (acceso a internet).           |  - Nuevos competidores digitales con servicios más integrales. <br> - Cambios en licencias para psicólogos digitales podrían restringir su operación.           |  - Mercado saturado de contenidos de bienestar gratuitos en YouTube, TikTok o podcasts. <br> - Falta de diferenciación frente a startups locales que ofrezcan psicología online a menor costo.            | - El manejo de información sensible de salud puede volverse más regulado, afectando su modelo de negocio. <br> - Riesgo de que autoridades sanitarias cuestionen la seguridad del uso de IA en terapias psicológicas.             |
 
 <a id="212-estrategias-y-tácticas-frente-a-competidores"></a>
+
 ### **2.1.2. Estrategias y tácticas frente a competidores**
+
 
 En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta clave para asi poder trazar estrategias y tácticas de superación hacia la competencia, cuando el servicio entre al mercado. A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar nuestro objetivo:
 
 ---
 
 ### Afrontando las fortalezas de nuestros competidores:
+
 - Plataformas con amplia base de usuarios y presencia internacional/regional.
 
 - Integración con profesionales humanos y, en algunos casos, IA avanzada.
@@ -669,9 +703,11 @@ Comprendemos que nuestras fortalezas son:
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### Estrategias
+
 - Posicionar a Soft Focus como una solución especializada y cercana al contexto local, más relevante que las plataformas globales.
 
 #### Tácticas
+
 - Enfatizar la adaptación cultural y lingüística.
 
 - Integrar evidencia visual, reportes y alertas personalizadas.
@@ -682,6 +718,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ---
 
 ### Afrontando las debilidades de nuestros competidores:
+
 - Altos costos que limitan el acceso a personas de bajos ingresos.
 
 - Dependencia de psicólogos humanos → baja escalabilidad.
@@ -696,9 +733,11 @@ Comprendemos que nuestras debilidades son:
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### Estrategias
+
 - Diferenciarnos con un modelo híbrido accesible (IA + profesionales), enfocado en escalabilidad y bajo costo.
 
 #### Tácticas
+
 - Ofrecer un plan freemium para captar usuarios jóvenes.
 
 - Mantener una iteración rápida según feedback local.
@@ -708,6 +747,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ---
 
 ### Afrontando las oportunidades de nuestros competidores:
+
 - Mayor interés global en la salud mental digital post-pandemia.
 
 - Expansión del mercado corporativo (wellness laboral).
@@ -724,9 +764,11 @@ Comprendemos que nuestras oportunidades son:
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### Estrategias
+
 - Aprovechar el momento de digitalización y posicionarnos como solución clínicamente confiable y escalable en LATAM.
 
 #### Tácticas
+
 - Pilotos con universidades, EPS y consultorios locales.
 
 - Reportes automáticos y paneles para terapeutas.
@@ -736,6 +778,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ---
 
 ### Afrontando las amenazas de nuestros competidores:
+
 - Entrada de apps globales con grandes presupuestos de marketing.
 
 - Preferencia de usuarios por recursos gratuitos (YouTube, TikTok, podcasts).
@@ -754,9 +797,11 @@ Comprendemos que nuestras amenazas son:
 Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 #### Estrategias
+
 - Construir confianza y legitimidad mediante validación científica y cercanía cultural.
 
 #### Tácticas
+
 - Certificaciones de privacidad y cumplimiento normativo.
 
 - Alianzas con gremios de psicólogos y MINSA.
@@ -766,23 +811,29 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
 
 <a id="22-entrevistas"></a>
+
 ## **2.2. Entrevistas**
+
 
 #### La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
 
 <a id="221-diseño-de-entrevistas"></a>
+
 ### **2.2.1. Diseño de entrevistas**
+
 
 ### Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)
 ##### *Preguntas dirigidas a personas que buscan apoyo emocional o que usan la plataforma como complemento de su terapia.*
 ---
 
 **Características demográficas:**
+
 1. ¿Cuál es tu edad?
 2. ¿En qué ciudad vives actualmente?
 3. ¿Actualmente te encuentras en tratamiento psicológico o usas recursos de autoayuda?
 
 **Preguntas Principales:**
+
 1. ¿Qué sueles hacer actualmente cuando te sientes estresado, ansioso o triste?
 
 2. ¿Usas alguna aplicación, recurso digital o técnica para manejar tus emociones? ¿Cuál?
@@ -796,6 +847,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 6. ¿Qué tan cómodo/a te sentirías registrando información personal sobre tu estado emocional en una app?
 
 **Preguntas sobre el Proyecto (Soft Focus):**
+
 1. ¿Qué te parecería tener una aplicación que te permita registrar tu estado emocional día a día y recibir recomendaciones personalizadas?
 
 2. ¿Qué herramientas te gustaría encontrar en una plataforma así? (ejercicios de relajación, meditación, diarios de emociones, alertas, etc.)
@@ -810,11 +862,13 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ##### *Preguntas dirigidas a psicólogos clínicos y de la salud.*
 ---
 **Características demográficas:**
+
 1. ¿Cuál es tu edad?
 2. ¿En qué ciudad trabajas y en qué contexto (consulta privada, clínica, universidad, hospital)?
 3. ¿Cuántos años de experiencia tienes como psicólogo/a clínico?
 
 **Preguntas Principales:**
+
 1. ¿Cómo realizas actualmente el seguimiento de tus pacientes entre sesiones?
 2. ¿Sueles pedirles que registren emociones, pensamientos o actividades? ¿Cómo lo hacen?
 3. ¿Qué dificultades encuentras para dar seguimiento continuo a tus pacientes?
@@ -823,6 +877,7 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 6. ¿Has utilizado antes alguna aplicación o herramienta digital para complementar tu práctica? ¿Cuál fue tu experiencia?
 
 **Preguntas sobre el Proyecto (Soft Focus):**
+
 1. ¿Qué opinas de contar con una plataforma que te permita monitorear en tiempo real el estado emocional de tus pacientes?
 2. ¿Qué funcionalidades consideras más valiosas? (ej. envío de ejercicios, historial de emociones, alertas de crisis, reportes automáticos).
 3. ¿Te gustaría que la plataforma se integre con tus sesiones presenciales/virtuales o que funcione como un espacio aparte?
@@ -830,7 +885,9 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 5. ¿Estarías dispuesto/a a recomendar una herramienta como esta a tus pacientes? ¿Por qué sí o por qué no?
 
 <a id="222-registro-de-entrevistas"></a>
+
 ### **2.2.2. Registro de entrevistas**
+
 ### Segmento 1: Usuarios generales (autoayuda y pacientes en terapia)
 
 | Entrevistado 1 | Santiago |
@@ -881,7 +938,9 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 Ver las entrevistas en Microsoft Stream: https://bit.ly/4nfJbj2
 
 <a id="223-análisis-de-entrevistas"></a>
+
 ### **2.2.3. Análisis de entrevistas**
+
 
 <p align="center">
   <img src="imgs/analisis_entrevistas_1.png" width="800">
@@ -900,10 +959,14 @@ Ver las entrevistas en Microsoft Stream: https://bit.ly/4nfJbj2
 </p> 
 
 <a id="23-needfinding"></a>
+
 ## **2.3. Needfinding**
 
+
 <a id="231-user-personas"></a>
+
 ### **2.3.1. User Personas**
+
 Para el presente proyecto Soft Focus, la elaboración de User Personas constituye un paso fundamental dentro del análisis del dominio, ya que permite representar de manera estructurada a los segmentos objetivo identificados. Estas fichas han sido construidas a partir de la información obtenida en entrevistas a usuarios potenciales y del análisis comparativo de soluciones existentes en el mercado, lo que facilitó reconocer patrones en cuanto a necesidades, objetivos, dificultades y motivaciones. Cada User Persona sintetiza características demográficas, profesionales y conductuales de los usuarios clave de la plataforma. La finalidad de este artefacto es proporcionar una representación clara y consistente de nuestro público objetivo, de manera que oriente el diseño y desarrollo de Soft Focus hacia una solución alineada con las expectativas y el contexto real de quienes harán uso de la herramienta.
 
 <ins>**User Persona del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
@@ -926,10 +989,14 @@ Para el presente proyecto Soft Focus, la elaboración de User Personas constituy
 <img src="imgs/UserPersona2.png" width="800">
 </p>
 
+
 *Nota.* Elaboración propia. Elaborado en UXPressia.
 
 <a id="232-user-task-matrix"></a>
+
 ### **2.3.2. User Task Matrix**
+
+
 En esta sección se presenta el User Task Matrix, una herramienta que organiza y concentra las tareas que los usuarios de los segmentos objetivos de Soft Focus definidos previamente, Leonardo Mendoza y Gabriela Torres, realizan para alcanzar sus metas cotidianas relacionadas con el objetivo de la aplicación. Es importante destacar que estas tareas se refieren a acciones que los usuarios llevan a cabo en su contexto real, independientemente de la existencia de una solución tecnológica.
 
 Este artefacto permite identificar patrones, similitudes y diferencias entre los segmentos, así como resaltar aquellas tareas que poseen mayor frecuencia e importancia en la vida de los usuarios. Estos hallazgos facilitan la priorización de funcionalidades que deben ser consideradas dentro del diseño de la plataforma Soft Focus.
@@ -946,7 +1013,9 @@ Este artefacto permite identificar patrones, similitudes y diferencias entre los
 *Nota.* Elaboración propia. Elaborado en Canva.
 
 <a id="233-user-journey-mapping"></a>
+
 ### **2.3.3. User Journey Mapping**
+
 En esta sección se presentan los User Journey Maps correspondientes a los User Personas definidos en el proyecto Soft Focus, con el propósito de ilustrar el end-to-end journey que realizan nuestros usuarios objetivos. Estos mapas muestran las fases, objetivos, acciones, puntos de contacto, emociones, frustraciones y oportunidades de mejora que experimentan tanto Leonardo Mendoza y Gabriela Torres, permitiendo comprender sus necesidades y problemáticas reales. Cada mapa se vincula directamente con la ficha de su User Persona y se presenta mediante diagramas elaborados en la herramienta indicada.
 
 <ins>**User Journey Map del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
@@ -972,7 +1041,9 @@ En esta sección se presentan los User Journey Maps correspondientes a los User 
 *Nota.* Elaboración propia. Elaborado en UXPressia.
 
 <a id="234-empathy-mapping"></a>
+
 ### **2.3.4. Empathy Mapping**
+
 En esta sección, se presentan los Empathy Maps desarrollados para cada uno de los User Personas, Leonardo Mendoza y Gabriela Torres, descritos anteriormente. El proceso de elaboración consistió en colocar al usuario al centro del análisis y, a partir de ahí, responder de manera colaborativa a preguntas clave que permiten comprender en profundidad su experiencia y se identificaron los pains y los gains de cada perfil. Los Empathy Maps resultantes ofrecen una visión clara de sus comportamientos, emociones y expectativas, lo que servirá de guía para diseñar una solución empática, relevante y centrada en el usuario. Cada uno de los mapas se documenta con capturas de la herramienta indicada a continuación.
 
 <ins>**Empathy Map del Segmento Objetivo #1: Usuarios generales (autoayuda y pacientes en terapia)**</ins>
@@ -998,8 +1069,11 @@ En esta sección, se presentan los Empathy Maps desarrollados para cada uno de l
 *Nota.* Elaboración propia. Elaborado en UXPressia.
 
 <a id="235-ubiquitous-language"></a>
+
 ### **2.3.5. Ubiquitous Language**
+
 En esta sección, se presenta un glosario de términos clave del dominio en el que se enmarca el proyecto Soft Focus. El propósito es establecer un lenguaje compartido, sin ambigüedades, que facilite la comunicación entre los miembros del equipo, los usuarios y los diferentes stakeholders. Este glosario se centra exclusivamente en conceptos relacionados con el sector de la salud mental y el bienestar emocional, evitando términos técnicos de ingeniería de software. Mantener actualizado este Ubiquitous Language permitirá asegurar que todos los participantes comprendan de forma clara y consistente los objetivos, procesos y necesidades vinculados a la solución propuesta.
+
 
 * **Emotional State (Estado emocional):** Condición afectiva que experimenta una persona en un momento determinado, influenciada por pensamientos, entorno y experiencias recientes.
 
@@ -1026,10 +1100,14 @@ En esta sección, se presenta un glosario de términos clave del dominio en el q
 * **Therapist (Terapeuta / Psicólogo clínico):** Profesional especializado en salud mental que brinda acompañamiento,diagnóstico y tratamiento a pacientes con dificultades emocionales o psicológicas.
 
 <a id="24-requirements-specification"></a>
+
 ## **2.4. Requirements specification**
 
+
 <a id="241-user-stories"></a>
+
 ### **2.4.1. User Stories**
+
 ## **EPICS**
 
 | Epic ID | Título | Descripción |
@@ -1137,6 +1215,7 @@ En esta sección, se presenta un glosario de términos clave del dominio en el q
 
 ## **SPIKE STORIES**
 
+
 | Spike ID | Título | Descripción | Criterios de Aceptación | Time |
 |----------|--------|-------------|------------------------|----------|
 | SP01 | Investigar APIs de IA para chat emocional | Como equipo de desarrollo (backend), Quiero evaluar Google Gemini, OpenAI y Claude APIs, Para seleccionar la mejor opción para chat emocional con limitaciones gratuitas. | **1.** Comparar precios y límites gratuitos<br/>**2.** Evaluar calidad de respuestas empáticas<br/>**3.** Probar integración con HttpClient en C#<br/>**4.** Documentar recomendación con PoC funcional | 8 horas |
@@ -1150,7 +1229,9 @@ En esta sección, se presenta un glosario de términos clave del dominio en el q
 
 
 <a id="242-impact-mapping"></a>
+
 ### **2.4.2. Impact Mapping**
+
 
 Usuario: Paciente
 
@@ -1164,8 +1245,11 @@ Usuario: Psicologo
   <img src="imgs/Impact map 2.png" alt="UH" width="1000">
 </p>
 
+
 <a id="243-product-backlog"></a>
+
 ### **2.4.3. Product Backlog**
+
 
 
 [Trello Board - Soft Focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
@@ -1216,10 +1300,15 @@ Usuario: Psicologo
 | 42 | US42 | Solicitar conexión con psicólogo | Como usuario general, Quiero solicitar conexión con un psicólogo del directorio, Para obtener sus datos de contacto. | 3 |
 
 <a id="25-strategic-level-domain-driven-design"></a>
+
 ## **2.5. Strategic-Level Domain-Driven Design**
 
+
 <a id="251-eventstorming"></a>
+
 ### **2.5.1. EventStorming**
+
+
 Event Storming es una técnica colaborativa de modelado de dominios desarrollada por Alberto Brandolini. Su objetivo es descubrir rápidamente los procesos de negocio complejos mediante la identificación de eventos de dominio, comandos, agregados y bounded contexts.La duracion aproximanda fueron de 2 horas.
 
 #### STEP 1
@@ -1303,7 +1392,9 @@ Finalmente, se agrupan los agregados estrechamente relacionados para definir los
 </p>
 
 <a id="2511-candidate-context-discovery"></a>
+
 #### **2.5.1.1. Candidate Context Discovery**
+
 Elegimos la combinación de **Start with Value** y **Look-for-Pivotal-Events**, porque permite identificar tanto las áreas de mayor valor de negocio como los eventos clave que marcan transiciones importantes entre diferentes contextos.
 
 ---
@@ -1311,6 +1402,7 @@ Elegimos la combinación de **Start with Value** y **Look-for-Pivotal-Events**, 
 ## Sesión de Context Discovery (Duración: 1.5 horas)
 
 ### **Fase 1: Identificación de Áreas Core (30 minutos)**
+
 Analizamos nuestro Event Storm completo para identificar las partes del dominio que generan mayor valor:
 
 - **Tracking de Emociones**: Core del negocio, diferenciador competitivo.  
@@ -1321,6 +1413,7 @@ Analizamos nuestro Event Storm completo para identificar las partes del dominio 
 ---
 
 ### **Fase 2: Identificación de Eventos Pivotales (45 minutos)**
+
 Eventos que marcan transiciones claras entre contextos:
 
 - **Usuario Creado** → Transición entre *Auth* y *Profiles*.  
@@ -1331,6 +1424,7 @@ Eventos que marcan transiciones claras entre contextos:
 ---
 
 ### **Fase 3: Agrupación y Refinamiento (15 minutos)**
+
 Agrupamos comandos, eventos y agregados en contextos cohesivos.
 
 ---
@@ -1338,48 +1432,56 @@ Agrupamos comandos, eventos y agregados en contextos cohesivos.
 ## **Bounded Contexts Identificados**
 
 1. **Auth Context**  
+
    - **Propósito**: Gestión de autenticación y autorización.  
    - **Eventos clave**: Usuario creó cuenta, Usuario completó perfil.  
    - **Comandos**: Crear cuenta.  
    - **Valor de negocio**: Seguridad y acceso controlado.  
 
 2. **Profiles Context**  
+
    - **Propósito**: Gestión de perfiles de usuario y profesionales.  
    - **Eventos clave**: Inicio de sesión, Usuario restablece contraseña.  
    - **Comandos**: Iniciar sesión.  
    - **Valor de negocio**: Interacción y experiencia de usuario.  
 
 3. **Tracking Context (CORE)**  
+
    - **Propósito**: Seguimiento y registro de estados emocionales.  
    - **Eventos clave**: Usuario registra emoción, Paciente compartió registro con psicólogo, Usuario registró nota de estado de ánimo.  
    - **Comandos**: Registrar emoción.  
    - **Valor de negocio**: Diferenciador principal del producto.  
 
-4. **Crisis Context (CORE)**  
+4. **Crisis Context (CORE)** 
+
    - **Propósito**: Detección y manejo de situaciones de crisis.  
    - **Eventos clave**: Se detectó crisis, Se asignó respuesta pronta.  
    - **Comandos**: Control de crisis, Asignar respuesta primaria.  
    - **Valor de negocio**: Seguridad crítica del usuario.  
 
 5. **Therapy Context (CORE)**  
+
    - **Propósito**: Gestión de sesiones terapéuticas y ejercicios.  
    - **Eventos clave**: Psicólogo asigna contenido, Programa sesión de seguimiento, Registra intervención.  
    - **Comandos**: Controlar seguimiento.  
    - **Valor de negocio**: Valor terapéutico directo.  
 
 6. **Notifications Context**  
+
    - **Propósito**: Gestión de comunicaciones y alertas.  
    - **Eventos clave**: Usuario completó ejercicio, Usuario marcó actividad como completada.  
    - **Comandos**: Modificar control.  
    - **Valor de negocio**: Engagement y retención.  
 
 7. **Subscriptions Context**  
+
    - **Propósito**: Gestión del modelo de negocio y pagos.  
    - **Eventos clave**: Usuario activó suscripción premium, Usuario renovó suscripción.  
    - **Comandos**: Manejar suscripción.  
    - **Valor de negocio**: Monetización directa.  
 
 8. **Shared Context**  
+
    - **Propósito**: Datos y servicios compartidos entre contextos.  
    - **Eventos clave**: Generar data, Actualizar sistema.  
    - **Comandos**: Generar reporte semanal, Crear gráfico de evolución emocional, Actualizar estadísticas, Registrar feedback, Recomendar con IA.  
@@ -1425,7 +1527,9 @@ Agrupamos comandos, eventos y agregados en contextos cohesivos.
 
 
 <a id="2512-domain-message-flows-modeling"></a>
+
 #### **2.5.1.2. Domain Message Flows Modeling**
+
 Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a través de mensajes (eventos, comandos o notificaciones), permitiendo visualizar de manera clara los flujos de información y reacciones entre ellos; con esto se logra entender la coreografía del sistema, garantizar la coherencia del negocio y diseñar integraciones explícitas y trazables.
 
 <p align="center"><img src="imgs/FLOW1.png" width="900"></p>
@@ -1449,7 +1553,9 @@ Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a 
 *Flujo principal del negocio. Paciente reserva cita → verifica disponibilidad → confirma pago → crea sala virtual → registra asistencia → actualiza historial. Es la razón de ser de toda la plataforma.*
 
 <a id="2513-bounded-context-canvases"></a>
+
 #### **2.5.1.3. Bounded Context Canvases**
+
 ## THERAPY CONTEXT
 
 <p align="center"><img src="imgs/THERAPY-CON.png" width="900"></p>
@@ -1483,7 +1589,9 @@ Nos ayuda a representar cómo los bounded contexts de un dominio se comunican a 
 <p align="center"><img src="imgs/SHARED-CON.png" width="900"></p>
 
 <a id="252-context-mapping"></a>
+
 ### **2.5.2. Context Mapping**
+
 Es una técnica fundamental en Domain-Driven Design que nos permite visualizar y analizar las relaciones estructurales entre *bounded contexts*. En esta sección, documentamos el proceso sistemático de elaboración de mapas de contexto para nuestro sistema, evaluando diferentes alternativas de diseño y sus implicaciones arquitectónicas.
 
 ---
@@ -1493,6 +1601,7 @@ Es una técnica fundamental en Domain-Driven Design que nos permite visualizar y
 Para desarrollar los context maps, seguimos un proceso iterativo de análisis y refinamiento, planteando preguntas críticas que nos permitieron explorar diferentes configuraciones:
 
 ### Preguntas Guía del Proceso
+
 - **Reubicación de Capabilities:** ¿Qué pasaría si movemos este capability a otro bounded context?
 - **Descomposición:** ¿Qué pasaría si descomponemos este capability y movemos uno de los sub-capabilities a otro bounded context?
 - **Partición:** ¿Qué pasaría si partimos el bounded context en múltiples bounded contexts?
@@ -1506,48 +1615,56 @@ Para desarrollar los context maps, seguimos un proceso iterativo de análisis y 
 ## Bounded Contexts Identificados
 
 ### Auth Context
+
 **Responsabilidades:** Gestión de autenticación y autorización de usuarios
 - Crear cuentas de usuario
 - Verificación de credenciales
 - Gestión de permisos y roles
 
 ### Profiles Context
+
 **Responsabilidades:** Administración de perfiles de usuario y sesiones
 - Iniciar sesión
 - Gestión de perfiles de usuario
 - Configuraciones personales
 
 ### Therapy Context
+
 **Responsabilidades:** Funcionalidades centrales de terapia
 - Gestión de sesiones terapéuticas
 - Seguimiento de progreso
 - Herramientas de evaluación
 
 ### Tracking Context
+
 **Responsabilidades:** Monitoreo y seguimiento de actividades
 - Registro de actividades diarias
 - Seguimiento de hábitos
 - Métricas de progreso
 
 ### Notifications Context
+
 **Responsabilidades:** Sistema de notificaciones
 - Envío de recordatorios
 - Alertas del sistema
 - Comunicaciones automatizadas
 
 ### Suscription Context
+
 **Responsabilidades:** Gestión de suscripciones y facturación
 - Planes de suscripción
 - Procesamiento de pagos
 - Gestión de beneficios
 
 ### Crisis Context
+
 **Responsabilidades:** Manejo de situaciones de crisis
 - Detección de crisis
 - Protocolos de emergencia
 - Escalamiento de casos críticos
 
 ### Shared Context
+
 **Responsabilidades:** Servicios y datos compartidos
 - Configuraciones globales
 - Utilidades comunes
@@ -1558,23 +1675,30 @@ Para desarrollar los context maps, seguimos un proceso iterativo de análisis y 
 ## Análisis de Alternativas de Context Mapping
 
 ### Alternativa 1: Configuración Actual
+
 La configuración mostrada en el diagrama representa nuestra propuesta principal, donde cada context mantiene responsabilidades bien definidas con relaciones claras.  
+
 **Ventajas:**
+
 - Separación clara de responsabilidades
 - Bajo acoplamiento entre contexts
 - Facilita el desarrollo independiente por equipos  
 
 **Desventajas:**
+
 - Mayor complejidad en la coordinación
 - Posible duplicación de funcionalidades básicas
 
 ### Alternativa 2: Consolidación de Auth y Profiles
+
 **Análisis:** Aunque ambos contexts están relacionados con usuarios, mantienen responsabilidades distintas. Auth se enfoca en seguridad mientras Profiles en personalización. La separación permite mejor escalabilidad y mantenimiento.
 
 ### Alternativa 3: Separación del Tracking Context
+
 **Análisis:** Esta división podría crear dependencias innecesarias y complejidad adicional sin beneficios claros. El context actual mantiene cohesión funcional adecuada.
 
 ### Alternativa 4: Crisis Context como Shared Service
+
 **Análisis:** Crisis Context requiere lógica de negocio específica y estado propio. Mantenerlo como bounded context independiente permite mejor evolución y especialización.
 
 ---
@@ -1582,17 +1706,21 @@ La configuración mostrada en el diagrama representa nuestra propuesta principal
 ## Patrones de Relación Aplicados
 
 ### Customer/Supplier
+
 - **Therapy Context → Tracking Context:** Therapy actúa como customer, definiendo qué métricas necesita trackear  
 - **Crisis Context → Notifications Context:** Crisis define los tipos de notificaciones urgentes requeridas
 
 ### Conformist
+
 - **Profiles Context → Auth Context:** Profiles se conforma a los modelos de usuario definidos por Auth  
 - **Suscription Context → Auth Context:** Suscription adopta el modelo de usuario de Auth
 
 ### Shared Kernel
+
 - **Shared Context:** Proporciona modelos y servicios comunes utilizados por múltiples contexts
 
 ### Anticorruption Layer
+
 - **Crisis Context:** Implementa ACL para traducir conceptos de otros contexts a su modelo de dominio específico  
 - **Tracking Context:** Utiliza ACL para integrar datos de diferentes sources sin contaminar su modelo
 
@@ -1601,6 +1729,7 @@ La configuración mostrada en el diagrama representa nuestra propuesta principal
 ## Context Map Final
 
 El context map resultante optimiza la separación de responsabilidades mientras minimiza el acoplamiento. Las relaciones están diseñadas para:
+
 - Maximizar la cohesión interna de cada bounded context
 - Minimizar las dependencias entre contexts
 - Facilitar la evolución independiente de cada área funcional
@@ -1609,10 +1738,14 @@ El context map resultante optimiza la separación de responsabilidades mientras 
 <p align="center"><img src="imgs/CONTEXT MAPPING.png" width="900"></p>
 
 <a id="253-software-architecture"></a>
+
 ### **2.5.3. Software Architecture**
 
+
 <a id="2531-software-architecture-context-level-diagrams"></a>
+
 #### **2.5.3.1. Software Architecture Context Level Diagrams**
+
 
 <p align="center">
     <img src="imgs/structurizr-SystemContext (1).png" alt="Grafico  1" width="100%">
@@ -1620,81 +1753,108 @@ El context map resultante optimiza la separación de responsabilidades mientras 
 
 
 <a id="2532-software-architecture-container-level-diagrams"></a>
+
 #### **2.5.3.2. Software Architecture Container Level Diagrams**
+
 
 <p align="center">
     <img src="imgs/structurizr-Containers (1).png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="2533-software-architecture-deployment-diagrams"></a>
+
 #### **2.5.3.3. Software Architecture Deployment Diagrams**
+
 
 <p align="center">
     <img src="imgs/employment diagram.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="26-tactical-level-domain-driven-design"></a>
+
 ## **2.6. Tactical-Level Domain-Driven Design**
 
+
 <a id="261-bounded-context-auth"></a>
+
 ### **2.6.1. Bounded Context: Auth**
 
+
 <a id="2611-domain-layer"></a>
+
 #### **2.6.1.1. Domain Layer**
+
 
 En esta capa representamos el core de la autenticación y las reglas de negocio fundamentales del sistema.
 
 **Entities:**
+
 - `User`: Entidad principal que representa a un usuario del sistema con propiedades como Id, Email, HashedPassword, Role, CreatedAt y IsActive. Encapsula las reglas de negocio relacionadas con la gestión de usuarios.
 - `Role`: Entidad que define los roles disponibles (UserGeneral, Psychologist, Admin) con sus respectivos permisos y restricciones.
 
 **Value Objects:**
+
 - `Email`: Objeto de valor que garantiza que las direcciones de correo cumplan con el formato válido y sean únicas en el sistema.
 - `Password`: Objeto de valor que encapsula la lógica de validación de contraseñas seguras (mínimo 8 caracteres, mayúsculas, números, símbolos especiales).
 - `UserId`: Identificador único inmutable que representa la identidad de un usuario en el dominio.
 
 **Aggregates:**
+
 - `UserAggregate`: Agrupa la entidad User con sus Value Objects y mantiene la consistencia de las operaciones de autenticación, registro y gestión de roles.
 
 **Domain Services:**
+
 - `IPasswordHashingService`: Interface que define el contrato para el servicio de hash de contraseñas.
 - `ITokenValidationService`: Interface para la validación y generación de tokens de autenticación.
 
 **Repositories (Interfaces):**
+
 - `IUserRepository`: Interface que define los métodos de persistencia para usuarios (FindByEmail, Save, Delete, etc.).
 
 <a id="2612-interface-layer"></a>
+
 #### **2.6.1.2. Interface Layer**
+
 Esta capa maneja la comunicación con el exterior a través de controladores REST.
 
 **Controllers:**
+
 - `AuthController`: Expone endpoints REST para /api/auth/register, /api/auth/login, /api/auth/logout. Maneja las requests HTTP y delega la lógica a la capa de aplicación.
 - `SocialAuthController`: Gestiona endpoints para autenticación OAuth con Google y Facebook (/api/auth/google, /api/auth/facebook).
 
 <a id="2613-application-layer"></a>
+
 #### **2.6.1.3. Application Layer**
+
 Orquesta los flujos de proceso de negocio y coordina entre el dominio y la infraestructura.
 
 **Command Services:**
+
 - `RegisterUserCommandService`: Procesa el comando de registro de usuarios, validando datos, creando el User aggregate y persistiéndolo.
 - `LoginCommandService`: Maneja el flujo de autenticación, validando credenciales y generando tokens JWT.
 - `SocialLoginCommandService`: Gestiona la autenticación mediante proveedores OAuth externos.
 
 **Query Services:**
+
 - `UserQueryService`: Maneja consultas relacionadas con usuarios como obtener perfil, validar existencia, etc.
 
 **Event Handlers:**
+
 - `UserRegisteredEventHandler`: Procesa eventos cuando un usuario se registra exitosamente, enviando emails de bienvenida.
 - `LoginAttemptEventHandler`: Maneja eventos de intentos de login para auditoría y seguridad.
 
 <a id="2614-infrastructure-layer"></a>
+
 #### **2.6.1.4 Infrastructure Layer**
+
 Implementa el acceso a servicios externos y persistencia de datos.
 
 **Persistence/Repositories:**
+
 - `MongoUserRepository`: Implementación concreta del IUserRepository usando MongoDB como base de datos, con operaciones CRUD optimizadas.
 
 **External Services:**
+
 - `BCryptPasswordHashingService`: Implementación del servicio de hash usando la librería BCrypt para máxima seguridad.
 - `JwtTokenService`: Servicio que genera y valida tokens JWT con claims personalizados y tiempos de expiración.
 - `GoogleOAuthService`: Integración con la API de Google para autenticación OAuth.
@@ -1702,17 +1862,24 @@ Implementa el acceso a servicios externos y persistencia de datos.
 
 
 <a id="2615-bounded-context-software-architecture-component-level-diagrams"></a>
+
 #### **2.6.1.5. Bounded Context Software Architecture Component Level Diagrams**
+
 
 <p align="center">
     <img src="imgs/structurizr-Auth-Components.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="2616-bounded-context-software-architecture-code-level-diagrams"></a>
+
 #### **2.6.1.6. Bounded Context Software Architecture Code Level Diagrams**
 
+
 <a id="26161-bounded-context-domain-layer-class-diagrams"></a>
+
 ##### **2.6.1.6.1. Bounded Context Domain Layer Class Diagrams**
+
+
 <p align="center">
     <img src="imgs/auth-class.png" alt="Grafico  1" width="100%">
 </p>
@@ -1720,348 +1887,469 @@ Implementa el acceso a servicios externos y persistencia de datos.
 
 
 <a id="262-bounded-context-profiles"></a>
+
 ### **2.6.2. Bounded Context: Profiles**
 
+
 <a id="2621-domain-layer"></a>
+
 #### **2.6.2.1. Domain Layer**
+
+
 Esta capa encapsula las reglas de negocio para la gestión de perfiles de usuarios y psicólogos.
 
 **Entities:**
+
 - `UserProfile`: Entidad base que representa el perfil de cualquier usuario con propiedades como UserId, Name, Age, ProfilePhotoUrl, Interests, CreatedAt y UpdatedAt. Define comportamientos para actualizar información personal.
 - `PsychologistProfile`: Entidad especializada que extiende las capacidades de perfil para profesionales, incluyendo LicenseNumber, Specialties, YearsOfExperience, IsVerified y InvitationCode.
 - `InvitationCode`: Entidad que representa códigos únicos generados para psicólogos, con propiedades como Code, PsychologistId, IsActive, CreatedAt y ExpiresAt.
 
 **Value Objects:**
+
 - `ProfessionalLicense`: Objeto de valor que valida el formato y autenticidad del número de colegiatura profesional según estándares peruanos.
 - `Specialty`: Enumera y valida las especialidades psicológicas disponibles (Clínica, Educativa, Organizacional, etc.).
 - `ProfilePhoto`: Encapsula URL, metadata y validaciones para imágenes de perfil.
 
 **Aggregates:**
+
 - `ProfileAggregate`: Mantiene consistencia entre el perfil base y las extensiones profesionales, asegurando integridad referencial.
 
 **Domain Services:**
+
 - `ICodeGenerationService`: Define el contrato para generar códigos de invitación únicos y seguros.
 - `IProfileValidationService`: Interface para validar credenciales profesionales contra bases de datos oficiales.
 
 **Repositories (Interfaces):**
+
 - `IProfileRepository`: Define métodos para persistencia de perfiles (FindByUserId, Save, UpdatePhoto, etc.).
 - `IInvitationCodeRepository`: Interface para gestión de códigos de invitación.
 
 <a id="2622-interface-layer"></a>
+
 #### **2.6.2.2. Interface Layer**
+
 Expone funcionalidades de perfiles a través de APIs REST bien definidas.
 
 **Controllers:**
+
 - `ProfileController`: Maneja endpoints /api/profiles para operaciones CRUD de perfiles generales, incluyendo actualización de datos personales y configuraciones.
 - `PsychologistController`: Gestiona endpoints específicos /api/psychologists para funciones profesionales como generación de códigos y verificación de credenciales.
 
 <a id="2623-application-layer"></a>
+
 #### **2.6.2.3. Application Layer**
+
 Coordina los flujos de negocio relacionados con la gestión de perfiles.
 
 **Command Services:**
+
 - `CreateProfileCommandService`: Procesa la creación de perfiles iniciales tras el registro, estableciendo configuraciones por defecto.
 - `UpdateProfileCommandService`: Maneja actualizaciones de información personal validando permisos y consistencia de datos.
 - `GenerateInvitationCodeCommandService`: Crea códigos únicos para psicólogos verificados con tiempo de expiración.
 - `VerifyPsychologistCommandService`: Procesa la verificación de credenciales profesionales.
 
 **Query Services:**
+
 - `ProfileQueryService`: Resuelve consultas sobre perfiles, configuraciones de usuario y datos públicos.
 - `PsychologistQueryService`: Maneja consultas específicas del directorio profesional y códigos de invitación.
 
 **Event Handlers:**
+
 - `ProfileCreatedEventHandler`: Procesa eventos de creación de perfil, enviando emails de bienvenida personalizados.
 - `PsychologistVerifiedEventHandler`: Maneja la verificación exitosa, habilitando funciones profesionales.
 
 <a id="2624-infrastructure-layer"></a>
+
 #### **2.6.2.4 Infrastructure Layer**
+
 Implementa persistencia y servicios externos para gestión de perfiles.
 
 **Persistence/Repositories:**
+
 - `MongoProfileRepository`: Implementación de persistencia usando MongoDB con índices optimizados para búsquedas por UserId y tipo de perfil.
 - `MongoInvitationCodeRepository`: Gestiona códigos con TTL automático y búsquedas eficientes.
 
 **External Services:**
+
 - `UniqueCodeGeneratorService`: Genera códigos alfanuméricos únicos de 8 caracteres con validaciones de unicidad.
 - `CloudinaryImageService`: Integración con Cloudinary para subida, transformación y gestión de fotos de perfil.
 - `ProfessionalValidationService`: Servicio que valida credenciales contra registros oficiales de colegios profesionales.
 
 
 <a id="2625-bounded-context-software-architecture-component-level-diagrams"></a>
+
 #### **2.6.2.5. Bounded Context Software Architecture Component Level Diagrams**
+
 <p align="center">
     <img src="imgs/structurizr-Profiles-Components.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="2626-bounded-context-software-architecture-code-level-diagrams"></a>
+
 #### **2.6.2.6. Bounded Context Software Architecture Code Level Diagrams**
 
+
 <a id="26261-bounded-context-domain-layer-class-diagrams"></a>
+
 ##### **2.6.2.6.1. Bounded Context Domain Layer Class Diagrams**
+
 <p align="center">
     <img src="imgs/profile-class.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="26262-bounded-context-database-design-diagram"></a>
+
 ##### **2.6.2.6.2. Bounded Context Database Design Diagram**
+
 
 <p align="center">
     <img src="imgs/databaseB1.jpg" alt="Grafico  1" width="70%">
 </p>
 
 <a id="263-bounded-context-tracking"></a>
+
 ### **2.6.3. Bounded Context: Tracking**
 
+
 <a id="2631-domain-layer"></a>
+
 #### **2.6.3.1. Domain Layer**
+
 Representa el núcleo del seguimiento emocional y registro de estados de ánimo.
 
 **Entities:**
+
 - `CheckIn`: Entidad principal que registra el estado emocional diario con UserId, EmotionalLevel, Symptoms, Notes, CreatedAt y CompletedAt.
 - `EmotionalCalendar`: Entidad que mantiene el registro histórico de emociones por fecha con UserId, Date, EmotionalEmoji y Mood.
 - `TrackingHistory`: Entidad que agrega datos históricos para análisis de patrones emocionales.
 
 **Value Objects:**
+
 - `EmotionalLevel`: Escala del 1-10 que representa la intensidad emocional con validaciones de rango.
 - `EmotionalEmoji`: Conjunto predefinido de emojis que representan estados emocionales específicos.
 - `TrackingPeriod`: Objeto que define períodos de análisis (diario, semanal, mensual).
 
 **Aggregates:**
+
 - `TrackingAggregate`: Mantiene consistencia entre check-ins diarios, calendario emocional e historial.
 
 **Domain Services:**
+
 - `IPatternAnalysisService`: Interface para detectar patrones emocionales en el histórico del usuario.
 - `ITrackingReminderService`: Define servicios para gestionar recordatorios personalizados.
 
 **Repositories (Interfaces):**
+
 - `ICheckInRepository`: Persistencia de check-ins diarios con consultas temporales.
 - `IEmotionalCalendarRepository`: Gestión del calendario emocional con agregaciones por período.
 
 <a id="2632-interface-layer"></a>
+
 #### **2.6.3.2. Interface Layer**
+
 APIs para interacción con el sistema de seguimiento emocional.
 
 **Controllers:**
+
 - `CheckInController`: Endpoints /api/checkins para registro diario y consulta de estados emocionales.
 - `TrackingController`: Gestiona /api/tracking para análisis históricos y patrones emocionales.
 
 <a id="2633-application-layer"></a>
+
 #### **2.6.3.3. Application Layer**
+
 Orquesta los procesos de seguimiento y análisis emocional.
 
 **Command Services:**
+
 - `CreateCheckInCommandService`: Procesa check-ins diarios validando completitud y consistencia temporal.
 - `UpdateEmotionalCalendarCommandService`: Actualiza el calendario con nuevos registros emocionales.
 
 **Query Services:**
+
 - `TrackingHistoryQueryService`: Consultas complejas para análisis de tendencias y patrones emocionales.
 - `CheckInQueryService`: Recupera check-ins por usuario, fecha y período específico.
 
 **Event Handlers:**
+
 - `CheckInCompletedEventHandler`: Procesa eventos de check-in completado, actualizando métricas y patrones.
 
 <a id="2634-infrastructure-layer"></a>
+
 #### **2.6.3.4 Infrastructure Layer**
+
 Implementación de persistencia y análisis de datos emocionales.
 
 **Persistence/Repositories:**
+
 - `MongoCheckInRepository`: Persistencia optimizada con índices temporales y agregaciones para análisis.
 - `MongoEmotionalCalendarRepository`: Almacenamiento eficiente del calendario con consultas por rango de fechas.
 
 **External Services:**
+
 - `PatternAnalysisService`: Servicio que implementa algoritmos para detectar tendencias emocionales.
 - `NotificationSchedulerService`: Programa recordatorios basados en horarios personalizados del usuario.
 
 <a id="2635-bounded-context-software-architecture-component-level-diagrams"></a>
+
 #### **2.6.3.5. Bounded Context Software Architecture Component Level Diagrams**
+
 
 <p align="center">
     <img src="imgs/structurizr-Tracking-Components.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="2636-bounded-context-software-architecture-code-level-diagrams"></a>
+
 #### **2.6.3.6. Bounded Context Software Architecture Code Level Diagrams**
 
+
 <a id="26361-bounded-context-domain-layer-class-diagrams"></a>
+
 ##### **2.6.3.6.1. Bounded Context Domain Layer Class Diagrams**
+
+
 <p align="center">
     <img src="imgs/tracking-class.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="26362-bounded-context-database-design-diagram"></a>
+
 ##### **2.6.3.6.2. Bounded Context Database Design Diagram**
+
 
 <p align="center">
     <img src="imgs/databaseB2.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="264-bounded-context-crisis"></a>
+
 ### **2.6.4. Bounded Context: Crisis**
 
+
 <a id="2641-domain-layer"></a>
+
 #### **2.6.4.1. Domain Layer**
+
 Encapsula las reglas críticas para manejo de situaciones de emergencia emocional.
 
 **Entities:**
+
 - `CrisisAlert`: Entidad central que representa una alerta de crisis con UserId, Severity, Location, Timestamp, Status y ResolutionNotes. Incluye lógica para escalamiento automático.
 - `EmergencyResource`: Entidad que almacena recursos de contención con Type, Content, Category, Effectiveness y Usage statistics.
 - `CrisisSession`: Rastrea sesiones de contención activas con duración, recursos utilizados y outcome.
 
 **Value Objects:**
+
 - `SeverityLevel`: Escala crítica (Low, Medium, High, Critical) con reglas de escalamiento automático.
 - `CrisisLocation`: Coordenadas geográficas para respuesta de emergencia cuando sea necesario.
 - `ResourceType`: Categoriza recursos (BreathingExercise, MindfulnessTechnique, EmergencyContact).
 
 **Aggregates:**
+
 - `CrisisAggregate`: Mantiene consistencia entre alertas, recursos utilizados y resolución de crisis.
 
 **Domain Services:**
+
 - `ICrisisEscalationService`: Define reglas para escalamiento automático según severidad.
 - `IEmergencyNotificationService`: Interface para notificaciones prioritarias.
 
 **Repositories (Interfaces):**
+
 - `ICrisisAlertRepository`: Persistencia de alertas con consultas por urgencia y usuario.
 - `IEmergencyResourceRepository`: Gestión de biblioteca de recursos de contención.
 
 <a id="2642-interface-layer"></a>
+
 #### **2.6.4.2. Interface Layer**
+
 APIs críticas para manejo inmediato de emergencias emocionales.
 
 **Controllers:**
+
 - `CrisisController`: Endpoints /api/crisis/alert para activación inmediata de alertas y recursos de emergencia.
 - `EmergencyController`: Gestiona /api/emergency/resources para acceso rápido a herramientas de contención.
 
 <a id="2643-application-layer"></a>
+
 #### **2.6.4.3. Application Layer**
+
+
 Coordina respuestas rápidas y eficientes ante situaciones críticas.
 
 **Command Services:**
+
 - `TriggerCrisisAlertCommandService`: Procesa activación inmediata del botón de crisis con notificación automática al psicólogo.
 - `ResolveConsumerisCommandService`: Maneja el cierre de alertas y registro de resolución.
 
 **Query Services:**
+
 - `EmergencyResourceQueryService`: Consultas rápidas para recursos de contención categorizados por efectividad.
 - `CrisisHistoryQueryService`: Análisis de patrones de crisis para prevención.
 
 **Event Handlers:**
+
 - `CrisisTriggeredEventHandler`: Procesa eventos de crisis activando notificaciones inmediatas y logging de auditoría.
 
 <a id="2644-infrastructure-layer"></a>
+
 #### **2.6.4.4 Infrastructure Layer**
+
 Servicios críticos para respuesta inmediata ante emergencias.
 
 **Persistence/Repositories:**
+
 - `MongoCrisisAlertRepository`: Almacenamiento optimizado para consultas de alta prioridad y auditoría.
 - `MongoEmergencyResourceRepository`: Biblioteca de recursos con métricas de efectividad.
 
 **External Services:**
+
 - `RealTimeNotificationService`: Notificaciones push inmediatas con máxima prioridad.
 - `GeolocationService`: Servicios de localización para contexto geográfico de crisis.
 
 <a id="2645-bounded-context-software-architecture-component-level-diagrams"></a>
+
 #### **2.6.4.5. Bounded Context Software Architecture Component Level Diagrams**
+
 
 <p align="center">
     <img src="imgs/structurizr-Crisis-Components.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="2646-bounded-context-software-architecture-code-level-diagrams"></a>
+
 #### **2.6.4.6. Bounded Context Software Architecture Code Level Diagrams**
 
+
 <a id="26461-bounded-context-domain-layer-class-diagrams"></a>
+
 ##### **2.6.4.6.1. Bounded Context Domain Layer Class Diagrams**
+
 <p align="center">
     <img src="imgs/crisis-class.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="26462-bounded-context-database-design-diagram"></a>
+
 ##### **2.6.4.6.2. Bounded Context Database Design Diagram**
+
+
 <p align="center">
     <img src="imgs/databaseB3.png" alt="Grafico  1" width="70%">
 </p>
 
 <a id="265-bounded-context-therapy"></a>
+
 ### **2.6.5. Bounded Context: Therapy**
 
+
 <a id="2651-domain-layer"></a>
+
 #### **2.6.5.1. Domain Layer**
+
 Modela las relaciones terapéuticas y comunicación profesional.
 
 **Entities:**
+
 - `TherapeuticRelationship`: Entidad que vincula psicólogo y paciente con ConnectionCode, StartDate, Status, IsActive y SessionCount.
 - `ChatMessage`: Representa mensajes del chat terapéutico con SenderId, ReceiverId, Content, Timestamp, IsRead y MessageType.
 - `PatientDirectory`: Registro de pacientes conectados con información básica y estado de relación.
 
 **Value Objects:**
+
 - `ConnectionCode`: Código único de 8 caracteres para establecer vínculos terapéuticos.
 - `MessageContent`: Valida contenido de mensajes con límites de caracteres y filtros de contenido.
 - `TherapyStatus`: Estados de relación (Active, Paused, Terminated, Pending).
 
 **Aggregates:**
+
 - `TherapyAggregate`: Mantiene consistencia entre relaciones, mensajes y directorio de pacientes.
 
 **Domain Services:**
+
 - `IConnectionValidationService`: Valida códigos y establece conexiones seguras.
 - `IChatModerationService`: Interface para moderación de contenido en chat terapéutico.
 
 **Repositories (Interfaces):**
+
 - `ITherapeuticRelationshipRepository`: Gestión de relaciones psicólogo-paciente.
 - `IChatMessageRepository`: Persistencia de mensajes con encriptación.
 
 <a id="2652-interface-layer"></a>
+
 #### **2.6.5.2. Interface Layer**
+
 APIs para comunicación terapéutica y gestión de pacientes.
 
 **Controllers:**
+
 - `TherapyController`: Endpoints /api/therapy para gestión de relaciones y conexiones mediante códigos.
 - `ChatController`: Maneja /api/chat para comunicación en tiempo real entre psicólogo y paciente.
 
 <a id="2653-application-layer"></a>
+
 #### **2.6.5.3. Application Layer**
+
 Orquesta los flujos de comunicación terapéutica.
 
 **Command Services:**
+
 - `EstablishConnectionCommandService`: Procesa códigos de invitación y establece relaciones terapéuticas.
 - `SendChatMessageCommandService`: Maneja envío de mensajes con validaciones y encriptación.
 
 **Query Services:**
+
 - `PatientDirectoryQueryService`: Consultas del dashboard de pacientes para psicólogos.
 - `ChatHistoryQueryService`: Recupera historial de conversaciones con paginación.
 
 **Event Handlers:**
+
 - `ConnectionEstablishedEventHandler`: Procesa nuevas conexiones activando funciones premium para pacientes.
 - `MessageSentEventHandler`: Maneja eventos de mensajes para notificaciones y auditoría.
 
 <a id="2654-infrastructure-layer"></a>
+
 #### **2.6.5.4 Infrastructure Layer**
+
 Implementación segura para comunicación terapéutica.
 
 **Persistence/Repositories:**
+
 - `MongoTherapeuticRelationshipRepository`: Relaciones con índices optimizados por psicólogo y estado.
 - `MongoChatMessageRepository`: Mensajes encriptados con búsqueda temporal eficiente.
 
 **External Services:**
+
 - `SignalRChatService`: Chat en tiempo real usando SignalR para comunicación instantánea.
 - `MessageEncryptionService`: Encriptación end-to-end para privacidad de conversaciones terapéuticas.
 
 <a id="2655-bounded-context-software-architecture-component-level-diagrams"></a>
+
 #### **2.6.5.5. Bounded Context Software Architecture Component Level Diagrams**
+
+
 <p align="center">
     <img src="imgs/structurizr-Therapy-Components.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="2656-bounded-context-software-architecture-code-level-diagrams"></a>
+
 #### **2.6.5.6. Bounded Context Software Architecture Code Level Diagrams**
 
+
 <a id="26561-bounded-context-domain-layer-class-diagrams"></a>
+
 ##### **2.6.5.6.1. Bounded Context Domain Layer Class Diagrams**
+
 
 <p align="center">
     <img src="imgs/therapy-class.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="26562-bounded-context-database-design-diagram"></a>
+
 ##### **2.6.5.6.2. Bounded Context Database Design Diagram**
+
 
 <p align="center">
     <img src="imgs/databaseB4.png" alt="Grafico  1" width="100%">
@@ -2069,252 +2357,344 @@ Implementación segura para comunicación terapéutica.
 
 
 <a id="266-bounded-context-notifications"></a>
+
 ### **2.6.6. Bounded Context: Notifications**
 
+
 <a id="2661-domain-layer"></a>
+
 #### **2.6.6.1. Domain Layer**
+
 Modela el sistema de notificaciones y preferencias de usuario.
 
 **Entities:**
+
 - `Notification`: Entidad principal con UserId, Type, Content, Priority, Status, ScheduledAt y DeliveredAt.
 - `NotificationPreference`: Configuraciones personalizadas con UserId, NotificationType, IsEnabled, Schedule y DeliveryMethod.
 - `NotificationTemplate`: Plantillas predefinidas con Type, Title, Body y Variables.
 
+
 **Value Objects:**
+
 - `NotificationType`: Tipos de notificaciones (CheckinReminder, CrisisAlert, MessageReceived, AssignmentDue).
 - `Priority`: Niveles de prioridad (Low, Normal, High, Critical) con tiempos de entrega.
 - `DeliveryStatus`: Estados de entrega (Pending, Sent, Delivered, Failed).
 
 **Aggregates:**
+
 - `NotificationAggregate`: Mantiene consistencia entre notificaciones, preferencias y templates.
 
 **Domain Services:**
+
 - `INotificationSchedulingService`: Interface para programación inteligente de recordatorios.
 - `IDeliveryOptimizationService`: Optimiza horarios de entrega según comportamiento del usuario.
 
 **Repositories (Interfaces):**
+
 - `INotificationRepository`: Persistencia de notificaciones con consultas por usuario y estado.
 - `INotificationPreferenceRepository`: Gestión de preferencias personalizadas.
 
 <a id="2662-interface-layer"></a>
+
 #### **2.6.6.2. Interface Layer**
+
 APIs para gestión de notificaciones y configuración de preferencias.
 
 **Controllers:**
+
 - `NotificationController`: Endpoints /api/notifications para envío y consulta de notificaciones.
 - `PreferenceController`: Gestiona /api/preferences para configuración personalizada.
 
 <a id="2663-application-layer"></a>
+
 #### **2.6.6.3. Application Layer**
+
 Orquesta el sistema de notificaciones inteligentes.
 
 **Command Services:**
+
 - `SendNotificationCommandService`: Procesa envío de notificaciones respetando preferencias del usuario.
 - `UpdatePreferencesCommandService`: Actualiza configuraciones de notificación con validaciones.
 
 **Query Services:**
+
 - `NotificationHistoryQueryService`: Consulta historial de notificaciones con filtros por tipo y fecha.
 - `PreferenceQueryService`: Recupera configuraciones activas del usuario.
 
 **Event Handlers:**
+
 - `NotificationSentEventHandler`: Procesa eventos de envío para métricas y reintento en caso de falla.
 - `PreferenceUpdatedEventHandler`: Actualiza configuraciones de entrega cuando cambian preferencias.
 
 <a id="2664-infrastructure-layer"></a>
+
 #### **2.6.6.4 Infrastructure Layer**
+
+
 Implementación de servicios de notificación multiplataforma.
 
 **Persistence/Repositories:**
+
 - `MongoNotificationRepository`: Almacenamiento con índices por usuario, tipo y fecha de entrega.
 - `MongoNotificationPreferenceRepository`: Configuraciones con consultas optimizadas.
 
 **External Services:**
+
 - `FirebaseFCMService`: Integración con Firebase Cloud Messaging para notificaciones push.
 - `EmailNotificationService`: Servicio de email para notificaciones no críticas.
 
 <a id="2665-bounded-context-software-architecture-component-level-diagrams"></a>
+
 #### **2.6.6.5. Bounded Context Software Architecture Component Level Diagrams**
+
 
 <p align="center">
     <img src="imgs/structurizr-Notifications-Components.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="2666-bounded-context-software-architecture-code-level-diagrams"></a>
+
 #### **2.6.6.6. Bounded Context Software Architecture Code Level Diagrams**
 
+
 <a id="26661-bounded-context-domain-layer-class-diagrams"></a>
+
 ##### **2.6.6.6.1. Bounded Context Domain Layer Class Diagrams**
+
 
 <p align="center">
     <img src="imgs/notifications-class.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="26662-bounded-context-database-design-diagram"></a>
+
 ##### **2.6.6.6.2. Bounded Context Database Design Diagram**
+
 
 <p align="center">
     <img src="imgs/databaseB5.png" alt="Grafico  1" width="60%">
 </p>
 
 <a id="267-bounded-context-subscriptions"></a>
+
 ### **2.6.7. Bounded Context: Subscriptions**
 
+
 <a id="2671-domain-layer"></a>
+
 #### **2.6.7.1. Domain Layer**
+
 Encapsula lógica de planes de suscripción y limitaciones de funcionalidades.
 
 **Entities:**
+
 - `Subscription`: Entidad principal con UserId, PlanType, Status, StartDate, EndDate, AutoRenew y PaymentMethod.
 - `Plan`: Define planes disponibles con Name, Price, Features, Limitations y IsActive.
 - `Usage`: Rastrea uso de funcionalidades con UserId, Feature, Count, ResetDate y Limit.
 
 **Value Objects:**
+
 - `PlanType`: Enumera planes (Free, UserPremium, PsychologistBasic, PsychologistPremium).
 - `SubscriptionStatus`: Estados (Active, Expired, Cancelled, PendingPayment).
 - `FeatureLimit`: Límites por funcionalidad (ChatMessages, StorageSpace, PatientCount).
 
 **Aggregates:**
+
 - `SubscriptionAggregate`: Mantiene consistencia entre suscripciones, planes y uso de funcionalidades.
 
 **Domain Services:**
+
 - `IFeatureLimitService`: Interface para validar y controlar límites de uso.
 - `IBillingService`: Gestión de facturación y renovaciones automáticas.
 
 **Repositories (Interfaces):**
+
 - `ISubscriptionRepository`: Persistencia de suscripciones con consultas por usuario y estado.
 - `IPlanRepository`: Gestión de planes disponibles y sus características.
 
 <a id="2672-interface-layer"></a>
+
 #### **2.6.7.2. Interface Layer**
+
+
 APIs para gestión de suscripciones y facturación.
 
 **Controllers:**
+
 - `SubscriptionController`: Endpoints /api/subscriptions para gestión de planes y upgrades.
 - `BillingController`: Gestiona /api/billing para facturación e historial de pagos.
 
 
 <a id="2673-application-layer"></a>
+
 #### **2.6.7.3. Application Layer**
+
 Coordina upgrades, downgrades y control de funcionalidades.
 
 **Command Services:**
+
 - `UpgradeSubscriptionCommandService`: Procesa cambios de plan con activación inmediata de funcionalidades.
 - `ProcessPaymentCommandService`: Maneja pagos y renovaciones automáticas.
 
 **Query Services:**
+
 - `SubscriptionStatusQueryService`: Consulta estado actual y límites de uso del usuario.
 - `BillingHistoryQueryService`: Historial de pagos y facturas para usuario.
 
 **Event Handlers:**
+
 - `SubscriptionUpgradedEventHandler`: Activa nuevas funcionalidades cuando se mejora el plan.
 - `PaymentFailedEventHandler`: Maneja fallos de pago con notificaciones y grace period.
 
 <a id="2674-infrastructure-layer"></a>
+
 #### **2.6.7.4 Infrastructure Layer**
+
 Integración con plataformas de pago y gestión de límites.
 
 **Persistence/Repositories:**
+
 - `MongoSubscriptionRepository`: Suscripciones con consultas eficientes por usuario y fecha.
 - `MongoPlanRepository`: Planes con características y límites configurables.
 
 **External Services:**
+
 - `AppStorePaymentService`: Integración con App Store para suscripciones iOS.
 - `GooglePlayBillingService`: Gestión de pagos en Google Play Store.
 - `FeatureLimitEnforcementService`: Control en tiempo real de límites por funcionalidad.
 
 <a id="2675-bounded-context-software-architecture-component-level-diagrams"></a>
+
 #### **2.6.7.5. Bounded Context Software Architecture Component Level Diagrams**
+
 
 <p align="center">
     <img src="imgs/structurizr-Subscriptions-Components.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="2686-bounded-context-software-architecture-code-level-diagrams"></a>
+
 #### **2.6.7.6. Bounded Context Software Architecture Code Level Diagrams**
 
+
 <a id="26861-bounded-context-domain-layer-class-diagrams"></a>
+
 ##### **2.6.7.6.1. Bounded Context Domain Layer Class Diagrams**
+
+
 <p align="center">
     <img src="imgs/subscripcions-class.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="26862-bounded-context-database-design-diagram"></a>
+
 ##### **2.6.7.6.2. Bounded Context Database Design Diagram**
+
 
 <p align="center">
     <img src="imgs/databaseB6.png" alt="Grafico  1" width="80%">
 </p>
 
 <a id="268-bounded-context-shared"></a>
+
 ### **2.6.8. Bounded Context: Shared**
 
+
 <a id="2681-domain-layer"></a>
+
 #### **2.6.8.1. Domain Layer**
+
 Servicios básicos compartidos entre todos los bounded contexts.
 
 **Entities:**
+
 - `EmailTemplate`: Plantillas de email con TemplateId, Name, Subject, HtmlBody y Variables para emails de verificación y bienvenida.
 
 **Value Objects:**
+
 - `EmailAddress`: Validación de formato de correo electrónico con verificaciones básicas.
 - `ImageUrl`: URL válida de Cloudinary con validaciones de formato.
 
 **Aggregates:**
+
 - `SharedResourceAggregate`: Consistencia entre templates de email y configuraciones de servicios.
 
 **Domain Services:**
+
 - `IImageUploadService`: Interface para subida de fotos de perfil a Cloudinary.
 - `IEmailService`: Interface para envío de emails transaccionales básicos.
 
 **Repositories (Interfaces):**
+
 - `IEmailTemplateRepository`: Gestión de plantillas de email predefinidas.
 
 <a id="2682-interface-layer"></a>
+
 #### **2.6.8.2. Interface Layer**
+
+
 Servicios utilitarios básicos accesibles desde otros bounded contexts.
 
 **Controllers:**
+
 - `ImageController`: Endpoints /api/images/upload para subida de fotos de perfil de psicólogos.
 
 <a id="2683-application-layer"></a>
+
 #### **2.6.8.3. Application Layer**
+
+
 Servicios compartidos para funcionalidades transversales.
 
 **Command Services:**
+
 - `UploadProfileImageCommandService`: Subida de fotos de perfil a Cloudinary con validaciones de formato y tamaño.
 - `SendVerificationEmailCommandService`: Envío de emails de verificación usando plantillas predefinidas.
 - `SendWelcomeEmailCommandService`: Emails de bienvenida personalizados por tipo de usuario.
 
 **Query Services:**
+
 - `EmailTemplateQueryService`: Consulta de plantillas disponibles por tipo de email.
 
 **Event Handlers:**
+
 - `ProfileImageUploadedEventHandler`: Procesa subida exitosa actualizando URL en perfil del usuario.
 - `EmailSentEventHandler`: Registra envío exitoso de emails para auditoría básica.
 
 <a id="2684-infrastructure-layer"></a>
+
 #### **2.6.8.4 Infrastructure Layer**
+
+
 Implementación de servicios externos esenciales.
 
 **Persistence/Repositories:**
+
 - `MongoEmailTemplateRepository`: Plantillas básicas para verificación, bienvenida y notificaciones.
 
 **External Services:**
+
 - `CloudinaryImageService`: Subida, transformación básica y gestión de fotos de perfil usando SDK de Cloudinary.
 - `SmtpEmailService`: Envío de emails usando SMTP con plantillas HTML y texto plano.
 
 <a id="2685-bounded-context-software-architecture-component-level-diagrams"></a>
+
 #### **2.6.8.5. Bounded Context Software Architecture Component Level Diagrams**
+
 
 <p align="center">
     <img src="imgs/structurizr-Shared-Components.png" alt="Grafico  1" width="100%">
 </p>
 
 <a id="2686-bounded-context-software-architecture-code-level-diagrams"></a>
+
 #### **2.6.8.6. Bounded Context Software Architecture Code Level Diagrams**
 
+
 <a id="26861-bounded-context-domain-layer-class-diagrams"></a>
+
 ##### **2.6.8.6.1. Bounded Context Domain Layer Class Diagrams**
+
 
 <p align="center">
     <img src="imgs/shared-class.png" alt="Grafico  1" width="100%">
@@ -2323,16 +2703,24 @@ Implementación de servicios externos esenciales.
 
 
 <a id="capítulo-iii-solution-uiux-design"></a>
+
 # **Capítulo III: Solution UI/UX Design**
 
+
 <a id="31-product-design"></a>
+
 ## **3.1. Product Design**
 
+
 <a id="311-style-guidelines"></a>
+
 ### **3.1.1. Style Guidelines**
 
+
 <a id="3111-general-style-guidelines"></a>
+
 #### **3.1.1.1. General Style Guidelines**
+
 
 ## Branding
 
@@ -2386,6 +2774,7 @@ La tipografía de Soft Focus ha sido cuidadosamente seleccionada para garantizar
 ### Primary Fonts
 
 #### **Source Sans Pro** - Fuente principal para contenido
+
 - **Uso**: Textos de interfaz, cuerpo de texto, descripciones
 - **Pesos disponibles**:
   - Light (300): 26 instancias - Textos secundarios
@@ -2395,6 +2784,7 @@ La tipografía de Soft Focus ha sido cuidadosamente seleccionada para garantizar
 - **Razón de elección**: Excelente legibilidad en pantallas, humanista y profesional
 
 #### **Roboto** - Fuente complementaria
+
 - **Uso**: Elementos de navegación, botones, etiquetas
 - **Pesos disponibles**:
   - Regular (400): 75 instancias
@@ -2402,6 +2792,7 @@ La tipografía de Soft Focus ha sido cuidadosamente seleccionada para garantizar
 - **Razón de elección**: Estándar de Material Design, optimizada para UI móvil
 
 #### **Crimson Text** - Fuente para contenido editorial
+
 - **Uso**: Artículos, recursos terapéuticos, contenido extenso
 - **Pesos disponibles**:
   - Regular (400): 14 instancias
@@ -2444,16 +2835,19 @@ La paleta de colores de Soft Focus está diseñada para transmitir calma, crecim
 ### Primary Colors
 
 #### Verde Oliva (#657142)
+
 - **Uso principal**: Brand color, botones primarios, elementos destacados
 - **Significado**: Crecimiento, naturaleza, estabilidad emocional
 - **Accesibilidad**: Contraste 4.7:1 sobre blanco (WCAG AA)
 
 #### Verde Lima (#C0D77E)
+
 - **Uso principal**: Acentos, highlights, elementos secundarios
 - **Significado**: Renovación, esperanza, energía positiva
 - **Accesibilidad**: Contraste 1.8:1 sobre blanco (decorativo únicamente)
 
 #### Gradiente Linear
+
 - **Degradado**: De #657142 (Verde Oliva) a #C0D77E (Verde Lima)
 - **Uso**: Fondos de hero sections, cards especiales, elementos destacados
 - **Aplicación**: Dirección top-to-bottom o left-to-right según contexto
@@ -2461,26 +2855,32 @@ La paleta de colores de Soft Focus está diseñada para transmitir calma, crecim
 ### Neutral Colors
 
 #### Blanco (#FFFFFF)
+
 - **Uso**: Fondos principales, cards, espacios de contenido
 - **Función**: Limpieza visual, espacios de respiro
 
 #### Gris Oscuro (#1F2024)
+
 - **Uso**: Textos principales, íconos, elementos de alta jerarquía
 - **Contraste**: 20.6:1 sobre blanco (WCAG AAA)
 
 #### Gris Medio (#A2A2A2)
+
 - **Uso**: Textos secundarios, placeholders, elementos deshabilitados
 - **Contraste**: 3.4:1 sobre blanco (WCAG AA para texto grande)
 
 #### Gris Claro (#C2C2C2)
+
 - **Uso**: Bordes, separadores, fondos secundarios
 - **Contraste**: 2.3:1 sobre blanco
 
 #### Gris Muy Claro (#D9D9D9)
+
 - **Uso**: Fondos sutiles, hover states, skeleton loaders
 - **Contraste**: 1.7:1 sobre blanco
 
 #### Negro (#000000)
+
 - **Uso**: Textos de máxima importancia, overlays
 - **Contraste**: 21:1 sobre blanco (máximo contraste)
 
@@ -2488,6 +2888,7 @@ La paleta de colores de Soft Focus está diseñada para transmitir calma, crecim
 ### Special Colors
 
 #### Verde Bosque (#294822)
+
 - **Uso**: Textos sobre fondos claros de verde, elementos de alto contraste
 - **Significado**: Profundidad, seriedad profesional
 - **Contraste**: 11.2:1 sobre blanco (WCAG AAA)
@@ -2526,18 +2927,21 @@ XXL:   64px  (4rem)     - Espacios de respiro, separación de contextos
 ### Spacing Application
 
 #### Component Spacing
+
 - **Padding interno de botones**: 16px vertical, 24px horizontal
 - **Padding de cards**: 16px (mobile), 24px (tablet+)
 - **Margin entre cards**: 16px
 - **Padding de containers**: 16px (mobile), 32px (desktop)
 
 #### Content Spacing
+
 - **Línea entre párrafos**: 16px
 - **Separación título-contenido**: 12px
 - **Separación entre secciones**: 32px
 - **Margin superior de páginas**: 24px
 
 #### Layout Spacing
+
 - **Márgenes laterales móvil**: 16px
 - **Márgenes laterales tablet**: 24px
 - **Márgenes laterales desktop**: 48px
@@ -2571,10 +2975,15 @@ Soft Focus adopta **Material Design** como sistema de diseño base, realizando a
 </p>
 
 <a id="312-information-architecture"></a>
+
 ### **3.1.2. Information Architecture**
 
+
 <a id="3121-organization-systems"></a>
+
 #### **3.1.2.1. Organization Systems**
+
+
 La arquitectura de información de Soft Focus está diseñada para proporcionar experiencias diferenciadas según el tipo de usuario, manteniendo consistencia en los patrones de interacción.
 
 ## Hierarchical Organization
@@ -2730,11 +3139,15 @@ La **Biblioteca** utiliza organización matricial donde el contenido puede ser a
 | **Ejercicios** | Específico por emoción | Respiración, Relajación muscular | Corto, Medio, Largo |  Guardados |
 
 **Ejemplo de navegación matricial**:
+
 - Usuario se siente **ansioso** → Puede filtrar por emoción "Ansiedad"
 - Resultado: Películas calmantes + Música relajante + Ejercicios de respiración + Lugares tranquilos
 
 <a id="3122-labelling-systems"></a>
+
 #### **3.1.2.2. Labelling Systems**
+
+
 Los sistemas de etiquetado de Soft Focus están diseñados para ser **claros, consistentes y comprensibles** por todos los usuarios, evitando jerga técnica innecesaria.
 
 ## Navigation Labels
@@ -2804,7 +3217,10 @@ Los sistemas de etiquetado de Soft Focus están diseñados para ser **claros, co
 ```
 ---
 <a id="3123-seo-tags-and-meta-tags"></a>
+
 #### **3.1.2.3. SEO Tags and Meta Tags**
+
+
 Las metaetiquetas nos ayudan a indicar información codificada y especificar los metadatos de nuestras páginas web. Estas no son visualizadas directamente en los sitios web, pero son leídas por los navegadores y rastreadores web. Las metaetiquetas facilitan el análisis de archivos HTML, permiten un mejor mantenimiento del contenido y son fundamentales para el posicionamiento de nuestra página en los buscadores.
 
 Las metaetiquetas que usaremos en Soft Focus son:
@@ -2868,7 +3284,10 @@ Las metaetiquetas que usaremos en Soft Focus son:
 ---
 
 <a id="3124-searching-systems"></a>
+
 #### **3.1.2.4. Searching Systems**
+
+
 El sistema de búsqueda de Soft Focus permitirá a los usuarios localizar información relevante de forma rápida y eficiente según su tipo de usuario. Se integrarán filtros específicos para facilitar la gestión y localización de recursos, psicólogos y contenido personalizado.
 
 **Búsqueda de Psicólogos en el Directorio:**
@@ -2890,7 +3309,10 @@ Todos los sistemas de búsqueda presentan los resultados de manera clara y estru
 ---
 
 <a id="3125-navigation-systems"></a>
+
 #### **3.1.2.5. Navigation Systems**
+
+
 En la landing page de Soft Focus, el sistema de navegación se ubica en la parte superior de la interfaz (header) de manera fija y permite al usuario desplazarse hacia las secciones principales de manera intuitiva. El header incluye el logo de la aplicación en el lado izquierdo, que funciona como enlace de retorno al inicio, y un menú de navegación con las opciones: Inicio, Funcionalidades, Planes y Contacto/Descarga. Este menú permanece visible durante todo el recorrido por la página, facilitando que el usuario acceda rápidamente a cualquier sección sin necesidad de hacer scroll. Además, se incluyen botones destacados para descargar la aplicación que redirigen a las tiendas de aplicaciones según el dispositivo del usuario (Google Play Store para Android o App Store para iOS).
 
 En la aplicación móvil, el sistema de navegación principal se implementa mediante un **Bottom Navigation Bar** ubicado en la parte inferior de la pantalla, siguiendo los estándares de diseño móvil actuales. Este componente permanece siempre visible y accesible, permitiendo que los usuarios cambien entre las secciones principales con un solo tap. La barra de navegación contiene cinco opciones claramente identificadas con íconos y etiquetas textuales: Home (inicio), Diario (calendario emocional), IA (chat con inteligencia artificial), Biblioteca (recursos de bienestar) y Perfil (configuración personal). Los íconos cambian de color cuando una sección está activa, proporcionando feedback visual inmediato sobre la ubicación actual del usuario dentro de la aplicación.
@@ -2914,12 +3336,18 @@ Los flujos de navegación están diseñados para ser lineales y predecibles en p
 ---
 
 <a id="313-landing-page-ui-design"></a>
+
 ### **3.1.3. Landing Page UI Design**
+
+
 Esta sección presenta la landing page de **Soft Focus**, donde se aprecia la propuesta visual y funcional de la plataforma. Su diseño busca ofrecer una experiencia moderna, intuitiva y emocionalmente cercana, destacando elementos como los check-ins diarios, la asistencia de IA y la conexión con profesionales de la salud mental. En el mock-up y wireframe se muestran las secciones principales : Inicio, Funcionalidades, Planes y Descarga de la App , junto al mensaje central de la marca orientado al bienestar, la prevención y el autocuidado.
 
 
 <a id="3131-landing-page-wireframe"></a>
+
 #### **3.1.3.1. Landing Page Wireframe**
+
+
 
 <p align="center">
   <img src="imgs/l2m.png" width="45%">
@@ -2928,7 +3356,10 @@ Esta sección presenta la landing page de **Soft Focus**, donde se aprecia la pr
 [Landing Page Wireframe](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=518-2138&t=aDSf9V92VP80o9ES-1)
 
 <a id="3132-landing-page-mock-up"></a>
+
 #### **3.1.3.2. Landing Page Mock-up**
+
+
 <p align="center">
   <img src="imgs/landingw (1).png" width="45%">
   <img src="imgs/landingw (2).png" width="45%">
@@ -2936,12 +3367,16 @@ Esta sección presenta la landing page de **Soft Focus**, donde se aprecia la pr
 [Landing Page Mock-up](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=26-1902&t=aDSf9V92VP80o9ES-1)
 
 <a id="314-mobile-applications-uxui-design"></a>
+
 ### **3.1.4. Mobile Applications UX/UI Design**
+
 
 Este apartado presenta el diseño de la experiencia (UX) y la interfaz de usuario (UI) de la aplicación móvil, enfocado en crear una navegación fluida, atractiva y fácil de usar. Se busca garantizar una interacción intuitiva y visualmente coherente con la identidad de la marca, priorizando la accesibilidad, el bienestar del usuario y la funcionalidad en cada pantalla.
 
 <a id="3141-mobile-applications-wireframes"></a>
+
 #### **3.1.4.1. Mobile Applications Wireframes**
+
 
  * Usuario General
    - Inicio de Sesión 
@@ -3081,13 +3516,16 @@ Este apartado presenta el diseño de la experiencia (UX) y la interfaz de usuari
 [Psicólogos wireframes](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=376-2129&t=aDSf9V92VP80o9ES-1)
 
 <a id="3142-mobile-applications-wireflow-diagrams"></a>
+
 #### **3.1.4.2. Mobile Applications Wireflow Diagrams**
+
 
 [WireflowDiagrams](https://overflow.io/s/PT6JB80S)
 
 ### 1. User Goal: REGISTRO Y AUTENTICACIÓN
 
 ### Explicación del flujo
+
 El usuario inicia en la pantalla de bienvenida, donde puede elegir entre “Iniciar Sesión” o “Registrarse”. Al seleccionar “Registrarse”, debe ingresar sus datos personales, incluyendo nombre, apellidos, correo electrónico, contraseña y tipo de usuario.En caso de que el usuario sea psicólogo, se le solicitarán datos adicionales como colegiatura, título y especialización. El sistema también puede ofrecer opciones de registro rápido mediante Google.Una vez completados todos los datos, el usuario acepta los términos y condiciones y el sistema crea la cuenta. Finalmente, el usuario puede acceder a la pantalla principal.
 
 <p align="center">
@@ -3099,6 +3537,7 @@ El usuario inicia en la pantalla de bienvenida, donde puede elegir entre “Inic
 ## 2. User Goal: REGISTRO DE EMOCIONES
 
 ### Explicación del flujo
+
 El usuario accede a la sección "Diario" desde el menú principal. Se presenta una interfaz para registrar su estado emocional del día, donde puede seleccionar entre diferentes emociones (feliz, triste, ansioso, estresado, etc.) mediante iconos visuales o una escala numérica. El usuario puede agregar notas adicionales describiendo cómo se siente o qué eventos influyeron en su estado. Opcionalmente, el usuario puede mostrar su rostro para capturar una expresión facial, proporcionar detalles adicionales sobre lo ocurrido y utilizar un cuadro de diálogo para notificar el acontecimiento con sus propias palabras.
 
 <p align="center">
@@ -3111,6 +3550,7 @@ El usuario accede a la sección "Diario" desde el menú principal. Se presenta u
 
 
 ### Explicación del flujo
+
 El usuario accede a la sección “Biblioteca” desde el menú de navegación inferior, donde se le presentan distintas categorías de recursos: Películas/Series, Música, Videos y Lugares. En la categoría de Películas/Series, puede explorar contenido con enfoque psicológico, eligiendo entre películas o series según su preferencia e indicacion del psicólogo. En Música, encontrará canciones y listas de reproducción diseñadas para fomentar el bienestar emocional. En la sección de Videos, podrá acceder a material multimedia orientado a la relajación y la meditación. Finalmente, en Lugares, se le ofrecen recomendaciones de espacios cercanos con un ambiente y clima propicios para la tranquilidad y el equilibrio mental.
 
 En el caso del psicólogo, la gestión de la Biblioteca está orientada al contenido asignado a sus pacientes. Desde esta sección, el psicólogo puede visualizar y administrar los recursos que cada paciente tiene disponibles, así como revisar y recomendar nuevo material (películas, música, videos o lugares) acorde a las necesidades terapéuticas de cada uno.
@@ -3132,6 +3572,7 @@ Usario Psicologo
 ## 4. User Goal: CONTACTO ENTRE PSCICOLOGO-PACIENTE
 
 ### Explicación del flujo
+
 El usuario accede a la sección “Conectar con Psicólogo” desde su perfil, donde se muestra una lista de profesionales disponibles junto con sus perfiles que incluyen foto, especialidad y calificaciones. El usuario puede filtrar la lista según la especialidad o la calificación de los psicólogos para facilitar su búsqueda. Al seleccionar un perfil, se despliega información detallada del profesional, así como las opciones para agendar una cita. De esta manera, el usuario puede conocer los medios de contacto y coordinar una sesión de forma directa y sencilla con el psicólogo elegido.
 
 Usuario General
@@ -3149,6 +3590,7 @@ Usuario Psicólogo
 ## 5. User Goal: MANEJO DE ALERTAS
 
 ### Explicación del flujo
+
 El usuario accede a la función “Alertas” desde la barra de menú inferior, donde puede visualizar a sus pacientes y el progreso de cada uno. Desde esta sección, el psicólogo puede acceder al perfil de un paciente, marcarlo como atendido, corregir información o enviar notificaciones adicionales según sea necesario.
 
 <p align="center">
@@ -3160,6 +3602,7 @@ El usuario accede a la función “Alertas” desde la barra de menú inferior, 
 ## 6. User Goal: COMUNICACION CON IA (CONSULTAS)
 
 ### Explicación del flujo
+
 El usuario accede a la función de chat con IA desde el menú principal. Se presenta una interfaz de conversación donde el usuario puede escribir sus preguntas o preocupaciones. La IA responde con información relevante, técnicas de manejo, o sugerencias de recursos de la biblioteca. El sistema puede hacer preguntas de seguimiento para entender mejor la situación del usuario. Las conversaciones se guardan en el historial para referencia futura. Si la IA detecta que la situación requiere atención profesional, sugiere al usuario contactar con un psicólogo disponible en la plataforma.
 
 <p align="center">
@@ -3336,15 +3779,20 @@ El usuario accede a la sección “Suscripción” desde el perfil o la configur
 
 [Psicólogos Mock-Up](https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus?node-id=192-1069&t=aDSf9V92VP80o9ES-1)
 <a id="3144-mobile-applications-user-flow-diagrams"></a>
+
 #### **3.1.4.4. Mobile Applications User Flow Diagrams**
+
 
 [UserflowDiagrams](https://overflow.io/s/ZBJH2UJN)
 
 Basándome en tus wireflows, te presento los User Flows detallados para cada User Goal. Cada uno incluye el happy path y los unhappy paths correspondientes.
 
 ## 1. Registro y Autenticación
-**User Persona:** Usuarios Generales y Psicólogos  
+
+**User Persona:** Usuarios Generales y Psicólogos 
+
 **Explicación del flujo:**  
+
 El usuario inicia en la pantalla de bienvenida, donde puede elegir entre "Iniciar Sesión" o "Registrarse". Al seleccionar "Registrarse", debe ingresar sus datos personales, incluyendo nombre, apellidos, correo electrónico, contraseña y tipo de usuario. En caso de ser psicólogo, se solicitarán datos adicionales como colegiatura, título y especialización. El sistema puede ofrecer opciones de registro rápido mediante Google. Una vez completados todos los datos, el usuario acepta los términos y condiciones y se crea la cuenta. Finalmente, puede acceder a la pantalla principal.Cuando es caso del psicologo e ingresa datos incorrectos respecto a su cedula y estudios le da error.
 
 <p align="center">
@@ -3352,8 +3800,11 @@ El usuario inicia en la pantalla de bienvenida, donde puede elegir entre "Inicia
 </p>
 
 ## 2. Registro de Emociones
+
 **User Persona:** Usuarios Generales  
+
 **Explicación del flujo:**  
+
 El usuario accede a la sección "Diario" desde el menú principal. Se presenta una interfaz para registrar su estado emocional del día, seleccionando entre diferentes emociones mediante iconos visuales o una escala numérica. Puede agregar notas describiendo cómo se siente o qué eventos influyeron en su estado. Opcionalmente, puede activar la cámara para capturar una expresión facial; el sistema analiza la expresión y sugiere la emoción detectada, que el usuario puede confirmar o ajustar. Una vez completado, presiona "Guardar registro" y el sistema confirma que la entrada ha sido guardada exitosamente. Si intenta guardar sin seleccionar al menos una emoción, se solicita completar este campo obligatorio. En caso de abandonar el formulario sin guardar, se ofrece la opción de guardar como borrador para continuar más tarde. Si el reconocimiento facial falla o los permisos de cámara no están otorgados, el sistema permite continuar sin esta funcionalidad opcional.
 
 <p align="center">
@@ -3363,34 +3814,45 @@ El usuario accede a la sección "Diario" desde el menú principal. Se presenta u
 
 
 ## 3. Manejo de Biblioteca de Recursos
+
 **User Persona:** Usuarios Generales y Psicólogos  
+
 **Explicación del flujo:**  
+
 El usuario accede a la sección "Biblioteca" desde el menú de navegación inferior, donde se presentan distintas categorías: Películas/Series, Música, Videos y Lugares. Puede explorar contenido según su preferencia e indicación del psicólogo, aplicar filtros y seleccionar recursos para ver detalles y beneficios terapéuticos. Los recursos se pueden "Ver ahora", "Agregar a favoritos" o "Compartir". Para psicólogos, la gestión de la Biblioteca está orientada al contenido asignado a sus pacientes. Pueden agregar recursos con notas explicativas y el sistema notifica al paciente. Si no hay conexión a internet, solo se muestran recursos descargados previamente. Si un recurso no está disponible, se ofrecen alternativas similares.
 
 Usuario General
+
 <p align="center">
     <img src="imgs/USERFLOW-BIBLIOTECA.png" alt="USERFLOW_Biblioteca" width="100%">
 </p>
 
 Psicologo
+
 <p align="center">
     <img src="imgs/USERFLOW-LIBARY.png" alt="USERFLOW_Library" width="100%">
 </p>
 
 
 ## 4. Contacto entre Psicólogo y Paciente
-**User Persona:** Usuarios Generales y Psicólogos  
+
+**User Persona:** Usuarios Generales y Psicólogos 
+
 **Explicación del flujo:**  
+
 El usuario comienza "Conectar con Psicólogo" desde su perfil, donde se muestran los profesionales disponibles con su foto, especialidad, calificaciones, experiencia y tarifas, y puede iniciar un chat para decidir si requiere sus servicios o continuar con las tareas asignadas; en caso de emergencia, se activa un contacto inmediato con el psicólogo más cercano mientras la aplicación le ofrece pasos sencillos para manejar su ansiedad o problema. Para los psicólogos, la plataforma permite conectar con el paciente, acceder a su perfil, chatear o monitorear el progreso de sus tareas, así como editar la información que el paciente puede visualizar y controlar cómo se presenta su seguimiento.
 
 Usuario General
+
 <p align="center">
     <img src="imgs/USERFLOW-CONECTAR.png" alt="USERFLOW_CONECTAR" width="100%">
 </p>
 
+
 <p align="center">
     <img src="imgs/WIREFLOW-MANNEJO ALERTAS.png" alt="USERFLOW_ALERTAS" width="100%">
 </p>
+
 
 Psicologo
 
@@ -3399,41 +3861,57 @@ Psicologo
 </p>
 
 ## 5. Manejo de Alertas
-**User Persona:** Psicólogos  
-**Explicación del flujo:**  
+
+**User Persona:** Psicólogos 
+
+**Explicación del flujo:** 
+
 El psicólogo accede a la sección "Alertas" desde el menú inferior, donde visualiza un dashboard con alertas críticas o moderadas para gestionar y dar seguimiento a cada caso; también puede recibir notificaciones de nuevas alertas de pacientes, desde donde evalúa, clasifica y marca cada alerta como leída o pendiente, asegurando un manejo eficiente de las situaciones que requieren atención.
 
 <p align="center">
     <img src="imgs/USERFLOW-ALERTA.png" alt="USERFLOW_ALERT" width="100%">
 </p>
 
+
 ## 6. Comunicación con IA (Consultas)
-**User Persona:** Usuarios Generales  
+
+**User Persona:** Usuarios Generales 
+
 **Explicación del flujo:**  
+
 El usuario accede a "Chat IA" desde el menú principal, donde la IA se presenta y pregunta en qué puede ayudar. El usuario escribe su consulta y la IA responde con información relevante. Para consultas sobre técnicas de manejo, ofrece pasos detallados y recursos de la biblioteca. Para situaciones complejas, hace preguntas de seguimiento y proporciona respuestas personalizadas. Las conversaciones se guardan automáticamente en el historial. Si se detecta lenguaje de riesgo o situación de crisis, sugiere contactar con un psicólogo o línea de emergencia. La IA aclara límites médicos, solicita reformular preguntas no entendidas y puede ofrecer conexión directa con psicólogo humano si la conversación se extiende o hay frustración.
 
 <p align="center">
     <img src="imgs/USERFLOW-IA.png" alt="USERFLOW_IA" width="100%">
 </p>
 
+
 ## 7. Configuración de Perfil
-**User Persona:** Usuarios Generales y Psicólogos  
+
+**User Persona:** Usuarios Generales y Psicólogos 
+
 **Explicación del flujo:**  
+
 El usuario accede a la sección "Perfil", donde puede editar su información personal, configurar notificaciones y gestionar su plan; en el caso de los psicólogos, también pueden acceder a sus estadísticas, revisar y modificar sus datos profesionales según lo necesiten.
 
 Usuario general
+
 <p align="center">
     <img src="imgs/USERFLOW-CONFIGURACION.png" alt="USERFLOW_Configuracion" width="100%">
 </p>
 
 Psicologo
+
 <p align="center">
     <img src="imgs/USERFLOW-CONFIG.png" alt="USERFLOW_Config" width="100%">
 </p>
 
 ## 8. Suscripciones y Pagos
-**User Persona:** Usuarios Generales  
-**Explicación del flujo:**  
+
+**User Persona:** Usuarios Generales
+
+**Explicación del flujo:** 
+
 El usuario accede a "Suscripción" desde el perfil o configuración, donde se muestran los planes disponibles: Gratuito, Mensual ($12.99) y Anual ($99.99) con beneficios y descuentos. Al seleccionar un plan, se muestran resumen de precio, beneficios y fecha de renovación. Al confirmar método de pago (tarjeta, PayPal, Google Pay) y aceptar términos, el sistema procesa el pago y muestra confirmación con detalles y recibo por correo. Si el pago falla, se ofrece intentar con otro método. 
 
 <p align="center">
@@ -3441,7 +3919,9 @@ El usuario accede a "Suscripción" desde el perfil o configuración, donde se mu
 </p>
 
 <a id="3145-mobile-applications-prototyping"></a>
+
 #### **3.1.4.5. Mobile Applications Prototyping**
+
 
 Este apartado presenta la etapa de creación del prototipo interactivo de la aplicación móvil. Su propósito es visualizar el flujo de navegación, validar la usabilidad y comprobar la coherencia entre el diseño visual y las funcionalidades propuestas. A través del prototipo se simula la experiencia real del usuario, permitiendo realizar pruebas, ajustes y mejoras antes del desarrollo final.
 
@@ -3453,16 +3933,24 @@ Este apartado presenta la etapa de creación del prototipo interactivo de la apl
 [Mobile Applications Prototyping](https://www.figma.com/proto/zWOudWULeBHrZm168XZ8if/Soft-Focus?page-id=426%3A1607&node-id=426-2218&viewport=-95%2C667%2C0.08&t=whO649XRK7hwKyIg-1&scaling=min-zoom&content-scaling=fixed)
 
 <a id="capítulo-iv-product-implementation--validation"></a>
+
 # **Capítulo IV: Product Implementation & Validation**
 
+
 <a id="4-product-implementation--validation"></a>
+
 ## **4. Product Implementation & Validation**
 
+
 <a id="41-software-configuration-management"></a>
+
 ## **4.1. Software Configuration Management**
 
+
 <a id="411-software-development-environment-configuration"></a>
+
 ### **4.1.1. Software Development Environment Configuration**
+
 
 En esta sección se especifican los productos de software, herramientas y plataformas que el equipo de Soft Focus utiliza para colaborar durante todo el ciclo de vida del desarrollo de la solución. Se detallan los nombres de los productos, el propósito de uso en el proyecto y la ruta de acceso o descarga de cada herramienta.
 
@@ -3488,6 +3976,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 ## Requirements Management y Documentation
 
 ### Markdown con Visual Studio Code
+
 - **Propósito**: Documentación técnica versionada junto con el código fuente en los repositorios
 - **Editor**: Visual Studio Code
 - **Descarga**: https://code.visualstudio.com
@@ -3503,6 +3992,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 ## Product UX/UI Design
 
 ### Figma
+
 - **Propósito**: Diseño de interfaces de usuario, prototipado interactivo y gestión del design system
 - **Acceso**: https://figma.com
 - **Proyecto principal**: https://www.figma.com/design/zWOudWULeBHrZm168XZ8if/Soft-Focus
@@ -3525,6 +4015,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 ### IDEs y Editores de Código
 
 #### JetBrains Rider (Desarrollo Backend)
+
 - **Propósito**: Entorno de desarrollo integrado para el backend en .NET con C#
 - **Versión requerida**: 2024.3 o superior
 - **Descarga**: https://www.jetbrains.com/rider/download
@@ -3535,6 +4026,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 
 
 #### Android Studio (Desarrollo Mobile - Kotlin)
+
 - **Propósito**: IDE oficial para desarrollo nativo Android con Kotlin
 - **Descarga**: https://developer.android.com/studio
 - **SDK de Android requerido**: API 24+ 
@@ -3545,6 +4037,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 
 
 #### JetBrains WebStorm (Desarrollo Landing Page)
+
 - **Propósito**: IDE especializado para desarrollo web con Angular, TypeScript, HTML y CSS
 - **Versión requerida**: 2024.3 o superior
 - **Descarga**: https://www.jetbrains.com/webstorm/download
@@ -3555,6 +4048,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 
 
 #### Visual Studio Code (Uso general)
+
 - **Propósito**: Editor de código ligero para edición de Markdown, configuraciones y scripts auxiliares
 - **Versión requerida**: 1.85 o superior
 - **Descarga**: https://code.visualstudio.com
@@ -3569,6 +4063,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 ## Version Control
 
 ### Git y GitHub
+
 - **Propósito**: Control de versiones del código fuente y colaboración del equipo
 - **Descarga de Git**: https://git-scm.com/downloads
 - **Plataforma**: GitHub - https://github.com
@@ -3577,12 +4072,14 @@ En esta sección se especifican los productos de software, herramientas y plataf
 #### Repositorios del Proyecto
 
 **1. Report (Documentación)**
+
 - **URL**: https://github.com/Soft-Focus-App-Movile/Report
 - **Contenido**: Informe completo del proyecto, documentación técnica, imágenes y diagramas
 - **Branch principal**: `main`
 - **Responsables**: Todo el equipo contribuye a la documentación
 
 **2. BackEnd (API .NET)**
+
 - **URL**: https://github.com/Soft-Focus-App-Movile/BackEnd
 - **Stack tecnológico**: .NET 8, C#, MongoDB
 - **Estructura de branches**: 
@@ -3592,6 +4089,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 
 
 **3. Landing-Page (Angular)**
+
 - **URL**: https://github.com/Soft-Focus-App-Movile/Landing-Page
 - **Stack tecnológico**: Angular 17, TypeScript, HTML, CSS
 - **Estructura de branches**:
@@ -3600,6 +4098,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 
 
 **4. FrontEnd (Aplicación Mobile)**
+
 - **URL**: https://github.com/Soft-Focus-App-Movile/FrontEnd
 - **Stack tecnológico**: Kotlin para Android
 - **Estructura de branches**:
@@ -3614,6 +4113,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 ## Database Management
 
 ### MongoDB
+
 - **Propósito**: Base de datos NoSQL para almacenamiento de datos del backend
 - **Versión requerida**: 7.0 o superior
 - **Opciones de instalación**:
@@ -3626,6 +4126,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 ## Deployment y Hosting
 
 ### AWS (Backend y Base de Datos)
+
 - **Propósito**: Hosting del backend API y base de datos MongoDB
 - **Servicio utilizado**: AWS EC2 (Elastic Compute Cloud)
 - **Acceso**: AWS Console - https://aws.amazon.com/console
@@ -3633,6 +4134,7 @@ En esta sección se especifican los productos de software, herramientas y plataf
 - **Responsables**: DevOps lead y equipo de backend
 
 ### Firebase (Landing Page)
+
 - **Propósito**: Hosting del sitio web estático (Landing Page)
 - **Acceso**: Firebase Console - https://console.firebase.google.com
 - **Proyecto**: soft-focus-landing
@@ -3642,7 +4144,9 @@ En esta sección se especifican los productos de software, herramientas y plataf
 ---
 
 <a id="412-source-code-management"></a>
+
 ### **4.1.2. Source Code Management**
+
 
 Para el desarrollo de este proyecto, resultó esencial mantener un flujo de trabajo ordenado y una gestión eficiente de las tareas.  
 Para ello, utilizamos **Git** como herramienta principal, debido a su capacidad para manejar versiones y trabajar mediante un sistema de **ramas (branches)**.  
@@ -3658,10 +4162,12 @@ Todo nuestro código se encuentra centralizado en un repositorio dentro de **Git
 En cuanto a la metodología de desarrollo, implementamos el modelo de ramas **GitFlow**, lo que nos permitió mantener un flujo de integración controlado y bien estructurado.  
 
 ### 🔹 Ramas Principales
+
 - **main:** Es la rama principal del proyecto. Contiene la versión más estable y lista para producción.  
 - **develop:** Rama de desarrollo, donde se validan y prueban los cambios antes de integrarlos en *main*.  
 
 ### 🔹 Ramas Auxiliares
+
 - **feature/feature_name:** Se crean para implementar funcionalidades o requisitos específicos sin interferir con el trabajo del resto del equipo.  
   Una vez completadas, se fusionan con la rama *develop*.  
   Los nombres de estas ramas hacen referencia al requerimiento o *user story* que se está desarrollando.  
@@ -3703,6 +4209,7 @@ En esta sección se explican en detalle las nomenclaturas y buenas prácticas qu
 ---
 
 ###  HTML
+
 - Los nombres de las etiquetas deben estar en minúsculas (lowercase).  
 - Todas las etiquetas deben estar correctamente cerradas.  
 - Los atributos deben escribirse en minúsculas y sus valores deben ir entre comillas dobles.  
@@ -3712,6 +4219,7 @@ En esta sección se explican en detalle las nomenclaturas y buenas prácticas qu
 ---
 
 ###  CSS
+
 - Utilizar nombres específicos o representativos para las clases.  
 - Reducir la longitud de los nombres sin perder su significado.  
 - Emplear el formato **kebab-case** (uso de “-” para separar palabras).  
@@ -3722,6 +4230,7 @@ En esta sección se explican en detalle las nomenclaturas y buenas prácticas qu
 ---
 
 ### JavaScript
+
 - No utilizar la palabra reservada **var**; usar **const** y **let** en su lugar.  
 - Emplear **camelCase** para el nombramiento de variables y funciones.  
 - Usar **PascalCase** para los nombres de clases.  
@@ -3732,6 +4241,7 @@ En esta sección se explican en detalle las nomenclaturas y buenas prácticas qu
 ---
 
 ### Angular
+
 - Utilizar una estructura modular desde el inicio (**feature modules**).  
 - Cada módulo o **feature** debe tener su propio subdirectorio.  
 - Agrupar los archivos por **feature**, no por tipo de archivo.  
@@ -3739,6 +4249,7 @@ En esta sección se explican en detalle las nomenclaturas y buenas prácticas qu
 ---
 
 ### Kotlin
+
 - Emplear **camelCase** para variables y funciones.  
 - Usar **PascalCase** para clases, objetos e interfaces.  
 - Evitar nombres abreviados o poco descriptivos.  
@@ -3748,6 +4259,7 @@ En esta sección se explican en detalle las nomenclaturas y buenas prácticas qu
 ---
 
 ### C#
+
 - Usar **PascalCase** para clases, métodos y propiedades.  
 - Emplear **camelCase** para variables locales y parámetros.  
 - Evitar el uso de abreviaciones o prefijos innecesarios.  
@@ -3757,6 +4269,7 @@ En esta sección se explican en detalle las nomenclaturas y buenas prácticas qu
 ---
 
 ### Gherkin
+
 - Las especificaciones deben ser claras, legibles y comprensibles para todos los colaboradores.  
 - Evitar el uso de terminología técnica o compleja.  
 - Emplear las palabras clave **Given**, **When**, **Then**, **And** y **But** para describir el comportamiento del sistema.  
@@ -3764,7 +4277,9 @@ En esta sección se explican en detalle las nomenclaturas y buenas prácticas qu
 
 
 <a id="414-software-deployment-configuration"></a>
+
 ### **4.1.4. Software Deployment Configuration**
+
 
 En esta sección se especifica la configuración de despliegue de la solución Soft Focus, incluyendo los pasos necesarios para lograr el despliegue satisfactorio de cada componente desde los repositorios de código fuente hasta los entornos de producción. El despliegue está completamente automatizado mediante GitHub Actions, lo que garantiza que cualquier cambio en la branch main se publique automáticamente en los respectivos servidores.
 
@@ -3871,12 +4386,14 @@ Firebase está configurado como Single Page Application (SPA), lo que significa 
 Cada repositorio tiene configurado GitHub Actions con workflows específicos:
 
 #### Backend 
+
 - **Archivo**: `.github/workflows`
 - **Trigger**: Push a `main` o `develop`
 - **Acciones**: Build, tests (cuando estén implementados), deploy a AWS EC2
 - **Secrets utilizados**: SSH Key, Host IP, Username
 
 #### Landing Page 
+
 - **Archivo**: `.github/workflows`
 - **Trigger**: Push a `main`
 - **Acciones**: npm install, ng build production, deploy a Firebase
@@ -3906,12 +4423,17 @@ Todas las comunicaciones entre componentes usan HTTPS para garantizar la segurid
 
 
 <a id="42-landing-page--mobile-application-implementation"></a>
+
 ## **4.2. Landing Page & Mobile Application Implementation**
 
+
 <a id="421-sprint-1"></a>
+
 ### **4.2.1. Sprint 1**
 
+
 <a id="4211-sprint-planning-1"></a>
+
 #### **4.2.1.1. Sprint Planning 1**
 
 Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
@@ -3932,7 +4454,9 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Sum of Story Points | 18 |
 
 <a id="4212-sprint-backlog-1"></a>
+
 #### **4.2.1.2. Sprint Backlog 1**
+
 
 Para este primer Sprint, nuestro objetivo principal es desarrollar la **Landing Page de SoftFocus** y desarrollar un avance del **Backend de SoftFocus**. Para lograrlo, hemos creado tareas específicas para cada historia de usuario relacionada con la landing y algunas tecnicas relacionadas con el backend, las hemos asignado entre los integrantes del equipo. Además, para una mejor organización y seguimiento del Backlog, estamos utilizando la herramienta **Trello**  
 
@@ -3963,7 +4487,9 @@ Sprint Backlog 1 en Trello: https://trello.com/invite/b/68c0dd854014c2ed0d7503e8
 
 
 <a id="4213-development-evidence-for-sprint-review"></a>
+
 #### **4.2.1.3. Development Evidence for Sprint Review**
+
 
 
 | Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
@@ -3986,10 +4512,14 @@ Sprint Backlog 1 en Trello: https://trello.com/invite/b/68c0dd854014c2ed0d7503e8
 
 
 <a id="4214-testing-suite-evidence-for-sprint-review"></a>
+
 #### **4.2.1.4. Testing Suite Evidence for Sprint Review**
 
+
 <a id="4215-execution-evidence-for-sprint-review"></a>
+
 #### **4.2.1.5. Execution Evidence for Sprint Review**
+
 
 En el sprint 1 alcanzamos un desarrollo completo en la implementación y despliegue de la landing page, asi como gran progreso en nuestro backend. La página muestra diversas secciones donde los usuarios pueden encontrar información relevante sobre nuestro producto y nuestra startup. A continuación presentamos algunas evidencias:
 
@@ -3998,7 +4528,9 @@ Enlace Soft Focus Landing Page: https://soft-focus-61053.web.app/
 Enlace Soft Focus BackEnd desplegado: http://98.90.172.251:5000/swagger/index.html
 
 <a id="4216-services-documentation-evidence-for-sprint-review"></a>
+
 #### **4.2.1.6. Services Documentation Evidence for Sprint Review**
+
 
 ### Servicios API Implementados
 
@@ -4029,7 +4561,9 @@ Enlace Soft Focus BackEnd desplegado: http://98.90.172.251:5000/swagger/index.ht
 
 
 <a id="4217-software-deployment-evidence-for-sprint-review"></a>
+
 #### **4.2.1.7. Software Deployment Evidence for Sprint Review**
+
 
 
 **Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.**
@@ -4051,7 +4585,9 @@ Nota. Elaboración propia.
 **Nota.** Elaboración propia.
 
 <a id="4218-team-collaboration-insights-during-sprint"></a>
+
 #### **4.2.1.8. Team Collaboration Insights during Sprint**
+
 
 
 | Alumno | Actividad |
@@ -4068,66 +4604,101 @@ Nota. Elaboración propia.
 
 
 <a id="422-sprint-2"></a>
+
 ### **4.2.2. Sprint 2**
 
+
 <a id="4221-sprint-planning-2"></a>
+
 #### **4.2.2.1. Sprint Planning 2**
 
+
 <a id="4222-sprint-backlog-2"></a>
+
 #### **4.2.2.2. Sprint Backlog 2**
 
+
 <a id="4223-development-evidence-for-sprint-review"></a>
+
 #### **4.2.2.3. Development Evidence for Sprint Review**
 
+
 <a id="4224-testing-suite-evidence-for-sprint-review"></a>
+
 #### **4.2.2.4. Testing Suite Evidence for Sprint Review**
 
+
 <a id="4225-execution-evidence-for-sprint-review"></a>
+
 #### **4.2.2.5. Execution Evidence for Sprint Review**
 
+
 <a id="4226-services-documentation-evidence-for-sprint-review"></a>
+
 #### **4.2.2.6. Services Documentation Evidence for Sprint Review**
 
+
 <a id="4227-software-deployment-evidence-for-sprint-review"></a>
+
 #### **4.2.2.7. Software Deployment Evidence for Sprint Review**
 
+
 <a id="4228-team-collaboration-insights-during-sprint"></a>
+
 #### **4.2.2.8. Team Collaboration Insights during Sprint**
 
+
 <a id="423-sprint-3"></a>
+
 ### **4.2.3. Sprint 3**
 
 <a id="4231-sprint-planning-3"></a>
+
 #### **4.2.3.1. Sprint Planning 3**
 
+
 <a id="4232-sprint-backlog-3"></a>
+
 #### **4.2.3.2. Sprint Backlog 3**
 
+
 <a id="4233-development-evidence-for-sprint-review"></a>
+
 #### **4.2.3.3. Development Evidence for Sprint Review**
 
+
 <a id="4234-testing-suite-evidence-for-sprint-review"></a>
+
 #### **4.2.3.4. Testing Suite Evidence for Sprint Review**
 
+
 <a id="4235-execution-evidence-for-sprint-review"></a>
+
 #### **4.2.3.5. Execution Evidence for Sprint Review**
 
 <a id="4236-services-documentation-evidence-for-sprint-review"></a>
+
 #### **4.2.3.6. Services Documentation Evidence for Sprint Review**
 
+
 <a id="4237-software-deployment-evidence-for-sprint-review"></a>
+
 #### **4.2.3.7. Software Deployment Evidence for Sprint Review**
 
 <a id="4238-team-collaboration-insights-during-sprint"></a>
+
 #### **4.2.3.8. Team Collaboration Insights during Sprint**
 
 <a id="43-validation-interviews"></a>
+
 ## **4.3. Validation Interviews**
 
 Después de avanzar en el desarrollo de la Landing pagey un avance de la API RESTful de SoftFocus, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
 
 <a id="431-diseño-de-entrevistas"></a>
+
 ### **4.3.1. Diseño de Entrevistas**
+
 
 #### 1. ¿Qué crees que ofrece Soft Focus después de ver la página?
 
@@ -4145,34 +4716,50 @@ Después de avanzar en el desarrollo de la Landing pagey un avance de la API RES
 
 
 <a id="432-registro-de-entrevistas"></a>
+
 ### **4.3.2. Registro de Entrevistas**
 
+
 <a id="433-evaluaciones-según-heurísticas"></a>
+
 ### **4.3.3. Evaluaciones según heurísticas**
 
+
 <a id="conclusiones"></a>
+
 # **Conclusiones**
 
+
 <a id="conclusiones-y-recomendaciones"></a>
+
 ## **Conclusiones y recomendaciones**
+
 
 Nuestro startup Psywell, con su producto Soft Focus, ofrece una solución innovadora para mejorar la concentración y el bienestar mental en estudiantes, profesionales y organizaciones. Su propuesta integra tecnología y prácticas de enfoque consciente, convirtiéndose en una herramienta clave para impulsar la productividad sostenible y la gestión saludable de la atención.
 
 
 <a id="video-app-validation"></a>
+
 ## **Video App Validation**
 
 <a id="video-about-the-product"></a>
+
 ## **Video About the product**
 
+
 <a id="video-about-the-team"></a>
+
 ## **Video About the team**
 
+
 <a id="glosario"></a>
+
 # **Glosario**
 
 <a id="bibliografía"></a>
+
 # **Bibliografía**
+
 * Arango Mendoza, E. M., Cayetano Ramos, E. P., Hu Vilchez, S. R., & Ríos Baca, C. A. (2022). Harmony, aplicativo móvil para reducir las brechas de atención en salud mental (Tesis de Maestría, Pontificia Universidad Católica del Perú).PUCP..https://tesis.pucp.edu.pe/items/d082b4ed-6fc1-40e8-b68d-a427055d1212 
 
 * Ministerio de Salud. (2025). Programa presupuestal 0131: Control y prevención en salud mental – Reporte de seguimiento 2025. MINSA.https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjY6Nz0rsqPAxVcLLkGHYyqMYgQFnoECAoQAQ&url=https%3A%2F%2Fwww.mef.gob.pe%2Fcontenidos%2Fpresu_publ%2Fppr%2Fprog_presupuestal%2Farticulados%2F0131_control_prevencion_salud_mental.pdf&usg=AOvVaw2dV69TElJeEM_f695vKy7B&opi=89978449
@@ -4182,7 +4769,9 @@ Nuestro startup Psywell, con su producto Soft Focus, ofrece una solución innova
 * Piazza, M., & Fiestas, F. (2015). Estudio transversal de uso de servicios de salud mental en cinco ciudades del Perú. Salud mental, 38(5), 337-345.https://www.scielo.org.mx/scielo.php?pid=S0185-33252015000500337&script=sci_arttext 
 
 <a id="anexos"></a>
+
 # **Anexos**
+
  
  ## **Product Backlog - Sprints**
 

@@ -3607,8 +3607,9 @@ Este apartado presenta el diseño de la experiencia (UX) y la interfaz de usuari
 
 #### **3.1.4.2. Mobile Applications Wireflow Diagrams**
 
-
 [WireflowDiagrams](https://overflow.io/s/PT6JB80S)
+
+Wireflow Diagrams son representaciones visuales que combinan wireframes y flujos de navegación, mostrando cómo un usuario interactúa con una aplicación móvil y cómo se conecta cada pantalla dentro del flujo de la interfaz. Permiten planificar la experiencia de usuario antes de la implementación.
 
 ### 1. User Goal: REGISTRO Y AUTENTICACIÓN
 
@@ -3966,6 +3967,7 @@ El usuario accede a la sección “Suscripción” desde el perfil o la configur
 
 #### **3.1.4.4. Mobile Applications User Flow Diagrams**
 
+User Flow Diagrams muestran el recorrido completo que sigue un usuario dentro de una aplicación móvil, desde el inicio hasta la realización de acciones específicas, ayudando a entender y optimizar la experiencia de usuario.
 
 [UserflowDiagrams](https://overflow.io/s/ZBJH2UJN)
 

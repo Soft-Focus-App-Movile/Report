@@ -473,6 +473,7 @@ Los costos de no atender este problema son elevados. En términos sociales, la f
 <p align="center">
     <img src="imgs/Grafico1.png" alt="Grafico  1" width="100%">
 </p>
+Figura1 .Cuadro de analisis de transtornos afectivos por porcentaje de personas
 
 <a id="122-lean-ux-process"></a>
 
@@ -564,7 +565,7 @@ Los costos de no atender este problema son elevados. En términos sociales, la f
 <p align="center">
     <img src="imgs/Lean ux canvas.png" alt="Lean UX canvas" width="100%">
 </p>
-
+Grafico 2.Lean ux canvas
 
 <a id="13-segmentos-objetivos"></a>
 
@@ -946,22 +947,28 @@ Ver las entrevistas en Microsoft Stream: https://bit.ly/4nfJbj2
   <img src="imgs/analisis_entrevistas_1.png" width="800">
 </p> 
 
+Grafico 3.Tabla que acceden a psicologos
+
 <p align="center">
   <img src="imgs/analisis_entrevistas_2.png" width="800">
 </p> 
+
+Grafico 4.Tabla respecto a barras de acceso
 
 <p align="center">
   <img src="imgs/analisis_entrevistas_3.png" width="800">
 </p> 
 
+Grafico 5.Tabla de interes a una app de salud mental
+
 <p align="center">
   <img src="imgs/analisis_entrevistas_4.png" width="800">
 </p> 
+Grafico 6.Tabla de prioridades de psicologos
 
 <a id="23-needfinding"></a>
 
 ## **2.3. Needfinding**
-
 
 <a id="231-user-personas"></a>
 

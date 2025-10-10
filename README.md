@@ -4766,6 +4766,10 @@ Nota. Elaboración propia.
 </p>
 **Nota.** Elaboración propia.
 
+**Documentación Swagger:**
+http://98.90.172.251:5000/swagger/index.html
+
+
 <a id="4218-team-collaboration-insights-during-sprint"></a>
 
 #### **4.2.1.8. Team Collaboration Insights during Sprint**
@@ -4896,16 +4900,155 @@ Después de avanzar en el desarrollo de la Landing pagey un avance de la API RES
 
 #### 7. Si la aplicación estuviera disponible hoy, ¿la probarías o recomendarías a alguien? ¿Qué te motivaría a hacerlo?
 
+<br>
 
 <a id="432-registro-de-entrevistas"></a>
 
 ### **4.3.2. Registro de Entrevistas**
 
+### Segmento 1: Usuarios generales (autoayuda y pacientes en terapia)
+
+| Entrevistado 1 | Victor Li  |
+| :---- | :---- |
+| Edad | 19 años |
+| Distrito/Ciudad | Bellavista |
+|  <img src="imgs/entrevista3softfocus.png" alt="PB" width="800"> | Víctor consideró que la landing page comunica claramente el propósito del producto y le parece profesional y atractiva. Destacó la utilidad de los check-ins emocionales y el asistente con IA 24/7, señalando que estas funciones pueden ser de gran ayuda para personas con ansiedad o dificultad para concentrarse. Valoró especialmente que la plataforma sea fácil de usar y de diseño visualmente agradable, acorde con su enfoque en salud mental. Sugirió incorporar una función de notificaciones o rachas (como Duolingo) para fomentar el uso constante. |
+| Timing: 00:05 – 08:53 min | [Entrevista 1 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4) |
+
+| Entrevistado 2 | Santiago |
+| :---- | :---- |
+| Edad | 19 años |
+| Distrito/Ciudad | Cercado de Lima |
+| <img src="imgs/entrevista1softfocus.png" alt="PB" width="800"> | Santiago destacó el diseño limpio, profesional y simple de la landing page, indicando que muestra la información necesaria sin sobrecargar al usuario. Consideró que el propósito del producto es claro desde el inicio y valoró el apartado de funcionalidades, ya que presenta bien las opciones de usuario y psicólogo. Sugirió agregar reseñas o testimonios de usuarios reales para generar mayor confianza. Aunque le parece útil, mencionó que antes de probar la app necesitaría ver más evidencia de su efectividad. |
+| Timing: 08:53 – 14:39 min | [Entrevista 2 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4)  |
+
+| Entrevistado 3 | Santiago |
+| :---- | :---- |
+| Edad | 19 años |
+| Distrito/Ciudad | Lima |
+|  <img src="imgs/entrevista2softfocus.png" alt="PB" width="800">  | Santiago percibió la página como intuitiva y agradable, con un diseño amigable para el usuario. Consideró que el propósito del producto se entiende claramente gracias a la información bien distribuida (visión, misión, funcionalidades). Resaltó como más interesante la interactividad de las cartas de funcionalidades y la posibilidad de asociar psicólogos especializados según cada caso, a partir de la detección de patrones de la IA. Confirmó que usaría y recomendaría la app, pues considera innovadora la idea de un acompañamiento emocional constante. |
+| Timing: 14:40 – 20:30 min | [Entrevista 3 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4) |
+
+
+
+### Segmento 2: Profesionales de la salud mental
+
+| Entrevistado 4 | Alondra Delgado |
+| :---- | :---- |
+| Edad | 24 años |
+| Distrito/Ciudad | Lima |
+| <img src="imgs/entrevista4softfocus.png" alt="PB" width="800">| Alondra, psicóloga y residente de Lima, destacó que Sofocus ofrece una conexión efectiva entre terapeuta y paciente mediante herramientas de seguimiento emocional en tiempo real. Valoró especialmente la funcionalidad de alertas de crisis, considerando que este tipo de apoyo puede marcar una diferencia en la atención psicológica. Mencionó que la plataforma podría reducir el estrés laboral y mejorar la organización de los profesionales, ya que centraliza la información de sus pacientes. Además, calificó el diseño como moderno, profesional y confiable, resaltando el equilibrio visual y la coherencia con el enfoque en salud mental.  |
+| Timing: 20:31 – 30:51 min | [Entrevista 4 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4) |
+
+| Entrevistado 5 | Andrea Salazar |
+| :---- | :---- |
+| Edad | 27 años |
+| Distrito/Ciudad | Arequipa |
+| <img src="imgs/entrevista5softfocus.png" alt="PB" width="800">| Andrea, psicóloga clínica con experiencia en acompañamiento terapéutico, consideró que Sofocus complementa muy bien la atención psicológica tradicional, ofreciendo un espacio digital donde el usuario puede monitorear su estado emocional y acceder a recursos guiados. Resaltó el valor de los check-ins emocionales diarios y las técnicas de autorregulación emocional que fomentan la autonomía del paciente entre sesiones. A nivel visual, apreció la elección de colores suaves y tipografía legible, los cuales transmiten calma y seguridad. Sugirió mantener un enfoque minimalista y accesible, priorizando la simplicidad y claridad de los contenidos.  |
+| Timing: 30:52 – 39:37 min | [Entrevista 5 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4) |
+
+| Entrevistado 6 | Edwyn Lopez |
+| :---- | :---- |
+| Edad | 26 años |
+| Distrito/Ciudad | Lima |
+| <img src="imgs/entrevista6softfocus.png" alt="PB" width="800"> | Edwyn, psicólogo especializado en salud mental comunitaria, percibió Sofocus como una plataforma integral que combina autocuidado personal y apoyo profesional. Destacó la relevancia de contar con un dashboard para psicólogos donde puedan visualizar reportes emocionales y recibir alertas automáticas ante posibles crisis. Consideró que el diseño transmite confianza, serenidad y profesionalismo, lo que refuerza la credibilidad de la aplicación. A nivel funcional, valoró la intervención asistida por IA como una herramienta innovadora para detectar patrones emocionales y personalizar la experiencia de cada usuario. |
+| Timing:39:38 – 44:46 min | [Entrevista 6 Soft Focus.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4) |
 
 <a id="433-evaluaciones-según-heurísticas"></a>
 
 ### **4.3.3. Evaluaciones según heurísticas**
 
+##### SITE o APP A EVALUAR: SoftFocus
+
+##### TAREAS A EVALUAR:
+
+- Exploración y comprensión de la landing page
+
+- Registro y acceso a la plataforma
+
+- Uso del asistente con IA 24/7
+
+- Realización de check-ins emocionales diarios
+
+- Recepción y visualización de alertas de crisis
+
+- Visualización y gestión del dashboard profesional (psicólogos)
+
+- Acceso y navegación entre secciones (home, recursos, reportes)
+
+- Consulta de recursos o técnicas de autorregulación emocional
+
+- Interacción entre usuario y profesional (seguimiento o feedback)
+
+- Visualización de testimonios o evidencia social
+
+
+#### ESCALA DE SEVERIDAD
+
+| Nivel | Descripción                                                                                   |
+| ----- | --------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: fácilmente superado o poco frecuente. No requiere corrección inmediata. |
+| 2     | Problema menor: puede dificultar algo la experiencia. Se recomienda corregir pronto.          |
+| 3     | Problema mayor: frecuente o difícil de superar. Debe corregirse con prioridad.                |
+| 4     | Problema muy grave: impide el uso normal. Requiere solución inmediata.                        |
+
+#### TABLA RESUMEN DE HALLAZGOS HEURISTICOS
+
+| #  | Problema                                                                         | Severidad | Heurística violada                                            |
+| -- | -------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------- |
+| 1 | Falta de recordatorios o notificaciones para mantener la constancia del usuario.                     | 3         | Visibilidad del estado del sistema (Nielsen #1)                      |
+| 2  | Alertas de crisis poco destacadas visualmente en el panel profesional.                                 | 3        | Visibilidad del estado del sistema (Nielsen #1)                 |
+| 3  | Ausencia de testimonios o reseñas en la landing page.          | 2         | Ayuda y documentación / Credibilidad del sistema (Nielsen #10)                |
+| 4  | Interfaz profesional con poca personalización de métricas y reportes.                                  | 2         | Flexibilidad y eficiencia de uso (Nielsen #7)                       |
+| 5  | Falta de acompañamiento inicial (onboarding guiado).           | 2         | Ayuda y documentación (Nielsen #10)                  |
+| 6  | Tamaño y jerarquía visual poco definida en algunos elementos del dashboard.               | 2         | Diseño estético y minimalista (Nielsen #4) |
+
+<br>
+
+#### PROBLEMA #1: Falta de recordatorios o notificaciones para mantener la constancia del usuario <br>
+- Severidad: 3 <br>
+- Heurística violada: Visibilidad del estado del sistema (Nielsen #1) <br>
+- Descripción:
+Durante las entrevistas, Víctor Díaz destacó la ausencia de notificaciones o recordatorios que incentiven al usuario a realizar check-ins emocionales con frecuencia. Esto limita la continuidad del uso y reduce la efectividad del acompañamiento emocional, ya que los usuarios pueden olvidar registrar su estado con regularidad.
+- Recomendación:
+Implementar un sistema de notificaciones automáticas o rachas visuales (tipo Duolingo) que motiven la constancia en el registro emocional.
+
+#### PROBLEMA #2: Alertas de crisis poco destacadas visualmente en el panel profesional
+
+- Severidad: 3 <br>
+- Heurística violada: Visibilidad del estado del sistema (Nielsen #1) <br>
+- Descripción: Alondra Delgado y Edwyn López señalaron que las alertas de crisis deben ser más notorias en el panel de los psicólogos. Si la interfaz no resalta estos avisos con suficiente contraste o jerarquía visual, existe riesgo de que el profesional no perciba una situación urgente a tiempo.
+- Recomendación: Incorporar indicadores visuales y auditivos (colores de advertencia, íconos destacados y alertas sonoras) para priorizar la atención inmediata ante emergencias emocionales.
+
+#### PROBLEMA #3: Ausencia de testimonios o reseñas en la landing page
+
+- Severidad: 2 <br>
+- Heurística violada: Ayuda y documentación / Credibilidad del sistema (Nielsen #10) <br>
+- Descripción: Santiago Suárez y otros entrevistados mencionaron que la landing page no incluye reseñas ni testimonios de usuarios o profesionales. Esto reduce la percepción de confianza, especialmente tratándose de una aplicación orientada a la salud mental, donde la credibilidad es clave.
+- Recomendación: Agregar una sección de testimonios verificados o reseñas de usuarios reales que refuercen la confianza y validen la efectividad del producto.
+
+#### PROBLEMA #4: Interfaz profesional con poca personalización de métricas y reportes
+
+- Severidad: 2 <br>
+- Heurística violada: Flexibilidad y eficiencia de uso (Nielsen #7) <br>
+- Descripción: Eileen López comentó que el panel de control para psicólogos podría permitir mayor personalización. Actualmente, la disposición de los datos es fija y no se adapta al flujo de trabajo de cada profesional, reduciendo la eficiencia y la capacidad de enfoque en los casos prioritarios.
+- Recomendación: Habilitar opciones para reorganizar o filtrar información del dashboard según las necesidades del profesional (por paciente, fecha o nivel de riesgo).
+
+#### PROBLEMA #5: Falta de acompañamiento inicial (onboarding guiado)
+
+- Severidad: 2 <br>
+- Heurística violada: Ayuda y documentación (Nielsen #10) <br>
+- Descripción: Algunos usuarios, como Santiago Cárdenas, mencionaron que sería útil contar con un breve tutorial o recorrido guiado al ingresar por primera vez a la app. Sin una orientación inicial, el usuario puede tardar en entender la funcionalidad de los check-ins o del asistente IA.
+- Recomendación: Incorporar un proceso de onboarding interactivo con mensajes explicativos y ejemplos que presenten las funciones principales del sistema.
+
+#### PROBLEMA #6: Tamaño y jerarquía visual poco definida en algunos elementos del dashboard
+
+- Severidad: 2 <br>
+- Heurística violada: Diseño estético y minimalista (Nielsen #4) <br>
+- Descripción: Andrea Salazar indicó que, aunque el diseño transmite calma, la jerarquía visual del panel podría mejorarse. Algunos elementos, como botones o textos de métricas, no destacan lo suficiente, dificultando la lectura y priorización visual de la información.
+- Recomendación: Ajustar tipografía, contraste y espaciado para establecer una jerarquía visual clara que facilite la interpretación de datos y acciones principales.
+
+<br>
 
 <a id="conclusiones"></a>
 
@@ -4999,3 +5142,5 @@ Entrevistas - Sprint 1: [https://upcedupe-my.sharepoint.com/personal/u202311220_
 Enlace Landing Page: https://soft-focus-61053.web.app/
 
 Enlace - BackEnd: http://98.90.172.251:5000/swagger/index.html
+
+Entrevistas Validacion - TP: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4

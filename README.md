@@ -660,7 +660,7 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 # Competitive analysis landscape
 
 **¿¿Cuál es el análisis de las ventajas y desventajas de las empresas que compiten con nosotros? ¿Cómo nos comparamos en términos de fortalezas y debilidades respecto a ellos? ¿Se vislumbran oportunidades para destacarnos de la competencia y de qué manera podríamos sacar provecho de ellas?**  
-_El propósito de este análisis competitivo es evaluar las ventajas y desventajas de Qualix y su producto Textiflow en comparación con los competidores, con el fin de crear estrategias y diseños que nos permitan competir de manera efectiva en el mercado._
+_El propósito de este análisis competitivo es evaluar las ventajas y desventajas de PsyWell y su producto Textiflow en comparación con los competidores, con el fin de crear estrategias y diseños que nos permitan competir de manera efectiva en el mercado._
 
 |                           | Soft Focus | psiConecta | Momentu | Wysa |
 |---------------------------|------------|--------------|--------------|--------------|
@@ -4659,12 +4659,12 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 Para este primer Sprint, nuestro objetivo principal es desarrollar la **Landing Page de SoftFocus** y desarrollar un avance del **Backend de SoftFocus**. Para lograrlo, hemos creado tareas específicas para cada historia de usuario relacionada con la landing y algunas tecnicas relacionadas con el backend, las hemos asignado entre los integrantes del equipo. Además, para una mejor organización y seguimiento del Backlog, estamos utilizando la herramienta **Trello**  
 
 *Figura* <br>
-*Sprint 1 de TextilFlow*
+*Sprint 1 de SoftFocus*
 <p align="center">
   <img src="imgs/SprintBacklog1.png" alt="PB" width="850">
 </p>
 
-Sprint Backlog 1 en Trello: https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus
+Sprint Backlog 1 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus)
 
 
 | Sprint \# | Sprint 1 |  |  |  |  |  |  |
@@ -4769,7 +4769,7 @@ Enlace Soft Focus BackEnd desplegado: http://98.90.172.251:5000/swagger/index.ht
 
 **Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.**
 
-**Publicamos nuestra landing page como un sitio web a través de GitHub para que sea accesible a todos nuestros usuarios. Primero, creamos una cuenta y un repositorio público "Landing-Page-SoftFocus" dentro de nuestra organización "SoftFocus-App-Movile". Luego, subimos los archivos de la página, activamos GitHub Pages seleccionando la rama "main" desde la configuración del repositorio y verificamos que el sitio estuviera disponible en línea en TextilFlow. Cuando queremos hacer cambios, simplemente actualizamos los archivos y los volvemos a subir.**
+**Publicamos nuestra landing page como un sitio web a través de GitHub para que sea accesible a todos nuestros usuarios. Primero, creamos una cuenta y un repositorio público "Landing-Page-SoftFocus" dentro de nuestra organización "SoftFocus-App-Movile". Luego, subimos los archivos de la página, activamos GitHub Pages seleccionando la rama "main" desde la configuración del repositorio y verificamos que el sitio estuviera disponible en línea en SoftFocus. Cuando queremos hacer cambios, simplemente actualizamos los archivos y los volvemos a subir.**
 
 **Figura**
 *Evidencia de deployment 1*

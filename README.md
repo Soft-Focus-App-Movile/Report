@@ -3461,6 +3461,87 @@ Este apartado presenta el diseño de la experiencia (UX) y la interfaz de usuari
 
    
  * Paciente
+
+    * Inicio/Menú principal  
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Wireframe-Inicio - 1.png" width="30%">
+      <img src="imgs/Wireframe-Inicio - 2.png" width="30%">
+      <img src="imgs/Wireframe-Inicio - 3.png" width="30%">
+      </div>
+      <br>
+    * Notificaciones
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Wireframe-Notificaciones - 1.png" width="30%">
+      <img src="imgs/Wireframe-Notificaciones - 2.png" width="30%">
+      </div>
+      <br>
+    * Crisis/SOS
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Wireframe-SOS - 1.png" width="30%">
+      <img src="imgs/Wireframe-SOS - 2.png" width="30%">
+      <img src="imgs/Wireframe-SOS - 3.png" width="30%">
+      <img src="imgs/Wireframe-SOS - 6.png" width="30%">
+      <img src="imgs/Wireframe-SOS - 7.png" width="30%">
+      <img src="imgs/Wireframe-SOS - 8.png" width="30%">
+      <img src="imgs/Wireframe-SOS - 9.png" width="30%">
+      </div>
+      <br>
+    * Diario
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Wireframe-Diario - 1.png" width="30%">
+      <img src="imgs/Wireframe-Diario - 2.png" width="30%">
+      <img src="imgs/Wireframe-Diario - 3.png" width="30%">
+      </div>
+      <br>
+    * Registro Diario
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Wireframe-Registro Diario - 1.png" width="30%">
+      <img src="imgs/Wireframe-Registro Diario - 2.png" width="30%">
+      <img src="imgs/Wireframe-Registro Diario - 3.png" width="30%">
+      <img src="imgs/Wireframe-Registro Diario - 4.png" width="30%">
+      <img src="imgs/Wireframe-Registro Diario - 7.png" width="30%">
+      <img src="imgs/Wireframe-Registro Diario - 8.png" width="30%">
+      <img src="imgs/Wireframe-Registro Diario - 9.png" width="30%">
+      <img src="imgs/Wireframe-Registro Diario - 10.png" width="30%">
+      <img src="imgs/Wireframe-Registro Diario - 11.png" width="30%">
+      </div>
+      <br>
+    * Mi terapeuta
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Wireframe-Mi Terapeuta - 1.png" width="30%">
+      <img src="imgs/Wireframe-Mi Terapeuta - 2.png" width="30%">
+      <img src="imgs/Wireframe-Mi Terapeuta - 3.png" width="30%">
+      <img src="imgs/Wireframe-Mi Terapeuta - 5.png" width="30%">
+      </div>
+      <br>
+    * Biblioteca
+    <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Wireframe-Biblioteca - 1.png" width="30%">
+      <img src="imgs/Wireframe-Biblioteca - 2.png" width="30%">
+      <img src="imgs/Wireframe-Biblioteca - 3.png" width="30%">
+      <img src="imgs/Wireframe-Biblioteca - 4.png" width="30%">
+      <img src="imgs/Wireframe-Biblioteca - 5.png" width="30%">
+      <img src="imgs/Wireframe-Biblioteca - 6.png" width="30%">
+      <img src="imgs/Wireframe-Biblioteca - 7.png" width="30%">
+      </div>
+      <br>
+    * Mi perfil
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Wireframe-Mi perfil - 1.png" width="30%">
+      <img src="imgs/Wireframe-Mi perfil - 2.png" width="30%">
+      <img src="imgs/Wireframe-Mi perfil - 3.png" width="30%">
+      <img src="imgs/Wireframe-Mi perfil - 4.png" width="30%">
+      </div>
+      <br>
+
  * Psicólogo
 
   * Menú principal y pacientes
@@ -3723,6 +3804,102 @@ El usuario accede a la sección “Suscripción” desde el perfil o la configur
 
    
  * Paciente
+
+    * Inicio/Menú principal  
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Inicio - 1.png" width="30%">
+      <img src="imgs/Inicio - 2.png" width="30%">
+      </div>
+      <br>
+    * Chat IA
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/ChatIA - 1.png" width="30%">
+      <img src="imgs/ChatIA - 2.png" width="30%">
+      <img src="imgs/ChatIA - 3.png" width="30%">
+      </div>
+      <br>
+    * Notificaciones
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Notificaciones - 1.png" width="30%">
+      <img src="imgs/Notificaciones - 2.png" width="30%">
+      </div>
+      <br>
+    * Crisis/SOS
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/SOS - 1.png" width="30%">
+      <img src="imgs/SOS - 2.png" width="30%">
+      <img src="imgs/SOS - 3.png" width="30%">
+      <img src="imgs/SOS - 4.png" width="30%">
+      <img src="imgs/SOS - 5.png" width="30%">
+      <img src="imgs/SOS - 6.png" width="30%">
+      <img src="imgs/SOS - 7.png" width="30%">
+      <img src="imgs/SOS - 8.png" width="30%">
+      <img src="imgs/SOS - 9.png" width="30%">
+      </div>
+      <br>
+    * Diario
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Diario - 1.png" width="30%">
+      <img src="imgs/Diario - 2.png" width="30%">
+      <img src="imgs/Diario - 3.png" width="30%">
+      <img src="imgs/Diario - 4.png" width="30%">
+      <img src="imgs/Diario - 5.png" width="30%">
+      </div>
+      <br>
+    * Registro Diario
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Registro Diario - 1.png" width="30%">
+      <img src="imgs/Registro Diario - 2.png" width="30%">
+      <img src="imgs/Registro Diario - 3.png" width="30%">
+      <img src="imgs/Registro Diario - 4.png" width="30%">
+      <img src="imgs/Registro Diario - 5.png" width="30%">
+      <img src="imgs/Registro Diario - 6.png" width="30%">
+      <img src="imgs/Registro Diario - 7.png" width="30%">
+      <img src="imgs/Registro Diario - 8.png" width="30%">
+      <img src="imgs/Registro Diario - 9.png" width="30%">
+      <img src="imgs/Registro Diario - 10.png" width="30%">
+      </div>
+      <br>
+    * Mi terapeuta
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Mi Terapeuta - 1.png" width="30%">
+      <img src="imgs/Mi Terapeuta - 2.png" width="30%">
+      <img src="imgs/Mi Terapeuta - 3.png" width="30%">
+      <img src="imgs/Mi Terapeuta - 4.png" width="30%">
+      <img src="imgs/Mi Terapeuta - 5.png" width="30%">
+      <img src="imgs/Mi Terapeuta - 6.png" width="30%">
+      </div>
+      <br>
+    * Biblioteca
+    <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Biblioteca - 1.png" width="30%">
+      <img src="imgs/Biblioteca - 2.png" width="30%">
+      <img src="imgs/Biblioteca - 3.png" width="30%">
+      <img src="imgs/Biblioteca - 4.png" width="30%">
+      <img src="imgs/Biblioteca - 5.png" width="30%">
+      <img src="imgs/Biblioteca - 6.png" width="30%">
+      <img src="imgs/Biblioteca - 7.png" width="30%">
+      </div>
+      <br>
+    * Mi perfil
+      <br>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+      <img src="imgs/Mi perfil - 1.png" width="30%">
+      <img src="imgs/Mi perfil - 2.png" width="30%">
+      <img src="imgs/Mi perfil - 3.png" width="30%">
+      <img src="imgs/Mi perfil - 4.png" width="30%">
+      <img src="imgs/Mi perfil - 5.png" width="30%">
+      </div>
+      <br>
+
  * Psicólogo
 
   * Menú principal y pacientes

@@ -660,7 +660,7 @@ Este segmento está conformado por personas que buscan apoyo emocional y herrami
 # Competitive analysis landscape
 
 **¿¿Cuál es el análisis de las ventajas y desventajas de las empresas que compiten con nosotros? ¿Cómo nos comparamos en términos de fortalezas y debilidades respecto a ellos? ¿Se vislumbran oportunidades para destacarnos de la competencia y de qué manera podríamos sacar provecho de ellas?**  
-_El propósito de este análisis competitivo es evaluar las ventajas y desventajas de PsyWell y su producto Textiflow en comparación con los competidores, con el fin de crear estrategias y diseños que nos permitan competir de manera efectiva en el mercado._
+_El propósito de este análisis competitivo es evaluar las ventajas y desventajas de PsyWell y su producto SoftFocus en comparación con los competidores, con el fin de crear estrategias y diseños que nos permitan competir de manera efectiva en el mercado._
 
 |                           | Soft Focus | psiConecta | Momentu | Wysa |
 |---------------------------|------------|--------------|--------------|--------------|

@@ -53,6 +53,7 @@
 | :---- | :---- | :---- | :---- |
 | TB1 | 18/09/2025 | Gutiérrez Condo, Maylhy Olinda <br> Roca Tineo, Steven Mathew <br> Bueno Perales, Mathias Eduardo <br> Luyo Correa, Sandra Paula <br> Solis Santa Cruz, Giancarlo Rafael | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros capítulos del informe y definimos todas las entidades que emplearemsos en Soft Focus. |
 | TP | 11/10/2025 | Gutiérrez Condo, Maylhy Olinda <br> Roca Tineo, Steven Mathew <br> Bueno Perales, Mathias Eduardo <br> Luyo Correa, Sandra Paula <br> Solis Santa Cruz, Giancarlo Rafael | En la entrega parcial del informe de nuestro proyecto, hemos realizado el tercer capitulo del informe y cumplimos con el primer sprint que comprende la landing page y un avance del backend de Soft Focus. |
+| TB2 | 14/11/2025 | Gutiérrez Condo, Maylhy Olinda <br> Roca Tineo, Steven Mathew <br> Bueno Perales, Mathias Eduardo <br> Luyo Correa, Sandra Paula <br> Solis Santa Cruz, Giancarlo Rafael | En la tercera entrega del informe de nuestro proyecto, cumplido con el segundo sprint que comprende la finalizacion total del backend asi como la entrega de la app movil en Android de SoftFocus. |
 
 <hr>
 
@@ -4807,8 +4808,11 @@ http://98.90.172.251:5000/swagger/index.html
   <img src="imgs/commits-landing.png" alt="PB" width="850">
 </p>
 
+<br>
+
 
 <a id="422-sprint-2"></a>
+<br>
 
 ### **4.2.2. Sprint 2**
 
@@ -4817,41 +4821,147 @@ http://98.90.172.251:5000/swagger/index.html
 
 #### **4.2.2.1. Sprint Planning 2**
 
+A continuacion se encuentra el sprint planning orientado a nuestro segundo sprint. En esta sección, vamos a explicar la reunión acorde al sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+| Sprint \# | Sprint 2 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar el segundo Sprint, enfocándonos en el desarrollo de la aplicacion front-end de PsyWell en Android, asi como la version final de nuestro backend desplegado. Durante la reunión: Seleccionamos historias de usuario orientadas al visitante de la plataforma. <br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje.<br> Definimos prioridades y formas de colaboración.  |  |
+| Date | 2025-30-10 |
+| Time | 20:00 PM |
+| Location | Meeting by Discord |
+| Prepared By | Maylhy Gutiérrez Condo and Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz<br> Sandra Paula Luyo Correa |
+| Sprint 1 Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (4 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint 1 Retrospective Summary | Start: Mejorar la comunicación interna.
+Planificar las tareas colectivas con anticipación.
+Stop: Dejar de esperar el último momento para comenzar tareas.
+Continue: Hacer preguntas al Product Owner.
+Realizar reuniones cortas y frecuentes para alinear avances. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 2 Goal | **Nuestro enfoque está en** obtener un producto funcional que cumpla los requerimientos que nos hemos propuesto, permitiendo acceder a el registro de checkins, el accesso a la biblioteca y la interaccion con un psicologo **Creemos que esto ofrece** una visión clara de las funciones esenciales de la aplicación, con acceso directo al checkin, la IA, la biblioteca y el chat entre paciente y psicologo **Esto se confirmará cuando** los usuarios puedan registrarse, iniciar sesión e interactuar con las funciones anteriormente establecidas.
+|
+| Sprint 1 Velocity | 5 |
+| Sum of Story Points | 30 |
 
 <a id="4222-sprint-backlog-2"></a>
+<br>
 
 #### **4.2.2.2. Sprint Backlog 2**
 
 
+Para este segundo Sprint, nuestro objetivo principal es desarrollar la **App Movil en Android de SoftFocus**, ademas de presentar un avance de la **App Movil desarrollada en Flutter** y el **Backend de SoftFocus** completo. Para lograrlo, hemos creado tareas específicas para cada historia de usuario relacionada con la aplicacion y tecnicas relacionadas tanto con el backend como con la app, las hemos asignado entre los integrantes del equipo. Además, para una mejor organización y seguimiento del Backlog, estamos utilizando la herramienta **Trello**  
+
+*Figura* <br>
+*Sprint 2 de SoftFocus*
+<p align="center">
+  <img src="imgs/SprintBacklog2.png" alt="PB" width="850">
+</p>
+
+Sprint Backlog 2 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus)
+
+
+
+
+<br>
+
 <a id="4223-development-evidence-for-sprint-review"></a>
+<br>
 
 #### **4.2.2.3. Development Evidence for Sprint Review**
 
 
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| matthewsrt29/BackEnd-SoftFocus-AppMovile | develop | a2d808b  | feat:users connection |  | 30/10/2025 |
+| matthewsrt29/MobileAppKotlin-SoftFocus-AppMovile | develop | a90660b | feat:ia  screens |  | 31/10/2025 |
+| LucidVoid10/BackEnd-SoftFocus-AppMovile | develop | c8a0805  | feat:fixiing the notification status |  | 05/11/2025 |
+| Ly009463/MobileAppKotlin-SoftFocus-AppMovile | develop | cf89010 | fix:Update of the Library Screen |  | 06/11/2025 |
+| MathiasBueno/MobileAppKotlin-SoftFocus-AppMovile | develop | fc74408 | feat: adding tracking initial configuration |  | 06/11/2025 |
+| LucidVoid10/MobileAppKotlin-SoftFocus-AppMovile | develop | cf708e5 | feat:finish the views of notification |  | 06/11/2025 |
+| MathiasBueno/MobileAppKotlin-SoftFocus-AppMovile | develop | 641831d | feat: first tracking presentation layer configuration|  | 07/11/2025 |
+| matthewsrt29/BackEnd-SoftFocus-AppMovile | develop | b9500c6 | feat: crisis bounded context implementation |  | 08/11/2025 |
+| matthewsrt29/MobileAppKotlin-SoftFocus-AppMovile | develop | 2bf2d0d | feat: pscologist home view |  | 08/11/2025 |
+| Paulu27/BackEnd-SoftFocus-AppMovile | develop | d13be9a | feat: fix therapy/patients |  | 09/11/2025 |
+| Paulu27/MobileAppKotlin-SoftFocus-AppMovile | develop | 8f3c483 | feat: Add patients-psychologist-view |  | 09/11/2025 |
+| Ly009463/MobileAppKotlin-SoftFocus-AppMovile | develop | 439db34 | feat:Add AssignPatientBottomSheet|  | 09/11/2025 |
+| Ly009463/BackEnd-SoftFocus-AppMovile | develop | b428218 | fix:Update Assignment |  | 10/11/2025 |
+| MathiasBueno/MobileAppKotlin-SoftFocus-AppMovile | develop | 6b223a5 | feat: adding dashboard configuration and home update|  | 10/11/2025 |
+| LucidVoid10/MobileAppKotlin-SoftFocus-AppMovile | develop | 307174b | feat: complete the notificacion view |  | 11/11/2025 |
+| Paulu27/MobileAppKotlin-SoftFocus-AppMovile | develop | 961703b | feat: Add last check in data of patient for psychologist |  | 12/11/2025 |
+| MathiasBueno/MobileAppKotlin-SoftFocus-AppMovile | develop | 8ed1486 | fix: adapting symptoms screen |  | 13/11/2025 |
+| Ly009463/BackEnd-SoftFocus-AppMovile | develop | 335dd06 | fix: Update subscription |  | 14/11/2025 |
+| Paulu27/MobileAppKotlin-SoftFocus-AppMovile | develop | 697a0c4 | feat: Fix errors in chat screens |  | 14/11/2025 |
+
+<br>
+
 <a id="4224-testing-suite-evidence-for-sprint-review"></a>
+<br>
 
 #### **4.2.2.4. Testing Suite Evidence for Sprint Review**
 
 
+<br>
+
 <a id="4225-execution-evidence-for-sprint-review"></a>
+<br>
 
 #### **4.2.2.5. Execution Evidence for Sprint Review**
 
+En el sprint 2 alcanzamos un desarrollo completo en nuestro backend asi como en la app movil en Android. A continuación presentamos algunas evidencias:
+
+Enlace Soft Focus BackEnd desplegado en AWS: http://98.90.172.251:5000/swagger/index.html
+
+Enlace Soft Focus App Movil Android: 
+
+<br>
+
 
 <a id="4226-services-documentation-evidence-for-sprint-review"></a>
+<br>
 
 #### **4.2.2.6. Services Documentation Evidence for Sprint Review**
 
 
+<br>
+
 <a id="4227-software-deployment-evidence-for-sprint-review"></a>
+<br>
 
 #### **4.2.2.7. Software Deployment Evidence for Sprint Review**
 
 
+<br>
+
 <a id="4228-team-collaboration-insights-during-sprint"></a>
+<br>
 
 #### **4.2.2.8. Team Collaboration Insights during Sprint**
 
+| Alumno | Actividad |
+|--------|-----------|
+| Steven Mathew Roca Tineo | Implementación de autenticacion, AI, crisis y users context en la aplicacion |
+| Maylhy Olinda Gutierrez Condo | Implementación de library y subscripciones en la aplicacion |
+| Sandra Paula Luyo Correa | Implementación de teraphy context en la aplicacion |
+| Mathias Eduardo Bueno Perales | Implementación de tracking context  en la aplicacion |
+| Giancarlo Rafael Solis Santa Cruz | Implementación de notification context en la aplicacion |
+
+**Commits Backend**
+
+<p align="center">
+  <img src="imgs/commits-backend.png" alt="PB" width="850">
+</p>
+
+<br>
+
+**Commits Frontend-AppMobileKotlin**
+
+<p align="center">
+  <img src="imgs/commits-mobilekotlin.png" alt="PB" width="850">
+</p>
+
+<br>
+
+<br>
 
 <a id="423-sprint-3"></a>
 
@@ -4898,7 +5008,7 @@ http://98.90.172.251:5000/swagger/index.html
 
 ## **4.3. Validation Interviews**
 
-Después de avanzar en el desarrollo de la Landing pagey un avance de la API RESTful de SoftFocus, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
+Después de avanzar en el desarrollo de la Landing page y un avance de la API RESTful de SoftFocus, llevamos a cabo entrevistas de validación. Estas entrevistas permitieron a nuestros usuarios de los segmentos objetivo obtener una primera impresión del software.
 
 <a id="431-diseño-de-entrevistas"></a>
 

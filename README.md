@@ -4911,7 +4911,7 @@ En el sprint 2 alcanzamos un desarrollo completo en nuestro backend asi como en 
 
 Enlace Soft Focus BackEnd desplegado en AWS: http://98.90.172.251:5000/swagger/index.html
 
-Enlace Soft Focus App Movil Android: 
+Enlace Soft Focus App Movil Android: https://appdistribution.firebase.dev/i/9a0e3836f88b3852 
 
 <br>
 
@@ -4921,6 +4921,76 @@ Enlace Soft Focus App Movil Android:
 
 #### **4.2.2.6. Services Documentation Evidence for Sprint Review**
 
+| Servicio | Método HTTP | Endpoint | Descripción | Ejemplo de uso |
+|----------|-------------|----------|-------------|----------------|
+| **AI Chat Management** | POST | `/api/v1/ai/chat/message` | Enviar mensaje al chat de IA | Iniciar conversación con asistente IA |
+| | GET | `/api/v1/ai/chat/usage` | Obtener estadísticas de uso de IA | Revisar consumo de tokens/mensajes |
+| | GET | `/api/v1/ai/chat/sessions` | Obtener sesiones de chat | Listar historial de conversaciones |
+| | GET | `/api/v1/ai/chat/sessions/{sessionId}/messages` | Obtener mensajes de una sesión | Ver conversación específica |
+| **AI Emotion Analysis** | POST | `/api/v1/ai/emotion/analyze` | Analizar emoción facial | Detectar estado emocional del usuario |
+| | GET | `/api/v1/ai/emotion/usage` | Obtener estadísticas de uso de análisis emocional | Revisar uso de detección de emociones |
+| **Assignments Management** | POST | `/api/v1/library/assignments` | Asignar contenido a pacientes | Psicólogo asigna ejercicios/lecturas |
+| | GET | `/api/v1/library/assignments/assigned` | Obtener contenido asignado al paciente | Ver tareas pendientes del paciente |
+| | POST | `/api/v1/library/assignments/assigned/{assignmentId}/complete` | Marcar asignación como completada | Paciente completa tarea asignada |
+| | GET | `/api/v1/library/assignments/by-psychologist` | Obtener asignaciones del psicólogo | Ver todas las tareas que ha asignado |
+| **Auth OAuth** | POST | `/api/v1/auth/register/general` | Registrar usuario general (paciente) | Crear cuenta de paciente |
+| | POST | `/api/v1/auth/register/psychologist` | Registrar psicólogo | Crear cuenta de profesional |
+| | POST | `/api/v1/auth/oauth/verify` | Verificar token OAuth | Validar autenticación con terceros |
+| | POST | `/api/v1/auth/oauth/complete-registration` | Completar registro OAuth | Finalizar registro con OAuth |
+| **Chat Management** | POST | `/api/v1/chat/send` | Enviar mensaje de chat | Enviar mensaje entre psicólogo-paciente |
+| | GET | `/api/v1/chat/history` | Obtener historial de chat | Ver conversaciones previas |
+| | GET | `/api/v1/chat/last-received` | Obtener último mensaje recibido | Ver mensaje más reciente |
+| **Library Management** | GET | `/api/v1/library/{contentId}` | Obtener contenido por ID | Ver detalles de recurso específico |
+| | POST | `/api/v1/library/search` | Buscar contenido en biblioteca | Buscar artículos, videos, ejercicios |
+| **Crisis Management** | POST | `/api/v1/crisis/alert` | Crear alerta de crisis | Paciente solicita ayuda urgente |
+| | GET | `/api/v1/crisis/alerts` | Obtener alertas de crisis del psicólogo | Ver alertas de todos los pacientes |
+| | GET | `/api/v1/crisis/alerts/{id}` | Obtener alerta de crisis por ID | Ver detalles de alerta específica |
+| | PUT | `/api/v1/crisis/alerts/{id}/status` | Actualizar estado de alerta | Marcar alerta como atendida |
+| | PUT | `/api/v1/crisis/alerts/{id}/severity` | Actualizar severidad de alerta | Cambiar nivel de urgencia |
+| | GET | `/api/v1/crisis/alerts/count/pending` | Obtener cantidad de alertas pendientes | Ver número de casos sin atender |
+| **Favorites Management** | GET | `/api/v1/library/favorites` | Obtener favoritos del usuario | Ver contenido guardado |
+| | POST | `/api/v1/library/favorites` | Agregar contenido a favoritos | Guardar recurso útil |
+| | DELETE | `/api/v1/library/favorites/{favoriteId}` | Eliminar contenido de favoritos | Remover recurso guardado |
+| **Notifications Management** | GET | `/api/v1/notifications` | Obtener notificaciones del usuario | Ver todas las notificaciones |
+| | POST | `/api/v1/notifications` | Enviar notificación | Crear nueva notificación |
+| | GET | `/api/v1/notifications/{userId}` | Obtener notificaciones por usuario | Ver notificaciones de usuario específico |
+| | GET | `/api/v1/notifications/detail/{notificationId}` | Obtener notificación por ID | Ver detalles de notificación |
+| | POST | `/api/v1/notifications/{notificationId}/read` | Marcar notificación como leída | Actualizar estado de notificación |
+| | POST | `/api/v1/notifications/read-all` | Marcar todas las notificaciones como leídas | Limpiar todas las notificaciones |
+| | DELETE | `/api/v1/notifications/{notificationId}` | Eliminar notificación | Remover notificación |
+| | GET | `/api/v1/notifications/unread-count` | Obtener contador de no leídas | Ver cantidad de notificaciones pendientes |
+| **Notification Preferences** | GET | `/api/v1/preferences` | Obtener preferencias de notificaciones | Ver configuración de notificaciones |
+| | PUT | `/api/v1/preferences` | Actualizar preferencias de notificaciones | Modificar qué notificaciones recibir |
+| | POST | `/api/v1/preferences/reset` | Restablecer preferencias de notificaciones | Volver a configuración por defecto |
+| **Psychologist Profile** | GET | `/api/v1/users/psychologist/complete` | Obtener perfil completo del psicólogo | Ver toda la información profesional |
+| | GET | `/api/v1/users/psychologist/patient/{id}` | Obtener información del paciente | Ver detalles del paciente asignado |
+| **Recommendations** | GET | `/api/v1/library/recommendations/places` | Obtener recomendaciones de lugares con clima | Sugerir lugares según estado de ánimo y clima |
+| | GET | `/api/v1/library/recommendations/content` | Obtener recomendaciones de contenido personalizadas | Sugerir contenido según perfil del usuario |
+| | GET | `/api/v1/library/recommendations/emotion/{emotion}` | Obtener recomendaciones por emoción | Contenido específico para emoción actual |
+| **Stripe Webhook** | POST | `/api/v1/webhooks/stripe` | Webhook de Stripe | Procesar eventos de pago |
+| **Subscriptions Management** | GET | `/api/v1/subscriptions/me` | Obtener suscripción del usuario | Ver plan actual y estado |
+| | GET | `/api/v1/subscriptions/usage` | Obtener estadísticas de uso | Ver consumo de características |
+| | GET | `/api/v1/subscriptions/check-access/{featureType}` | Verificar acceso a característica | Validar si puede usar función específica |
+| | POST | `/api/v1/subscriptions/upgrade/checkout` | Crear checkout de actualización a Pro | Iniciar proceso de mejora de plan |
+| | POST | `/api/v1/subscriptions/cancel` | Cancelar suscripción | Dar de baja el plan actual |
+| | POST | `/api/v1/subscriptions/track-usage` | Registrar uso de características | Contabilizar uso de funciones |
+| | POST | `/api/v1/subscriptions/initialize` | Inicializar suscripción | Crear suscripción inicial |
+| | POST | `/api/v1/subscriptions/checkout/success` | Manejar checkout exitoso | Procesar pago completado |
+| **Therapy Management** | POST | `/api/v1/therapy/connect` | Establecer relación terapéutica | Conectar paciente con psicólogo |
+| | GET | `/api/v1/therapy/patients` | Obtener directorio de pacientes del psicólogo | Listar todos los pacientes asignados |
+| | GET | `/api/v1/therapy/my-relationship` | Obtener relación activa del paciente | Ver psicólogo asignado |
+| | GET | `/api/v1/therapy/relationship-with/{patientId}` | Obtener relación con paciente específico | Ver detalles de relación terapéutica |
+| | DELETE | `/api/v1/therapy/disconnect/{relationshipId}` | Terminar relación terapéutica | Finalizar conexión psicólogo-paciente |
+| **Check-ins Management** | POST | `/api/v1/tracking/check-ins` | Crear check-in diario | Registrar estado emocional del día |
+| | GET | `/api/v1/tracking/check-ins` | Obtener historial de check-ins del usuario | Ver registro emocional histórico |
+| | GET | `/api/v1/tracking/check-ins/{id}` | Obtener check-in por ID | Ver detalles de registro específico |
+| | GET | `/api/v1/tracking/check-ins/today` | Obtener check-in de hoy | Ver registro del día actual |
+| | GET | `/api/v1/tracking/check-ins/patient/{userId}` | Obtener check-ins del paciente (psicólogo) | Revisar historial emocional del paciente |
+| **Emotional Calendar** | POST | `/api/v1/tracking/emotional-calendar` | Crear entrada en calendario emocional | Registrar emoción en fecha específica |
+| | GET | `/api/v1/tracking/emotional-calendar` | Obtener calendario emocional del usuario | Ver registro mensual de emociones |
+| | GET | `/api/v1/tracking/emotional-calendar/{date}` | Obtener entrada por fecha | Ver emoción de día específico |
+| **Dashboard Tracking** | GET | `/api/v1/tracking/dashboard` | Obtener dashboard de seguimiento | Ver resumen de progreso personal |
+| | GET | `/api/v1/tracking/dashboard/{userId}` | Obtener dashboard del paciente | Ver resumen de progreso del paciente |
 
 <br>
 
@@ -4929,7 +4999,23 @@ Enlace Soft Focus App Movil Android:
 
 #### **4.2.2.7. Software Deployment Evidence for Sprint Review**
 
+Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.**
 
+**Publicamos nuestra aplicación móvil desarrollada en Kotlin a través de Firebase App Distribution mediante un pipeline de CI/CD automatizado con GitHub Actions. Primero, configuramos un proyecto de Firebase y vinculamos nuestra aplicación Android al proyecto "SoftFocus-App-Mobile". Luego, creamos un repositorio en GitHub dentro de nuestra organización "SoftFocus-App-Movile" y configuramos un workflow de GitHub Actions que se ejecuta automáticamente cada vez que realizamos un push a la rama "main". Este workflow compila la aplicación, genera el archivo APK firmado y lo despliega automáticamente en Firebase App Distribution. Los testers y usuarios beta agregados en Firebase reciben notificaciones automáticas sobre las nuevas versiones disponibles para descargar e instalar en sus dispositivos. De esta manera, cada cambio que subimos a la rama principal se despliega de forma automática, agilizando el proceso de distribución y asegurando que siempre tengan acceso a la versión más reciente de la aplicación.
+
+**Figura**
+*Evidencia de deployment 3*
+<p align="center">
+  <img src="imgs/MobileDeployment.png" alt="PB" width="850">
+</p>
+Nota. Elaboración propia.
+
+**Figura**
+*Evidencia de deployment 4*
+<p align="center">
+  <img src="imgs/GithubActions.png" alt="PB" width="850">
+</p>
+Nota. Elaboración propia.
 <br>
 
 <a id="4228-team-collaboration-insights-during-sprint"></a>

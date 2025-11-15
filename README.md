@@ -4945,11 +4945,20 @@ Sprint Backlog 2 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e
 
 #### **4.2.2.5. Execution Evidence for Sprint Review**
 
-En el sprint 2 alcanzamos un desarrollo completo en nuestro backend asi como en la app movil en Android. A continuación presentamos algunas evidencias:
+En esta sección se presenta la Execution Evidence for Sprint Review, donde se resume lo alcanzado durante el Sprint y se muestran las evidencias visuales del avance logrado. Se incluyen capturas de las principales vistas implementadas, acompañadas de un enlace a un video demostrativo que explica la navegación, funcionalidad y nivel de completitud alcanzado en esta iteración. Esta evidencia permite validar el progreso real del producto y verificar que las funcionalidades desarrolladas cumplen con los objetivos planificados para el Sprint 2.
 
-Enlace Soft Focus BackEnd desplegado en AWS: http://98.90.172.251:5000/swagger/index.html
+Enlace Soft Focus BackEnd desplegado en AWS: [http://98.90.172.251:5000/swagger/index.html](http://98.90.172.251:5000/swagger/index.html)  
 
-Enlace Soft Focus App Movil Android: https://appdistribution.firebase.dev/i/9a0e3836f88b3852 
+Enlace Soft Focus App Movil Android: [https://appdistribution.firebase.dev/i/9a0e3836f88b3852](https://appdistribution.firebase.dev/i/9a0e3836f88b3852)  
+
+**Figura**  
+*Screenshot del video para Execution Evidence for Sprint Review*  
+
+<p align="center">
+  <img src="imgs/app-validation.jpg" alt="PB" width="850">
+</p>
+
+*Nota.* Elaboración propia. Obtenido de [https://bit.ly/4r6r8yi](https://bit.ly/4r6r8yi)
 
 <br>
 
@@ -5355,35 +5364,79 @@ Para garantizar el éxito del proyecto en sus siguientes fases, se proponen las 
 ## **Video App Validation**
 <br>
 
+En esta sección se presenta el Video App Validation, donde se documenta el evaluación de la aplicación. Para ello, el equipo empleó Firebase App Distribution, una herramienta que permitió distribuir versiones de Soft Focus como apk y validar su funcionamiento en diversos dispositivos. Esta etapa fue clave para identificar oportunidades de mejora y asegurar que la experiencia de uso responda a las necesidades reales de los usuarios.
+
+**Figura**  
+*Screenshot del video de validación*
+
 <p align="center">
   <img src="imgs/app-validation.jpg" alt="PB" width="850">
 </p>
 
-
-[Link App Validation](https://bit.ly/4r6r8yi)
+*Nota.* Elaboración propia. Obtenido de [Link App Validation](https://bit.ly/4r6r8yi)
 
 <a id="video-about-the-product"></a>
 
 ## **Video About the product**
 <br>
 
+En esta sección se presenta el Video About-the-Product de Soft Focus, un material orientado a los visitantes del Landing Page y a los usuarios de la aplicación que desean comprender de manera rápida y visual el modelo de negocio, las funcionalidades clave y el valor que ofrece nuestra solución. El video resume cómo Soft Focus integra inteligencia artificial, monitoreo emocional en tiempo real y acompañamiento profesional para transformar la experiencia de bienestar mental. A través del testimonio de nuestro equipo, se explica el funcionamiento del producto, su impacto, los elementos innovadores de su tecnología y la propuesta que lo diferencia dentro del ecosistema digital de salud emocional.
+
+**Figura**  
+*Screenshot del Video About the product*
+
 <p align="center">
   <img src="imgs/about-the-product.jpg" alt="PB" width="850">
 </p>
 
 
-[Link Video About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/IQDy9arO63z3SqV5cFbSXYDeAeT4919RCH4eu3wxW1q0Idk?e=lDz4d5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+*Nota.* Elaboración propia. Obtenido de [Link Video About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/IQDy9arO63z3SqV5cFbSXYDeAeT4919RCH4eu3wxW1q0Idk?e=lDz4d5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <a id="video-about-the-team"></a>
 
 ## **Video About the team**
 <br>
 
+En esta sección se presenta el Video About-The-Team, que muestra el proceso de trabajo del equipo mediante imágenes y grabaciones reales, acompañadas de narración sobre las actividades y avances logrados. También se incluye la pauta de secuencias del video con las secciones más importantes. Finalmente, se incorporan los testimonios de cada integrante, quienes describen sus roles, logros y competencias desarrolladas durante el proyecto.
+
+***Testimonio de Giancarlo Rafael Solis Santa Cruz***  
+
+**Inicio - Fin:** 00:00:07 - 00:01:52  
+
+Giancarlo trabajó en diversas técnicas de diseño y análisis como Event Storming, Bounded Context y Context Mapping, que le permitieron fortalecer sus conocimientos en diseño de dominios. Desarrolló diagramas de wireflow y userflow para la aplicación móvil, configuró el entorno de desarrollo y definió convenciones de estilo. Implementó secciones de la landing page y el Notification Context, mejorando sus habilidades en arquitectura de software. Reconoce que debe mejorar su participación en el deployment, ya que tocó poco esa área.
+
+***Testimonio de Maylhy Olinda Gutiérrez Condo***  
+
+**Inicio - Fin:** 00:01:53 - 00:03:26  
+
+Maylhy Gutiérrez Condo contribuyó en la landing page, frontend y especialmente en el backend, trabajando con los filtros de Library y Subscription que muestran contenido de videos, música y películas según el perfil del paciente. Participó activamente en la arquitectura de software colaborando en los diagramas C4 y la documentación del sistema. El equipo trabajó con metodología Scrum de 3 semanas, usando Trello para gestión de tareas y GitHub Actions para deployment automático. Reconoce que le faltó profundizar en testing automático.
+
+***Testimonio de Steven Mathew Roca Tineo***  
+
+**Inicio - Fin:** 00:03:27 - 00:04:59  
+
+Mathew Roca Tineo desarrolló principalmente la parte de GitHub Actions en la landing page y automatizó el despliegue con Firebase. En el backend trabajó en los módulos de Crisis, Autenticación y Usuarios, desplegándolo en AWS EC2 con deployment automático mediante GitHub Actions. En la parte móvil desarrolló Autenticación, Usuarios, las páginas principales del home y parte de los perfiles. Destaca que el equipo trabajó muy bien con buena comunicación y lograron todos los objetivos propuestos.
+
+***Testimonio de Mathias Eduardo Bueno Perales***  
+
+**Inicio - Fin:** 00:05:00 - 00:06:33  
+
+Mathias Eduardo Bueno Perales aportó en varias secciones del informe incluyendo la búsqueda de competidores, findings, definición de user personas y puntos clave de los sprints. Creó secciones de la landing page y desarrolló el Tracking Context tanto para backend como frontend. Considera que deberían mejorar un poco la comunicación del equipo porque a veces se demoraban en iniciar actividades, pero valora que siempre hubo buen trabajo en equipo con distribución equitativa de tareas.
+
+***Testimonio de Sandra Paula Luyo Correa***  
+
+**Inicio - Fin:** 00:06:37 - 00:08:42  
+
+Sandra Paula Luyo Correa trabajó en la creación de user personas, user task matrix, user journey mapping, empathy mapping y definición del ubiquitous language en la primera entrega. En la segunda entrega elaboró wireframes, mockups y prototipos, realizó entrevistas de validación e implementó la sección About de la landing page y el Therapy Context en el backend. En la última entrega implementó el Therapy Context en el frontend para la vista del psicólogo (lista de pacientes, perfiles, gráficos, tareas y chat) y la sección "Mi terapeuta" para pacientes. Identifica que necesita mejorar su planificación y comunicación de problemas técnicos.
+
+**Figura**  
+*Screenshot del Video About the team*
+
 <p align="center">
   <img src="imgs/about-the-team.jpg" alt="PB" width="850">
 </p>
 
-[Link Video About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/IQDL6c0clWboR5RNv3NXPCmEARyRvcLN3zm5oH9v69iODaQ?e=eFxEMt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+*Nota.* Elaboración propia. Obtenido de [Link Video About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/IQDL6c0clWboR5RNv3NXPCmEARyRvcLN3zm5oH9v69iODaQ?e=eFxEMt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <a id="glosario"></a>
 
@@ -5405,27 +5458,20 @@ Para garantizar el éxito del proyecto en sus siguientes fases, se proponen las 
 
 # **Anexos**
 
- 
- ## **Product Backlog - Sprints**
+Product Backlog. [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)  
 
-[https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
+Entrevistas - Sprint 1: [https://bit.ly/4nXiWgY](https://bit.ly/4nXiWgY)  
 
-Entrevistas - Sprint 1: [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20de%20Soft%20Focus%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed147e435%2Daccc%2D4f10%2D94a9%2Dd4fb967c4fe8](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20de%20Soft%20Focus%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed147e435%2Daccc%2D4f10%2D94a9%2Dd4fb967c4fe8)
+Enlace Landing Page: [https://soft-focus-61053.web.app/](https://soft-focus-61053.web.app/)  
 
+Enlace - BackEnd: [http://98.90.172.251:5000/swagger/index.html](http://98.90.172.251:5000/swagger/index.html)  
 
-Enlace Landing Page: https://soft-focus-61053.web.app/
+Enlace - Mobile Aplication Kotlin : [https://appdistribution.firebase.dev/i/9a0e3836f88b3852](https://appdistribution.firebase.dev/i/9a0e3836f88b3852)  
 
-Enlace - BackEnd: http://98.90.172.251:5000/swagger/index.html
+Entrevistas Validacion - TB1: [https://bit.ly/3LH9Ya3](https://bit.ly/3LH9Ya3)  
 
-Enlace - Mobile Aplication Kotlin : https://appdistribution.firebase.dev/i/9a0e3836f88b3852
+Video About-The-Product: [https://bit.ly/3JQlY8M](https://bit.ly/3JQlY8M)  
 
-Entrevistas Validacion - TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4
+Video App-Validation: [https://bit.ly/4r6r8yi](https://bit.ly/4r6r8yi)   
 
-Enlace-TB1(video): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EXkrPOOXzNNAgswHfp_xiXIB2kk023Gvq6QxG6deDjoLFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dfn9aN
-
-
-Video About-The-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/IQDy9arO63z3SqV5cFbSXYDeAeT4919RCH4eu3wxW1q0Idk?e=lDz4d5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-Video App-Validation: https://bit.ly/4r6r8yi
-
-Video About-The-Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/IQDL6c0clWboR5RNv3NXPCmEARyRvcLN3zm5oH9v69iODaQ?e=eFxEMt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video About-The-Team: [https://acortarurl.es/FAsnj0](https://acortarurl.es/FAsnj0)  

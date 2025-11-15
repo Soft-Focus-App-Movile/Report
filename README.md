@@ -4860,6 +4860,34 @@ Para este segundo Sprint, nuestro objetivo principal es desarrollar la **App Mov
 Sprint Backlog 2 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus)
 
 
+| Sprint # | Sprint 2 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| US14 | Realizar check-in diario | T1 | Endpoint de creación de check-in | Implementar POST /api/v1/tracking/check-ins en backend | 3 | Mathias | Done |
+| US14 | Realizar check-in diario | T2 | Endpoint de obtención de check-in del día | Implementar GET /api/v1/tracking/check-ins/today en backend | 2 | Mathias | Done |
+| US14 | Realizar check-in diario | T3 | Pantalla de check-in diario | Implementar interfaz de registro de estado emocional | 4 | Mathias | Done |
+| US14 | Realizar check-in diario | T4 | Integración con API de check-ins | Conectar pantalla con endpoints de tracking | 3 | Mathias | Done |
+| US20 | Activar botón de crisis | T1 | Endpoint de creación de alerta de crisis | Implementar POST /api/v1/crisis/alert en backend | 3 | Mathew | Done |
+| US20 | Activar botón de crisis | T2 | Endpoint de detalle de alerta | Implementar GET /api/v1/crisis/alerts/{id} en backend | 2 | Mathew | Done |
+| US20 | Activar botón de crisis | T3 | Pantalla de botón de crisis | Implementar interfaz de activación de emergencia | 3 | Mathew | Done |
+| US20 | Activar botón de crisis | T4 | Integración con API de crisis | Conectar con endpoint de creación de alertas | 2 | Mathew | Done |
+| US22 | Conectarse con psicólogo mediante código | T1 | Endpoint de conexión terapéutica | Implementar POST /api/v1/therapy/connect en backend | 3 | Paula | Done |
+| US22 | Conectarse con psicólogo mediante código | T2 | Endpoint de relación activa del paciente | Implementar GET /api/v1/therapy/my-relationship en backend | 2 | Paula | Done |
+| US22 | Conectarse con psicólogo mediante código | T3 | Pantalla de ingreso de código | Implementar interfaz de conexión terapéutica | 3 | Paula | Done |
+| US22 | Conectarse con psicólogo mediante código | T4 | Integración con API de therapy | Conectar con endpoint de conexión | 2 | Paula | Done |
+| US23 | Generar código de invitación | T1 | Pantalla de generación de código | Implementar interfaz de código de invitación | 3 | Paula | Done |
+| US23 | Generar código de invitación | T2 | Integración con API de psicólogo | Conectar con endpoints de código | 2 | Paula | Done |
+| US28 | Recibir alertas de crisis | T1 | Endpoint de obtención de alertas | Implementar GET /api/v1/crisis/alerts en backend | 2 | Giancarlo | Done |
+| US28 | Recibir alertas de crisis | T2 | Endpoint de actualización de estado | Implementar PUT /api/v1/crisis/alerts/{id}/status en backend | 2 | Giancarlo | Done |
+| US28 | Recibir alertas de crisis | T3 | Pantalla de alertas de crisis | Implementar interfaz de gestión de alertas | 4 | Giancarlo | Done |
+| US28 | Recibir alertas de crisis | T4 | Integración con API de alertas | Conectar con endpoints de crisis | 3 | Giancarlo | Done |
+| US36 | Usar calendario emocional | T1 | Pantalla de calendario emocional | Implementar interfaz de registro en calendario | 4 | Mathias | Done |
+| US36 | Usar calendario emocional | T2 | Integración con API de calendario | Conectar con endpoints de emotional-calendar | 3 | Mathias | Done |
+| US39 | Upgradar a plan premium | T1 | Endpoint de checkout de upgrade | Implementar POST /api/v1/subscriptions/upgrade/checkout en backend | 3 | Maylhy | Done |
+| US39 | Upgradar a plan premium | T2 | Endpoint de verificación de acceso | Implementar GET /api/v1/subscriptions/check-access/{featureType} en backend | 2 | Maylhy | Done |
+| US39 | Upgradar a plan premium | T3 | Pantalla de planes y upgrade | Implementar interfaz de actualización de suscripción | 4 | Maylhy | Done |
+| US39 | Upgradar a plan premium | T4 | Integración con API de subscriptions | Conectar con endpoints de suscripciones | 3 | Maylhy | Done |
 
 
 <br>

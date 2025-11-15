@@ -5272,6 +5272,8 @@ Enlace Landing Page: https://soft-focus-61053.web.app/
 
 Enlace - BackEnd: http://98.90.172.251:5000/swagger/index.html
 
+Enlace - Mobile Aplication Kotlin : https://appdistribution.firebase.dev/i/9a0e3836f88b3852
+
 Entrevistas Validacion - TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4
 
 Enlace-TB1(video): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EXkrPOOXzNNAgswHfp_xiXIB2kk023Gvq6QxG6deDjoLFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dfn9aN

@@ -5353,16 +5353,37 @@ Para garantizar el éxito del proyecto en sus siguientes fases, se proponen las 
 <a id="video-app-validation"></a>
 
 ## **Video App Validation**
+<br>
+
+<p align="center">
+  <img src="imgs/app-validation.jpg" alt="PB" width="850">
+</p>
+
+
+[Link App Validation](https://bit.ly/4r6r8yi)
 
 <a id="video-about-the-product"></a>
 
 ## **Video About the product**
+<br>
 
+<p align="center">
+  <img src="imgs/about-the-product.jpg" alt="PB" width="850">
+</p>
+
+
+[Link Video About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/IQDy9arO63z3SqV5cFbSXYDeAeT4919RCH4eu3wxW1q0Idk?e=lDz4d5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <a id="video-about-the-team"></a>
 
 ## **Video About the team**
+<br>
 
+<p align="center">
+  <img src="imgs/about-the-team.jpg" alt="PB" width="850">
+</p>
+
+[Link Video About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/IQDL6c0clWboR5RNv3NXPCmEARyRvcLN3zm5oH9v69iODaQ?e=eFxEMt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <a id="glosario"></a>
 
@@ -5401,3 +5422,10 @@ Enlace - Mobile Aplication Kotlin : https://appdistribution.firebase.dev/i/9a0e3
 Entrevistas Validacion - TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4
 
 Enlace-TB1(video): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EXkrPOOXzNNAgswHfp_xiXIB2kk023Gvq6QxG6deDjoLFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dfn9aN
+
+
+Video About-The-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/IQDy9arO63z3SqV5cFbSXYDeAeT4919RCH4eu3wxW1q0Idk?e=lDz4d5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video App-Validation: https://bit.ly/4r6r8yi
+
+Video About-The-Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/IQDL6c0clWboR5RNv3NXPCmEARyRvcLN3zm5oH9v69iODaQ?e=eFxEMt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D

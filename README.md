@@ -1,48 +1,32 @@
-<h1 align="center"><strong>Informe del Trabajo Final</strong></h1>
-<h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h3>
-
 <p align="center">
     <img src="imgs/UPC.png" alt="Logo UPC" width="50%">
 </p>
+<h2 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h2>
 
-<h4 align="center"><strong>Ingeniería de Software</strong></h4>
-<h4 align="center"><strong>Aplicaciones para Dispositivos Móviles - 1795</strong></h4>
-<h4 align="center"><strong>Docente:</strong> Jorge Luis Mayta Guillermo</h4>
-<h4 align="center"><strong>Startup:</strong> PsyWell</h4>
-<h4 align="center"><strong>Product:</strong> Soft Focus</h4>
+<h3 align="center"><strong>Ingeniería de Software</strong></h3>
+<h4 align="center">Periodo: 202520</h4>
+<h4 align="center">1ACC0238 | Aplicaciones para Dispositivos Móviles</h4>
+<h4 align="center">NRC: 1795</h4>
+<h4 align="center">Docente: Jorge Luis Mayta Guillermo</h4>
 
-<p align="center"><strong>Team members:</strong></p>
+<hr>
 
-<table align="center"; style="width: 100%; border-collapse: collapse; margin: 0 auto;">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px; text-align: center;">Nombre</th>
-    <th style="border: 1px solid black; padding: 8px; text-align: center;">Código</th>
-  </tr>
-  </tr>
-    <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Bueno Perales,Mathias Eduardo</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202313433</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Gutiérrez Condo, Maylhy Olinda </td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311220</td>
-  </tr>
-  </tr>
-    <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Luyo Correa, Sandra Paula</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202314513</td>
-  </tr>  
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Roca Tineo,Steven Mathew </td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311361</td>
-  </tr>
-    <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Solis Santa Cruz, Giancarlo Rafael</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202318615</td>
-  </tr>
-</table>
+<h2 align="center"><strong>Informe del Trabajo Final</strong></h2>
 
-<h3 align="center"><strong>Ciclo 2025-20</strong></h3>
+<h4 align="center">Startup: PsyWell</h4>
+<h4 align="center">Product: Soft Focus</h4>
+
+<br>
+
+<h4 align="center">U202313433 - Bueno Perales, Mathias Eduardo</h4>
+<h4 align="center">U202311220 - Gutiérrez Condo, Maylhy Olinda</h4>
+<h4 align="center">U202314513 - Luyo Correa, Sandra Paula</h4>
+<h4 align="center">U202311361 - Roca Tineo,Steven Mathew</h4>
+<h4 align="center">U202318615 - Solis Santa Cruz, Giancarlo Rafael</h4>
+
+<br>
+
+<h4 align="center"><i>Noviembre 2025</i></h4>
 
 <hr>
 

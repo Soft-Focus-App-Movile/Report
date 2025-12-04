@@ -5088,15 +5088,68 @@ Nota. Elaboración propia.
 
 #### **4.2.3.1. Sprint Planning 3**
 
+A continuacion se encuentra el sprint planning orientado a nuestro tercer sprint. En esta sección, vamos a explicar la reunión acorde al sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+<br>
+
+| Sprint \# | Sprint 3 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar el tercer Sprint, enfocándonos en el desarrollo de la aplicacion front-end de PsyWell en Flutter. Durante la reunión: Seleccionamos historias de usuario orientadas al visitante de la plataforma. <br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje.<br> Definimos prioridades y formas de colaboración.  |  |
+| Date | 2025-19-11 |
+| Time | 19:00 PM |
+| Location | Meeting by Discord |
+| Prepared By | Maylhy Gutiérrez Condo and Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz<br> Sandra Paula Luyo Correa |
+| Sprint 2 Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (3 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint 2 Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 3 Goal | **Nuestro enfoque está en** obtener un producto funcional que cumpla los requerimientos que nos hemos propuesto, permitiendo acceder a el registro de checkins, el accesso a la biblioteca y la interaccion entre paciente y psicologo **Creemos que esto ofrece** una visión clara de las funciones esenciales de la aplicación, con acceso directo al checkin, la IA, la biblioteca y el chat entre paciente y psicologo **Esto se confirmará cuando** los usuarios puedan registrarse, iniciar sesión e interactuar con las funciones anteriormente establecidas. |
+| Sprint 3 Velocity | 5 |
+| Sum of Story Points | 30 |
+
+
 
 <a id="4232-sprint-backlog-3"></a>
 
 #### **4.2.3.2. Sprint Backlog 3**
 
+Para este tercer Sprint, nuestro objetivo principal es desarrollar la **App Movil en Flutter de SoftFocus** al completo. Para lograrlo, hemos creado tareas específicas para cada historia de usuario relacionada con la aplicacion y tecnicas relacionadas tanto con el backend como con la app, las hemos asignado entre los integrantes del equipo. Además, para una mejor organización y seguimiento del Backlog, estamos utilizando la herramienta **Trello**  
+
+*Figura* <br>
+*Sprint 3 de SoftFocus*
+<p align="center">
+  <img src="imgs/SprintBacklog3.png" alt="PB" width="850">
+</p>
+
+Sprint Backlog 3 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus)
+
+
+
 
 <a id="4233-development-evidence-for-sprint-review"></a>
 
 #### **4.2.3.3. Development Evidence for Sprint Review**
+
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | 9165b65  | Initial commit of Flutter project login and register |  | 10/11/2025 |
+| MathiasBueno/Soft-Focus-App-Movile/MobileAppFlutter | develop | aa76005 | feat:adding tracking data and domain layer |  | 28/11/2025 |
+| LucidVoid10/Soft-Focus-App-Movile/MobileAppFlutter | develop | 27e7f8d6  | feat:creating the notification context and entities |  | 29/11/2025 |
+| LucidVoid10/Soft-Focus-App-Movile/MobileAppFlutter | develop | 99a91e6  | feat:adding blocs,widgets and pages to the notifiaction context |  | 29/11/2025 |
+| Ly009463/Soft-Focus-App-Movile/MobileAppFlutter | develop | f524914 | feat:Add feature Library |  | 30/11/2025 |
+| MathiasBueno/Soft-Focus-App-Movile/MobileAppFlutter | develop | 81fc52b | feat:adding first presentation layer config |  | 01/12/2025 |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | 81a3926 | ai services and conection service |  | 01/12/2025 |
+| Paulu27/Soft-Focus-App-Movile/MobileAppFlutter | develop | 8508adc | feat: Add therapy and chat endpoints |  | 01/12/2025 |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | d538027 | feat: bottom menus |  | 02/12/2025 |
+| MathiasBueno/Soft-Focus-App-Movile/MobileAppFlutter | develop | c2a95da | feat:first tracking presentation screens version |  | 03/12/2025 |
+| Ly009463/Soft-Focus-App-Movile/MobileAppFlutter | develop | cb3578d | feat: add library bloc and content mapper |  | 03/12/2025 |
+| Ly009463/Soft-Focus-App-Movile/MobileAppFlutter | develop | e62f18d | fix: correct rating and duration types in content DTO |  | 03/12/2025 |
+| MathiasBueno/Soft-Focus-App-Movile/MobileAppFlutter | develop | f878a86 | fix: fixing tracking presentation layer |  | 03/12/2025 |
+| Paulu27/Soft-Focus-App-Movile/MobileAppFlutter | develop | 9dc24dc | feat: Add patient list for psychologist |  | 03/12/2025 |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | 8731098 | feat: pscologist profiles |  | 03/12/2025 |
+| LucidVoid10/Soft-Focus-App-Movile/MobileAppFlutter | develop | 1bc9d41  | feat:Adding and fixing the part of preference in Notifications |  | 04/12/2025 |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | c212f27 | feat: deploy configuration |  | 04/12/2025 |
+
 
 
 <a id="4234-testing-suite-evidence-for-sprint-review"></a>
@@ -5112,6 +5165,7 @@ Nota. Elaboración propia.
 
 #### **4.2.3.6. Services Documentation Evidence for Sprint Review**
 
+Para esta entrega, no se crearon nuevos servicios en nuestro backend.
 
 <a id="4237-software-deployment-evidence-for-sprint-review"></a>
 
@@ -5120,6 +5174,26 @@ Nota. Elaboración propia.
 <a id="4238-team-collaboration-insights-during-sprint"></a>
 
 #### **4.2.3.8. Team Collaboration Insights during Sprint**
+
+| Alumno | Actividad |
+|--------|-----------|
+| Steven Mathew Roca Tineo | Implementación de autenticacion, AI, crisis y users context en la aplicacion Flutter |
+| Maylhy Olinda Gutierrez Condo | Implementación de library y subscripciones en la aplicacion Flutter |
+| Sandra Paula Luyo Correa | Implementación de teraphy context en la aplicacion Flutter |
+| Mathias Eduardo Bueno Perales | Implementación de tracking context  en la aplicacion Flutter |
+| Giancarlo Rafael Solis Santa Cruz | Implementación de notification context en la aplicacion Flutter |
+
+<br>
+
+**Commits Frontend-AppMobileFlutter**
+
+<p align="center">
+  <img src="imgs/commits-mobileflutter.png" alt="PB" width="850">
+</p>
+
+<br>
+
+<br>
 
 <a id="43-validation-interviews"></a>
 

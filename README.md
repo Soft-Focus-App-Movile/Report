@@ -5168,6 +5168,8 @@ Sprint Backlog 3 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e
 
 #### **4.2.3.5. Execution Evidence for Sprint Review**
 
+
+
 <a id="4236-services-documentation-evidence-for-sprint-review"></a>
 
 #### **4.2.3.6. Services Documentation Evidence for Sprint Review**
@@ -5177,6 +5179,18 @@ Para esta entrega, no se crearon nuevos servicios en nuestro backend.
 <a id="4237-software-deployment-evidence-for-sprint-review"></a>
 
 #### **4.2.3.7. Software Deployment Evidence for Sprint Review**
+
+Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.
+
+Publicamos nuestra aplicación móvil desarrollada en Flutter a través de Firebase App Distribution mediante un pipeline de CI/CD automatizado con GitHub Actions. Primero, configuramos un proyecto de Firebase y vinculamos nuestra aplicación Android al proyecto "SoftFocus-App-Mobile". Luego, creamos un repositorio en GitHub dentro de nuestra organización "SoftFocus-App-Movile" y configuramos un workflow de GitHub Actions que se ejecuta automáticamente cada vez que realizamos un push a la rama "main". Este workflow compila la aplicación, genera el archivo APK firmado y lo despliega automáticamente en Firebase App Distribution. Los testers y usuarios beta agregados en Firebase reciben notificaciones automáticas sobre las nuevas versiones disponibles para descargar e instalar en sus dispositivos. De esta manera, cada cambio que subimos a la rama principal se despliega de forma automática, agilizando el proceso de distribución y asegurando que siempre tengan acceso a la versión más reciente de la aplicación.
+
+**Figura**
+*Evidencia de deployment 3*
+<p align="center">
+  <img src="imgs/DEPLOYMENTSPRINT3.jpg" alt="PB" width="850">
+</p>
+Nota. Elaboración propia.
+
 
 <a id="4238-team-collaboration-insights-during-sprint"></a>
 

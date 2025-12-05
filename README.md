@@ -5129,30 +5129,30 @@ Sprint Backlog 3 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | User Story |  | Work Item/Task |  |  |  |  |  |
 | Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
-| US24 | Chatear con pacientes | T1 | Pantalla de lista de chats | Implementar interfaz de conversaciones con pacientes | 4 | Paula | To-do |
-| US24 | Chatear con pacientes | T2 | Pantalla de chat individual | Implementar interfaz de mensajería en tiempo real | 5 | Paula | To-do |
-| US24 | Chatear con pacientes | T3 | Integración con servicios de chat | Conectar pantallas con funcionalidad de mensajería | 3 | Paula | To-do |
-| US25 | Ver lista básica de pacientes | T1 | Pantalla de lista de pacientes | Implementar interfaz de visualización de pacientes | 4 | Giancarlo | To-do |
-| US25 | Ver lista básica de pacientes | T2 | Integración con datos de pacientes | Conectar con funcionalidad de obtención de pacientes | 2 | Giancarlo | To-do |
-| US26 | Ver perfil básico de paciente | T1 | Pantalla de detalle de paciente | Implementar interfaz de información del paciente | 4 | Giancarlo | To-do |
-| US26 | Ver perfil básico de paciente | T2 | Integración con perfil de paciente | Conectar con funcionalidad de detalle | 2 | Giancarlo | To-do |
-| US27 | Asignar ejercicios y recursos | T1 | Pantalla de asignación de recursos | Implementar interfaz de selección y asignación | 5 | Maylhy | To-do |
-| US27 | Asignar ejercicios y recursos | T2 | Integración con biblioteca de recursos | Conectar con funcionalidad de asignación | 3 | Maylhy | To-do |
-| US29 | Acceder a biblioteca de ejercicios | T1 | Pantalla de biblioteca de ejercicios | Implementar interfaz de exploración de ejercicios | 4 | Maylhy | To-do |
-| US29 | Acceder a biblioteca de ejercicios | T2 | Integración con contenido de ejercicios | Conectar con funcionalidad de biblioteca | 3 | Maylhy | To-do |
-| US30 | Realizar ejercicios guiados | T1 | Pantalla de ejercicio guiado | Implementar interfaz de seguimiento paso a paso | 5 | Maylhy | To-do |
-| US30 | Realizar ejercicios guiados | T2 | Integración con ejercicios | Conectar con funcionalidad de ejercicios guiados | 3 | Maylhy | To-do |
-| US31 | Ver contenido asignado por terapeuta | T1 | Pantalla de recursos asignados | Implementar interfaz de visualización de contenido | 3 | Mathew | To-do |
-| US31 | Ver contenido asignado por terapeuta | T2 | Integración con recursos del terapeuta | Conectar con funcionalidad de contenido asignado | 2 | Mathew | To-do |
-| US15 | Ver historial de estados emocionales | T1 | Pantalla de historial emocional | Implementar interfaz de visualización de progreso | 4 | Mathias | To-do |
-| US15 | Ver historial de estados emocionales | T2 | Gráficos de evolución emocional | Implementar visualización de datos en gráficos | 4 | Mathias | To-do |
-| US15 | Ver historial de estados emocionales | T3 | Integración con datos de tracking | Conectar con funcionalidad de historial | 3 | Mathias | To-do |
-| US16 | Configurar recordatorios de check-in | T1 | Pantalla de configuración de recordatorios | Implementar interfaz de personalización de alertas | 3 | Mathias | To-do |
-| US16 | Configurar recordatorios de check-in | T2 | Integración con sistema de notificaciones | Conectar con funcionalidad de recordatorios | 2 | Mathias | To-do |
-| US37 | Recibir notificaciones push | T1 | Configuración de notificaciones push | Implementar sistema de notificaciones en la app | 4 | Giancarlo | To-do |
-| US37 | Recibir notificaciones push | T2 | Integración con servicio de notificaciones | Conectar con funcionalidad de push notifications | 3 | Giancarlo | To-do |
-| US38 | Configurar preferencias de notificaciones | T1 | Pantalla de configuración de notificaciones | Implementar interfaz de personalización de alertas | 3 | Giancarlo | To-do |
-| US38 | Configurar preferencias de notificaciones | T2 | Integración con preferencias de usuario | Conectar con funcionalidad de configuración | 2 | Giancarlo | To-do |
+| US24 | Chatear con pacientes | T1 | Pantalla de lista de chats | Implementar interfaz de conversaciones con pacientes | 4 | Paula | Done |
+| US24 | Chatear con pacientes | T2 | Pantalla de chat individual | Implementar interfaz de mensajería en tiempo real | 5 | Paula | Done |
+| US24 | Chatear con pacientes | T3 | Integración con servicios de chat | Conectar pantallas con funcionalidad de mensajería | 3 | Paula | Done |
+| US25 | Ver lista básica de pacientes | T1 | Pantalla de lista de pacientes | Implementar interfaz de visualización de pacientes | 4 | Giancarlo | Done |
+| US25 | Ver lista básica de pacientes | T2 | Integración con datos de pacientes | Conectar con funcionalidad de obtención de pacientes | 2 | Giancarlo | Done |
+| US26 | Ver perfil básico de paciente | T1 | Pantalla de detalle de paciente | Implementar interfaz de información del paciente | 4 | Giancarlo | Done |
+| US26 | Ver perfil básico de paciente | T2 | Integración con perfil de paciente | Conectar con funcionalidad de detalle | 2 | Giancarlo | Done |
+| US27 | Asignar ejercicios y recursos | T1 | Pantalla de asignación de recursos | Implementar interfaz de selección y asignación | 5 | Maylhy | Done |
+| US27 | Asignar ejercicios y recursos | T2 | Integración con biblioteca de recursos | Conectar con funcionalidad de asignación | 3 | Maylhy | Done |
+| US29 | Acceder a biblioteca de ejercicios | T1 | Pantalla de biblioteca de ejercicios | Implementar interfaz de exploración de ejercicios | 4 | Maylhy | Done |
+| US29 | Acceder a biblioteca de ejercicios | T2 | Integración con contenido de ejercicios | Conectar con funcionalidad de biblioteca | 3 | Maylhy | Done |
+| US30 | Realizar ejercicios guiados | T1 | Pantalla de ejercicio guiado | Implementar interfaz de seguimiento paso a paso | 5 | Maylhy | Done |
+| US30 | Realizar ejercicios guiados | T2 | Integración con ejercicios | Conectar con funcionalidad de ejercicios guiados | 3 | Maylhy | Done |
+| US31 | Ver contenido asignado por terapeuta | T1 | Pantalla de recursos asignados | Implementar interfaz de visualización de contenido | 3 | Mathew | Done |
+| US31 | Ver contenido asignado por terapeuta | T2 | Integración con recursos del terapeuta | Conectar con funcionalidad de contenido asignado | 2 | Mathew | Done |
+| US15 | Ver historial de estados emocionales | T1 | Pantalla de historial emocional | Implementar interfaz de visualización de progreso | 4 | Mathias | Done |
+| US15 | Ver historial de estados emocionales | T2 | Gráficos de evolución emocional | Implementar visualización de datos en gráficos | 4 | Mathias | Done |
+| US15 | Ver historial de estados emocionales | T3 | Integración con datos de tracking | Conectar con funcionalidad de historial | 3 | Mathias | Done |
+| US16 | Configurar recordatorios de check-in | T1 | Pantalla de configuración de recordatorios | Implementar interfaz de personalización de alertas | 3 | Mathias | Done |
+| US16 | Configurar recordatorios de check-in | T2 | Integración con sistema de notificaciones | Conectar con funcionalidad de recordatorios | 2 | Mathias | Done |
+| US37 | Recibir notificaciones push | T1 | Configuración de notificaciones push | Implementar sistema de notificaciones en la app | 4 | Giancarlo | Done |
+| US37 | Recibir notificaciones push | T2 | Integración con servicio de notificaciones | Conectar con funcionalidad de push notifications | 3 | Giancarlo | Done |
+| US38 | Configurar preferencias de notificaciones | T1 | Pantalla de configuración de notificaciones | Implementar interfaz de personalización de alertas | 3 | Giancarlo | Done |
+| US38 | Configurar preferencias de notificaciones | T2 | Integración con preferencias de usuario | Conectar con funcionalidad de configuración | 2 | Giancarlo | Done |
 
 <a id="4233-development-evidence-for-sprint-review"></a>
 

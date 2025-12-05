@@ -1,48 +1,32 @@
-<h1 align="center"><strong>Informe del Trabajo Final</strong></h1>
-<h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h3>
-
 <p align="center">
     <img src="imgs/UPC.png" alt="Logo UPC" width="50%">
 </p>
+<h2 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h2>
 
-<h4 align="center"><strong>Ingeniería de Software</strong></h4>
-<h4 align="center"><strong>Aplicaciones para Dispositivos Móviles - 1795</strong></h4>
-<h4 align="center"><strong>Docente:</strong> Jorge Luis Mayta Guillermo</h4>
-<h4 align="center"><strong>Startup:</strong> PsyWell</h4>
-<h4 align="center"><strong>Product:</strong> Soft Focus</h4>
+<h3 align="center"><strong>Ingeniería de Software</strong></h3>
+<h4 align="center">Periodo: 202520</h4>
+<h4 align="center">1ACC0238 | Aplicaciones para Dispositivos Móviles</h4>
+<h4 align="center">NRC: 1795</h4>
+<h4 align="center">Docente: Jorge Luis Mayta Guillermo</h4>
 
-<p align="center"><strong>Team members:</strong></p>
+<hr>
 
-<table align="center"; style="width: 100%; border-collapse: collapse; margin: 0 auto;">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px; text-align: center;">Nombre</th>
-    <th style="border: 1px solid black; padding: 8px; text-align: center;">Código</th>
-  </tr>
-  </tr>
-    <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Bueno Perales,Mathias Eduardo</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202313433</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Gutiérrez Condo, Maylhy Olinda </td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311220</td>
-  </tr>
-  </tr>
-    <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Luyo Correa, Sandra Paula</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202314513</td>
-  </tr>  
-  <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Roca Tineo,Steven Mathew </td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311361</td>
-  </tr>
-    <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Solis Santa Cruz, Giancarlo Rafael</td>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">U202318615</td>
-  </tr>
-</table>
+<h2 align="center"><strong>Informe del Trabajo Final</strong></h2>
 
-<h3 align="center"><strong>Ciclo 2025-20</strong></h3>
+<h4 align="center">Startup: PsyWell</h4>
+<h4 align="center">Product: Soft Focus</h4>
+
+<br>
+
+<h4 align="center">U202313433 - Bueno Perales, Mathias Eduardo</h4>
+<h4 align="center">U202311220 - Gutiérrez Condo, Maylhy Olinda</h4>
+<h4 align="center">U202314513 - Luyo Correa, Sandra Paula</h4>
+<h4 align="center">U202311361 - Roca Tineo,Steven Mathew</h4>
+<h4 align="center">U202318615 - Solis Santa Cruz, Giancarlo Rafael</h4>
+
+<br>
+
+<h4 align="center"><i>Noviembre 2025</i></h4>
 
 <hr>
 
@@ -54,6 +38,7 @@
 | TB1 | 18/09/2025 | Gutiérrez Condo, Maylhy Olinda <br> Roca Tineo, Steven Mathew <br> Bueno Perales, Mathias Eduardo <br> Luyo Correa, Sandra Paula <br> Solis Santa Cruz, Giancarlo Rafael | En la primera entrega del informe de nuestro proyecto, hemos realizado los primeros capítulos del informe y definimos todas las entidades que emplearemsos en Soft Focus. |
 | TP | 11/10/2025 | Gutiérrez Condo, Maylhy Olinda <br> Roca Tineo, Steven Mathew <br> Bueno Perales, Mathias Eduardo <br> Luyo Correa, Sandra Paula <br> Solis Santa Cruz, Giancarlo Rafael | En la entrega parcial del informe de nuestro proyecto, hemos realizado el tercer capitulo del informe y cumplimos con el primer sprint que comprende la landing page y un avance del backend de Soft Focus. |
 | TB2 | 14/11/2025 | Gutiérrez Condo, Maylhy Olinda <br> Roca Tineo, Steven Mathew <br> Bueno Perales, Mathias Eduardo <br> Luyo Correa, Sandra Paula <br> Solis Santa Cruz, Giancarlo Rafael | En la tercera entrega del informe de nuestro proyecto, cumplido con el segundo sprint que comprende la finalizacion total del backend asi como la entrega de la app movil en Android de SoftFocus. |
+| TF | 05/12/2025 | Gutiérrez Condo, Maylhy Olinda <br> Roca Tineo, Steven Mathew <br> Bueno Perales, Mathias Eduardo <br> Luyo Correa, Sandra Paula <br> Solis Santa Cruz, Giancarlo Rafael | En la ultima entrega del informe de nuestro proyecto, cumplido con el tercer sprint que comprende la entrega de la app movil en Flutter de SoftFocus. |
 
 <hr>
 
@@ -374,8 +359,8 @@ En Ingeniería de Software, un Student Outcome representa las capacidades, conoc
 
 | Criterio específico | Acciones realizadas  | Conclusiones  |
 | :---- | :---- | :---- |
-| **Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.**<br>  | <br>**TB1:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> Al elaborar la descripción de la startup, aplicar Lean UX (Problem Statements, Assumptions e Hypothesis Statements) y diseñar diferentes niveles de diagramas de arquitectura y dominio, actualicé y reforcé mis conocimientos en metodologías ágiles y en diseño de software. Estas actividades me permitieron integrar conceptos teóricos con prácticas aplicadas, fortaleciendo mi desarrollo profesional y aportando valor a mi proyecto en soluciones de software con una base más sólida y actualizada. <br>**Roca Tineo,Steven Mathew**<br> La elaboración de User Stories, el diseño del Product Backlog y la aplicación de Domain-Driven Design en sus distintos niveles (Domain, Interface, Application e Infrastructure), junto con el diagrama de base de datos por Bounded Context, me permitió actualizar y consolidar conocimientos en gestión ágil y arquitectura de software. Estas prácticas fortalecen mi desarrollo profesional y aportan al proyecto bases técnicas y metodológicas más sólidas para el diseño de soluciones de software efectivas y escalables.<br>**Bueno Perales,Mathias Eduardo**<br> Al desarrollar el análisis competitivo, diseñar y registrar entrevistas, así como evaluar estrategias frente a competidores, actualicé y fortalecí mis conocimientos en investigación de mercado y gestión de información. Estas actividades me permitieron aplicar conceptos clave para el desarrollo profesional y aportar insumos valiosos al proyecto de soluciones de software, asegurando que las decisiones se basen en información actualizada y relevante. <br>**Luyo Correa, Sandra Paula**<br> La elaboración de User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y la definición de un Ubiquitous Language me permitió actualizar y reforzar conceptos clave en diseño centrado en el usuario y comunicación dentro del desarrollo de software. Estas actividades fortalecen mi crecimiento profesional y aportan al proyecto una visión más clara, coherente y alineada con las necesidades reales de los usuarios. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La realización de actividades como EventStorming, Candidate Context Discovery, Domain Message Flows Modeling, Bounded Context Canvases, Context Mapping, Lean UX Canvas y el análisis de antecedentes y problemática W-H me permitió actualizar y fortalecer conocimientos en diseño de dominios, modelado de procesos y metodologías ágiles. Estas prácticas contribuyen a mi desarrollo profesional y aportan bases más sólidas y actualizadas para el avance de mi proyecto en soluciones de software. <br> <br>**TP:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> El desarrollo del diseño UI de la landing page y las aplicaciones móviles, incluyendo wireframes, mock-ups y prototipos, junto con la implementación de la sección features y el uso de nuevas librerías, me permitió actualizar y reforzar mis conocimientos en diseño de interfaces, experiencia de usuario y desarrollo front-end. Estas actividades fortalecen mi crecimiento profesional y aportan al proyecto una base más sólida y actualizada en soluciones de software orientadas a la usabilidad y la innovación. <br>**Roca Tineo,Steven Mathew**<br> La elaboración de guías de estilo, la definición de la arquitectura de información, la configuración del entorno de desarrollo y despliegue, junto con la implementación de la sección main de la landing page y los contextos de autenticación, IA y usuarios, me permitió actualizar y fortalecer mis conocimientos en diseño de interfaces, estructuración de sistemas y desarrollo de software. Estas actividades contribuyen significativamente a mi desarrollo profesional y aportan al proyecto una base técnica más sólida, moderna y alineada con las mejores prácticas en soluciones de software. <br>**Bueno Perales, Mathias Eduardo**<br> Durante la planificación y ejecución del sprint, la documentación de evidencias, las pruebas y la colaboración en equipo, además de la implementación de la sección FAQ de la landing page y el tracking context, pude reforzar y actualizar mis conocimientos en metodologías ágiles, control de versiones y desarrollo orientado a componentes. Estas experiencias fortalecieron mi desarrollo profesional, permitiéndome aplicar prácticas actualizadas que contribuyen al crecimiento técnico y a la mejora continua del proyecto en soluciones de software. <br>**Luyo Correa, Sandra Paula**<br> El desarrollo de wireframes, mock-ups y prototipos para la aplicación móvil, junto con la realización de entrevistas de validación y la implementación de la sección About de la landing page y del teraphy context, me permitió actualizar mis conocimientos en diseño UX/UI, validación de usuarios y desarrollo de interfaces dinámicas. Estas experiencias fortalecieron mi formación profesional, impulsando la aplicación de conceptos actuales que enriquecen la calidad y efectividad del proyecto en soluciones de software. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La creación de diagramas de wireflow y user flow para la aplicación móvil, junto con la configuración del entorno de desarrollo, la gestión del código fuente y la definición de convenciones de estilo, además de la implementación de la sección Planes de la landing page y el notification context, me permitió actualizar mis conocimientos en arquitectura de software, control de versiones y diseño de experiencia de usuario. Estas actividades fortalecieron mi desarrollo profesional, aportando habilidades técnicas y metodológicas clave para el avance y la calidad del proyecto en soluciones de software. <br><br>**TB2:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La implementación de nuevas librerías y del sistema de suscripciones en la aplicación me permitió actualizar conceptos y profundizar en herramientas clave para el desarrollo moderno de software. Este proceso fortaleció mis conocimientos técnicos y metodológicos, aportando aprendizaje valioso que impulsa tanto mi crecimiento profesional como la calidad y evolución del proyecto en soluciones de software. <br>**Roca Tineo,Steven Mathew**<br> La implementación de los contextos de autenticación, IA, crisis y usuarios en la aplicación móvil me permitió actualizar conocimientos clave sobre gestión de estados, seguridad y uso de tecnologías avanzadas. Estas tareas impulsaron el fortalecimiento de mis habilidades técnicas y ampliaron mi comprensión de arquitecturas modernas, aportando aprendizajes esenciales para mi desarrollo profesional y para mejorar la calidad del proyecto en soluciones de software. <br>**Bueno Perales, Mathias Eduardo**<br> La implementación del tracking context en la aplicación móvil me permitió actualizar y profundizar mis conocimientos sobre gestión de estados, monitoreo de datos y arquitectura de aplicaciones modernas. Este trabajo reforzó mi comprensión de prácticas actuales en desarrollo de software, aportando aprendizajes valiosos para mi crecimiento profesional y para fortalecer la calidad y evolución del proyecto que estoy construyendo. <br>**Luyo Correa, Sandra Paula**<br> La implementación del teraphy context en la aplicación móvil me permitió actualizar y consolidar conocimientos relacionados con la gestión de estados, organización lógica del sistema y buenas prácticas en arquitectura móvil. Este proceso fortaleció mis competencias técnicas y aportó nuevos aprendizajes que contribuyen directamente a mi desarrollo profesional y al avance del proyecto en soluciones de software con mayor solidez y eficiencia. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La implementación del notification context en la aplicación móvil me permitió actualizar mis conocimientos sobre gestión de notificaciones, control de estados y diseño orientado a componentes. Este proceso reforzó mi comprensión de prácticas modernas en desarrollo móvil y aportó nuevos aprendizajes que contribuyen tanto a mi crecimiento profesional como a la solidez y mejora continua del proyecto en soluciones de software. |<br>**TB1:**<br> Los integrantes demostramos ser capaces de actualizar conceptos que son necesarios para nuestro desarrollo en un ambito profesional y encontramos soluciones de software para cumplir el objetivo.  <br>**TP:**<br> Todos los integrantes demostramos capacidad de mantener al dia los conceptos clave para el desarrollo profesional, al realizar landing page y backend aplicamos nuestro conocimiento en soluciones de software. <br>**TB2:**<br> Durante el desarrollo de nuestra aplicacion movil en Android actualizamos conceptos que fueron necesarios para un buen desarrollo ordenado del proyecto, encontrando soluciones a los problemas que se pudiesen presentar. | 
-| **Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.**<br>  | <br>**TB1:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La elaboración de la descripción de la startup, la aplicación de Lean UX y el diseño de diversos diagramas de arquitectura y dominio me permitió comprender que el aprendizaje permanente es esencial para el desempeño profesional. Estas actividades evidencian la necesidad de actualizar y profundizar constantemente en metodologías ágiles y arquitecturas de software, con el fin de garantizar el desarrollo de proyectos sólidos, escalables y alineados a las demandas actuales del sector tecnológico. <br>**Roca Tineo,Steven Mathew**<br> La elaboración de User Stories, el Product Backlog y la aplicación de Domain-Driven Design en sus diferentes capas, junto con el diseño de la base de datos en un Bounded Context, me permitió reconocer la necesidad del aprendizaje permanente para fortalecer mi desempeño profesional. Estas actividades muestran que la actualización continua en metodologías ágiles y en arquitectura de software es esencial para garantizar el desarrollo exitoso y sostenible de proyectos en soluciones de software. <br>**Bueno Perales,Mathias Eduardo**<br> La realización del análisis competitivo, el diseño y registro de entrevistas, así como la definición de estrategias frente a competidores, me permitió reconocer la importancia del aprendizaje permanente. Estas actividades impulsaron la adquisición de nuevos conocimientos y habilidades que fortalecen mi desempeño profesional y contribuyen al desarrollo de proyectos en soluciones de software con una visión más informada y estratégica. <br>**Luyo Correa, Sandra Paula**<br> La realización de User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y la definición de un Ubiquitous Language me permitió reconocer que el aprendizaje permanente es fundamental para mejorar el desempeño profesional. Estas actividades demuestran la importancia de adquirir y actualizar continuamente conocimientos en metodologías de diseño centrado en el usuario y comunicación efectiva, asegurando así el desarrollo exitoso de proyectos en soluciones de software. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La aplicación de técnicas como EventStorming, Candidate Context Discovery, Domain Message Flows Modeling, Bounded Context Canvases, Context Mapping, Lean UX Canvas y el análisis de antecedentes y problemática W-H me permitió reconocer la importancia del aprendizaje permanente. Estas actividades evidencian que la actualización constante en metodologías de diseño y arquitectura de software es esencial para mejorar mi desempeño profesional y asegurar el desarrollo exitoso de proyectos en soluciones de software. <br> <br>**TP:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La elaboración de wireframes, mock-ups y prototipos tanto para la landing page como para las aplicaciones móviles, junto con la implementación de la sección features y el uso de nuevas librerías, me permitió reconocer la importancia del aprendizaje permanente. Estas actividades evidencian que la mejora continua en diseño UX/UI y desarrollo front-end es esencial para mantener la calidad, innovación y competitividad en proyectos de soluciones de software. <br>**Roca Tineo,Steven Mathew**<br> La elaboración de guías de estilo, la definición de la arquitectura de información, la configuración del entorno de desarrollo y despliegue, así como la implementación de la sección main de la landing page y los contextos de autenticación, IA y usuarios, me permitió reconocer la importancia del aprendizaje permanente. Estas experiencias demostraron que la actualización constante en diseño, arquitectura y desarrollo de software es esencial para mantener un desempeño profesional eficiente y garantizar la calidad e innovación en los proyectos de soluciones tecnológicas. <br>**Bueno Perales,Mathias Eduardo**<br> A lo largo del sprint, al participar en la planificación, documentación de evidencias, pruebas, despliegue y trabajo colaborativo, además de implementar la sección FAQ de la landing page y el tracking context, comprendí que el aprendizaje permanente es esencial para mantener un desempeño profesional competitivo. Cada etapa del proceso me permitió identificar nuevas herramientas y enfoques que fortalecen mis capacidades y aportan valor al desarrollo continuo de proyectos en soluciones de software. <br>**Luyo Correa, Sandra Paula**<br> Al elaborar los wireframes, mock-ups y prototipos de la aplicación móvil, realizar entrevistas de validación e implementar la sección About de la landing page junto al teraphy context, comprendí la importancia del aprendizaje continuo para mantener un desempeño profesional efectivo. Cada una de estas tareas evidenció que la actualización constante en diseño, validación de usuarios y desarrollo de software es clave para adaptarse a nuevas tecnologías y garantizar la calidad en los proyectos de soluciones digitales. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> Durante la elaboración de los diagramas wireflow y user flow de la aplicación móvil, la gestión del código fuente, la definición de guías de estilo y la implementación de la sección Planes de la landing page junto al notification context, comprendí que el aprendizaje permanente es fundamental para el desarrollo profesional. Cada una de estas tareas me permitió identificar nuevas herramientas, prácticas y enfoques que fortalecen mis capacidades técnicas y favorecen la evolución constante en el desarrollo de proyectos de software. <br> <br>**TB2:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La implementación de nuevas librerías y del sistema de suscripciones en la aplicación móvil me permitió evidenciar la importancia del aprendizaje continuo en el ámbito del desarrollo de software. Cada reto técnico enfrentado reforzó la necesidad de actualizarme constantemente para adaptarme a nuevas herramientas y buenas prácticas, asegurando así un desempeño profesional sólido y el avance sostenido de los proyectos tecnológicos. <br>**Roca Tineo,Steven Mathew**<br> Al desarrollar los contextos de autenticación, IA, crisis y usuarios en la aplicación móvil, pude reconocer que el aprendizaje permanente es indispensable para enfrentar los desafíos técnicos del desarrollo de software. La complejidad de estas implementaciones mostró la importancia de mantenerse actualizado en nuevas herramientas, buenas prácticas y enfoques arquitectónicos, lo cual es esencial tanto para mi crecimiento profesional como para el éxito continuo de los proyectos tecnológicos. <br>**Bueno Perales, Mathias Eduardo**<br> La implementación del tracking context en la aplicación móvil me permitió comprender aún más la importancia del aprendizaje continuo en el desarrollo de software. Enfrentar nuevos retos técnicos y adaptarme a patrones de arquitectura más avanzados evidenció que actualizarse constantemente es esencial para mejorar mi desempeño profesional y asegurar el crecimiento sostenido de los proyectos tecnológicos. <br>**Luyo Correa, Sandra Paula**<br> La implementación del teraphy context en la aplicación móvil me permitió comprender nuevamente que el aprendizaje permanente es esencial en el campo del desarrollo de software. Al enfrentar nuevos desafíos técnicos y explorar enfoques más adecuados para la gestión de estados, confirmé la importancia de seguir actualizando mis conocimientos para mejorar mi desempeño profesional y asegurar la evolución y calidad de los proyectos tecnológicos en los que participo. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La implementación del notification context en la aplicación móvil no solo fortaleció la arquitectura del proyecto, sino que también evidenció la importancia del aprendizaje continuo dentro del ámbito del desarrollo de software. Al enfrentar nuevas herramientas, patrones y flujos de manejo de estados, quedó claro que mantenerse en formación permanente es esencial para adaptarse a las necesidades cambiantes de los proyectos y garantizar soluciones efectivas y escalables. |<br>**TB1:**<br> Los integrantes mostramos gran capacidad de aprendizaje para mejorar nuestro desarrollo del proyecto en soluciones de software.  <br>**TP:**<br> Tuvimos capacidad de aprendizaje de nuestras previas observaciones y mejoramos nuestro trabajo, manteniendo un orden que nos deja entregar un buen producto de software. <br>**TB2:**<br> Al desarrollar esta entrega y desarrollar la aplicacion en Android hemos demostrado nuestra capacidad de aprendizaje permantente y el desarrollo ordenado de un proyecto de software. |
+| **Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.**<br>  | <br>**TB1:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> Al elaborar la descripción de la startup, aplicar Lean UX (Problem Statements, Assumptions e Hypothesis Statements) y diseñar diferentes niveles de diagramas de arquitectura y dominio, actualicé y reforcé mis conocimientos en metodologías ágiles y en diseño de software. Estas actividades me permitieron integrar conceptos teóricos con prácticas aplicadas, fortaleciendo mi desarrollo profesional y aportando valor a mi proyecto en soluciones de software con una base más sólida y actualizada. <br>**Roca Tineo,Steven Mathew**<br> La elaboración de User Stories, el diseño del Product Backlog y la aplicación de Domain-Driven Design en sus distintos niveles (Domain, Interface, Application e Infrastructure), junto con el diagrama de base de datos por Bounded Context, me permitió actualizar y consolidar conocimientos en gestión ágil y arquitectura de software. Estas prácticas fortalecen mi desarrollo profesional y aportan al proyecto bases técnicas y metodológicas más sólidas para el diseño de soluciones de software efectivas y escalables.<br>**Bueno Perales,Mathias Eduardo**<br> Al desarrollar el análisis competitivo, diseñar y registrar entrevistas, así como evaluar estrategias frente a competidores, actualicé y fortalecí mis conocimientos en investigación de mercado y gestión de información. Estas actividades me permitieron aplicar conceptos clave para el desarrollo profesional y aportar insumos valiosos al proyecto de soluciones de software, asegurando que las decisiones se basen en información actualizada y relevante. <br>**Luyo Correa, Sandra Paula**<br> La elaboración de User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y la definición de un Ubiquitous Language me permitió actualizar y reforzar conceptos clave en diseño centrado en el usuario y comunicación dentro del desarrollo de software. Estas actividades fortalecen mi crecimiento profesional y aportan al proyecto una visión más clara, coherente y alineada con las necesidades reales de los usuarios. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La realización de actividades como EventStorming, Candidate Context Discovery, Domain Message Flows Modeling, Bounded Context Canvases, Context Mapping, Lean UX Canvas y el análisis de antecedentes y problemática W-H me permitió actualizar y fortalecer conocimientos en diseño de dominios, modelado de procesos y metodologías ágiles. Estas prácticas contribuyen a mi desarrollo profesional y aportan bases más sólidas y actualizadas para el avance de mi proyecto en soluciones de software. <br> <br>**TP:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> El desarrollo del diseño UI de la landing page y las aplicaciones móviles, incluyendo wireframes, mock-ups y prototipos, junto con la implementación de la sección features y el uso de nuevas librerías, me permitió actualizar y reforzar mis conocimientos en diseño de interfaces, experiencia de usuario y desarrollo front-end. Estas actividades fortalecen mi crecimiento profesional y aportan al proyecto una base más sólida y actualizada en soluciones de software orientadas a la usabilidad y la innovación. <br>**Roca Tineo,Steven Mathew**<br> La elaboración de guías de estilo, la definición de la arquitectura de información, la configuración del entorno de desarrollo y despliegue, junto con la implementación de la sección main de la landing page y los contextos de autenticación, IA y usuarios, me permitió actualizar y fortalecer mis conocimientos en diseño de interfaces, estructuración de sistemas y desarrollo de software. Estas actividades contribuyen significativamente a mi desarrollo profesional y aportan al proyecto una base técnica más sólida, moderna y alineada con las mejores prácticas en soluciones de software. <br>**Bueno Perales, Mathias Eduardo**<br> Durante la planificación y ejecución del sprint, la documentación de evidencias, las pruebas y la colaboración en equipo, además de la implementación de la sección FAQ de la landing page y el tracking context, pude reforzar y actualizar mis conocimientos en metodologías ágiles, control de versiones y desarrollo orientado a componentes. Estas experiencias fortalecieron mi desarrollo profesional, permitiéndome aplicar prácticas actualizadas que contribuyen al crecimiento técnico y a la mejora continua del proyecto en soluciones de software. <br>**Luyo Correa, Sandra Paula**<br> El desarrollo de wireframes, mock-ups y prototipos para la aplicación móvil, junto con la realización de entrevistas de validación y la implementación de la sección About de la landing page y del teraphy context, me permitió actualizar mis conocimientos en diseño UX/UI, validación de usuarios y desarrollo de interfaces dinámicas. Estas experiencias fortalecieron mi formación profesional, impulsando la aplicación de conceptos actuales que enriquecen la calidad y efectividad del proyecto en soluciones de software. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La creación de diagramas de wireflow y user flow para la aplicación móvil, junto con la configuración del entorno de desarrollo, la gestión del código fuente y la definición de convenciones de estilo, además de la implementación de la sección Planes de la landing page y el notification context, me permitió actualizar mis conocimientos en arquitectura de software, control de versiones y diseño de experiencia de usuario. Estas actividades fortalecieron mi desarrollo profesional, aportando habilidades técnicas y metodológicas clave para el avance y la calidad del proyecto en soluciones de software. <br><br>**TB2:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La implementación de nuevas librerías y del sistema de suscripciones en la aplicación me permitió actualizar conceptos y profundizar en herramientas clave para el desarrollo moderno de software. Este proceso fortaleció mis conocimientos técnicos y metodológicos, aportando aprendizaje valioso que impulsa tanto mi crecimiento profesional como la calidad y evolución del proyecto en soluciones de software. <br>**Roca Tineo,Steven Mathew**<br> La implementación de los contextos de autenticación, IA, crisis y usuarios en la aplicación móvil me permitió actualizar conocimientos clave sobre gestión de estados, seguridad y uso de tecnologías avanzadas. Estas tareas impulsaron el fortalecimiento de mis habilidades técnicas y ampliaron mi comprensión de arquitecturas modernas, aportando aprendizajes esenciales para mi desarrollo profesional y para mejorar la calidad del proyecto en soluciones de software. <br>**Bueno Perales, Mathias Eduardo**<br> La implementación del tracking context en la aplicación móvil me permitió actualizar y profundizar mis conocimientos sobre gestión de estados, monitoreo de datos y arquitectura de aplicaciones modernas. Este trabajo reforzó mi comprensión de prácticas actuales en desarrollo de software, aportando aprendizajes valiosos para mi crecimiento profesional y para fortalecer la calidad y evolución del proyecto que estoy construyendo. <br>**Luyo Correa, Sandra Paula**<br> La implementación del teraphy context en la aplicación móvil me permitió actualizar y consolidar conocimientos relacionados con la gestión de estados, organización lógica del sistema y buenas prácticas en arquitectura móvil. Este proceso fortaleció mis competencias técnicas y aportó nuevos aprendizajes que contribuyen directamente a mi desarrollo profesional y al avance del proyecto en soluciones de software con mayor solidez y eficiencia. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La implementación del notification context en la aplicación móvil me permitió actualizar mis conocimientos sobre gestión de notificaciones, control de estados y diseño orientado a componentes. Este proceso reforzó mi comprensión de prácticas modernas en desarrollo móvil y aportó nuevos aprendizajes que contribuyen tanto a mi crecimiento profesional como a la solidez y mejora continua del proyecto en soluciones de software. <br>**TF:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La implementación de nuevas librerías y del sistema de suscripciones en Flutter me permitió actualizar conceptos clave del ecosistema móvil moderno, profundizando en la integración de servicios, manejo de estados y modelos de negocio digitales. Este proceso fortaleció mis competencias técnicas y metodológicas, especialmente al adaptar estas funcionalidades para mejorar la experiencia del psicólogo dentro de la aplicación, asegurando un flujo más eficiente y profesional. Los aprendizajes obtenidos contribuyen tanto a mi crecimiento como al progreso del proyecto en soluciones de software orientadas al ámbito psicológico. <br>**Roca Tineo,Steven Mathew**<br> La implementación de los contextos de autenticación, IA, crisis y usuarios en Flutter me permitió reforzar conocimientos esenciales sobre gestión de estados, seguridad, uso de servicios avanzados y organización modular de una aplicación móvil. Integrar estos componentes con enfoque en el psicólogo permitió optimizar procesos como la validación de identidad, el uso de herramientas de apoyo basadas en IA y la atención a situaciones críticas. Esta experiencia consolidó mis habilidades técnicas y amplió mi comprensión de arquitecturas modernas, aportando aprendizajes valiosos para mejorar la calidad e impacto del proyecto en el ámbito psicológico. <br>**Bueno Perales, Mathias Eduardo**<br> La implementación del tracking context en Flutter me permitió profundizar en técnicas modernas de gestión de estados, monitoreo de datos en tiempo real y estructuración lógica en aplicaciones móviles. Este trabajo fue especialmente relevante para fortalecer las herramientas dirigidas al psicólogo, brindándole un control más claro sobre el seguimiento de sus pacientes y actividades. La experiencia adquirida reforzó mis conocimientos en desarrollo móvil y aportó aprendizajes significativos para la evolución del proyecto y para mi desarrollo como profesional en soluciones de software. <br>**Luyo Correa, Sandra Paula**<br> La implementación del therapy context en Flutter me permitió consolidar conocimientos sobre la gestión de estados, organización estructural del sistema y buenas prácticas en la arquitectura de aplicaciones móviles. Adaptar este módulo a las necesidades del psicólogo fue clave para garantizar una administración clara y eficiente de las sesiones, registros y procesos terapéuticos. Este trabajo fortaleció mis capacidades técnicas y añadió aprendizajes importantes que impulsan tanto mi desarrollo profesional como la solidez funcional del proyecto centrado en apoyo psicológico. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La implementación del notification context en Flutter me permitió profundizar en el manejo de notificaciones, control de estados y diseño orientado a componentes dentro de una arquitectura móvil moderna. Ajustar este sistema para las necesidades del psicólogo, asegurando comunicación oportuna con pacientes y recordatorios relevantes, amplió mi entendimiento sobre la importancia de la interacción efectiva en entornos clínicos digitales. Los conocimientos adquiridos fortalecieron mi crecimiento técnico y contribuyeron significativamente a la mejora continua del proyecto orientado a soluciones para profesionales de la psicología. |<br>**TB1:**<br> Los integrantes demostramos ser capaces de actualizar conceptos que son necesarios para nuestro desarrollo en un ambito profesional y encontramos soluciones de software para cumplir el objetivo.  <br>**TP:**<br> Todos los integrantes demostramos capacidad de mantener al dia los conceptos clave para el desarrollo profesional, al realizar landing page y backend aplicamos nuestro conocimiento en soluciones de software. <br>**TB2:**<br> Durante el desarrollo de nuestra aplicacion movil en Android actualizamos conceptos que fueron necesarios para un buen desarrollo ordenado del proyecto, encontrando soluciones a los problemas que se pudiesen presentar. <br>**TF:**<br> Al culminar el desarrollo de nuestra aplicacion movil en Flutter, terminamos de adquirir conceptos para adaptar la aplicacion y resolviendo todo inconveniente para terminar el proyecto. | 
+| **Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.**<br>  | <br>**TB1:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La elaboración de la descripción de la startup, la aplicación de Lean UX y el diseño de diversos diagramas de arquitectura y dominio me permitió comprender que el aprendizaje permanente es esencial para el desempeño profesional. Estas actividades evidencian la necesidad de actualizar y profundizar constantemente en metodologías ágiles y arquitecturas de software, con el fin de garantizar el desarrollo de proyectos sólidos, escalables y alineados a las demandas actuales del sector tecnológico. <br>**Roca Tineo,Steven Mathew**<br> La elaboración de User Stories, el Product Backlog y la aplicación de Domain-Driven Design en sus diferentes capas, junto con el diseño de la base de datos en un Bounded Context, me permitió reconocer la necesidad del aprendizaje permanente para fortalecer mi desempeño profesional. Estas actividades muestran que la actualización continua en metodologías ágiles y en arquitectura de software es esencial para garantizar el desarrollo exitoso y sostenible de proyectos en soluciones de software. <br>**Bueno Perales,Mathias Eduardo**<br> La realización del análisis competitivo, el diseño y registro de entrevistas, así como la definición de estrategias frente a competidores, me permitió reconocer la importancia del aprendizaje permanente. Estas actividades impulsaron la adquisición de nuevos conocimientos y habilidades que fortalecen mi desempeño profesional y contribuyen al desarrollo de proyectos en soluciones de software con una visión más informada y estratégica. <br>**Luyo Correa, Sandra Paula**<br> La realización de User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y la definición de un Ubiquitous Language me permitió reconocer que el aprendizaje permanente es fundamental para mejorar el desempeño profesional. Estas actividades demuestran la importancia de adquirir y actualizar continuamente conocimientos en metodologías de diseño centrado en el usuario y comunicación efectiva, asegurando así el desarrollo exitoso de proyectos en soluciones de software. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La aplicación de técnicas como EventStorming, Candidate Context Discovery, Domain Message Flows Modeling, Bounded Context Canvases, Context Mapping, Lean UX Canvas y el análisis de antecedentes y problemática W-H me permitió reconocer la importancia del aprendizaje permanente. Estas actividades evidencian que la actualización constante en metodologías de diseño y arquitectura de software es esencial para mejorar mi desempeño profesional y asegurar el desarrollo exitoso de proyectos en soluciones de software. <br> <br>**TP:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La elaboración de wireframes, mock-ups y prototipos tanto para la landing page como para las aplicaciones móviles, junto con la implementación de la sección features y el uso de nuevas librerías, me permitió reconocer la importancia del aprendizaje permanente. Estas actividades evidencian que la mejora continua en diseño UX/UI y desarrollo front-end es esencial para mantener la calidad, innovación y competitividad en proyectos de soluciones de software. <br>**Roca Tineo,Steven Mathew**<br> La elaboración de guías de estilo, la definición de la arquitectura de información, la configuración del entorno de desarrollo y despliegue, así como la implementación de la sección main de la landing page y los contextos de autenticación, IA y usuarios, me permitió reconocer la importancia del aprendizaje permanente. Estas experiencias demostraron que la actualización constante en diseño, arquitectura y desarrollo de software es esencial para mantener un desempeño profesional eficiente y garantizar la calidad e innovación en los proyectos de soluciones tecnológicas. <br>**Bueno Perales,Mathias Eduardo**<br> A lo largo del sprint, al participar en la planificación, documentación de evidencias, pruebas, despliegue y trabajo colaborativo, además de implementar la sección FAQ de la landing page y el tracking context, comprendí que el aprendizaje permanente es esencial para mantener un desempeño profesional competitivo. Cada etapa del proceso me permitió identificar nuevas herramientas y enfoques que fortalecen mis capacidades y aportan valor al desarrollo continuo de proyectos en soluciones de software. <br>**Luyo Correa, Sandra Paula**<br> Al elaborar los wireframes, mock-ups y prototipos de la aplicación móvil, realizar entrevistas de validación e implementar la sección About de la landing page junto al teraphy context, comprendí la importancia del aprendizaje continuo para mantener un desempeño profesional efectivo. Cada una de estas tareas evidenció que la actualización constante en diseño, validación de usuarios y desarrollo de software es clave para adaptarse a nuevas tecnologías y garantizar la calidad en los proyectos de soluciones digitales. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> Durante la elaboración de los diagramas wireflow y user flow de la aplicación móvil, la gestión del código fuente, la definición de guías de estilo y la implementación de la sección Planes de la landing page junto al notification context, comprendí que el aprendizaje permanente es fundamental para el desarrollo profesional. Cada una de estas tareas me permitió identificar nuevas herramientas, prácticas y enfoques que fortalecen mis capacidades técnicas y favorecen la evolución constante en el desarrollo de proyectos de software. <br> <br>**TB2:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La implementación de nuevas librerías y del sistema de suscripciones en la aplicación móvil me permitió evidenciar la importancia del aprendizaje continuo en el ámbito del desarrollo de software. Cada reto técnico enfrentado reforzó la necesidad de actualizarme constantemente para adaptarme a nuevas herramientas y buenas prácticas, asegurando así un desempeño profesional sólido y el avance sostenido de los proyectos tecnológicos. <br>**Roca Tineo,Steven Mathew**<br> Al desarrollar los contextos de autenticación, IA, crisis y usuarios en la aplicación móvil, pude reconocer que el aprendizaje permanente es indispensable para enfrentar los desafíos técnicos del desarrollo de software. La complejidad de estas implementaciones mostró la importancia de mantenerse actualizado en nuevas herramientas, buenas prácticas y enfoques arquitectónicos, lo cual es esencial tanto para mi crecimiento profesional como para el éxito continuo de los proyectos tecnológicos. <br>**Bueno Perales, Mathias Eduardo**<br> La implementación del tracking context en la aplicación móvil me permitió comprender aún más la importancia del aprendizaje continuo en el desarrollo de software. Enfrentar nuevos retos técnicos y adaptarme a patrones de arquitectura más avanzados evidenció que actualizarse constantemente es esencial para mejorar mi desempeño profesional y asegurar el crecimiento sostenido de los proyectos tecnológicos. <br>**Luyo Correa, Sandra Paula**<br> La implementación del teraphy context en la aplicación móvil me permitió comprender nuevamente que el aprendizaje permanente es esencial en el campo del desarrollo de software. Al enfrentar nuevos desafíos técnicos y explorar enfoques más adecuados para la gestión de estados, confirmé la importancia de seguir actualizando mis conocimientos para mejorar mi desempeño profesional y asegurar la evolución y calidad de los proyectos tecnológicos en los que participo. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La implementación del notification context en la aplicación móvil no solo fortaleció la arquitectura del proyecto, sino que también evidenció la importancia del aprendizaje continuo dentro del ámbito del desarrollo de software. Al enfrentar nuevas herramientas, patrones y flujos de manejo de estados, quedó claro que mantenerse en formación permanente es esencial para adaptarse a las necesidades cambiantes de los proyectos y garantizar soluciones efectivas y escalables. <br>**TF:**<br> <br>**Gutiérrez Condo, Maylhy Olinda**<br> La implementación de nuevas librerías y del sistema de suscripciones en Flutter me permitió evidenciar la importancia del aprendizaje continuo en el desarrollo de software móvil. Cada reto técnico, especialmente al adaptar el modelo de suscripción para optimizar la experiencia del psicólogo dentro de la aplicación, reforzó la necesidad de mantenerme actualizada en herramientas, patrones modernos y buenas prácticas. Este proceso fortaleció mi desempeño profesional y contribuyó al avance sostenible del proyecto orientado al ámbito psicológico. <br>**Roca Tineo,Steven Mathew**<br> Desarrollar los contextos de autenticación, IA, crisis y usuarios en Flutter evidenció que el aprendizaje permanente es indispensable para enfrentar los desafíos técnicos del ecosistema móvil moderno. La complejidad de integrar funciones clave orientadas al psicólogo —como la atención en situaciones críticas o el uso de IA asistiva— mostró la importancia de actualizarse en arquitecturas, nuevas herramientas y enfoques seguros. Esta experiencia aportó significativamente a mi crecimiento profesional y a la calidad continua del proyecto. <br>**Bueno Perales, Mathias Eduardo**<br> La implementación del tracking context en Flutter reafirmó la importancia del aprendizaje constante en el desarrollo de software. Adaptar lógicas de seguimiento y monitoreo para las necesidades del psicólogo me exigió profundizar en patrones modernos, manejo avanzado de estados y organización estructural. Este proceso evidenció que actualizar conocimientos es esencial para mejorar mi desempeño profesional y asegurar el crecimiento sostenido del proyecto en el ámbito de soluciones psicológicas digitales. <br>**Luyo Correa, Sandra Paula**<br> La implementación del therapy context en Flutter me permitió comprender nuevamente que el aprendizaje permanente es fundamental en el desarrollo de software móvil. Al enfrentar desafíos técnicos vinculados a la gestión de sesiones terapéuticas y registros orientados al psicólogo, confirmé la importancia de seguir actualizando mis conocimientos en arquitectura, manejo de estados y buenas prácticas. Esto contribuyó tanto a mi mejora profesional como a la evolución y solidez del proyecto. <br>**Solis Santa Cruz, Giancarlo Rafael**<br> La implementación del notification context en Flutter no solo fortaleció la arquitectura del proyecto, sino que también resaltó la importancia del aprendizaje continuo en el desarrollo de software móvil. Integrar un sistema de notificaciones efectivo y contextualizado para el psicólogo implicó enfrentar nuevas herramientas, patrones y flujos de estados que requieren actualización constante. Esta experiencia reafirmó la necesidad de mantenerse en formación permanente para responder a las demandas cambiantes del proyecto y garantizar soluciones escalables y de calidad. |<br>**TB1:**<br> Los integrantes mostramos gran capacidad de aprendizaje para mejorar nuestro desarrollo del proyecto en soluciones de software.  <br>**TP:**<br> Tuvimos capacidad de aprendizaje de nuestras previas observaciones y mejoramos nuestro trabajo, manteniendo un orden que nos deja entregar un buen producto de software. <br>**TB2:**<br> Al desarrollar esta entrega y desarrollar la aplicacion en Android hemos demostrado nuestra capacidad de aprendizaje permantente y el desarrollo ordenado de un proyecto de software. <br>**TF:**<br> Al culminar el desarrollo de la aplicacion en Flutter, comprobamos nuestra capacidad de aprendizaje permanente y un desarrollo final ordenado de nuestro proyecto software. |
 
 <br>
 
@@ -4945,11 +4930,20 @@ Sprint Backlog 2 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e
 
 #### **4.2.2.5. Execution Evidence for Sprint Review**
 
-En el sprint 2 alcanzamos un desarrollo completo en nuestro backend asi como en la app movil en Android. A continuación presentamos algunas evidencias:
+En esta sección se presenta la Execution Evidence for Sprint Review, donde se resume lo alcanzado durante el Sprint y se muestran las evidencias visuales del avance logrado. Se incluyen capturas de las principales vistas implementadas, acompañadas de un enlace a un video demostrativo que explica la navegación, funcionalidad y nivel de completitud alcanzado en esta iteración. Esta evidencia permite validar el progreso real del producto y verificar que las funcionalidades desarrolladas cumplen con los objetivos planificados para el Sprint 2.
 
-Enlace Soft Focus BackEnd desplegado en AWS: http://98.90.172.251:5000/swagger/index.html
+Enlace Soft Focus BackEnd desplegado en AWS: [http://98.90.172.251:5000/swagger/index.html](http://98.90.172.251:5000/swagger/index.html)  
 
-Enlace Soft Focus App Movil Android: https://appdistribution.firebase.dev/i/9a0e3836f88b3852 
+Enlace Soft Focus App Movil Android: [https://appdistribution.firebase.dev/i/9a0e3836f88b3852](https://appdistribution.firebase.dev/i/9a0e3836f88b3852)  
+
+**Figura**  
+*Screenshot del video para Execution Evidence for Sprint Review*  
+
+<p align="center">
+  <img src="imgs/app-validation.jpg" alt="PB" width="850">
+</p>
+
+*Nota.* Elaboración propia. Obtenido de [https://bit.ly/4r6r8yi](https://bit.ly/4r6r8yi)
 
 <br>
 
@@ -5095,38 +5089,166 @@ Nota. Elaboración propia.
 
 #### **4.2.3.1. Sprint Planning 3**
 
+A continuacion se encuentra el sprint planning orientado a nuestro tercer sprint. En esta sección, vamos a explicar la reunión acorde al sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+<br>
+
+| Sprint \# | Sprint 3 |
+| :---- | :---- |
+| **Sprint Planning Background:** | Nos reunimos con el equipo para planificar el tercer Sprint, enfocándonos en el desarrollo de la aplicacion front-end de PsyWell en Flutter. Durante la reunión: Seleccionamos historias de usuario orientadas al visitante de la plataforma. <br> Estimamos los Story Points.<br> Acordamos el objetivo del Sprint y dividimos secciones para que cada miembro del equipo trabaje.<br> Definimos prioridades y formas de colaboración.  |  |
+| Date | 2025-19-11 |
+| Time | 19:00 PM |
+| Location | Meeting by Discord |
+| Prepared By | Maylhy Gutiérrez Condo and Mathew Steven Roca Tineo |
+| Attendees (to planning meeting) | Mathias Eduardo Bueno Perales<br> Giancarlo Rafael Solis Santa Cruz<br> Sandra Paula Luyo Correa |
+| Sprint 2 Review Summary | Revisamos nuestras metas de negocio (business goals), validamos la duración del Sprint (3 semanas), evaluamos los riesgos y dimos feedback entre los miembros. Se aclararon las historias seleccionadas, y se discutieron posibles bloqueos o dependencias técnicas. |
+| Sprint 2 Retrospective Summary | **Start:** Mejorar la comunicación interna.<br> Planificar las tareas colectivas con anticipación.<br> **Stop:** Dejar de esperar el último momento para comenzar tareas.<br> **Continue:** Hacer preguntas al Product Owner.<br> Realizar reuniones cortas y frecuentes para alinear avances. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 3 Goal | **Nuestro enfoque está en** obtener un producto funcional que cumpla los requerimientos que nos hemos propuesto, permitiendo acceder a el registro de checkins, el accesso a la biblioteca y la interaccion entre paciente y psicologo **Creemos que esto ofrece** una visión clara de las funciones esenciales de la aplicación, con acceso directo al checkin, la IA, la biblioteca y el chat entre paciente y psicologo **Esto se confirmará cuando** los usuarios puedan registrarse, iniciar sesión e interactuar con las funciones anteriormente establecidas. |
+| Sprint 3 Velocity | 5 |
+| Sum of Story Points | 30 |
+
+
 
 <a id="4232-sprint-backlog-3"></a>
 
 #### **4.2.3.2. Sprint Backlog 3**
 
+Para este tercer Sprint, nuestro objetivo principal es desarrollar la **App Movil en Flutter de SoftFocus** al completo. Para lograrlo, hemos creado tareas específicas para cada historia de usuario relacionada con la aplicacion y tecnicas relacionadas tanto con el backend como con la app, las hemos asignado entre los integrantes del equipo. Además, para una mejor organización y seguimiento del Backlog, estamos utilizando la herramienta **Trello**  
+
+*Figura* <br>
+*Sprint 3 de SoftFocus*
+<p align="center">
+  <img src="imgs/SPRINTBACKLOG3.jpg" alt="PB" width="850">
+</p>
+
+Sprint Backlog 3 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus)
+
+
+| Sprint # | Sprint 3 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| US24 | Chatear con pacientes | T1 | Pantalla de lista de chats | Implementar interfaz de conversaciones con pacientes | 4 | Paula | Done |
+| US24 | Chatear con pacientes | T2 | Pantalla de chat individual | Implementar interfaz de mensajería en tiempo real | 5 | Paula | Done |
+| US24 | Chatear con pacientes | T3 | Integración con servicios de chat | Conectar pantallas con funcionalidad de mensajería | 3 | Paula | Done |
+| US25 | Ver lista básica de pacientes | T1 | Pantalla de lista de pacientes | Implementar interfaz de visualización de pacientes | 4 | Giancarlo | Done |
+| US25 | Ver lista básica de pacientes | T2 | Integración con datos de pacientes | Conectar con funcionalidad de obtención de pacientes | 2 | Giancarlo | Done |
+| US26 | Ver perfil básico de paciente | T1 | Pantalla de detalle de paciente | Implementar interfaz de información del paciente | 4 | Giancarlo | Done |
+| US26 | Ver perfil básico de paciente | T2 | Integración con perfil de paciente | Conectar con funcionalidad de detalle | 2 | Giancarlo | Done |
+| US27 | Asignar ejercicios y recursos | T1 | Pantalla de asignación de recursos | Implementar interfaz de selección y asignación | 5 | Maylhy | Done |
+| US27 | Asignar ejercicios y recursos | T2 | Integración con biblioteca de recursos | Conectar con funcionalidad de asignación | 3 | Maylhy | Done |
+| US29 | Acceder a biblioteca de ejercicios | T1 | Pantalla de biblioteca de ejercicios | Implementar interfaz de exploración de ejercicios | 4 | Maylhy | Done |
+| US29 | Acceder a biblioteca de ejercicios | T2 | Integración con contenido de ejercicios | Conectar con funcionalidad de biblioteca | 3 | Maylhy | Done |
+| US30 | Realizar ejercicios guiados | T1 | Pantalla de ejercicio guiado | Implementar interfaz de seguimiento paso a paso | 5 | Maylhy | Done |
+| US30 | Realizar ejercicios guiados | T2 | Integración con ejercicios | Conectar con funcionalidad de ejercicios guiados | 3 | Maylhy | Done |
+| US31 | Ver contenido asignado por terapeuta | T1 | Pantalla de recursos asignados | Implementar interfaz de visualización de contenido | 3 | Mathew | Done |
+| US31 | Ver contenido asignado por terapeuta | T2 | Integración con recursos del terapeuta | Conectar con funcionalidad de contenido asignado | 2 | Mathew | Done |
+| US15 | Ver historial de estados emocionales | T1 | Pantalla de historial emocional | Implementar interfaz de visualización de progreso | 4 | Mathias | Done |
+| US15 | Ver historial de estados emocionales | T2 | Gráficos de evolución emocional | Implementar visualización de datos en gráficos | 4 | Mathias | Done |
+| US15 | Ver historial de estados emocionales | T3 | Integración con datos de tracking | Conectar con funcionalidad de historial | 3 | Mathias | Done |
+| US16 | Configurar recordatorios de check-in | T1 | Pantalla de configuración de recordatorios | Implementar interfaz de personalización de alertas | 3 | Mathias | Done |
+| US16 | Configurar recordatorios de check-in | T2 | Integración con sistema de notificaciones | Conectar con funcionalidad de recordatorios | 2 | Mathias | Done |
+| US37 | Recibir notificaciones push | T1 | Configuración de notificaciones push | Implementar sistema de notificaciones en la app | 4 | Giancarlo | Done |
+| US37 | Recibir notificaciones push | T2 | Integración con servicio de notificaciones | Conectar con funcionalidad de push notifications | 3 | Giancarlo | Done |
+| US38 | Configurar preferencias de notificaciones | T1 | Pantalla de configuración de notificaciones | Implementar interfaz de personalización de alertas | 3 | Giancarlo | Done |
+| US38 | Configurar preferencias de notificaciones | T2 | Integración con preferencias de usuario | Conectar con funcionalidad de configuración | 2 | Giancarlo | Done |
 
 <a id="4233-development-evidence-for-sprint-review"></a>
 
 #### **4.2.3.3. Development Evidence for Sprint Review**
+
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | 9165b65  | Initial commit of Flutter project login and register |  | 10/11/2025 |
+| MathiasBueno/Soft-Focus-App-Movile/MobileAppFlutter | develop | aa76005 | feat:adding tracking data and domain layer |  | 28/11/2025 |
+| LucidVoid10/Soft-Focus-App-Movile/MobileAppFlutter | develop | 27e7f8d6  | feat:creating the notification context and entities |  | 29/11/2025 |
+| LucidVoid10/Soft-Focus-App-Movile/MobileAppFlutter | develop | 99a91e6  | feat:adding blocs,widgets and pages to the notifiaction context |  | 29/11/2025 |
+| Ly009463/Soft-Focus-App-Movile/MobileAppFlutter | develop | f524914 | feat:Add feature Library |  | 30/11/2025 |
+| MathiasBueno/Soft-Focus-App-Movile/MobileAppFlutter | develop | 81fc52b | feat:adding first presentation layer config |  | 01/12/2025 |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | 81a3926 | ai services and conection service |  | 01/12/2025 |
+| Paulu27/Soft-Focus-App-Movile/MobileAppFlutter | develop | 8508adc | feat: Add therapy and chat endpoints |  | 01/12/2025 |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | d538027 | feat: bottom menus |  | 02/12/2025 |
+| MathiasBueno/Soft-Focus-App-Movile/MobileAppFlutter | develop | c2a95da | feat:first tracking presentation screens version |  | 03/12/2025 |
+| Ly009463/Soft-Focus-App-Movile/MobileAppFlutter | develop | cb3578d | feat: add library bloc and content mapper |  | 03/12/2025 |
+| Ly009463/Soft-Focus-App-Movile/MobileAppFlutter | develop | e62f18d | fix: correct rating and duration types in content DTO |  | 03/12/2025 |
+| MathiasBueno/Soft-Focus-App-Movile/MobileAppFlutter | develop | f878a86 | fix: fixing tracking presentation layer |  | 03/12/2025 |
+| Paulu27/Soft-Focus-App-Movile/MobileAppFlutter | develop | 9dc24dc | feat: Add patient list for psychologist |  | 03/12/2025 |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | 8731098 | feat: pscologist profiles |  | 03/12/2025 |
+| LucidVoid10/Soft-Focus-App-Movile/MobileAppFlutter | develop | 1bc9d41  | feat:Adding and fixing the part of preference in Notifications |  | 04/12/2025 |
+| matthewsrt29/Soft-Focus-App-Movile/MobileAppFlutter | develop | c212f27 | feat: deploy configuration |  | 04/12/2025 |
+
 
 
 <a id="4234-testing-suite-evidence-for-sprint-review"></a>
 
 #### **4.2.3.4. Testing Suite Evidence for Sprint Review**
 
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| LucidVoid10/BackEnd-SoftFocus-AppMovile | develop | a1a2bef | feat:Testing example of Crisis Context(Validate created of a Crisis) |  | 05/12/2025 |
 
 <a id="4235-execution-evidence-for-sprint-review"></a>
 
 #### **4.2.3.5. Execution Evidence for Sprint Review**
 
+En esta sección se presenta la Execution Evidence for Sprint Review, donde se resume lo alcanzado durante el Sprint y se muestran las evidencias visuales del avance logrado. Se incluyen capturas de las principales vistas implementadas, acompañadas de un enlace a un video demostrativo que explica la navegación, funcionalidad y nivel de completitud alcanzado en esta iteración. Esta evidencia permite validar el progreso real del producto y verificar que las funcionalidades desarrolladas cumplen con los objetivos planificados para el Sprint 3.
+
+Enlace Soft Focus BackEnd desplegado en AWS: http://98.90.172.251:5000/swagger/index.html
+
+Figura
+Screenshot del video para Execution Evidence for Sprint Review
+<p align="center">
+  <img src="imgs/EXECUTIONSPRINT3.jpg" alt="PB" width="850">
+</p>
+
+Nota. Elaboración propia.Obtenido de https://youtu.be/CyXdb_VGAeA
+
 <a id="4236-services-documentation-evidence-for-sprint-review"></a>
 
 #### **4.2.3.6. Services Documentation Evidence for Sprint Review**
 
+Para esta entrega, no se crearon nuevos servicios en nuestro backend.
 
 <a id="4237-software-deployment-evidence-for-sprint-review"></a>
 
 #### **4.2.3.7. Software Deployment Evidence for Sprint Review**
 
+Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.
+
+Publicamos nuestra aplicación móvil desarrollada en Flutter a través de Firebase App Distribution mediante un pipeline de CI/CD automatizado con GitHub Actions. Primero, configuramos un proyecto de Firebase y vinculamos nuestra aplicación Android al proyecto "SoftFocus-App-Mobile". Luego, creamos un repositorio en GitHub dentro de nuestra organización "SoftFocus-App-Movile" y configuramos un workflow de GitHub Actions que se ejecuta automáticamente cada vez que realizamos un push a la rama "main". Este workflow compila la aplicación, genera el archivo APK firmado y lo despliega automáticamente en Firebase App Distribution. Los testers y usuarios beta agregados en Firebase reciben notificaciones automáticas sobre las nuevas versiones disponibles para descargar e instalar en sus dispositivos. De esta manera, cada cambio que subimos a la rama principal se despliega de forma automática, agilizando el proceso de distribución y asegurando que siempre tengan acceso a la versión más reciente de la aplicación.
+
+**Figura**
+*Evidencia de deployment 3*
+<p align="center">
+  <img src="imgs/DEPLOYMENTSPRINT3.jpg" alt="PB" width="850">
+</p>
+Nota. Elaboración propia.
+
+
 <a id="4238-team-collaboration-insights-during-sprint"></a>
 
 #### **4.2.3.8. Team Collaboration Insights during Sprint**
+
+| Alumno | Actividad |
+|--------|-----------|
+| Steven Mathew Roca Tineo | Implementación de autenticacion, AI, crisis y users context en la aplicacion Flutter |
+| Maylhy Olinda Gutierrez Condo | Implementación de library y subscripciones en la aplicacion Flutter |
+| Sandra Paula Luyo Correa | Implementación de teraphy context en la aplicacion Flutter |
+| Mathias Eduardo Bueno Perales | Implementación de tracking context  en la aplicacion Flutter |
+| Giancarlo Rafael Solis Santa Cruz | Implementación de notification context en la aplicacion Flutter |
+
+<br>
+
+**Commits Frontend-AppMobileFlutter**
+
+<p align="center">
+  <img src="imgs/commits-mobileflutter.png" alt="PB" width="850">
+</p>
+
+<br>
+
+<br>
 
 <a id="43-validation-interviews"></a>
 
@@ -5355,35 +5477,79 @@ Para garantizar el éxito del proyecto en sus siguientes fases, se proponen las 
 ## **Video App Validation**
 <br>
 
+En esta sección se presenta el Video App Validation, donde se documenta el evaluación de la aplicación. Para ello, el equipo empleó Firebase App Distribution, una herramienta que permitió distribuir versiones de Soft Focus como apk y validar su funcionamiento en diversos dispositivos. Esta etapa fue clave para identificar oportunidades de mejora y asegurar que la experiencia de uso responda a las necesidades reales de los usuarios.
+
+**Figura**  
+*Screenshot del video de validación*
+
 <p align="center">
   <img src="imgs/app-validation.jpg" alt="PB" width="850">
 </p>
 
-
-[Link App Validation](https://bit.ly/4r6r8yi)
+*Nota.* Elaboración propia. Obtenido de [Link App Validation](https://bit.ly/4r6r8yi)
 
 <a id="video-about-the-product"></a>
 
 ## **Video About the product**
 <br>
 
+En esta sección se presenta el Video About-the-Product de Soft Focus, un material orientado a los visitantes del Landing Page y a los usuarios de la aplicación que desean comprender de manera rápida y visual el modelo de negocio, las funcionalidades clave y el valor que ofrece nuestra solución. El video resume cómo Soft Focus integra inteligencia artificial, monitoreo emocional en tiempo real y acompañamiento profesional para transformar la experiencia de bienestar mental. A través del testimonio de nuestro equipo, se explica el funcionamiento del producto, su impacto, los elementos innovadores de su tecnología y la propuesta que lo diferencia dentro del ecosistema digital de salud emocional.
+
+**Figura**  
+*Screenshot del Video About the product*
+
 <p align="center">
   <img src="imgs/about-the-product.jpg" alt="PB" width="850">
 </p>
 
 
-[Link Video About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/IQDy9arO63z3SqV5cFbSXYDeAeT4919RCH4eu3wxW1q0Idk?e=lDz4d5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+*Nota.* Elaboración propia. Obtenido de [Link Video About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/IQDy9arO63z3SqV5cFbSXYDeAeT4919RCH4eu3wxW1q0Idk?e=lDz4d5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <a id="video-about-the-team"></a>
 
 ## **Video About the team**
 <br>
 
+En esta sección se presenta el Video About-The-Team, que muestra el proceso de trabajo del equipo mediante imágenes y grabaciones reales, acompañadas de narración sobre las actividades y avances logrados. También se incluye la pauta de secuencias del video con las secciones más importantes. Finalmente, se incorporan los testimonios de cada integrante, quienes describen sus roles, logros y competencias desarrolladas durante el proyecto.
+
+***Testimonio de Giancarlo Rafael Solis Santa Cruz***  
+
+**Inicio - Fin:** 00:00:07 - 00:01:52  
+
+Giancarlo trabajó en diversas técnicas de diseño y análisis como Event Storming, Bounded Context y Context Mapping, que le permitieron fortalecer sus conocimientos en diseño de dominios. Desarrolló diagramas de wireflow y userflow para la aplicación móvil, configuró el entorno de desarrollo y definió convenciones de estilo. Implementó secciones de la landing page y el Notification Context, mejorando sus habilidades en arquitectura de software. Reconoce que debe mejorar su participación en el deployment, ya que tocó poco esa área.
+
+***Testimonio de Maylhy Olinda Gutiérrez Condo***  
+
+**Inicio - Fin:** 00:01:53 - 00:03:26  
+
+Maylhy Gutiérrez Condo contribuyó en la landing page, frontend y especialmente en el backend, trabajando con los filtros de Library y Subscription que muestran contenido de videos, música y películas según el perfil del paciente. Participó activamente en la arquitectura de software colaborando en los diagramas C4 y la documentación del sistema. El equipo trabajó con metodología Scrum de 3 semanas, usando Trello para gestión de tareas y GitHub Actions para deployment automático. Reconoce que le faltó profundizar en testing automático.
+
+***Testimonio de Steven Mathew Roca Tineo***  
+
+**Inicio - Fin:** 00:03:27 - 00:04:59  
+
+Mathew Roca Tineo desarrolló principalmente la parte de GitHub Actions en la landing page y automatizó el despliegue con Firebase. En el backend trabajó en los módulos de Crisis, Autenticación y Usuarios, desplegándolo en AWS EC2 con deployment automático mediante GitHub Actions. En la parte móvil desarrolló Autenticación, Usuarios, las páginas principales del home y parte de los perfiles. Destaca que el equipo trabajó muy bien con buena comunicación y lograron todos los objetivos propuestos.
+
+***Testimonio de Mathias Eduardo Bueno Perales***  
+
+**Inicio - Fin:** 00:05:00 - 00:06:33  
+
+Mathias Eduardo Bueno Perales aportó en varias secciones del informe incluyendo la búsqueda de competidores, findings, definición de user personas y puntos clave de los sprints. Creó secciones de la landing page y desarrolló el Tracking Context tanto para backend como frontend. Considera que deberían mejorar un poco la comunicación del equipo porque a veces se demoraban en iniciar actividades, pero valora que siempre hubo buen trabajo en equipo con distribución equitativa de tareas.
+
+***Testimonio de Sandra Paula Luyo Correa***  
+
+**Inicio - Fin:** 00:06:37 - 00:08:42  
+
+Sandra Paula Luyo Correa trabajó en la creación de user personas, user task matrix, user journey mapping, empathy mapping y definición del ubiquitous language en la primera entrega. En la segunda entrega elaboró wireframes, mockups y prototipos, realizó entrevistas de validación e implementó la sección About de la landing page y el Therapy Context en el backend. En la última entrega implementó el Therapy Context en el frontend para la vista del psicólogo (lista de pacientes, perfiles, gráficos, tareas y chat) y la sección "Mi terapeuta" para pacientes. Identifica que necesita mejorar su planificación y comunicación de problemas técnicos.
+
+**Figura**  
+*Screenshot del Video About the team*
+
 <p align="center">
   <img src="imgs/about-the-team.jpg" alt="PB" width="850">
 </p>
 
-[Link Video About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/IQDL6c0clWboR5RNv3NXPCmEARyRvcLN3zm5oH9v69iODaQ?e=eFxEMt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+*Nota.* Elaboración propia. Obtenido de [Link Video About-The-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/IQDL6c0clWboR5RNv3NXPCmEARyRvcLN3zm5oH9v69iODaQ?e=eFxEMt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <a id="glosario"></a>
 
@@ -5405,27 +5571,24 @@ Para garantizar el éxito del proyecto en sus siguientes fases, se proponen las 
 
 # **Anexos**
 
- 
- ## **Product Backlog - Sprints**
+Product Backlog. [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)  
 
-[https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTIb37740f886db46e6ff99474fb44be9a884CEC71B/soft-focus)
+Entrevistas - Sprint 1: [https://bit.ly/4nXiWgY](https://bit.ly/4nXiWgY)  
 
-Entrevistas - Sprint 1: [https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20de%20Soft%20Focus%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed147e435%2Daccc%2D4f10%2D94a9%2Dd4fb967c4fe8](https://upcedupe-my.sharepoint.com/personal/u202311220_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202311220%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20de%20Soft%20Focus%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed147e435%2Daccc%2D4f10%2D94a9%2Dd4fb967c4fe8)
+Enlace Landing Page: [https://soft-focus-61053.web.app/](https://soft-focus-61053.web.app/)  
 
+Enlace - BackEnd: [http://98.90.172.251:5000/swagger/index.html](http://98.90.172.251:5000/swagger/index.html)  
 
-Enlace Landing Page: https://soft-focus-61053.web.app/
+Enlace - Mobile Aplication Kotlin : [https://appdistribution.firebase.dev/i/9a0e3836f88b3852](https://appdistribution.firebase.dev/i/9a0e3836f88b3852)  
 
-Enlace - BackEnd: http://98.90.172.251:5000/swagger/index.html
+Enlace - Mobile Aplication Flutter : [https://github.com/Soft-Focus-App-Movile/MobileAppFlutter.git](https://github.com/Soft-Focus-App-Movile/MobileAppFlutter.git)
 
-Enlace - Mobile Aplication Kotlin : https://appdistribution.firebase.dev/i/9a0e3836f88b3852
+Entrevistas Validacion - TB1: [https://bit.ly/3LH9Ya3](https://bit.ly/3LH9Ya3)  
 
-Entrevistas Validacion - TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ef9tMpL9RwBPvE7RKef66HIBWyWsSZLaGeTDBeIIQUhesA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gaWYM4
+Video About-The-Product: [https://bit.ly/3JQlY8M](https://bit.ly/3JQlY8M)  
 
-Enlace-TB1(video): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/EXkrPOOXzNNAgswHfp_xiXIB2kk023Gvq6QxG6deDjoLFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dfn9aN
+Video App-Validation: [https://bit.ly/4r6r8yi](https://bit.ly/4r6r8yi)   
 
+Video App-Validation(Flutter):[https://youtu.be/CyXdb_VGAeA](https://youtu.be/CyXdb_VGAeA)
 
-Video About-The-Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311361_upc_edu_pe/IQDy9arO63z3SqV5cFbSXYDeAeT4919RCH4eu3wxW1q0Idk?e=lDz4d5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-Video App-Validation: https://bit.ly/4r6r8yi
-
-Video About-The-Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311220_upc_edu_pe/IQDL6c0clWboR5RNv3NXPCmEARyRvcLN3zm5oH9v69iODaQ?e=eFxEMt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video About-The-Team: [https://acortarurl.es/FAsnj0](https://acortarurl.es/FAsnj0)  

@@ -5119,7 +5119,7 @@ Para este tercer Sprint, nuestro objetivo principal es desarrollar la **App Movi
 *Figura* <br>
 *Sprint 3 de SoftFocus*
 <p align="center">
-  <img src="imgs/SprintBacklog3.png" alt="PB" width="850">
+  <img src="imgs/SPRINTBACKLOG3.jpg" alt="PB" width="850">
 </p>
 
 Sprint Backlog 3 en Trello: [https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus](https://trello.com/invite/b/68c0dd854014c2ed0d7503e8/ATTI21e723b5da5abceaa6f04e228e6aecba5FBF7A23/soft-focus)
